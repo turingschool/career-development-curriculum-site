@@ -1,4 +1,8 @@
-# Job Search Care Package
+---
+layout: page
+title: Job Search Care Package
+---
+
 Congratulations! You've graduated! As you embark on your job search, here is an aggregate of your PD resources. Start by clicking on the topics listed below:
 
 * [Resumes & Cover Letters](#resumes-cover-letters)
@@ -9,8 +13,8 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Miscellaneous](#miscellaneous)
 
 ## Resumes & Cover Letters <a name="resumes-cover-letters"></a>
-* [Resume Checklist](/module_three/resume_review_checklist.md)
-* [Cover Letter Checklist](/module_four/cover_letter_checklist.md)
+* [Resume Checklist](/module_three/resume_review_checklist)
+* [Cover Letter Checklist](cover_letter_checklist)
 
 ## Finding Job Opportunities <a name="job-opportunities"></a>
 
@@ -24,7 +28,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
       * Pick a couple companies to look into and walk through their website, including their careers page and team page
-      * Research these people on LinkedIn, Twitter, and look for a personal blog 
+      * Research these people on LinkedIn, Twitter, and look for a personal blog
     * Other Resources:
       * [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
       * [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
@@ -57,7 +61,7 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
   * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
 
 Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
-  
+
 #### Search by...language or skillset
 * [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
@@ -70,16 +74,16 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 
 #### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
-   * Tips: 
+   * Tips:
       * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
       * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
       * In "Location" type in the area where you'd like to work
       * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
+      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with?
       * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
 * [Juniors in Tech](https://www.juniorsintech.com/) newsletter
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
-* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
+* [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion.
 * [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
@@ -102,14 +106,14 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Krop](https://www.krop.com/)
 * [Indeed](https://www.indeed.com/)
 * [The Muse](https://www.themuse.com/jobs)
-* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
+* [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof)
 * [gun.io](https://gun.io/)
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
 * And of course, don't forget about the #job-hunt or #module-5 channels on Slack
 
 ### Search by...recruiter assistance
 * [Staffing Agencies Resources](https://www.clearlyrated.com/staffing/it-engineering-staffing/web-mobile-software-development-staffing)
-* [TripleByte](https://triplebyte.com/) allows you to showcase your skills to go straight to the tech interview at certain companies. 
+* [TripleByte](https://triplebyte.com/) allows you to showcase your skills to go straight to the tech interview at certain companies.
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
 * [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills.
 
@@ -127,7 +131,7 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * Suggest meeting times
 
 ### Finding Emails
-* Start by searching the person's GitHub! 
+* Start by searching the person's GitHub!
 * [Email Hunter](https://emailhunter.co/)
 * [Find That Lead](https://findthatlead.com/)
 * [Find That Email](https://findthat.email/)
@@ -140,29 +144,29 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 ### Prepare for Coffee Meetings
 * Using your research, prepare some questions to ask your contact
 * Start here:
-   * [Research Converation Questions](/module_four/research_conversation_questions.md)
+   * [Research Converation Questions](/module_four/research_conversation_questions)
    * [Culture Queries Generator](https://www.keyvalues.com/culture-queries)
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
-For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](/module-5/outreach_networking_refresh.md)
+For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](outreach_networking_refresh)
 
 ### Networking Groups for Underrepresented People in Tech
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
-* [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
+* [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech.
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
-* [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
-* [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
-* [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
+* [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech.
+* [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians.
+* [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields.
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
-* [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
+* [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech.
 * [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
-* [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
+* [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people.
 
 ## Interview Prep <a name="interview-prep"></a>
 
-[Use this resources doc](/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
+[Use this resources doc](/module_four/interview_prep_resources) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with!
 
 ## Your GitHub <a name="github"></a>
 * [How to Write a Great ReadMe](https://dbader.org/blog/write-a-great-readme-for-your-github-project)

@@ -1,4 +1,7 @@
-# Introductory Stress Management Session
+---
+layout: page
+title: Introductory Stress Management Session
+---
 
 ## Option One: 1 hour
 
@@ -14,10 +17,10 @@
 ### Opening
 
 **Journal Reflection:**
-If you have to sum up how you feel about stress, which statement would be more accurate? 
+If you have to sum up how you feel about stress, which statement would be more accurate?
 
-  A. Stress is harmful and should be avoided, reduced, and managed. 
-  
+  A. Stress is harmful and should be avoided, reduced, and managed.
+
   B. Stress is helpful and should be accepted, utilized, and embraced.
 
 Which statement do you identify with and how do you currently deal with your stress? What strategies are you already using?
@@ -26,8 +29,8 @@ Which statement do you identify with and how do you currently deal with your str
 
 Watch this [TED Talk](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en) from health pyschologist Kelly McGonigal called "How to Make Stress Your Friend"
 
-### Strategies 
-In this session, we'll discuss strategies for creating a more mindful approach to dealing with stress. The first step is to identify stress. 
+### Strategies
+In this session, we'll discuss strategies for creating a more mindful approach to dealing with stress. The first step is to identify stress.
 
 **Write:**
 Take 5 minutes to reflect on anything that may have caused you stress this week by writing about what the root cause might be in your journal.
@@ -35,7 +38,7 @@ Take 5 minutes to reflect on anything that may have caused you stress this week 
 **Thought Partnership:**
 Partner up with another student for some thought partner coaching. Share what is stressing you out with your partner for 2 minutes uninterrupted. Your partner will listen with intention. After the 2 minutes, your partner will repeat back what they heard you say about the cause of your stress, and they may also ask you any clarifying questions. *The purpose of this pair coaching is to help each other reflect on what's really happening at the root of your stress.*
 
-After this exercise, write any clarifying thoughts in your journal. 
+After this exercise, write any clarifying thoughts in your journal.
 
 ### Group Discussion
 Choose an area of stress that you'd like to discuss with others. Here are some possible choices:
@@ -51,9 +54,9 @@ Add any topics that you'd like, and then choose a group to join to discuss one t
 
 **Discussion Questions:**
 
-1. **Welcome stress:** How can you welcome the stress in this situation -- what is driving you in these situations? What do you care about? What are the positive feelings tied to the motivation behind these situations? 
+1. **Welcome stress:** How can you welcome the stress in this situation -- what is driving you in these situations? What do you care about? What are the positive feelings tied to the motivation behind these situations?
 
-2. **Make stress meaningful:** What is the cost of avoiding this stress? What will you miss out on? When you are "coping" with stress, what you do end up spending your time on instead? How could you use that time differently? What are the longterm effects of avoiding certain situations that might cause stress? 
+2. **Make stress meaningful:** What is the cost of avoiding this stress? What will you miss out on? When you are "coping" with stress, what you do end up spending your time on instead? How could you use that time differently? What are the longterm effects of avoiding certain situations that might cause stress?
 
 3. **Make it actionable:** Discuss how to make use of this positive energy -- how can you align this positive energy with your goals and values? What kind of positive impact do you want to have on the people around you? How can you use your strengths to capitalize on positive energy?"  
 

@@ -1,4 +1,7 @@
-# Outreach & Networking II
+---
+layout: page
+title: Outreach & Networking II
+---
 
 [Slides for the session](https://docs.google.com/presentation/d/1_JmlfZr2emcfndX0rMpW2Jr-upGwQDifN7qNMyQgbNI/edit?usp=sharing)
 
@@ -23,19 +26,19 @@ Length: 60 minutes
 **Slide #4:**
 
 #### Objectives
-* Understand the role of outreach within your job search 
+* Understand the role of outreach within your job search
 * Review and execute outreach strategies
 * Identify how you will move forward with at least one contact for your own job search
 
 **Slide #5:**
 
 ### Opening
-Last mod, we discussed utilizing outreach for research to use in your job search by setting up meetings with warm outreach contacts. Now we'll start to discuss how to use the same outreach principles and apply them to reaching out to people at the companies with open positions that you want. 
+Last mod, we discussed utilizing outreach for research to use in your job search by setting up meetings with warm outreach contacts. Now we'll start to discuss how to use the same outreach principles and apply them to reaching out to people at the companies with open positions that you want.
 
 #### Turn & Talk
-* Did you execute your outreach plan from last mod? 
+* Did you execute your outreach plan from last mod?
   * What were your results?
-* If you didn’t execute your plan, why not? 
+* If you didn’t execute your plan, why not?
   * What held you back?
 
 Facilitator calls on 2 groups to share out what they discussed.
@@ -50,7 +53,7 @@ What is our strategy for job searching? When we find a position want to apply fo
 #### The Why
 Now that you're researching companies and positions, why reach out to someone from that company?
 
-* Research 
+* Research
   * Incorporate into your cover letter and interviews
 * Connecting with a person
   * Building relationships
@@ -108,18 +111,18 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * [Snov.io](https://snov.io/)
   * [Go Pin Leads](https://www.gopinleads.com/)
   * GitHub
-  * Personal website 
+  * Personal website
 
 **Facilitator #2:** Using Slides #13-18, go through the following:
 
-**Slide #13:** Facilitator calls on 2 student volunteers to come to the front to walk you through the following, which you should display on the main screen. You may need to prompt students to utilize the tools we've discussed in previous sessions and provide guidance along the way. 
+**Slide #13:** Facilitator calls on 2 student volunteers to come to the front to walk you through the following, which you should display on the main screen. You may need to prompt students to utilize the tools we've discussed in previous sessions and provide guidance along the way.
 
 ### Whole Group Practice
 Let's have 2 volunteers to walk us through this process:
 
 * Find a posting.
-* Find 1 person at the company to reach out to. 
-* How can we do research on them? What do we say in the message? 
+* Find 1 person at the company to reach out to.
+* How can we do research on them? What do we say in the message?
 * How do we contact them?
 
 Repeat this process with volunteer #2.
@@ -149,5 +152,5 @@ What's next? Coffee Meetings!
 * Prep your story
 * Prep questions to ask
 * Use your research
-* What do you want to know about the company? The role? 
+* What do you want to know about the company? The role?
 * [Look at this question list](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/)

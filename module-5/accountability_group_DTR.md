@@ -1,7 +1,10 @@
-# Accountability Group DTR
+---
+layout: page
+title: Accountability Group DTR
+---
 
 ### Directions
-Use this template to create your DTR with your job seeker accountability groups. Copy/past the template into a gist for your group to send to your Career Dev team adviser. 
+Use this template to create your DTR with your job seeker accountability groups. Copy/past the template into a gist for your group to send to your Career Dev team adviser.
 
 ### Template
 

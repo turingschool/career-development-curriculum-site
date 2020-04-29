@@ -1,5 +1,8 @@
-# Feedback III
-## How to Use Feedback to Improve
+---
+layout: page
+title: Feedback III
+subheading: How to Use Feedback to Improve
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1lH5XdpZSGBr6vgFU2yDESI1VnsJ-7Pbihh4joe3pUBI/edit?usp=sharing)
 
@@ -14,12 +17,12 @@ Length: 60 minutes
   * Look for Themes
   * Analyze Priorities
   * Name One Thing
-  * Experiment: Try It Out 
+  * Experiment: Try It Out
 * Johari Windows & Personal Reflections (30 mins total: 20 mins. on Johari Windows, 10 mins. on personal reflection)
 * Closing (3 mins.)
 
 ### Why
-In your third and final feedback session, we'll spend time reflecting on how we can find meaning in the feedback we receive and make concrete action plans for how to improve our practices and behaviors. 
+In your third and final feedback session, we'll spend time reflecting on how we can find meaning in the feedback we receive and make concrete action plans for how to improve our practices and behaviors.
 
 What value is there in using feedback for personal growth? Why is this something we're talking about at Turing?
 
@@ -31,14 +34,14 @@ What value is there in using feedback for personal growth? Why is this something
 * Create goals for how to improve your collaboration practices
 
 ### Optional Deliverable
-Use your Johari Windows and to complete [this reflection](/module_two/feedback_implementation_reflection.md) 
+Use your Johari Windows and to complete [this reflection](feedback_implementation_reflection.md)
 
 ### Taking Feedback
 Reflect on these questions in your journal and then **Turn & Talk** to discuss your ideas with a partner:
 
-* When in your life have you taken feedback to heart and tried to do something with it? 
-* What was that process like? 
-* What was the result? 
+* When in your life have you taken feedback to heart and tried to do something with it?
+* What was that process like?
+* What was the result?
 
 **Whole Group Debrief:**
 
@@ -52,10 +55,10 @@ It can sometimes be difficult to know what to do with the feedback we receive, s
 * Look for Themes
 * Analyze Priorities
 * Name One Thing
-* Experiment: Try It Out 
+* Experiment: Try It Out
 
 #### Right & Wrong Spotting
-When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact. 
+When we receive feedback, often our first reaction is that it's wrong or unhelpful. That's a valid feeling resulting from a trigger and the impact that the feedback has on you -- go with it. Pay attention to why you're having this impact.
 
 **In the moment:**
 Hone in on your internal voice to pay attention to what could be triggering you:
@@ -70,7 +73,7 @@ Hone in on your internal voice to pay attention to what could be triggering you:
 Use the Right & Wrong Spotting Technique to turn the feedback into something useful. Start by listing everything that seems wrong about the feedback. And then go back through the feedback and pull out what might be *right* about it -- what truth is there in this feedback? What is something that you can easily implement?
 
 | Wrong | Right |
-| ------ | ---------------- | 
+| ------ | ---------------- |
 | What do I not agree with about this feedback? | What is something right that I can use from this feedback? |
 
 #### Look for Themes
@@ -88,7 +91,7 @@ Example:
 |--------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Appreciation | -Effective communication using Slack -JavaScript/Ruby skills help produce clean code | -Less merge conflicts in this project -CSS looks better, closer to spec -Helped group increase communication through daily retros -Helped partner write cleaner code | -Using Waffle to keep group on track and increase communication -TDD scores moved up to 3 |
 | Coaching     | -Using Git -TDD -CSS                                                                 | -Using GitHub for code review -Tests only sometimes pass                                                                                                             | -Tagging partners in PRs regularly                                                        |
- 
+
 #### Analyze Priorities
 Now that you have your buckets of feedback, decide what's most important to you to both strengthen and improve. Order your priorities in a list:
 
@@ -112,17 +115,17 @@ Consider:
 * How your perspective changes
 * What's the worst thing that could happen? *By answering that question for yourself, you may see that there is little downside*
 
-Creating a process for yourself can help take the ego out of the equation as you focus on building the skill of self-improvement. 
+Creating a process for yourself can help take the ego out of the equation as you focus on building the skill of self-improvement.
 
 ### Putting It Into Practice: Johari Windows
 Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
-Complete the [Johari Window activity](/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
+Complete the [Johari Window activity](johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
 
 Analyze:
 
-* What do you notice about each quadrant? 
-* For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that? 
+* What do you notice about each quadrant?
+* For the Blind Spot quadrant, is there anything you'd like to build more awareness around? How will you do that?
 
 #### You Do
 Spend 20 minutes creating your Johari Windows and then the last 10 minutes of this practice time on [your reflection](https://github.com/turingschool/career-development-curriculum/edit/master/module_two/feedback_implementation_strengths_reflection.md).

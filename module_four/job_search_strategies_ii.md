@@ -1,4 +1,7 @@
-# Job Search Strategies II
+---
+layout: page
+title: Job Search Strategies II
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/15x2PaHDMICCjxBnKsMMlykp3xWsInDfwlyW3y9yKkwA/edit?usp=sharing)
 
@@ -7,9 +10,9 @@
 Length: 60 minutes
 
 * Opening (5 mins); recap of what will need to be done to close out this chapter and fully dive into the job search
-* Argue your case (10-15 mins) 
+* Argue your case (10-15 mins)
 * Rate yourself (5 mins)
-* Peer group discussion (10-15 mins) 
+* Peer group discussion (10-15 mins)
 * Plan work time (20-30 mins)
 
 ### Opening
@@ -18,10 +21,10 @@ You've reached the home stretch of your Turing experience. You've learned so muc
 **Objectives:**
 * Create an argument for why you deserve your future career to use in your elevator pitch
 * Assign a rating for your progress in the job search
-* Prepare for your portfolio review by creating your [30-day post-grad plan](/module_four/post_grad_plan.md) and your elevator pitch version of your story
+* Prepare for your portfolio review by creating your [30-day post-grad plan](post_grad_plan) and your elevator pitch version of your story
 
 ### Argue Your Case
-When we met in week 1, we discussed how often we can put barriers on our job searches by listening to the impostor syndrome voices in our heads instead of giving ourselves the credit we deserve. One of the most effective ways to help us move past barriers is to find a way to **argue against them.** Think about the day you decided to apply to Turing -- what was your motivation then to start this career? What is your motivation now? Use that to fuel your argument against any thought that casts doubt on this job search. 
+When we met in week 1, we discussed how often we can put barriers on our job searches by listening to the impostor syndrome voices in our heads instead of giving ourselves the credit we deserve. One of the most effective ways to help us move past barriers is to find a way to **argue against them.** Think about the day you decided to apply to Turing -- what was your motivation then to start this career? What is your motivation now? Use that to fuel your argument against any thought that casts doubt on this job search.
 
 **You Do:** Outline an argument about why you deserve this new career. Add this into your professional story elevator pitch during your portfolio review. Consider:
 
@@ -34,7 +37,7 @@ When we met in week 1, we discussed how often we can put barriers on our job sea
 The post-grad plan will ask you to complete action steps in the following categories. On a scale of 1-5 (1 = not currently completing/not confident to complete, 5 = currently completing/very confident to complete), rate how you're currently implementing these steps and/or how confident you feel about implementing these steps in your post-grad plan:
 
 * Creating and using a schedule to balance time for coding and your job search
-* Creating and using a "daily-practice" repository to track your progress in coding 
+* Creating and using a "daily-practice" repository to track your progress in coding
 * Reaching out to cold contacts and/or going to meetups to network regularly
 * Using a job tracking system to research companies and keep track of your communication with them
 * Identifying areas you will continue to practice for technical interviews based on the practice you've done so far with technical interviews
@@ -57,14 +60,13 @@ The post-grad plan will ask you to complete action steps in the following catego
 **Note:** Tomorrow at your PD group time, you'll discuss your 30-day post-grad action plan and how you plan to complete it. You should also share your resume or any cover letters/outreach emails with your group if you haven't been able to yet so that you can get feedback prior to week 6 and the portfolio review.
 
 **Whole Group Shareout:**
-3-4 PD peer groups share out their plans to continue to support each other in these last 2 weeks and in the first 30 days of post-graduation. 
+3-4 PD peer groups share out their plans to continue to support each other in these last 2 weeks and in the first 30 days of post-graduation.
 
 ### Start Planning
-Take the rest of the session to work on your [post-grad plan](/module_four/post_grad_plan.md) by forking this template and making your own gist to answer each action step. 
+Take the rest of the session to work on your [post-grad plan](post_grad_plan) by forking this template and making your own gist to answer each action step.
 
 **Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks align with the goals you've set forth in this plan. Make adjustments as needed and be:
 
 * Flexible
 * Kind to yourself
 * Realistic with your time
-

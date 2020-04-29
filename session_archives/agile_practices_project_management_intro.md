@@ -1,6 +1,6 @@
 ---
-title: Agile Project Management
 layout: page
+title: Agile Project Management
 ---
 
 ## Why

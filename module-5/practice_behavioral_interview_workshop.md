@@ -1,4 +1,7 @@
-# Practice Behavioral Interview Workshop
+---
+layout: page
+title: Practice Behavioral Interview Workshop
+---
 
 Emphasis on selling yourself -- anecdotes on alumni; focus on what you can bring to the company
 
@@ -34,7 +37,7 @@ Whole Group:
     * What other examples would apply here?
 * How could you use STAR to help you prep for interviews?
 * With what kinds of questions would STAR *not* be an effective framework?
-   
+
 ### Model
 Using these questions, facilitators model answering the questions effectively and break down the answers in a Q&A with students:
 
@@ -48,19 +51,19 @@ In the model, we'll discuss:
 * What you want to emphasize in your answer
 * What you should stay away from in your answer
 
-Keep in mind that even seemingly "simple" questions can be derailed by an answer that isn't directly answering the question. 
+Keep in mind that even seemingly "simple" questions can be derailed by an answer that isn't directly answering the question.
 
 Participants can also go back to their notes and make revisions to their initial prep notes.
 
 ### Practice
-Participants get into pairs to practice these interview questions and answers with each other. Depending on attendance size, these can be small groups. 
+Participants get into pairs to practice these interview questions and answers with each other. Depending on attendance size, these can be small groups.
 
 If participants have extra time, they can pull more from the bank of interview questions listed here to continue practicing with each other:
 
-* What made you switch from your prior career into programming? 
+* What made you switch from your prior career into programming?
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
-* Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding? 
+* Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding?
 * Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
@@ -70,7 +73,7 @@ If participants have extra time, they can pull more from the bank of interview q
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
 * What is your 100% ideal role for your first web development job?
 * Tell me about a time you had a disagreement with a colleague and how you resolved it.
-* What project of yours are you most proud of and why? 
+* What project of yours are you most proud of and why?
 * Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
@@ -80,4 +83,4 @@ If participants have extra time, they can pull more from the bank of interview q
 * Describe your strengths. How have you seen these in practice as a developer?
 
 ### Closing
-Recap STAR method, how students can prep for these interviews, and any remaining questions. 
+Recap STAR method, how students can prep for these interviews, and any remaining questions.

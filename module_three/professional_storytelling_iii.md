@@ -1,9 +1,14 @@
-# Professional Storytelling III
+---
+layout: page
+title: Professional Storytelling III
+---
+
 ### Your Resume & Portfolio
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
 ### Facilitator Instructions
+
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 Prior to the session:
@@ -28,6 +33,7 @@ Length: 60 mins
 **Slide #3:***
 
 ### Professional Development in Module Three
+
 Module Three is the module in which the personal and professional development of the previous two modules is applied to job searching and discovering the right path for your new career. You'll leave Module Three with a clear blueprint for your job search, and we'll start by focusing in on what it is that you want out of your new career, building on your professional story, and reflecting on how your strengths apply to finding this new, fulfilling career path.
 
 We'll focus on:
@@ -44,7 +50,7 @@ We'll focus on:
 Some resources for you:
 
 * Join #job-hunt
-* [Interview Prep Resources](/module_four/interview_prep_resources.md)
+* [Interview Prep Resources](interview_prep_resources.md)
 * [Job Search Care Package](/module-5/job_search_care_package.md)
 
 **Slide #4:**
@@ -61,10 +67,12 @@ Be aware of your job search timeline:
 **Slide #6:**
 
 ### Objectives
+
 * Build on your professional story by focusing on "what's next"
 * Create a resume and Turing portfolio that reflect your skills and your professional story
 
 ### Deliverables
+
 * Draft of your resume due by 5pm Monday of Week 2
 * Draft of your [Turing alumni portfolio](https://alumni.turing.io) by 9am Thursday of Week 2
 * Mock behavioral interview & resume review with a member of the Career Development Team in Weeks 3 and 4
@@ -75,7 +83,9 @@ Using slides #7-10, go through the following:
 **Slide #7:**
 
 ### Opening: Housekeeping
+
 #### Mock Interviews
+
 * Using the sign-up sheet in your channel, select 1 20-min mock interview slot when you don't have class
 * Write this appointment down in your calendar
 * Use the doc you’ve been working on in your pre-work for Mod 3 to prep
@@ -85,13 +95,14 @@ Using slides #7-10, go through the following:
 **Slides #8-10:**
 
 #### Job Shadow
+
 What is it?
 
  * A chance to learn from and observe developers on the job.
  * An opportunity to ask questions of HR and developers about success in the job hunt.
  * A time to make some initial networking connections and possibly find a mentor.
  * A professional event where you are acting as a representative of Turing.
- 
+
 What it's not:
 
  * Time to work on your own projects or studies (though you can ask for advice).
@@ -102,13 +113,14 @@ What it's not:
 
 How can you earn job shadow?
 
-* By completing a first draft of your Turing alumni portfolio. 
+* By completing a first draft of your Turing alumni portfolio.
 
 **Facilitator #2:** Using slides #11-13 and showing students the [alumni portfolio site](https://alumni.turing.io) and video for how to fill it out (link below), go through the following:
 
 **Slide #11:**
 
 #### Turing Alumni Portfolio
+
 * You should have an invite to create your Turing alumni portfolio in your email. To log in again, go to [https://alumni.turing.io/user](https://alumni.turing.io/user)
 
 Here are the must haves:
@@ -130,7 +142,7 @@ This site is very buggy. To make sure you can save your profile, follow these st
 * Double check these fields when trying to save:
  * Name
  * Your expertise
- * Professional headshot (choose file, then click upload) 
+ * Professional headshot (choose file, then click upload)
  * Put a placeholder in the summary but when writing it out, don't copy and paste as it won't paste correctly.
 * Select any cohort; that doesn't matter
 * GitHub ID doesn't matter; leave it blank
@@ -139,6 +151,7 @@ This site is very buggy. To make sure you can save your profile, follow these st
 **Facilitator #1:** Using slide #15 and a timer app, go through the following:
 
 ### Storytelling Review
+
 Last module, you created a draft of your professional story. Today we'll talk about how you can refine your professional story through tools like your resume and your Turing alumni portfolio. But first, practice makes perfect:
 
 * Spend 2 minutes reviewing your story gist
@@ -150,13 +163,13 @@ Whole Group Debrief:
 * How did telling your story change depending on the context?
 * What kinds of details did you remember from your partner's story?
 
-As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include. 
+As we dive into your resumes and portfolios today, we're going to aim to address both of those statements--"tell me about yourself" and "why should I hire you?"--through the details you include.
 
 **Facilitator #2:** Using slides #17-20, go through the following:
 
 **Slide #17:**
 
-### How can you tell your story? Resumes! 
+### How can you tell your story? Resumes!
 
 **Whole Group Discussion:**
 Cold call on 2-3 people to answer this question: *as a new software developer, what kind of story do you want your resume to tell about you?*
@@ -188,7 +201,7 @@ Discussion Questions:
 * What do you know about this candidate's technical abilities?
 * What questions do you have about this candidate?
 * Would you choose to interview this person? Why or why not?
-* If you decide to interview them, what follow-up questions would you ask? 
+* If you decide to interview them, what follow-up questions would you ask?
 
 **Slide #20:**
 
@@ -199,6 +212,7 @@ Whole Group Debrief:
 **Facilitator #2:** Using slides #22-32, go through the following:
 
 ### Rebuilding Your Resume: Format & Content
+
 As a junior developer, your resume might look very different from its previous forms. Here are some things to keep in mind:
 
 * Reorganize your resume to lead with technical skills and coding projects
@@ -206,7 +220,8 @@ As a junior developer, your resume might look very different from its previous f
 * Produce a resume with clear and concise language aligned with current tech industry standards
 
 #### Content Inclusion - Follow this order
-Use this [checklist when creating your resume](/module_three/resume_review_checklist.md)
+
+Use this [checklist when creating your resume](resume_review_checklist.md)
 
 * **Header:**
 	* Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
@@ -218,17 +233,17 @@ Use this [checklist when creating your resume](/module_three/resume_review_check
 	* How you got here: Why software development? Why Turing? Why now?
 	* What’s Next: What do you hope to accomplish? What are you looking to gain from this experience? Is there a particular industry/tech stack/project you would like to be working with?
 
-* **Skills:** Continue to add to this area outlining your technical specialties (languages, frameworks, testing and tools). Ideally you want 12-20 items by the end of the program. 
+* **Skills:** Continue to add to this area outlining your technical specialties (languages, frameworks, testing and tools). Ideally you want 12-20 items by the end of the program.
 	* Highlight your dev/technical skills here. Include any transferable and/or professional skills in the experience section (see below).
 
 * **Projects:** Follow skills with a project section that includes 2-3 of your favorite projects. What are you proud of? Show it off! Provide a 1-2 sentence overview of the project. Consider answering these questions:
-	* What does your application do? What problem does it solve? 
-	* Who is it built for? What does it allow the user to do? 
+	* What does your application do? What problem does it solve?
+	* Who is it built for? What does it allow the user to do?
 	* What technologies did you use? Dive into what API's, frameworks and languages you incorporated.
 	* In what period of time was it built? This helps set folks' expectations appropriately. A product built in two months should look a lot more polished than one built in two weeks.
 	* If you worked in a group, what was your role in the project?
 
-* Include both a clickable link to your project repo and to the launched application. The repo should include a ReadMe. If the project lives on a partner's GitHub, make sure to clone down your own version and include that link instead. 
+* Include both a clickable link to your project repo and to the launched application. The repo should include a ReadMe. If the project lives on a partner's GitHub, make sure to clone down your own version and include that link instead.
 
 * **Experience:** Follow Projects with Experience
 	* Title as "Experience" rather than "Employment"
@@ -244,6 +259,7 @@ Use this [checklist when creating your resume](/module_three/resume_review_check
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
 #### Layouts
+
 You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
 
 * [Creddle](http://creddle.io/)
@@ -272,6 +288,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 **Slide #34:**
 
 ### Closing
+
 Call on 1-2 students to respond to this question:
 
 * What are you taking away from today's session?
@@ -279,6 +296,7 @@ Call on 1-2 students to respond to this question:
 **Slide #35:**
 
 ### Next Steps: What's Due When for your Resume
+
 To get quick feedback on your resume, we partner with CV Compiler where you can upload your resume to get feedback on how to make it stronger. Here's how it works:
 
 1. Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
@@ -291,4 +309,4 @@ Still have questions? Check out this [CV Compiler tutorial](https://www.youtube.
 
 **Slide #36:**
 
-**You are required to upload your resume to CV Compiler by 5pm on Monday of Week 2.** After you receive feedback on the resume, make any necessary changes to your resume and then upload it again to CV Compiler no later than **5pm on Wednesday of Week 2.** After that, please upload that draft of your resume to your [Turing alumni portfolio](https://alumni.turing.io/) by no later than **9am on Thursday of Week 2** in order to be considered for job shadow. 
+**You are required to upload your resume to CV Compiler by 5pm on Monday of Week 2.** After you receive feedback on the resume, make any necessary changes to your resume and then upload it again to CV Compiler no later than **5pm on Wednesday of Week 2.** After that, please upload that draft of your resume to your [Turing alumni portfolio](https://alumni.turing.io/) by no later than **9am on Thursday of Week 2** in order to be considered for job shadow.

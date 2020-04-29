@@ -1,4 +1,7 @@
-# Documentation Guidelines for Cold Outreach I Deliverable:
+---
+layout: page
+title: Documentation Guidelines for Cold Outreach I Deliverable
+---
 
 * Name of contact
   * "The mentor (or alum) I contacted is ______"
@@ -14,4 +17,4 @@
 
   *  "She and I paired over ScreenHero for an hour on drills. We've scheduled another pairing for 02/26 to prep for my final assessment."
 
-* How do you feel like this relationship will benefit you in your longterm professional development? 
+* How do you feel like this relationship will benefit you in your longterm professional development?

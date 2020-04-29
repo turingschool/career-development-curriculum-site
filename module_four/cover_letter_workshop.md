@@ -1,4 +1,7 @@
-# Cover Letter Workshop
+---
+layout: page
+title: Cover Letter Workshop
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/16WIW5ERLI_tP1SNl0JcgOnv23Vzd7EYCFrmMDqijzR4/edit?usp=sharing)
 
@@ -28,23 +31,23 @@ In a cover letter, you should:
     * Here's how I've done similar work...
 * Provide insight into how you would contribute to the company
     * Beyond the scope of the job, here is how I will bring value to your company...
-    
+
 For what shouldn't be in a cover letter, refer to...
 #### Frequently Made Mistakes in Cover Letters
 
-**Mistake:** Very long/wordy cover letters. **Solution:** Shorter paragraphs to be easily skimmable; Cut out extraneous details 
+**Mistake:** Very long/wordy cover letters. **Solution:** Shorter paragraphs to be easily skimmable; Cut out extraneous details
 
 **Mistake:** Cover letter is all about you. **Solution:** Only talk about yourself in the context of this job and company to demonstrate how you will provide value. Don’t talk about what you’re hoping to **get** from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to **give** the company as an employee.
 
-**Mistake:** Grammar and spelling errors. **Solution:** Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/) 
-    
+**Mistake:** Grammar and spelling errors. **Solution:** Use [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/)
+
 Now we're ready to workshop...
- 
+
 ## Cover Letter Reviews
 In your PD groups, follow this format:
 
 ### Individual Review
-Students: Take 5 minutes to go through the [Cover Letter Checklist](/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
+Students: Take 5 minutes to go through the [Cover Letter Checklist](cover_letter_checklist) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
    * What are you not sure about?
    * What would you like to do differently but you don't know how?
 
@@ -56,7 +59,7 @@ Now going around the group, each person will:
 Group and Coach will give feedback using these questions:
    * What's your snap impression?
    * What's most memorable?
-   * What's repetitive? 
+   * What's repetitive?
    * What makes this person a good fit for the position?
    * What do you have questions about?
 Each person should get about 10 minutes for their feedback

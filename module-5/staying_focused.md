@@ -1,6 +1,11 @@
-# Week 1: Staying Focused Now That You Don’t Live in the Basement
+---
+layout: page
+title: Week 1
+subheading: Staying Focused Now That You Don’t Live in the Basement
+---
 
-### Goals for session: 
+### Goals for session:
+
 * Transition to job-hunting life
 * Help seekers stay motivated in the early days
 * Re-explanation of Mod 5 curriculum and supports in place
@@ -12,7 +17,7 @@
     * What fellow professionals say:
        * [7 Steps to Restart Your Job Search](https://www.careercast.com/career-news/7-steps-re-start-your-job-search-momentum)
        * [10 Tips for Keeping Your Momentum and Spirits High During the Job Hunt](https://resources.onewire.com/job-seekers/10-tips-for-keeping-momentum-and-spirits-high-during-the-job-hunt/)
-       * [Tips for Maintaining Your Job Search Momentum and Stay Motivated in Your Job Search](https://www.aerotek.com/en/insights/tips-for-maintaining-job-search-momentum-stay-motivated-in-your-job-search) 
+       * [Tips for Maintaining Your Job Search Momentum and Stay Motivated in Your Job Search](https://www.aerotek.com/en/insights/tips-for-maintaining-job-search-momentum-stay-motivated-in-your-job-search)
 * How to fill the day
     * Revisit a post-grad schedule
     * Pomodoros and other tricks

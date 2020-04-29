@@ -1,6 +1,8 @@
-# Agile Practices & Leadership
-
-## Software Collaboration in Practice
+---
+layout: page
+title: Agile Practices & Leadership
+subheading: Software Collaboration in Practice
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1GV_PSrTRRKlXE1IKp9NXRHbgipyK1nmdk34i8n_UobQ/edit?usp=sharing)
 
@@ -35,12 +37,12 @@ Length: 90 minutes
 * Discuss how to leverage each others' strengths to work even more effectively in your project
 
 ### Deliverable (Allison)
-Submit a reflection on using agile and participating in retro feedback using [this template](/module_two/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+Submit a reflection on using agile and participating in retro feedback using [this template](agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
 ### Connections: The Why (Jeff & Allison)
-To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
+To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer.
 
-In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams. 
+In this session we'll take a quick overview of "Waterfall," "Agile," how to begin better managing your projects at Turing, and how to build even better teams.
 
 ### Waterfall vs. Agile (Jeff)
 
@@ -52,7 +54,7 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 3. Implementation - "code monkeys"
 4. Verification - handoff to Q/A
 5. Maintenance - let interns fix the bugs
- 
+
 #### Strengths of Waterfall
 
 * Once requirements are set, you can estimate how long it'll take to build. But...you're wrong.
@@ -104,13 +106,13 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
   * The digg.com domain name, code and data, was sold to BetaWorks for $500,000
 * Eric Ries' "The Lean Startup"
 * [Agile Manifesto](http://agilemanifesto.org/), written in 2001 and has its merits and its flaws
- 
+
 #### Turn & Talk:
 * When does it make sense to use the Waterfall method? When does it make sense to use Agile?
 * How do you see Agile already being used in your processes at Turing?
 * How does Agile describe teamwork to you?
 
-1-3 groups share out takeaways to the whole group. 
+1-3 groups share out takeaways to the whole group.
 
 ### Agile in Practice (Jeff)
 There are all kinds of strategies, frameworks, and buzzwords around agile development. But everything revolves around *stories* and *sprints*.
@@ -129,7 +131,7 @@ A sprint is the time box that our work fits into.
 * Ends with review/retrospective
 
 Ways to structure a sprint:
-* Scrum: 
+* Scrum:
   * [Video](https://www.scrumalliance.org/why-scrum)
   * [More Info](https://www.scrum.org/Resources/What-is-Scrum)
 
@@ -191,13 +193,13 @@ Doing agile vs. Being agile = what's the difference?
   * This is the team's *mindset*
 
 #### StrengthsFinder: Leadership Domains
-Let's consider how our strengths play a part in the types of roles we take on in our project groups. 
+Let's consider how our strengths play a part in the types of roles we take on in our project groups.
 
 [Four Domains of Leadership](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing):
   * **Executing:** Team members who have a dominant strength in Executing are those you turn to time and again to implement a solution. These people work tirelessly to get something done. People who are strong in the Executing domain have an ability to take an idea and transform it into a reality within the organization they lead
   * **Influencing:** People who are innately good at influencing are always selling the team’s ideas inside and outside the organization. When you need someone to take charge, speak up, and make sure your group is heard, look to someone with Influence.
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
-  * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
+  * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions.
 
 ![SF Leadership Domains](/files/SF%20Leadership%20Domains.png)
 
@@ -227,11 +229,11 @@ Now that you understand these leadership styles look like, let's discuss how the
 #### Project Team Discussion
 You're about to kick off your next team project. Get into the groups listed on the slide to discuss the following questions:
 
-* Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work? 
+* Share your strengths with each other -- what do they mean? How do you interpret these strengths in your day-to-day work?
 * How can you move through Tuckman's stages as a team?
-* What are your domains of strengths? How could these strengths work together to make a successful team? 
+* What are your domains of strengths? How could these strengths work together to make a successful team?
 * How might your team come into conflict with each other? How will you resolve that conflict if it occurs?
-* What domains are not covered as much in your current team? How does that affect your team’s performance? 
+* What domains are not covered as much in your current team? How does that affect your team’s performance?
 
 ### Closing
-How will you continue to apply these principles during the rest of your time at Turing? 
+How will you continue to apply these principles during the rest of your time at Turing?

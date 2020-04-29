@@ -1,12 +1,15 @@
-# Feedback II
-## Communication Skills for Effective Feedback Conversations
+---
+layout: page
+title: Feedback II
+subheading: Communication Skills for Effective Feedback Conversations
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1iLKN-7mCeQCaYulVT_LOsC4ctKjVgG63fNBRijtf33E/edit?usp=sharing)
 
 ### Session Structure
 
 Length: 60 minutes
- 
+
 * Opening (5 mins)
 * Navigating the Conversation (5 mins)
 * Refining Your Process as Feedback Giver (12 mins)
@@ -17,19 +20,19 @@ Length: 60 minutes
 
 ### Opening
 #### Why
-Becoming an effective feedback giver and receiver is all about cultivating **self-awareness in your communication** to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you. 
+Becoming an effective feedback giver and receiver is all about cultivating **self-awareness in your communication** to understand both what you really want to say to someone about their work processes and understanding what someone else is trying to convey to you.
 
-Communication is paramount to creating good software. In an agile system, feedback is part of the process, both from users and during sprint retrospectives. Having the skill to give and receive feedback well will make you a strong part of any software team. 
+Communication is paramount to creating good software. In an agile system, feedback is part of the process, both from users and during sprint retrospectives. Having the skill to give and receive feedback well will make you a strong part of any software team.
 
 #### Review
 Last module, we discussed the 3 types of feedback, triggers that can happen for us when we receive feedback, and the principles of delivering effective feedback, which include being **specific**, **actionable**, and **kind**. We also discussed the 3 types of feedback: **appreciation**, **coaching**, and **evaluation**.
 
 Discuss:
 
-* When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner? 
-* Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind? 
+* When you submitted your written partner feedback, how many of you were asked to update it before it was sent on to your partner?
+* Without getting into the specifics of that feedback, what was challenging about revising that feedback to make it more specific, actionable, and kind?
 
-Today, we'll discuss techniques for getting better at giving effective feedback as well as how to provide feedback in a face-to-face conversation. 
+Today, we'll discuss techniques for getting better at giving effective feedback as well as how to provide feedback in a face-to-face conversation.
 
 #### Objectives
 * Utilize a template for a feedback conversation
@@ -58,19 +61,19 @@ Whole Group Debrief:
 * What will make this conversation different with a project team vs. having this conversation with just one partner?
 * What blind spots might come up in conversation vs. in writing?
 
-### The Body of the Conversation: Refining Your Process 
-Let's dive into the **Body** part of the template. During this part of the conversation, it's a two-way exchange of information. The feedback giver is communicating their *position* while the receiver is listening and asserting their *interests* in order to get to a place where the feedback feels helpful and doable. 
+### The Body of the Conversation: Refining Your Process
+Let's dive into the **Body** part of the template. During this part of the conversation, it's a two-way exchange of information. The feedback giver is communicating their *position* while the receiver is listening and asserting their *interests* in order to get to a place where the feedback feels helpful and doable.
 
 In order to figure out what feedback to give, we need to assess the situation and understand the difference between *positions* and *interests*:
 
-* Positions: what people say they want or demand 
+* Positions: what people say they want or demand
 * Interests: underlying needs, desires, fears, and concerns that the stated position should satisfy
 
 Our position is what might come to our mind first:
 * Your partner is often late? Your position: Be on time.
 * Your partner micromanages? Your position: Stop doing that.
 
-But interests pertain to the *why* behind those positions. *Why* is it a problem that your partner is late? Time ends up being wasted and you may feel disrespected. *Why* is micromanaging not helpful? Because it doesn't allow the other person to have autonomy over their work and could lead to a sense of resentment. 
+But interests pertain to the *why* behind those positions. *Why* is it a problem that your partner is late? Time ends up being wasted and you may feel disrespected. *Why* is micromanaging not helpful? Because it doesn't allow the other person to have autonomy over their work and could lead to a sense of resentment.
 
 As the feedback giver, you need to tune into what your underlying interests are in the position you're taking in order to fully help your partner grow and improve.
 
@@ -95,10 +98,10 @@ Possible answers:
 3. If your source of interest is to *help the team/project/cohort* and your position is *you dominate the conversation during check-ins,* what is the underlying interest behind this?
 
 Possible answers:
-* The rest of the team feels frustrated that they haven't been able to voice their ideas and opinions. 
-* You are giving off the impression that you are not a team player and that you may be difficult to work with. 
+* The rest of the team feels frustrated that they haven't been able to voice their ideas and opinions.
+* You are giving off the impression that you are not a team player and that you may be difficult to work with.
 
-Now that we've unpacked the underlying interests behind our positions in feedback, we need to consider how we would phrase the feedback so that the impact of our words is as closely aligned with our intent as possible. 
+Now that we've unpacked the underlying interests behind our positions in feedback, we need to consider how we would phrase the feedback so that the impact of our words is as closely aligned with our intent as possible.
 
 ### Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
@@ -142,26 +145,26 @@ Find a partner to discuss the following scenarios and come up with an alternativ
 
 For each of the above, discuss:
 
-* What alternatives could you use for these? 
+* What alternatives could you use for these?
 * What could be a blind spot here? Tone of voice -- you don’t want to come across as passive aggressive
 * How can you align intent and impact?
 
 ### Taking it in as the Receiver
-As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying in order to decide what you can use the feedback for. 
+As the receiver, do you need to take all the feedback you're hearing? No, but you do need to **listen** to the other person to understand their interest behind what they're saying in order to decide what you can use the feedback for.
 
-**Whole Group:** What does it mean to **actively listen**? 
+**Whole Group:** What does it mean to **actively listen**?
 
-Let's go back to the example from earlier about the feedback giver's position being that "don't merge your own PR." As the receiver of this feedback, you also have a position -- you didn't have time to wait for a code review because your next feature depended on this, so you don't see the problem with merging your own PR. 
+Let's go back to the example from earlier about the feedback giver's position being that "don't merge your own PR." As the receiver of this feedback, you also have a position -- you didn't have time to wait for a code review because your next feature depended on this, so you don't see the problem with merging your own PR.
 
 But when you take the time to listen to your partner, you hear them say, "Merging your own PR means that I wasn't able to review the code. It kept me from learning from what you did, and it could've cost us more time down the road due to mistakes that would've been caught during a code review."
 
-So, how can you **assert** your position while still taking in their interests? 
+So, how can you **assert** your position while still taking in their interests?
 
 Possible answers:
 * Going forward, I’ll discuss with my partner a system for reviewing our PRs in a timeframe that works for both of us.
 * I'll use the time while I'm waiting for a PR to be reviewed to review my partner's PR
 
-And remember you're allowed to **manage the process** -- if the feedback is triggering you in a way where you can't continue to have a productive conversation, stop the conversation. Say, "I'd like to come back to this later." 
+And remember you're allowed to **manage the process** -- if the feedback is triggering you in a way where you can't continue to have a productive conversation, stop the conversation. Say, "I'd like to come back to this later."
 
 ### Putting it into Practice: Having the Conversations
 Now is the time to prepare for giving feedback to your project partners in conversations:
@@ -169,13 +172,12 @@ Now is the time to prepare for giving feedback to your project partners in conve
 * BE: Little Shop (multiple partners)
 * FE: Game Time (1 partner)
 
-* 1. **Reflect:** Write down any key positions you have as well as the interest behind them, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
-* 2. **Schedule the conversation:** 
-      When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions. 
+* 1. **Reflect:** Write down any key positions you have as well as the interest behind them, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other
+* 2. **Schedule the conversation:**
+      When you have the conversation, make sure to follow the Open-Body-Close format for this conversation, and ask clarifying questions.
 * 3. **Plan for follow-up:** This is one conversation on how the project went, but consider any conversations you may want to have after taking time to absorb the feedback
 
 ### Final Reflection & Next Steps
-As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro. 
+As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro.
 
-* Reflect in your deliverable using the [template](/module_two/feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
-
+* Reflect in your deliverable using the [template](feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*

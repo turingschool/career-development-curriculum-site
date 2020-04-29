@@ -1,4 +1,7 @@
-# Module Four Career Development
+---
+layout: page
+title: Module Four Career Development
+---
 
 Module Four career development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
 
@@ -11,9 +14,11 @@ Module Four career development is a culmination of the development that students
 * Lead other students in discussions and learning
 
 #### Why These Objectives:
+
 The above objectives represent priorities we see for students to master in order to be successful in their job search and emerge from Turing as confident junior developers. Focusing on these specific objectives allows for students to maximize their time effectively for the job search while in their last module at Turing and prepare for the first few weeks post-graduation.
 
 #### Bringing It All Together:
+
 By achieving the objectives listed above, students will be prepared for a successful job search. They will be able to contact and create relationships to build their professional networks and turn meetings into opportunities. Students will be able to describe clear goals for their job search and how they will meet them. They will be able to participate in technical interviews confidently and develop strategies for job offer negotiations. More than anything, students will be able to describe the skills and tools they have to find a job that will put them on a path to a longterm fulfilling career.
 
 ### Weekly Sessions
@@ -31,11 +36,13 @@ Additional Professional Development Opportunities:
 * Gear Up Planning & Facilitation
 
 ### Professional Development Peer Groups & Coaching
+
 Each Module Four student will be assigned a peer group to check in with every Thursday of the module. These groups will serve as an  accountability and motivational system to help students identify job search goals and how to achieve them with each other's support. They also serve as a safe environment to identify potential blockers in the job search and find solutions to them. Each group will also have weekly check-ins with a member of Turing staff who will serve as a job search coach.
 
-Reference [these guidelines](guidelines_for_support_groups) for how the groups can work together.
+Reference [these guidelines](guidelines_for_peer_groups) for how the groups can work together.
 
 ### Deliverables
+
 In order to fulfill the requirements of Module Four, students will:
 
 * A [Post-grad job search action plan](post_grad_plan) to be submitted to Kayt on Mondy of Week 6

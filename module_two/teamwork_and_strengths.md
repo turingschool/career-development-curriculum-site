@@ -1,5 +1,8 @@
-# Teamwork & Strengths
-## Using your Strengths as a Team Member
+---
+layout: page
+title: Teamwork & Strengths
+subheading: Using your Strengths as a Team Member
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/17z3gF1N81z_7GGGK-KioRYLrIdilS7mDRRQvgw-R3Rg/edit?usp=sharing)
 
@@ -26,39 +29,39 @@ Length: 60 minutes
 Module Two has been focused on honing your teamwork skills in different ways with an emphasis on communication and feedback. In Feedback III, you reflected on how others see you. Today, you'll build off those reflections to discuss your strengths as team members.
 
 ### Individual Reflections
-Reflect on how your StrengthsFinder strengths have helped you worked with pairs and teams. 
+Reflect on how your StrengthsFinder strengths have helped you worked with pairs and teams.
 
-**Write:** 
+**Write:**
 
 * How have you changed since you started at Turing? How have your strengths helped you in that progress?
 * How do you feel like you have used your strengths when you've paired with others?
 * How could you utilize these strengths more?
 * What gets in your way or keeps your from fully using your strengths?
-* Reference the [strengths leadership domain hand-out](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) to see which leadership domains you may emphasize the most 
+* Reference the [strengths leadership domain hand-out](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) to see which leadership domains you may emphasize the most
 
-### Pair & Share: Inquiry 
+### Pair & Share: Inquiry
 Pair up with a former team member. Describe a few of your strengths to each other.
 
 * Have you seen me express these strengths? If so, how?
 * What advice do you have on how I could express this strength more?
 * Discuss the [strengths leadership domains](https://docs.google.com/document/d/1N449kYbcOhu22vbORfjUOfjFOIfPoka5w00q_fklipU/edit?usp=sharing) on what kinds of leadership you saw most when working with each other
 
-### Agile Review 
-Read through the [Agile Manifesto](http://agilemanifesto.org/) again. 
+### Agile Review
+Read through the [Agile Manifesto](http://agilemanifesto.org/) again.
 
-* How does this manifesto describe teamwork to you? 
+* How does this manifesto describe teamwork to you?
 * What might be missing from this manifesto that could describe a better approach to team projects? How might other perspectives help us understand teamwork better?
 * How is this manifesto relevant to the work you've been doing in Mod 2?
 
-### Group Activity 
-With your project team members/pair, discuss your approach to the project thus far -- how are each other's strengths being utilized? How do your strengths complement each other? 
+### Group Activity
+With your project team members/pair, discuss your approach to the project thus far -- how are each other's strengths being utilized? How do your strengths complement each other?
 
-Using the [12 principles of Agile](http://agilemanifesto.org/principles.html) as a model, work as a team to come up with a set of inclusive principles to leverage each team member's strengths and how this will positively impact your team for the rest of the project. 
+Using the [12 principles of Agile](http://agilemanifesto.org/principles.html) as a model, work as a team to come up with a set of inclusive principles to leverage each team member's strengths and how this will positively impact your team for the rest of the project.
 
 * BEE: Little Shop Groups
 * FEE: Weatherly Pairs
 
-### Takeaways 
+### Takeaways
 Groups share out takeaways on their manifestos.
 
 ### Goal-Setting

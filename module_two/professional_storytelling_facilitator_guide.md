@@ -1,6 +1,8 @@
-# Professional Storytelling II (Module Two, Week Three)
-
-## Facilitator Guide
+---
+layout: page
+title: Professional Storytelling II (Module Two, Week Three)
+subheading: Facilitator Guide
+---
 
 ### Session Outcomes
 
@@ -17,10 +19,10 @@
 
 ### Session Structure
 
-[Student Markdown](/module_two/professional_storytelling_ii.md)
+[Student Markdown](professional_storytelling_ii.md)
 
 Length: 60 minutes
- 
+
 * Opening/Hook: 5 mins
 * Discuss storytelling: 20 mins
 * Individual Practice: 10-15 mins

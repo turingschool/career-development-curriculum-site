@@ -1,10 +1,15 @@
-# Week 5: 30-Plan Creation & Mod 5 Prep
+---
+layout: page
+title: Week 5
+subheading: 30-Plan Creation & Mod 5 Prep
+---
+
 ## Post-Grad Planning Session
 
 Session Timing: 60 mins
 * 5 mins: Split up students into groups
 * 25 mins: Plan out schedules and map out 30-day plans
-* 15 mins: Create goals for what they need to work on 
+* 15 mins: Create goals for what they need to work on
 * 5 mins: Refresh on jobtrack.io using Kayt's dummy account
 * 5 mins: Take survey on Mod 5 topics
 * 5 mins: Students share out their plans
@@ -12,7 +17,7 @@ Session Timing: 60 mins
 ## Part One
 Note for Facilitator: Split the students up into groups based on their comfort level with creating schedules
 
-It's time to build out your 30-day post-grad plan, starting with your schedule. Keep in mind that Mod 5 sessions will be offered on Mondays for weeks 2, 3, and 4. 
+It's time to build out your 30-day post-grad plan, starting with your schedule. Keep in mind that Mod 5 sessions will be offered on Mondays for weeks 2, 3, and 4.
 
 ### Already Organized Group
 These students should:
@@ -30,7 +35,7 @@ These students should:
 * Be aware of pitfalls:
   * Don't overschedule yourself
 3. Create an accountability system for the cohort:
-  * How will they help each other stay accountable to these schedules? 
+  * How will they help each other stay accountable to these schedules?
   * Who from the other group will they check in with?
 
 ### Not Organized Group
@@ -52,10 +57,10 @@ All students make goals for what they need to work on during those 30 days, such
 * Improve cover letters
 
 ### Refresh on Jobtrack
-Reminder for students on how to use Jobtrack.io using Kayt's dummy account (log-in info pinned in the Career Dev channel). 
+Reminder for students on how to use Jobtrack.io using Kayt's dummy account (log-in info pinned in the Career Dev channel).
 
 ### Survey
-Students take survey for Mod 5 sessions. 
+Students take survey for Mod 5 sessions.
 
 ### Share Out
 3-4 students share out highlights from their plans with the whole group

@@ -1,4 +1,8 @@
-# Week 4: Are You Getting Worried? Don’t Be
+---
+layout: page
+title: Week 4
+subheading: Are You Getting Worried? Don’t Be
+---
 
 
 ### Goals for session:
@@ -24,7 +28,7 @@
 * Meetups
 * Coffee Meetings
 * Research
-* [How to Stay Positive When Your Job Search is Dragging You Down](https://www.themuse.com/advice/how-to-stay-positive-when-your-job-search-is-dragging-you-down) 
+* [How to Stay Positive When Your Job Search is Dragging You Down](https://www.themuse.com/advice/how-to-stay-positive-when-your-job-search-is-dragging-you-down)
 
 
 ### What else can I do?

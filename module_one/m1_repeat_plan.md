@@ -20,15 +20,15 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend the following professional development sessions (you can choose to come to sessions if you feel that you would benefit from the information):
 
-   * Week 1: [Building a Foundation for your Career Development](/module_one/building_a_foundation.md)
-   * Week 2: [Learning to Pair](/module_one/learning_to_pair.md)
-   * Week 3: [Feedback I](/module_one/feedback_i.md)
-   * Week 5: [Storytelling I](/module_one/storytelling_i.md)
+   * Week 1: [Building a Foundation for your Career Development](/module_one/building_a_foundation)
+   * Week 2: [Learning to Pair](/module_one/learning_to_pair)
+   * Week 3: [Feedback I](/module_one/feedback_i)
+   * Week 5: [Storytelling I](/module_one/storytelling_i)
 
 You **are required** to attend the group participation portions of the week 4 sessions since that will involve your current project groups:
 
-   * [Agile Practices & Leadership](/module_one/agile_practices_and_leadership.md)
-   * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+   * [Agile Practices & Leadership](/module_one/agile_practices_and_leadership)
+   * [Feedback II & Team Retro](/module_one/feedback_ii_team_retro)
 
 ### Deliverables
 
