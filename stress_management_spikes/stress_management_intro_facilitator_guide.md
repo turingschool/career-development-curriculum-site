@@ -1,5 +1,8 @@
-# Stress Management Spike: Introductory Session
-## Facilitator Guide
+---
+layout: page
+title: Stress Management Spike: Introductory Session
+subheading: Facilitator Guide
+---
 
 Listed below are options for 2 possible introductory sessions:
 
@@ -23,7 +26,7 @@ Listed below are options for 2 possible introductory sessions:
 
 #### Option One: 1 hour session
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/intro_stress_management_session.md)
+[Student Markdown](/stress_management_spikes/intro_stress_management_session.md)
 
 | Timing        | Facilitator Talking Points        | Participant Actions  |
 | ------------- | ----------- | ------------------------|
@@ -35,7 +38,7 @@ Listed below are options for 2 possible introductory sessions:
 | 8 minutes | Instruct students to get their journals again to create goals for the coming week of how they will manage stress. |  Students write in journals |
 
 #### Grouping and/or activities
-  
+
   * Students will self-select partners and groups
 
 
@@ -43,8 +46,8 @@ Listed below are options for 2 possible introductory sessions:
 
 
 #### Grouping and/or activities
-  
+
   * What should the group size be for discussions?
-  
-  
+
+
   *How should groups be set up? (Recommend some meaningful grouping)

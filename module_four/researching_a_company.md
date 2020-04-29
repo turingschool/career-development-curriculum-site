@@ -1,4 +1,7 @@
-# Researching a Company
+---
+layout: page
+title: Researching a Company
+---
 
 ## Session Structure
 
@@ -23,18 +26,18 @@ Open each of the following pages in a new tab and leave them open for the worksh
 
 ### Module Two Review
 
-* [Outreach & Networking Plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md), 2 minute review
+* [Outreach & Networking Plan](/module_two/outreach_networking_guidelines), 2 minute review
 
 ### Module Three Review
 
-* [Outreach and Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md), 2 minute review
-* [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md), 3 minute review
+* [Outreach and Networking II](/module_three/outreach_networking_ii), 2 minute review
+* [Job Search Strategies](/module_three/job_search_strategies), 3 minute review
 
 ### Module Four
 
 Now that you've found some companies where you'd like to apply for work, you need to research employees for cold outreach (or warm outreach if someone can make an introduction for you).
 
-* [Questions to Ask when Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md), 2 minute review
+* [Questions to Ask when Networking](research_conversation_questions), 2 minute review
 
 ---
 

@@ -1,4 +1,8 @@
-# Week 2: Continued Feedback & Behavioral Interview Prep Workshop 
+---
+layout: page
+title: Week 2
+subheading: Continued Feedback & Behavioral Interview Prep Workshop
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1iMZHrVvbtW6j7Bp7h1bTtRTo74ri-lqWHanCD8_v4OA/edit?usp=sharing)
 
@@ -8,14 +12,14 @@ Time: 90 mins
 
 * Whole Group Kick-off: go over structure for today (5 mins)
 * Group Stand Up (15 mins)
-  * Updates: what's going well, what do you need help with 
+  * Updates: what's going well, what do you need help with
   * Follow-up on cover letters: action steps
 * Group Interview Practice (60 mins)
   * Prep Time (10 mins)
   * Coach chooses 1 question at random for each student. Student responds and receives feedback (5 mins each); can do multiple rounds of this
 * Group Debrief (5 mins)
 * Whole Group Share-Out (5 mins)
-* Any additional time: review professional portfolios within student groups 
+* Any additional time: review professional portfolios within student groups
 
 ### Kick-Off
 You've done the groundwork to prepare for your job search: refining your story, crafting your resume, building your portfolio. Now is the time to put all of these things into motion and talk about why you're the right person for the job. We started some practice on this last mod, and today, we're going to continue that practice in an informal interview workshop.
@@ -43,7 +47,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
     * One specific bug
     * Something that was really hard
     * Something that was rewarding
-    * Any interesting struggles/insights about the collaboration process 
+    * Any interesting struggles/insights about the collaboration process
   * Your Flower Exercise
   * Your strengths
   * Your areas of growth
@@ -51,14 +55,14 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * Retro notes
   * Eval notes
 * Utilize your resources:
-  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
- 
+  * [Interview Prep Resources](interview_prep_resources)
+
 #### Bank of Common Questions
 
-* What made you switch from your prior career into programming? 
+* What made you switch from your prior career into programming?
 * Describe to me the steps you would take to build out a product.
 * Tell me how you solve a problem.
-* Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding? 
+* Describe your background. How did you get to where you are now? What was your previous career field. What did you like about it? What didn’t you like about it? Why coding?
 * Describe your time at Turing. What worked for you? What didn’t work for you? What was the structure of the program?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
@@ -68,7 +72,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
 * What is your 100% ideal role for your first web development job?
 * Tell me about a time you had a disagreement with a colleague and how you resolved it.
-* What project of yours are you most proud of and why? 
+* What project of yours are you most proud of and why?
 * Explain one of the most difficult code problems you’ve had to solve, either on your own authored code, or in contributing to someone else’s.
 * Describe a time when you received feedback that you were surprised by. What did you do with that feedback?
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
@@ -82,7 +86,7 @@ Now in your groups, you will get 10 minutes to prep for your responses to the li
 
 During each person's response, takes notes in your notebook about what you hear:
 * What do you like about the answer?
-* What would you do differently? 
+* What would you do differently?
 
 ### Debrief
 Now that you've had time to practice, go over the feedback you've received to identify one action step you can take away from today's this experience to continue to work on.

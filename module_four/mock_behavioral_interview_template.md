@@ -1,4 +1,7 @@
-# Mock Behavioral Interview Template
+---
+layout: page
+title: Mock Behavioral Interview Template
+---
 
 ## Directions for Interviewers
 
@@ -10,7 +13,7 @@
     * Tone of voice
     * Use of the STAR Method:
         * Description of a specific Situation
-        * Description of a Task or Target 
+        * Description of a Task or Target
         * Description of Action taken to achieve said task/target
         * Description of Results
     * Questions asked by the student
@@ -30,8 +33,8 @@ When Giving Feedback:
 **Storytelling, Experience, and Career Goals Questions:**
 * Tell me about yourself. Why do you want to be a software developer?
 * Tell me about your journey into tech. How did you get interested in coding, and why was software development a good fit for you? How is that applicable to our _____ role or company goals?
-* What made you switch from your prior career into programming? 
-* Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding? 
+* What made you switch from your prior career into programming?
+* Describe your background. How did you get to where you are now? What was your previous career field? What did you like about it? What didn’t you like about it? Why coding?
 * Describe your coding experience and why you wish to continue.
 * What are you looking for in a company? Why would you want to work here?
 * Describe your time at Turing. How did it prepare you for this career?
@@ -40,7 +43,7 @@ When Giving Feedback:
 * Talk about your preferred development environment.
 * How are you keeping up with the latest developments in web development?
 * What is something that your hobbies or interests tell me about you that your resume cannot?
- 
+
 **Project, Problem-Solving, & Team Contribution Questions:**
 * Describe a successful idea or project you worked on. What are some of the challenges you had to overcome? What made it a success?
 * Describe a project that failed, a project you had to give up on, or a time you worked really hard on a project and it just didn’t pan out as expected. What happened? How did you make the decisions that you made?
@@ -50,16 +53,16 @@ When Giving Feedback:
 * What is your approach to working on a team?
 * A lot of this job will be full-stack. Your experience is largely ____ (Back End, Front End). How do you feel like you’d be able to contribute to the team with only that experience? How comfortable are you with getting uncomfortable with a new language?
 * Describe an example of how you have handled a stressful situation.
-* In what types of environments/projects is it best to use pair programming? Why? In what cases would you not use pair programming? Why? 
+* In what types of environments/projects is it best to use pair programming? Why? In what cases would you not use pair programming? Why?
 * Describe your teamwork experience in a coding environment. How big of a team did you work with?
 * Have you ever had to switch gears in the middle of a project to get something fixed immediately? How did you react?
-* What project of yours are you most proud of and why? 
+* What project of yours are you most proud of and why?
 * You can’t work out how to solve a coding problem. What do you do to find the answer?
 * Tell me about a challenge or conflict you've faced at work and how you dealt with it.
 * How do you approach testing? And what do you think about this? How would you improve QA?
 * When have you exercised leadership and what was the result?
 * Describe a time when you took a risk that paid off for you. What was your process for pushing yourself further? How did you assess risk and try something new?
-* Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience? 
+* Tell me about a time you had competing priorities or worked on multiple projects at once. How did you manage to make or miss the deadlines? What did you learn from that experience?
 * Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
 * Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
 * Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?

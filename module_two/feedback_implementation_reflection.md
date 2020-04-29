@@ -1,4 +1,7 @@
-# Feedback III Optional Reflection
+---
+layout: page
+title: Feedback III Optional Reflection
+---
 
 * What appreciation feedback have you received? Does it resonate with you? How do you want to continue building these skills/strengths?
 

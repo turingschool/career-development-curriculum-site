@@ -1,6 +1,8 @@
-# Feedback III (Module Two, Week Four)
-
-## Facilitator Guide
+---
+layout: page
+title: Feedback III (Module Two, Week Four)
+subheading: Facilitator Guide
+---
 
 ### Prep
 Prior to the session, send out a Slack message to the cohorts to have them log into the Johari Window app using this link: https://johariwindow.herokuapp.com/
@@ -8,7 +10,7 @@ Prior to the session, send out a Slack message to the cohorts to have them log i
 * Depending on how much time you’ll need to create the partner groups for the session, you may want to send that message out sooner
 
 You’ll need to create groups for each student on the app with the people they’ve worked in projects with, both in M1 and M2. You’ll probably want to track this on a spreadsheet first and then create the groups in the app. For your reference, here are the paired or group projects that you’ll need to include:
- * B1: 
+ * B1:
    * M1 paired project #1 (varies)
    * Black Thursday
    * Bike Share
@@ -35,10 +37,10 @@ You can find the partners from these projects in this [repo](https://github.com/
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+[Student Markdown](feedback_iii.md)
 
 Length: 60 minutes
- 
+
 * Opening (3 mins)
 * Feedback Review (12 mins)
 * Right & Wrong Spotting (20 mins)

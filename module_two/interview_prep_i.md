@@ -1,14 +1,17 @@
-# Interview Prep I
-## Putting It All Together
+---
+layout: page
+title: Interview Prep I
+subheading: Putting It All Together
+---
 
-Session Time: 60 minutes + 30 minutes for peer review on outreach and networking 
+Session Time: 60 minutes + 30 minutes for peer review on outreach and networking
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1ncfDn8PO3bRTwZbNPU01w0kbHGvofLjupUzYBQZ_IVI/edit?usp=sharing)
 
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
-**Facilitator #1:** Using slides #3-7, go through the following: 
+**Facilitator #1:** Using slides #3-7, go through the following:
 
 **Slide #3:**
 
@@ -34,7 +37,7 @@ Agenda:
 Pick *one* of these questions to answer in your journal:
 
 * Why do you want to be a software developer?
-* What are your strengths as a developer? 
+* What are your strengths as a developer?
 * Describe a successful project that you worked on. What made it a success?
 * When have you had to deal with failure? What did you do?
 * What is your approach to working on a team?
@@ -51,9 +54,9 @@ Using a fist to five, how was that practice for you? What was difficult about it
 
 Let's start by thinking about this question: *how well do you know yourself?*
 
-That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you. 
+That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you.
 
-**Facilitator #2:** Using slides #9-15, go through the following: 
+**Facilitator #2:** Using slides #9-15, go through the following:
 
 **Slide #9:**
 
@@ -64,8 +67,8 @@ There are many ways to prepare for interviews. Today, we'll go through 4 particu
 2. Utilize the STAR method
 3. Know how to talk about Turing
 4. Make a list:
- * What are common questions you could be asked? 
- * What examples can you draw from? 
+ * What are common questions you could be asked?
+ * What examples can you draw from?
 
 **Slide #10:**
 
@@ -77,8 +80,8 @@ Pay attention to what the question is asking as well as any *subtext* inherent i
 
 This question is asking you to:
 * **Acknowledge that you fail.** You're not perfect, you have experienced failure. Be upfront and transparent about that
-* **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take? 
-* **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps 
+* **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take?
+* **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
 
 **Slide #11:**
 
@@ -121,7 +124,7 @@ Instead of saying “In Module 1, when I was working on the Battleship project�
 
 Example #2:
 
-"I’ve never heard of Turing. What did you focus on there? What’s the structure of the program? How did it prepare you for this career?" 
+"I’ve never heard of Turing. What did you focus on there? What’s the structure of the program? How did it prepare you for this career?"
 
 **Slide #14:**
 
@@ -133,9 +136,9 @@ Brainstorm:
 * What other questions might be asked?
 * What kinds of examples should you keep track of?
 
-Start this running list in your journal. We'd also recommend that you keep an interview prep-specific journal. 
+Start this running list in your journal. We'd also recommend that you keep an interview prep-specific journal.
 
-[More interview prep resources are available here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+[More interview prep resources are available here](interview_prep_resources.md)
 
 **Facilitator #1:** Using slides #17-21, go through the following:
 
@@ -147,7 +150,7 @@ Start this running list in your journal. We'd also recommend that you keep an in
 1. Take 5 minutes to continue prepping in your journal over some of the common interview questions listed here:
 
 * Why do you want to be a software developer?
-* What are your strengths as a developer? 
+* What are your strengths as a developer?
 * Describe a successful project that you worked on. What made it a success?
 * When have you had to deal with failure? What did you do?
 * What is your approach to working on a team?
@@ -155,14 +158,14 @@ Start this running list in your journal. We'd also recommend that you keep an in
 
 **Slide #18:**
 
-**Note to Facilitator #1:** Call on 1-2 volunteers to come to the front to answer a question or two from the list. Volunteers can pick the question they respond to. As the facilitator, give them some feedback and then call on 1-2 other students to provide additional feedback. 
+**Note to Facilitator #1:** Call on 1-2 volunteers to come to the front to answer a question or two from the list. Volunteers can pick the question they respond to. As the facilitator, give them some feedback and then call on 1-2 other students to provide additional feedback.
 
 2. With volunteers, listen to their responses and provide some feedback. Pay attention to:
   * What do you notice about the answer?
   * What do you appreciate about it?
-  * What would you do differently? 
+  * What would you do differently?
 
-Whole Group: What else do you notice about the answers given here? 
+Whole Group: What else do you notice about the answers given here?
 
 **Slide #19:**
 
@@ -178,11 +181,11 @@ Get into groups of 3-4 for more practice on these questions. You could also choo
 ### Closing
 **Note to Facilitator #1:** Call on 1-2 students to respond to the following questions:
 
-* What are your takeaways from today's practice? 
+* What are your takeaways from today's practice?
 * What next steps will you take to prepare for next module's mock interviews?
 
-Next Mod: 
-* Before Mod 3, you have [pre-work to create an interview prep system](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
+Next Mod:
+* Before Mod 3, you have [pre-work to create an interview prep system](pre_work.md)
 * In Mod 3, you’ll complete a mock behavioral interview with a staff member
 
 **Facilitator #2:** Using slide #23, go through the following:
@@ -193,8 +196,8 @@ Next Mod:
 1. Get into groups of 3-4 people
 2. Share your outreach/networking plans with each other
 3. Give each other feedback:
-  * Is it clear why your partner is reaching out to this person? Why/why not? 
-  * Is it clear what the ask is? Why/why not? 
+  * Is it clear why your partner is reaching out to this person? Why/why not?
+  * Is it clear what the ask is? Why/why not?
   * What other next steps should your partner consider to make a strong connection here?
   * How can you as a group help each other be accountable to these plans and follow-through?
 4. Go back to your plans and make any updates that you need to in the gist to help hold yourself accountable

@@ -1,4 +1,7 @@
-# Feedback I (Module One, Week Three)
+---
+layout: page
+title: Feedback I (Module One, Week Three)
+---
 
 ## Facilitator Guide
 
@@ -16,14 +19,14 @@
 | How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. Your laptop is needed to present slides. | [Slides](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing) |
 
 ### Pre-Work
-Students should have read the [first chapter](https://github.com/turingschool/career-development-curriculum/blob/master/files/Thanks%20For%20the%20Feedback_Ch%201.pdf) of *Thanks for the Feedback* prior to the session
+Students should have read the [first chapter](/files/Thanks%20For%20the%20Feedback_Ch%201.pdf) of *Thanks for the Feedback* prior to the session
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
+[Student Markdown](/module_one/feedback_i.md)
 
 Length: 60 minutes
- 
+
 * Opening (15 mins)
 * Kinds of Feedback (15 mins)
 * Intent vs. Impact & Blind Spots (18 mins)
@@ -44,4 +47,4 @@ Length: 60 minutes
 | 5 mins | Using slide 20, read through the example feedback and solicit answers from students on what is working in the feedback and what could be triggering and therefore needs to be reworded. | Whole Group Discussion |
 | 5 mins | *If there's time left:* using slide 21, have students start to think about the feedback they will give their partner and instruct them to get started on drafting out both appreciation and coaching. | Students write silently in their journals |
 
-After the session wraps, send out a survey to collect their feedback. Refer to Allison's maternity leave plan for directions on this. 
+After the session wraps, send out a survey to collect their feedback. Refer to Allison's maternity leave plan for directions on this.

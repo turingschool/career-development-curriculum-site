@@ -1,4 +1,7 @@
-## Lightning Talks
+---
+layout: page
+title: Lightning Talks
+---
 
 While at Turing, students will be asked to present Lightning Talks to the module below them. These lightning talks are technical talks, 5 minutes in length, and they are a standard practice in the tech industry.  Your talk should be technical and one that you can use for your networking and in your job preparation.  Yes, imposter syndrome is real, but that is not a technical talk.  If you are unsure, please ask your instructors before submitting.
 
@@ -59,4 +62,4 @@ A technical lightning talk is…
 * http://confreaks.tv/videos/rubyconf2017-lightning-talks
 * http://confreaks.tv/videos/railsconf2015-lightning-talks
 * http://confreaks.tv/search?utf8=%E2%9C%93&query=lightning+talk&commit=go
-* http://businessofsoftware.org/2013/03/all-the-lightning-talks-from-business-of-software-conference-2012/ 
+* http://businessofsoftware.org/2013/03/all-the-lightning-talks-from-business-of-software-conference-2012/

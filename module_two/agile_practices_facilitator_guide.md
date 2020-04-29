@@ -1,6 +1,8 @@
-# Agile Practices & Leadership (Module Two, Week One)
-
-## Facilitator Guide
+---
+layout: page
+title: Agile Practices & Leadership (Module Two, Week One)
+subheading: Facilitator Guide
+---
 
 ### Session Outcomes
 

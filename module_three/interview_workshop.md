@@ -1,5 +1,8 @@
-# Interview Prep Workshop I
-## Putting it All Together
+---
+layout: page
+title: Interview Prep Workshop I
+subheading: Putting it All Together
+---
 
 Session Time: 60 minutes
 
@@ -18,9 +21,9 @@ Structure:
 ### Opening
 Let's start by thinking about this question: *how well do you know yourself?*
 
-That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you. 
+That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you.
 
-In this session, you'll focus on combining all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) and in previous modules to help you answer common interview questions. 
+In this session, you'll focus on combining all the professional development pieces you've worked on this module (your resume, your professional story, your flower exercise, your research, your job shadowing experience) and in previous modules to help you answer common interview questions.
 
 ### Objectives
 * Practice answering common culture interview questions
@@ -67,7 +70,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
     * One specific bug
     * Something that was really hard
     * Something that was rewarding
-    * Any interesting struggles/insights about the collaboration process 
+    * Any interesting struggles/insights about the collaboration process
   * Your Flower Exercise
   * Your strengths
   * Your areas of growth
@@ -75,7 +78,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * Retro notes
   * Eval notes
 * Utilize your resources:
-  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+  * [Interview Prep Resources](interview_prep_resources.md)
 
 #### Demo
 As a class, talk through the following questions and think about how you could answer each one:
@@ -96,12 +99,12 @@ Consider:
 * Anything else to keep in mind when answering this question?
 
 ### Transition
-Now, find a partner or group of 3 to work through questions of your choice *(you don't have to work on the same question as your partner).* 
+Now, find a partner or group of 3 to work through questions of your choice *(you don't have to work on the same question as your partner).*
 
 ### Three Rounds of Questions
 Step 1: Prep. Take 5 minutes to write or think through your answer to one of the questions
 
-Step 2: Answer the questions with your partner(s). Provide feedback on the answers. Remember to be *specific, actionable, and kind*. 
+Step 2: Answer the questions with your partner(s). Provide feedback on the answers. Remember to be *specific, actionable, and kind*.
 
 Step 3: Discuss how you will incorporate the feedback to improve your answer.
 
@@ -113,9 +116,9 @@ Step 3: Discuss how you will incorporate the feedback to improve your answer.
 ### Prep for Mod 4
 Using the practice from today, think about your job search that starts next mod, and fill out the survey for Module 4 PD Peer Groups.
 
-Check out these [interview prep resources for both technical and behavioral interview help](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+Check out these [interview prep resources for both technical and behavioral interview help](interview_prep_resources.md)
 
 ### Closing
-Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 
+Create a plan to get your resume and Turing portfolio finished by next week's portfolio review.
 
 As you finish up Module 3, come back to these questions that we posed at the beginning of the session. Assess how confident you feel to answer any of these as you keep going with your job search.

@@ -1,5 +1,9 @@
-# Project Reflections
-Use this template to keep a log of reflections on each of your projects through Mod 1, 2, 3, and 4 at Turing. Feel free to add additional questions/prompts that you want to reflect on to help you prepare for future interviews. 
+---
+layout: page
+title: Project Reflections
+---
+
+Use this template to keep a log of reflections on each of your projects through Mod 1, 2, 3, and 4 at Turing. Feel free to add additional questions/prompts that you want to reflect on to help you prepare for future interviews.
 
 ## Abstract
 In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with.

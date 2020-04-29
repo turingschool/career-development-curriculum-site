@@ -1,4 +1,8 @@
-# PD Plan for Repeating Module Three
+---
+layout: page
+title: PD Plan for Repeating Module Three
+---
+
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search. Mod 3 professional development is focused on these areas:
 
 * Discover and describe how previous jobs, skills, and experiences contribute to new career path
@@ -15,20 +19,20 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
-   * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
-   * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-   * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
-   * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
-   * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
-    
+   * [Professional Storytelling III](professional_storytelling_iii)
+   * [Job Search Strategies](job_search_strategies)
+   * [Outreach & Networking II](outreach_networking_ii)
+   * [Resume Review Workshop](m3_resume_review)
+   * [Cover Letters Overview](cover_letters_overview)
+
 ### Deliverables
 * You **are required** to:
   * Update your resume as needed with any feedback you've received from your first time through Mod 3
-  * Complete your Turing alumni portfolio on [alumni.turing.io](https://alumni.turing.io) with your updated resume included and 2-3 projects showing a variety of project skills (independent, paired, team) 
+  * Complete your Turing alumni portfolio on [alumni.turing.io](https://alumni.turing.io) with your updated resume included and 2-3 projects showing a variety of project skills (independent, paired, team)
   * Draft a cover letter to bring to PD in week 1 of Module 4
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
-   * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+   * Complete a mock technical interview with one of the mentors listed [here](/module_four/interview_prep_resources)
    * Complete a second mock behavioral interview by signing up on the spreadsheet in your cohort channel
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below
@@ -40,14 +44,14 @@ You **are not required** to attend professional development sessions *that you h
    * Other: propose another professional development action step that you will take during your repeat module
 
 ### Outline of Your PD Plan:
-**Directions:** Write your answers to the questions below in a secret gist that you'll send to Allison in a DM. 
+**Directions:** Write your answers to the questions below in a secret gist that you'll send to Allison in a DM.
 
 * Do you want to participate in Job Shadowing this module?
 
 Below, outline your 2 options that you've chosen by creating [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) for each of them.
-#### Goal #1 (what is the goal): 
+#### Goal #1 (what is the goal):
 
-* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
+* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?):
 
 * Measurable (How can you measure progress and know if you’ve successfully met your goal?):
 
@@ -57,9 +61,9 @@ Below, outline your 2 options that you've chosen by creating [SMART goals](https
 
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
-#### Goal #2 (what is the goal): 
+#### Goal #2 (what is the goal):
 
-* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
+* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?):
 
 * Measurable (How can you measure progress and know if you’ve successfully met your goal?):
 

@@ -1,17 +1,19 @@
-# Mod 4 PD Kickoff
-
-## Setting You Up for Success in the Module 4 Job Search
+---
+layout: page
+title: Mod 4 PD Kickoff
+subheading: Setting You Up for Success in the Module 4 Job Search
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1DNPivOJBUUnWlwD-n-2K9dysidWPyVFaqCvMmy87Irw/edit?usp=sharing)
 
 ### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions. 
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 Prior to the session:
 
 * Instruct students to bring their notebooks
 * Facilitators bring chart paper and markers
-* Facilitators print out enough [cover letter checklists](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) for each student
+* Facilitators print out enough [cover letter checklists](cover_letter_checklist) for each student
 
 **Facilitator #1:** Using slides #3-5, go through the following:
 
@@ -46,16 +48,16 @@ Weeks 2-5: Opportunity for Job Search Mentorship
 ### Setting New Norms
 Welcome to Module 4. It's easy to feel burnt out at this point in the program; however, this module is your peak. It's the opportunity to refine your technical and professional skills for the job search. The best way to do that is to support each other through this module as a cohesive cohort.
 
-You’ve worked together for 3 mods already, and you’ve set norms for how to work together. Now you’re transitioning into not only working together but preparing for your careers post-Turing. To set us up for success this module, let's start with setting some new norms on how we can best work and support each other. 
+You’ve worked together for 3 mods already, and you’ve set norms for how to work together. Now you’re transitioning into not only working together but preparing for your careers post-Turing. To set us up for success this module, let's start with setting some new norms on how we can best work and support each other.
 
 #### Whole Group Discussion
 Cold call 3 people to answer one of each of these questions:
 
-* What does your cohort do well? How do you know? 
+* What does your cohort do well? How do you know?
 * How would you describe the morale of your cohort? What contributes to that?
 * How would you describe your cohort's successes so far? What contributes to that?
 
-Consider your cohort's strengths and how you can capitalize on them this module. 
+Consider your cohort's strengths and how you can capitalize on them this module.
 
 #### Individual Reflections
 Reflect on these questions in your journals to prepare for discussions with your cohorts:
@@ -65,27 +67,27 @@ Reflect on these questions in your journals to prepare for discussions with your
 * What will success look like for you at the end of this module? What will success look like for your cohort?
 
 #### Cohort Discussions
-Divide the room down the middle with BE on one side and FE on the other (note: if cohorts are especially large, this could be done in small groups or in each of the cohort's respective classrooms before coming back to Clarke to share out). Each cohort will have a chart paper to contribute group norms to, which must include these particular sections: 
+Divide the room down the middle with BE on one side and FE on the other (note: if cohorts are especially large, this could be done in small groups or in each of the cohort's respective classrooms before coming back to Clarke to share out). Each cohort will have a chart paper to contribute group norms to, which must include these particular sections:
 
 * Definition of success for the cohort this module
 * Goals for how to make Mod 4 your "peak" and what steps you will take as a cohort to achieve that
 * Norms for the roles cohortmates will take (and won't take) this module
 
-One person should be the notetaker, and everyone should be given an opportunity to participate. 
+One person should be the notetaker, and everyone should be given an opportunity to participate.
 
 ### Share Out
-* One representative from each group will share out the cohort's norms as well as additional volunteers to share about their individual roles in the cohort. 
+* One representative from each group will share out the cohort's norms as well as additional volunteers to share about their individual roles in the cohort.
 
 Now that we know our cohort norms for Mod 4, let's discuss options for Mod 4 PD.
 
 **Facilitator #1:** Using slides #14-15 and posting the respective links in the cohorts' channels, please go through the following:
 
 ### Mod 4 PD Options
-While you will still receive a few whole group PD sessions, in weeks 3-5, you can choose to participate in small group job search mentorship with a staff member. 
+While you will still receive a few whole group PD sessions, in weeks 3-5, you can choose to participate in small group job search mentorship with a staff member.
 
-Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_mentorship_application.md). You'll apply [here](https://forms.gle/J4B9VmbKojNiLvjm8), and the deadline is 4pm on Monday of Week 2. Discuss questions from the whole group.
+Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](job_search_mentorship_application). You'll apply [here](https://forms.gle/J4B9VmbKojNiLvjm8), and the deadline is 4pm on Monday of Week 2. Discuss questions from the whole group.
 
-**Facilitator #1:** Pass out the [cover letter checklists](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) to all students. **Facilitator #2:** Using Slides #17-21, go through the following:
+**Facilitator #1:** Pass out the [cover letter checklists](cover_letter_checklist) to all students. **Facilitator #2:** Using Slides #17-21, go through the following:
 
 ### Cover Letter Review
 Cold calling of the whole group:
@@ -102,7 +104,7 @@ Reminder that a cover letter should:
 
 #### Individual Review
 * Read through your cover letter and write down specific questions you have about it
-* Compare your cover letter to the norms of the [cover letter checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
+* Compare your cover letter to the norms of the [cover letter checklist](cover_letter_checklist)
 * Highlight how many times you say "I" versus the name of the company
 
 #### Small Group Review
