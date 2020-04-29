@@ -8,7 +8,7 @@
 
 ### Directions
 1. Copy the following into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
-2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
+2. For your intermission work, please complete prompts listed under "Intermission Work" and then submit your career journal in the survey linked on the [intermission work page.](/module_three/pre_work.md)
 
 ### Mod 3 Intermission Work Prompts
 1. Please describe the current vision you have for your career. What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? 

@@ -135,7 +135,7 @@ Brainstorm:
 
 Start this running list in your journal. We'd also recommend that you keep an interview prep-specific journal. 
 
-[More interview prep resources are available here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+[More interview prep resources are available here](/module_four/interview_prep_resources.md)
 
 **Facilitator #1:** Using slides #17-21, go through the following:
 
@@ -182,7 +182,7 @@ Get into groups of 3-4 for more practice on these questions. You could also choo
 * What next steps will you take to prepare for next module's mock interviews?
 
 Next Mod: 
-* Before Mod 3, you have [pre-work to create an interview prep system](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/pre_work.md)
+* Before Mod 3, you have [pre-work to create an interview prep system](/module_three/pre_work.md)
 * In Mod 3, you’ll complete a mock behavioral interview with a staff member
 
 **Facilitator #2:** Using slide #23, go through the following:

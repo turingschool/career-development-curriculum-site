@@ -1,0 +1,156 @@
+/* Base */
+
+html, body {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+p {
+  line-height: 1.6em;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+blockquote p {
+  font-size: 1em;
+}
+
+li {
+  line-height: 2em;
+}
+
+li.task-list-item {
+  list-style-type: none;
+  text-indent: -1.5em;
+
+  input {
+    margin-right: 7px;
+  }
+}
+
+strong {
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  border-bottom: 2px solid lighten($medium-gray, 20);
+  color: darken($turing-primary, 30);
+  text-decoration: none;
+  transition: all 0.3s;
+
+  &:hover {
+    border-color: $dark-gray;
+  }
+}
+
+iframe {
+  border: 1px solid $medium-gray;
+  margin-bottom: 1em;
+}
+
+blockquote {
+  margin-bottom: 1em;
+  padding-left: 1em;
+  border-left: 5px solid lighten($medium-gray, 20);
+  p {
+    font-family: Georgia, serif;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  footer {
+    border: none;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: right;
+    font-size: 1.5em;
+    font-style: italic;
+    &::before {
+      content: '— '
+    }
+  }
+}
+
+footer {
+  background-color: $background-secondary;
+  color: $dark-gray;
+  padding: 15px 10px;
+  text-align: center;
+
+  p {
+    margin: 5px auto;
+
+    @media (max-width: $phone-width) {
+      font-size: 0.8em;
+    }
+  }
+}
+
+/* Layout */
+
+.container {
+  min-height: 100vh;
+}
+
+.hide {
+  display: none;
+}
+
+/* Header */
+
+
+header {
+  margin-bottom: 2em;
+
+  & > h1 {
+    font-weight: 400;
+    line-height: 1.2em;
+
+    & > small {
+      display: block;
+      font-weight: 300;
+    }
+  }
+}
+
+.responsive-iframe-container {
+  .tablet {
+    @media (min-width: $tablet-width) {
+      display: none;
+    }
+
+
+
+    iframe {
+      height: 400px;
+      @media (max-width: $phone-width) {
+        width: 250px;
+      }
+    }
+  }
+
+  .desktop {
+    display: block;
+
+    iframe {
+      width: 800px;
+      height: 400px;
+    }
+
+    @media (max-width: $tablet-width) {
+      display: none;
+    }
+  }
+}

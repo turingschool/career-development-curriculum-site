@@ -11,7 +11,7 @@ Suggested purposes:
 * Request to tour their office and shadow them for an hour or two (this is best posited as a follow-up request after you've already made contact with them)
 
 Most common purpose: Research Conversations -- what is the purpose of these conversations? How can you approach this? 
-Here are some [possible questions to ask](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
+Here are some [possible questions to ask](/module_four/research_conversation_questions.md)
 
 Now that you have an idea of *why* you'd reach out to someone, think about *who* you can reach out to. 
 

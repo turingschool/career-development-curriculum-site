@@ -1,11 +1,15 @@
-# Feedback II: Team Retrospectives
+---
+layout: page
+title: Feedback II
+subheading: Team Retrospectives
+---
 
 [Slides for this session](https://docs.google.com/presentation/d/1D8i8iyGNgxdkDql5fe6zOkRqJl3Qit19NaPbrVC-L9g/edit?usp=sharing)
 
 ### Facilitator Instructions
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
-**Before the session starts:** 
+**Before the session starts:**
 
 1. Grab these materials:
 * Chart paper
@@ -38,7 +42,7 @@ Objectives of our session today:
 * Execute a successful retro in your project groups
 
 #### Reminder: Deliverable
-Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+Submit a reflection on using agile and participating in retro feedback using [this template](agile_feedback_reflection_guidelines) in survey provided by 9am on Friday of Week 5
 
 **Slide #4:**
 
@@ -61,20 +65,20 @@ Take 2 minutes to reflect on the role you've taken in your project so far in ter
 
 **Slide #7 & #8:**
 
-### Overview of Team Retros 
+### Overview of Team Retros
 Agile is all about continuous improvement, and retros are an important part of that process.
 
 #### What is a Retrospective?
 Notes from [Do's and Don't's: How to Conduct Effective Retros](https://www.inloox.com/company/blog/articles/do-s-and-don-ts-how-to-conduct-effective-retrospectives/):
 * It's a meeting that happens at the end of a scrum sprint/iteration and at the end of a project. *This is part of the agile process*
-* This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved. 
-* **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.** 
+* This meeting is an opportunity for the project team to look back at what they have achieved during the last sprint, what went really well, and what could be improved.
+* **The focus is not on how the product or deliverable could be improved but on how the team can collaborate more effectively to generate better outcomes.**
 * Retrospectives are great for helping teams understand each other better and facilitate better collaboration which in turn leads to improved productivity. *The emphasis is on continuous improvement and change, instead of blindly following the same old procedures and processes.*
 
 **Slide #9:**
 
 #### How to Get Started: Set Norms
-Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with. 
+Ask yourselves: where are you in Tuckman's Group Life Cycle? Knowing where you are will help you figure out the norms you need to start with.
 
 **Slide #10:**
 
@@ -90,9 +94,9 @@ What other norms might need to be established in order to fulfill our principles
 
 **Slide #11:**
 
-**Note to Facilitator #1:** Instruct students to designate one person on the team to be the notetaker and to discuss the following questions to set norms for their group. Then call on 1-2 teams to share out some of the norms they came up with after they've had 5 minutes to discuss. **Note Both Facilitators:** While the students discuss their norms, hand out about 4-5 post-its per person by leaving stacks at the beginning of each row. 
+**Note to Facilitator #1:** Instruct students to designate one person on the team to be the notetaker and to discuss the following questions to set norms for their group. Then call on 1-2 teams to share out some of the norms they came up with after they've had 5 minutes to discuss. **Note Both Facilitators:** While the students discuss their norms, hand out about 4-5 post-its per person by leaving stacks at the beginning of each row.
 
-**You Do:** As a team, spend 5 minutes discussing where you are in the Tuckman's Group Life Cycle and setting norms for your retro discussion. 
+**You Do:** As a team, spend 5 minutes discussing where you are in the Tuckman's Group Life Cycle and setting norms for your retro discussion.
 
 **Slide #12:**
 
@@ -166,9 +170,9 @@ Write out on your post-its:
 ### How to Communicate More Mindfully: Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
 
-Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
+Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](learning_to_pair) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
 
-**Note to Facilitator #2:** Ask the class: "What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?" and solicit 2-3 responses to discuss the difference. 
+**Note to Facilitator #2:** Ask the class: "What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?" and solicit 2-3 responses to discuss the difference.
 
 **Slide #20:**
 
@@ -180,7 +184,7 @@ Who is good at mindful communication? No one -- yet. We often spend our time com
  * Criticism (i.e. "you're bad at JavaScript")
  * Comparisons (i.e. "no one else in the cohort has this problem")
  * Diagnoses (i.e. you have a hard time thinking problems all the way through") -- Note: this is a big one!
- 
+
  **Slide #21:**
 
 Nonviolent Communication instead integrates:
@@ -203,16 +207,16 @@ All of these steps of reflection should take place *before* you have feedback co
 
 **Slide #27:**
 
-**Note to Facilitator:** Depending on time, you might consider doing the following as a whole group discussion by cold calling on 2-3 students rather than having a turn and talk. Discuss how the words "feel" and "need" are being used in each of the examples. 
+**Note to Facilitator:** Depending on time, you might consider doing the following as a whole group discussion by cold calling on 2-3 students rather than having a turn and talk. Discuss how the words "feel" and "need" are being used in each of the examples.
 
 #### Turn & Talk
 With a partner, discuss the following conversations. Are they using the NVC framework effectively? If not, how could the statement be changed to be more effective and mindful?
 
-**Scenario #1:** "I feel like not everyone in the group is giving 100%." 
+**Scenario #1:** "I feel like not everyone in the group is giving 100%."
 
 **Scenario #2:** "I feel inadequate because the group hasn't been listening to me."
 
-**Scenario #3:** "Other groups are further ahead than we are. We have to get back on track. I need everyone to work harder." 
+**Scenario #3:** "Other groups are further ahead than we are. We have to get back on track. I need everyone to work harder."
 
 **Slide #29:**
 
@@ -239,4 +243,4 @@ Choose a format to run your retro and grab a chart paper (or 2). You have 15 min
 * What next steps are you focused on in your project? How did you decide on those steps?
 
 Reminder about deliverable:
-* Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+* Submit a reflection on using agile and participating in retro feedback using [this template](agile_feedback_reflection_guidelines) in survey provided by 9am on Friday of Week 5

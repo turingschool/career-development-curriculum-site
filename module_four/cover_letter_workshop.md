@@ -44,7 +44,7 @@ Now we're ready to workshop...
 In your PD groups, follow this format:
 
 ### Individual Review
-Students: Take 5 minutes to go through the [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
+Students: Take 5 minutes to go through the [Cover Letter Checklist](/module_four/cover_letter_checklist.md) and reread the cover letter to decide what feedback will be most valuable during the review. To figure out what feedback will be most valuable for you, think about these questions:
    * What are you not sure about?
    * What would you like to do differently but you don't know how?
 

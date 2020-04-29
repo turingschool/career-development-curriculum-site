@@ -10,7 +10,7 @@ Directions for Facilitator(s):
 4. Instruct students to DM their resume drafts to the whole group as PDFs
 
 Directions for Staff Reviewers:
-1. Students should have already corrected mistakes in their resume draft in week 2, but if you see mistakes, correct those first. [Use this checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
+1. Students should have already corrected mistakes in their resume draft in week 2, but if you see mistakes, correct those first. [Use this checklist](/module_three/resume_review_checklist.md)
 2. After any initial corrections are discussed, the following questions with each student:
 
 * What is effective and/or stands out to you about this resume?

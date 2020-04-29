@@ -35,7 +35,7 @@ You can find the partners from these projects in this [repo](https://github.com/
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_iii.md)
+[Student Markdown](/module_two/feedback_iii.md)
 
 Length: 60 minutes
  

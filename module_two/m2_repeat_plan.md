@@ -15,11 +15,11 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
-  * Week 1: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/flower_exercise.md)
-  * Week 2: [Professional Storytelling II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-  * Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
-  * Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-  * Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
+  * Week 1: [What Color is Your Parachute: Flower Exercise](/module_two/flower_exercise.md)
+  * Week 2: [Professional Storytelling II](/module_two/professional_storytelling_ii.md)
+  * Week 3: [Personal Branding: Developer Identity](/module_two/developer_identity.md)
+  * Week 4: [Outreach & Networking](/module_two/outreach_and_networking.md)
+  * Week 5: [Interview Prep I](/module_two/interview_prep_i.md)
 
 ### Deliverables
 * You **are required** to:

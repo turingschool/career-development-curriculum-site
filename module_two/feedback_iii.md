@@ -31,7 +31,7 @@ What value is there in using feedback for personal growth? Why is this something
 * Create goals for how to improve your collaboration practices
 
 ### Optional Deliverable
-Use your Johari Windows and to complete [this reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_implementation_reflection.md) 
+Use your Johari Windows and to complete [this reflection](/module_two/feedback_implementation_reflection.md) 
 
 ### Taking Feedback
 Reflect on these questions in your journal and then **Turn & Talk** to discuss your ideas with a partner:
@@ -117,7 +117,7 @@ Creating a process for yourself can help take the ego out of the equation as you
 ### Putting It Into Practice: Johari Windows
 Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
-Complete the [Johari Window activity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
+Complete the [Johari Window activity](/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. Create your own copy of the [Johari Window](https://docs.google.com/document/d/1IFaKPTEA3V96i8cboxqeAfgKEyEbigwIxQ5KQ-lp440/edit?usp=sharing).
 
 Analyze:
 

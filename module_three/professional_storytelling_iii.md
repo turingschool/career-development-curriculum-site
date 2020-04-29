@@ -44,8 +44,8 @@ We'll focus on:
 Some resources for you:
 
 * Join #job-hunt
-* [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
-* [Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/job_search_care_package.md)
+* [Interview Prep Resources](/module_four/interview_prep_resources.md)
+* [Job Search Care Package](/module-5/job_search_care_package.md)
 
 **Slide #4:**
 
@@ -177,7 +177,7 @@ Candidates:
 * [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
 * [Ryan Workman](https://alumni.turing.io/sites/default/files/resumes/Workman%20Turing%20Resume.pdf)
 * [Torie Joy-Warren](https://alumni.turing.io/sites/default/files/resumes/torie_joy_warren.pdf)
-* [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
+* [Andrew James](/files/Andrew%20James%20Resume.pdf)
 * [Rose Kohn](https://alumni.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
 * [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
 
@@ -206,7 +206,7 @@ As a junior developer, your resume might look very different from its previous f
 * Produce a resume with clear and concise language aligned with current tech industry standards
 
 #### Content Inclusion - Follow this order
-Use this [checklist when creating your resume](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
+Use this [checklist when creating your resume](/module_three/resume_review_checklist.md)
 
 * **Header:**
 	* Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)

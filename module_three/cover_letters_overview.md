@@ -6,7 +6,7 @@
 There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
 
 ### Before the Session
-Facilitator #1 should select a job posting ahead of time that you'll use to demonstrate writing a cover letter for in the session. Use sites from the [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md) lesson to help you. 
+Facilitator #1 should select a job posting ahead of time that you'll use to demonstrate writing a cover letter for in the session. Use sites from the [Job Search Strategies](/module_three/job_search_strategies.md) lesson to help you. 
 
 ### Session Structure
 
@@ -139,11 +139,11 @@ In groups, discuss these cover letters as though you're a hiring manager:
 * What is effective? What value could they bring to the company? How do you know?
 * What could be changed to make the letter more effective?
 
-* [April Dagonese](https://github.com/turingschool/career-development-curriculum/blob/master/files/April%20Cover%20Letter.pdf)
-* [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-* [Tommasina Miller](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
-* [Tom Wilhoit](https://github.com/turingschool/career-development-curriculum/blob/master/files/ibotta-cover-letter.pdf)
-* [Vinton Te'o](https://github.com/turingschool/career-development-curriculum/blob/master/files/Vinton%20Cover%20Letter.pdf)
+* [April Dagonese](/files/April%20Cover%20Letter.pdf)
+* [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+* [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
+* [Tom Wilhoit](/files/ibotta-cover-letter.pdf)
+* [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
 
 **Note to Facilitator #2:** Call on 2-3 groups to share out some takeaways about the different letters.
 
@@ -158,7 +158,7 @@ Bonus:
 * Interested in a specific company? Use their tools or libraries in your projects at Turing! Mention this in your cover letter
 
 Need help?
-* To ensure you're hitting the right points, you can use this [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
+* To ensure you're hitting the right points, you can use this [Cover Letter Checklist](/module_four/cover_letter_checklist.md)
 
 **Slide #15:**
 
@@ -222,5 +222,5 @@ Using a position you've added to Huntr, work on a cover letter today using the p
 Reminder about deliverables:
 
 * Cover letter draft for a real position due week 1 of Mod 4
-  * Reminder you can find job postings from [the sites listed here](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
+  * Reminder you can find job postings from [the sites listed here](/module_three/job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
 * Turing alumni portfolio due Monday of week 6 at 9am

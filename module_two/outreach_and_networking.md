@@ -36,7 +36,7 @@ Time: 60 minutes
 * Know what to include and what not to include in an outreach message
 
 ### Deliverable
-Provide a plan for how you'll start your outreach and networking this module using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md).
+Provide a plan for how you'll start your outreach and networking this module using these [guidelines](/module_two/outreach_networking_guidelines.md).
 
 **Slide #5:**
 

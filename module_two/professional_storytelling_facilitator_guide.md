@@ -17,7 +17,7 @@
 
 ### Session Structure
 
-[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
+[Student Markdown](/module_two/professional_storytelling_ii.md)
 
 Length: 60 minutes
  

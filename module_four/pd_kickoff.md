@@ -11,7 +11,7 @@ Prior to the session:
 
 * Instruct students to bring their notebooks
 * Facilitators bring chart paper and markers
-* Facilitators print out enough [cover letter checklists](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) for each student
+* Facilitators print out enough [cover letter checklists](/module_four/cover_letter_checklist.md) for each student
 
 **Facilitator #1:** Using slides #3-5, go through the following:
 
@@ -83,9 +83,9 @@ Now that we know our cohort norms for Mod 4, let's discuss options for Mod 4 PD.
 ### Mod 4 PD Options
 While you will still receive a few whole group PD sessions, in weeks 3-5, you can choose to participate in small group job search mentorship with a staff member. 
 
-Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/job_search_mentorship_application.md). You'll apply [here](https://forms.gle/J4B9VmbKojNiLvjm8), and the deadline is 4pm on Monday of Week 2. Discuss questions from the whole group.
+Please read over this [1-pager](https://docs.google.com/document/d/1EsPZtNaDBTNvFUcoVwGVYPLGg7wQtNqJUKix0XS88Xs/edit?usp=sharing) with information on what this means as well as the [application requirements for job search mentorship](/module_four/job_search_mentorship_application.md). You'll apply [here](https://forms.gle/J4B9VmbKojNiLvjm8), and the deadline is 4pm on Monday of Week 2. Discuss questions from the whole group.
 
-**Facilitator #1:** Pass out the [cover letter checklists](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md) to all students. **Facilitator #2:** Using Slides #17-21, go through the following:
+**Facilitator #1:** Pass out the [cover letter checklists](/module_four/cover_letter_checklist.md) to all students. **Facilitator #2:** Using Slides #17-21, go through the following:
 
 ### Cover Letter Review
 Cold calling of the whole group:
@@ -102,7 +102,7 @@ Reminder that a cover letter should:
 
 #### Individual Review
 * Read through your cover letter and write down specific questions you have about it
-* Compare your cover letter to the norms of the [cover letter checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
+* Compare your cover letter to the norms of the [cover letter checklist](/module_four/cover_letter_checklist.md)
 * Highlight how many times you say "I" versus the name of the company
 
 #### Small Group Review

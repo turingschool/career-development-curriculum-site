@@ -2,6 +2,6 @@
 
 * Deliverable before graduation: [Accountability Group DTR]()
 
-* [Job Search Care Package](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/job_search_care_package.md)
+* [Job Search Care Package](/module-5/job_search_care_package.md)
 
 

@@ -18,11 +18,11 @@ By achieving the objectives listed above, students will be prepared for a succes
 
 ### Weekly Sessions
 
-* Week 1: [Cover Letter Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_workshop.md) 
-* Week 2: [Behavioral Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/behavioral_interview_prep.md)
+* Week 1: [Cover Letter Workshop](/module_four/cover_letter_workshop.md) 
+* Week 2: [Behavioral Interview Prep](/module_four/behavioral_interview_prep.md)
 * Week 3: External Professional Review of resumes, cover letters, LinkedIn, Turing portfolios, professional stories by mentors and potential employers
-* Week 4: [Negotiations & Equity Discussion](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
-* Week 5: [Post Grad Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/mod_5_prep.md)
+* Week 4: [Negotiations & Equity Discussion](/module_four/negotiations.md)
+* Week 5: [Post Grad Prep](/module_four/mod_5_prep.md)
 
 Additional Professional Development Opportunities:
 
@@ -33,10 +33,10 @@ Additional Professional Development Opportunities:
 ### Professional Development Peer Groups & Coaching
 Each Module Four student will be assigned a peer group to check in with every Thursday of the module. These groups will serve as an  accountability and motivational system to help students identify job search goals and how to achieve them with each other's support. They also serve as a safe environment to identify potential blockers in the job search and find solutions to them. Each group will also have weekly check-ins with a member of Turing staff who will serve as a job search coach. 
 
-Reference [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/guidelines_for_support_groups.md) for how the groups can work together.
+Reference [these guidelines](/module_four/guidelines_for_support_groups.md) for how the groups can work together.
 
 ### Deliverables
 In order to fulfill the requirements of Module Four, students will:
 
-* A [Post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted to Kayt on Mondy of Week 6
+* A [Post-grad job search action plan](/module_four/post_grad_plan.md) to be submitted to Kayt on Mondy of Week 6
 * Complete a mock interview with your instructor and/or mentor during module 4

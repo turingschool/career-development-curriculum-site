@@ -75,7 +75,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * Retro notes
   * Eval notes
 * Utilize your resources:
-  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+  * [Interview Prep Resources](/module_four/interview_prep_resources.md)
 
 #### Demo
 As a class, talk through the following questions and think about how you could answer each one:
@@ -113,7 +113,7 @@ Step 3: Discuss how you will incorporate the feedback to improve your answer.
 ### Prep for Mod 4
 Using the practice from today, think about your job search that starts next mod, and fill out the survey for Module 4 PD Peer Groups.
 
-Check out these [interview prep resources for both technical and behavioral interview help](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+Check out these [interview prep resources for both technical and behavioral interview help](/module_four/interview_prep_resources.md)
 
 ### Closing
 Create a plan to get your resume and Turing portfolio finished by next week's portfolio review. 

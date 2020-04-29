@@ -17,11 +17,11 @@ By mastering the objectives listed above, students will be able to put themselve
 
 ### Sessions
 
-* Week 1: [What Color is Your Parachute: Flower Exercise](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/flower_exercise.md)
-* Week 2: [Professional Storytelling](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/professional_storytelling_ii.md)
-* Week 3: [Personal Branding: Developer Identity](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/developer_identity.md)
-* Week 4: [Outreach & Networking](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md)
-* Week 5: [Interview Prep I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/interview_prep_i.md)
+* Week 1: [What Color is Your Parachute: Flower Exercise](/module_two/flower_exercise.md)
+* Week 2: [Professional Storytelling](/module_two/professional_storytelling_ii.md)
+* Week 3: [Personal Branding: Developer Identity](/module_two/developer_identity.md)
+* Week 4: [Outreach & Networking](/module_two/outreach_and_networking.md)
+* Week 5: [Interview Prep I](/module_two/interview_prep_i.md)
 
 ### Deliverables & Deadlines
 In order to fulfill the requirements of Module Two, students will submit these deliverables by these due dates:
@@ -31,8 +31,8 @@ In order to fulfill the requirements of Module Two, students will submit these d
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | Professional Story Draft         | Write your draft in a private gist and [submit the link here](https://goo.gl/forms/nfu0g8MnoyKXjfnp1)                                                                                                                                                              | 9am on Monday of Week 3   |
 | LinkedIn Updates       | Update your LinkedIn profiles to include a professional headshot, an updated heading that includes your new brand, an updated professional summary, and with Turing added to your experience | 9am on Monday of Week 4   |
-| Outreach & Networking Plan      | Write out your plan using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_networking_guidelines.md) in a private gist and [submit the link here](https://goo.gl/forms/U6q53OzhontO7Zjl1) | 9am on Monday of Week 5 |
+| Outreach & Networking Plan      | Write out your plan using [this template](/module_two/outreach_networking_guidelines.md) in a private gist and [submit the link here](https://goo.gl/forms/U6q53OzhontO7Zjl1) | 9am on Monday of Week 5 |
 | Updated Professional Story Draft | If you are given feedback that you need to update your professional story, update your original gist and send a DM to Allison when you have completed the revisions.                                                                                               | 9am on Monday of Week 6   |
 
 ### Repeating the Module
-If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/m2_repeat_plan.md). 
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](/module_two/m2_repeat_plan.md). 

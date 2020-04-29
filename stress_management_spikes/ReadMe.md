@@ -7,7 +7,7 @@ These sessions are designed to give students strategies for managing stress in a
 * Leave the session with at least one strategy to use for stress management at Turing
 
 ## Strategies
-* [Shifting Emotions from Negative to Positive](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/shifting_negative_emotions.md)
+* [Shifting Emotions from Negative to Positive](/stress_management_spikes/shifting_negative_emotions.md)
 
 ## Resources
 * [TED Talk from Kelly McGonigal: How to Make Stress Your Friend](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en)
@@ -18,4 +18,4 @@ These sessions are designed to give students strategies for managing stress in a
 * [Turning Stress Into An Asset](https://hbr.org/2011/06/turning-stress-into-an-asset?cm_sp=Topics-_-Links-_-Read%20These%20First)
 
 ## Facilitator's Guide 
-For anyone facilitating a Stress Management Spike, use these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/stress_management_facilitator_guide.md) to plan a Spike session
+For anyone facilitating a Stress Management Spike, use these [guidelines](/stress_management_spikes/stress_management_facilitator_guide.md) to plan a Spike session

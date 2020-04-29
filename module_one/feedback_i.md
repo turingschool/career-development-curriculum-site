@@ -1,11 +1,14 @@
-# Feedback I
-## Confronting Our Feedback Triggers & Writing Effective Feedback
+---
+layout: page
+title: Feedback I
+subheading: Confronting Our Feedback Triggers & Writing Effective Feedback
+---
 
 We believe that a big component of unlocking your potential at Turing revolves around strengthening your communication skills, and giving and receiving feedback well allows you to improve your practices and strengthen your relationships for longterm growth in your career path.
 
 ### Pre-Reading for the Session
 
-[Chapter One from Thanks for the Feedback](https://github.com/turingschool/career-development-curriculum/blob/master/files/Thanks%20For%20the%20Feedback_Ch%201.pdf)
+[Chapter One from Thanks for the Feedback](/files/Thanks%20For%20the%20Feedback_Ch%201.pdf)
 
 ### Slides
 [Slides for this session](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing)
@@ -37,12 +40,12 @@ Length: 60 mins
 
 ### Deliverable
 
-You will submit feedback for your paired project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors. 
+You will submit feedback for your paired project partners this module by sending a paragraph of written feedback intended for your partner in a survey. Your feedback will be reviewed and you may be asked to update the feedback before it is passed on to your partner. Feedback will also be shared with your instructors.
 
 #### Opening
 **Slide #5:**
 
-Why are we talking about this? 
+Why are we talking about this?
 
 The benefits of giving and receiving feedback well include:
 
@@ -57,9 +60,9 @@ The benefits of giving and receiving feedback well include:
 
 Think of a couple of pieces of feedback in the recent past that you found tough to receive:
 
-* What were the most immediate thoughts to go through your mind as you received this feedback? 
-* How would you describe your experience in relation to the three triggers (truth, relationship, identity)? 
-* Which of the three triggers do you find most perplexing and why? 
+* What were the most immediate thoughts to go through your mind as you received this feedback?
+* How would you describe your experience in relation to the three triggers (truth, relationship, identity)?
+* Which of the three triggers do you find most perplexing and why?
 * What might help you manage these triggers?
 
 **Turn & Talk:** Share your experience with a partner
@@ -70,15 +73,15 @@ Recap the 3 triggers as a whole group:
 
 * Truth
 * Relationship
-* Identity 
+* Identity
 
 **Slides #9-12:**
 
 ### Three Kinds of Feedback
 In order to better recognize our triggers, we need to first understand what kind of feedback we're hearing
 
-* **Appreciation** is giving thanks to your partner and encouraging your partner to keep doing what they're doing well. 
-	* To be effective: 
+* **Appreciation** is giving thanks to your partner and encouraging your partner to keep doing what they're doing well.
+	* To be effective:
 		* Specific
 		* Authentic
 		* Delivered in a form that works for you
@@ -86,7 +89,7 @@ In order to better recognize our triggers, we need to first understand what kind
 	* To be effective:
 		* Listening
 		* Asking questions
-* **Evaluation** is telling your partner where they stand compared to a standard or compared to others. Evaluation aligns expectations and clarifies consequences. 
+* **Evaluation** is telling your partner where they stand compared to a standard or compared to others. Evaluation aligns expectations and clarifies consequences.
 	* To be effective:
 		* Be clear the standards or expectations to evaluate against
 		* Aligns expectations and informs decision making
@@ -94,13 +97,13 @@ In order to better recognize our triggers, we need to first understand what kind
 **Slide #13:**
 
 #### Examples - which type of feedback is this?
-**Note to Facilitator #1:** You can either cold call on students in the whole group or have them discuss the examples in pairs and then give responses. In each example, there could be triggers; ask the students, "If you received this feedback, how would you feel? What assumptions are being made here?" 
+**Note to Facilitator #1:** You can either cold call on students in the whole group or have them discuss the examples in pairs and then give responses. In each example, there could be triggers; ask the students, "If you received this feedback, how would you feel? What assumptions are being made here?"
 
 * "I admire how you jumped into discussing our Git workflow. I was feeling lost about that, and you helped me understand it more because you took the time to explain what you were doing."
 
 * "I would have liked to hear your ideas more. It seemed like you were hesitant to share them with me and questioned yourself a lot. I think the initial brainstorming phase would be a good time to share your ideas so that you can test them out or spend time explaining them in a lower stakes environment."
 
-* "Compared to the last time we paired together, I noticed that you were debugging errors more quickly this time around. I can see that you've been spending time going through the docs, and I appreciate how much more efficient that made our worktime." 
+* "Compared to the last time we paired together, I noticed that you were debugging errors more quickly this time around. I can see that you've been spending time going through the docs, and I appreciate how much more efficient that made our worktime."
 
 #### Tips:
 
@@ -113,8 +116,8 @@ Here's more on why feedback can create triggers...
 
 **Slide #15:**
 
-### Intention vs. Impact 
-Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. The way we are impacted by feedback can correspond with one of the three triggers. 
+### Intention vs. Impact
+Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. The way we are impacted by feedback can correspond with one of the three triggers.
 
 For example:
 
@@ -140,7 +143,7 @@ Dead angles are always present as a gap between the self we think we present and
 **Facilitator asks from the whole group:**
 
 * How could dead angles potentially affect the intent of a feedback giver's words?
-* What dead angles should we be aware of when we're providing written feedback? 
+* What dead angles should we be aware of when we're providing written feedback?
 
 Examples might include: lack of tone of voice, misunderstandings of emphasis on certain words, lack of facial expressions
 
@@ -167,7 +170,7 @@ Discuss these examples with your partner:
 **Slide #20:**
 
 ### Being Intentional in Giving Feedback: So Many Frameworks!
-In [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md), we discussed the Crucial Conversations framework, which is mean to establish safety and respect in your conversation by establishing:
+In [Learning to Pair](learning_to_pair), we discussed the Crucial Conversations framework, which is mean to establish safety and respect in your conversation by establishing:
 
 * Facts
 * Feelings
@@ -179,7 +182,7 @@ Feedback conversations can follow a similar framework. When thinking about what 
 * Make it **actionable**
 * Make it **kind**
 
-Now, how can you actually do that? Similar to using Crucial Conversations, the Situation-Behavior-Impact framework can help you clarify the feedback you need to deliver. 
+Now, how can you actually do that? Similar to using Crucial Conversations, the Situation-Behavior-Impact framework can help you clarify the feedback you need to deliver.
 
 The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Feedback tool to help managers deliver clear, specific feedback. You can apply it to your partnerships at Turing too!
 
@@ -197,10 +200,10 @@ The [Center for Creative Leadership](https://www.ccl.org/) developed the SBI Fee
 
 **Slide #24-25:**
 
-* **Impact:** The last step is to describe the impact that the behavior had on you and the project. Try to use "I" statements when referring to yourself. As you discuss the impact, make it actionable for what your team member could do to change or build on the behavior for the future. 
+* **Impact:** The last step is to describe the impact that the behavior had on you and the project. Try to use "I" statements when referring to yourself. As you discuss the impact, make it actionable for what your team member could do to change or build on the behavior for the future.
 	* "During work time yesterday, when you completed that feature, you did not ask me to review your PR before pushing your code. We had written in our DTR memo that we would review each other's code as part of our workflow. I'm concerned that not taking time to review our code could result in more bugs. I also wish I could've learned more about the code from reviewing it."
-	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too." 
-	
+	* "At the check-in with the instructor on Monday afternoon, I saw you point out the code that I wrote, and you mentioned that you learned a lot from it. I really appreciate that you took the time to acknowledge what I did, and I'm glad I was able to help you learn too."
+
 **Slide #26:**
 
 Again, a framework can be helpful when you are trying to figure out what feedback to give and how to give it.
@@ -208,9 +211,9 @@ Again, a framework can be helpful when you are trying to figure out what feedbac
 **Slide #27:**
 
 Other guiding principles for deciding on what feedback to give:
-* What feedback will be helpful for my partner's learning and coding career? 
-* What should my partner consider when working with someone like me in the future? 
-* What should my partner consider when working with someone who is different from me in the future? 
+* What feedback will be helpful for my partner's learning and coding career?
+* What should my partner consider when working with someone like me in the future?
+* What should my partner consider when working with someone who is different from me in the future?
 * How could my partner build on what they're doing well?
 
 **Facilitator #1:** Using Slides #29-31, go through the following:
@@ -223,23 +226,23 @@ Other guiding principles for deciding on what feedback to give:
 
 **Facilitator asks from the whole group:**
 
-* What do you notice about this feedback? 
-* What's working well? 
-* What assumptions are being made here? What would trigger you if you received this feedback? 
-* What would you change? 
+* What do you notice about this feedback?
+* What's working well?
+* What assumptions are being made here? What would trigger you if you received this feedback?
+* What would you change?
 
 **Note to Facilitator:** There often isn't time for work time in the session, so use the following (Slide #30) only if there's time; otherwise, skip to Slide #31
 
-### You Do: Work Time 
+### You Do: Work Time
 Write out your feedback for your project partner
 
 Keep in mind:
 
-* What should you be aware of? 
+* What should you be aware of?
 * How does your tone sound?
 * Remember that we're all trying to help each other -- how can you give feedback that will be most meaningful for your partner's growth?
 
 **Slide #31:**
 
 ### Closing
-* Your deliverable is to submit your appreciation and coaching feedback for your partner by Monday of Week 4 at 9am using the survey posted in your cohort Slack channel. 
+* Your deliverable is to submit your appreciation and coaching feedback for your partner by Monday of Week 4 at 9am using the survey posted in your cohort Slack channel.

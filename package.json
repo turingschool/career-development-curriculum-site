@@ -1,0 +1,28 @@
+{
+  "name": "front-end-curriculum",
+  "version": "1.0.0",
+  "description": "Open source curriculum for Turing School's back-end engineering program.",
+  "main": "index.html",
+  "dependencies": {
+    "eslint": "^6.7.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.1",
+    "webdriverio": "^4.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingschool/back-end-curriculum-site.git"
+  },
+  "author": "Turing School of Software and Design",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/turingschool/back-end-curriculum-site/issues"
+  },
+  "homepage": "https://github.com/turingschool/back-end-curriculum-site#readme"
+}

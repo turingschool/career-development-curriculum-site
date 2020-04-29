@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Learning to Pair - Back-End Engineering Curriculum - Turing School of Software and Design</title>
+
+<link rel="apple-touch-icon" sizes="57x57" href="assets/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="assets/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="assets/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="assets/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="assets/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="assets/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicons/favicon-16x16.png">
+<link rel="shortcut icon" type="image/png" href="/assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="assets/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta content='Learning to Pair - Back-End Engineering Curriculum - Turing School of Software and Design' name='title' />
+<meta content='Learning to Pair - Back-End Engineering Curriculum - Turing School of Software and Design' name='og:title' />
+
+
+  <meta content='https://career.turing.io/' property='og:url' />
+  <meta content="Open source career development curriculum for the Turing School of Software and Design" property='og:description' />
+  <meta content="blog" property="og:type" />
+
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href='/stylesheets/reset.css'>
+<link rel="stylesheet" type="text/css" href='/stylesheets/styles-2017121801.css'>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/assets/javascript/navigation.js"></script>
+
+  </head>
+
+  <body>
+    <div class="container">
+      <section class="sidebar">
+        
+        <nav role="navigation">
+  <ul class="nav-links">
+    <li>
+      <a href="/" class="home-logo-link">
+        <img src="/assets/icons/TuringSchool_LogoMark_Gray.png"
+         alt="Turing School of Software and Design logo">
+      </a>
+    </li>
+    <li class="uppercase"><a href="/module_one">Module 1</a></li>
+    <li class="uppercase"><a href="/module_two">Module 2</a></li>
+    <li class="uppercase"><a href="/module_three">Module 3</a></li>
+    <li class="uppercase"><a href="/module_four">Module 4</a></li>
+  </ul>
+</nav>
+
+      </section>
+      <section class="content">
+        <article>
+          <header>
+            <h1>
+              Learning to Pair
+              <small>How to Define the Relationship and Hold Each Other Accountable</small>
+            </h1>
+          </header>
+          <p><a href="https://docs.google.com/presentation/d/1_ZfOvYNMeOQeks4CBioyMZy3mm_5pWdyX6Tp9Ej4OLw/edit?usp=sharing">Slides for the Session</a></p>
+
+<h3 id="facilitator-instructions">Facilitator Instructions</h3>
+<p>There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.</p>
+
+<h3 id="session-structure">Session Structure</h3>
+
+<p>Length: 60 mins</p>
+
+<p><strong>Facilitator #1:</strong> Using slide #2-6, go through the following:</p>
+
+<p><strong>Slide #2:</strong></p>
+
+<ul>
+  <li>Opening (why, objectives, and turn &amp; talk): 5 mins</li>
+  <li>Types of Pair Programming &amp; Intro to DTR: 5 mins</li>
+  <li>Relating Styles: 15 mins</li>
+  <li>Journal: Define Your Expectations: 5 mins</li>
+  <li>Compromising &amp; Accountability: 5 mins</li>
+  <li>Crucial Conversations: 10 mins</li>
+  <li>Practice: 5 mins</li>
+  <li>Debrief &amp; Closing: 5 mins</li>
+</ul>
+
+<h3 id="objectives">Objectives:</h3>
+<p><strong>Slide #4:</strong></p>
+
+<ul>
+  <li>Identify various forms of pair programming</li>
+  <li>Understand what DTR is and how to hold a DTR conversation</li>
+  <li>Understand how your Relating Style causes you to interact with others</li>
+  <li>Define your own expectations in a working relationship</li>
+  <li>Apply strategies to hold your partners accountable</li>
+  <li>Demonstrate how to address broken expectations</li>
+</ul>
+
+<h3 id="deliverable">Deliverable:</h3>
+
+<ul>
+  <li>Complete a DTR memo for at least one project using this <a href="dtr_guidelines_memo">template</a> and <a href="https://goo.gl/forms/nzHkeSW3DeqdezV22">submit it here</a> by 5pm on Monday of Week 2</li>
+</ul>
+
+<h3 id="opening">Opening</h3>
+
+<p><strong>Slide #5:</strong></p>
+
+<p>Pairing with other programmers is an essential practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Pairing effectively comes down to establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship.</p>
+
+<h4 id="turn--talk">Turn &amp; Talk</h4>
+
+<p><strong>Slide #6:</strong></p>
+
+<p>Turn and talk with the person next to you to share:</p>
+
+<ul>
+  <li>In the past when you’ve worked in teams, what has it been successful?</li>
+  <li>What has it been unsuccessful?</li>
+</ul>
+
+<p>You’ll often find similar experiences happen in pair programming. This session will help you discover tools to navigate this relationship in a way that it’s a great learning experience for you both.</p>
+
+<p><strong>Facilitator #2:</strong> Using slides #8-10, go through the following and call on students to discuss what’s helpful in each style of pair programming and when they might want to try out different styles:</p>
+
+<h3 id="types-of-pair-programming">Types of pair programming</h3>
+
+<p><strong>Slide #8:</strong></p>
+
+<p><a href="https://www.agilealliance.org/glossary/pairing/">Pair programming</a> can take many forms, and here are some suggestions of how you can approach pairing at Turing:</p>
+
+<ul>
+  <li>
+    <p><strong>Driver-Navigator:</strong> Driver has control of the keyboard while the Navigator guides the Driver towards the end goal.</p>
+
+    <p>Roles: Driver types and hones muscle memory through minute-to-minute typing while the Navigator pays attention to the code being written</p>
+
+    <p>Tips: Switch these roles up throughout a work session!</p>
+
+    <p>Potential pitfall: The Navigator stops paying attention, and the Driver starts doing their own thing. Active participation and constant communication is crucial for this pairing to be successful.</p>
+  </li>
+  <li>
+    <p><strong>Ping Pong pairing:</strong> This looks like side-by-side pairing and could include 2 mice and 2 keyboards.</p>
+
+    <p>Roles: Ping pong pairing is especially effective when writing tests. Team Member 1 can write a test while Team Member 2 can make the test green. Or the responsibility for making the test pass can switch back and forth (or ping pong, if you will) – Team Member 1 could write test, Team Member 2 makes it green and then writes another test, Team Member 1 then makes that test green and so on.</p>
+
+    <p>Tips: Control can be passed back and forth frequently here, but in order to target what each person needs in their learning, it requires communication. If one member has more expertise in a certain area, this is both a great way for that person to exercise that knowledge and directly give feedback to the person who is learning to get better in that area.</p>
+
+    <p>Potential pitfall: Not setting expectations ahead of time could make it more difficult to decide who is doing what.</p>
+  </li>
+  <li>
+    <p><strong>Distributed Pairing (Remote Pairing):</strong></p>
+
+    <p>Roles: You can incorporate either Driver-Navigator or Ping Pong during a remote pairing</p>
+
+    <p>Tips: Invest in a good headset; Experiment with Slack calls where you share your screen to build your comfort with using it; Spend longer on the DTR (covered next) to get to know each other; Be more vocal about when to switch Driver and Navigator roles</p>
+
+    <p>Potential pitfall: Technical issues when pairing remotely are common, so test your tools ahead of time!</p>
+  </li>
+</ul>
+
+<h3 id="defining-the-relationship-dtr">Defining the Relationship (DTR)</h3>
+<p><strong>Slide #9:</strong></p>
+
+<p>DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this <a href="dtr_guidelines_memo">DTR Guiding Questions &amp; Memo template</a> to guide the conversation.</p>
+
+<p><strong>Note to Facilitator #2:</strong> Share the DTR guidelines &amp; memo template in the cohorts’ channels and cold call a few students to discuss the follow questions:</p>
+
+<p><strong>Discussion Questions:</strong></p>
+
+<ul>
+  <li>What do you notice about these guiding questions?</li>
+  <li>What would you need to keep in mind when answering these questions with your partner?</li>
+  <li>How can you use this template to make your project successful?</li>
+</ul>
+
+<p>Establishing a relationship with your mentor should also include a DTR. Here’s a <a href="https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing">cheatsheet</a> for planning that conversation.</p>
+
+<p><strong>Facilitator #1:</strong> Using slides #12-16, discuss the following information on communication and relating styles:</p>
+
+<h3 id="how-we-communicate">How We Communicate:</h3>
+
+<p><strong>Slide #12:</strong></p>
+
+<p>Let’s look at the 3 ego-states from Eric Berne’s <a href="http://www.ericberne.com/transactional-analysis/">Transactional Analysis</a>:</p>
+
+<ul>
+  <li>Parent: Our taught concept of life; shown by a need to control or nurture. We demonstrate this through behaviors, thoughts, and feelings copied from parents or parent figures.</li>
+  <li>Adult: Our thought concept of life; shown through using reason and maturity. We demonstrate this through behaviors, thoughts, and feelings that are <em>direct responses</em> to the here and now.</li>
+  <li>Child: Our felt concept of life; shown through how easily we can adapt to new situations or desire to rebel &amp; exercise freedom. We demonstrate this through behaviors, thoughts, and feelings replayed from childhood.</li>
+</ul>
+
+<p><a href="https://medium.com/@NataliMorad/how-to-communicate-better-with-transactional-analysis-d0d32f9d50da">This blog post</a> gives an excellent breakdown of these different ego-states in action.</p>
+
+<h4 id="our-ideal-communication-vs-what-often-happens">Our Ideal Communication vs. What Often Happens</h4>
+
+<p><strong>Slides #13-14:</strong></p>
+
+<p>When working and communicating with others, we all ideally hope that we are utilizing our Adult ego state, reflected in reason, maturity, and connecting to the present moment, and we hope that we are aligned with our teammates.</p>
+
+<p>However, in reality, we are often accessing our Parent and Child roles or using ego states that are misaligned with others:</p>
+
+<ul>
+  <li><strong>Complimentary:</strong> This occurs when communication styles line up; either shown by Adult-Adult or Parent-Child. It is easier to communicate when these styles complement each other since we are not at cross-purposes, and there will be less of a chance of misunderstanding.</li>
+  <li><strong>Cross:</strong> This occurs when our communication styles do not line up. We might pose a question from an Adult ego state, but the person receiving it reacts from a Parent or Child ego state. When this happens, misunderstandings are frequent.</li>
+  <li><strong>Ulterior:</strong> This involves unspoken and inferred communication. Communication is spoken, but the person receiving it hears a different intent.</li>
+</ul>
+
+<p>A lot of this misaligned communication comes down to a mismatch of intent and impact, which we’ll talk about more in-depth during the Feedback I session next week.</p>
+
+<h4 id="want-to-know-more-pairin-measures-this">Want to know more? Pairin measures this!</h4>
+<p><strong>Slide #15:</strong></p>
+
+<p>Pairin breaks down these 3 ego states into 5 Relating Styles:</p>
+
+<ul>
+  <li>Parent: Correcting Others or Enriching Others
+    <ul>
+      <li>Needing to control vs. needing to nurture</li>
+    </ul>
+  </li>
+  <li>Adult: Responsibility
+    <ul>
+      <li>Using reason and maturity</li>
+    </ul>
+  </li>
+  <li>Child: Approval Seeking or Playfulness
+    <ul>
+      <li>How easily we can adapt to new situations vs. desire to rebel &amp; exercise freedom</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Note: your Relating Style is not listed in your Top 4 qualities; ask Allison to create a report for you on this if you want to know more.</p>
+
+<p><strong>Pairin Example:</strong><br />
+<strong>Facilitator #1:</strong> Cold call 1-2 people: Using the chart on <strong>Slide #16</strong> which shows the relating styles of the Parent Ego state across both cohorts:</p>
+
+<ul>
+  <li>What do you notice about your cohorts?</li>
+  <li>How could people work together across opposite sides of this spectrum?</li>
+  <li>What should these people be aware of to keep from having cross purposes when communicating?</li>
+</ul>
+
+<p><strong>Facilitator #2:</strong> Using Slides #17-19, go through the following:</p>
+
+<h3 id="journal-reflection">Journal Reflection</h3>
+
+<p><strong>Slide #17:</strong></p>
+
+<p>Define your own expectations by reflecting on the following questions in your journals:</p>
+
+<ul>
+  <li>Define your strengths</li>
+  <li>How do you work best?
+    <ul>
+      <li>Where do you land on the introvert/extrovert spectrum?</li>
+      <li>What do you need your partner to know about working with you?</li>
+    </ul>
+  </li>
+  <li>Describe how you want to work with someone else
+    <ul>
+      <li>How do you relate to others when collaborating?</li>
+    </ul>
+  </li>
+  <li>How do you appreciate communication?</li>
+  <li>What does Git workflow look like for you?</li>
+  <li>Imagine that you might be working with someone with a very different personality than yours
+    <ul>
+      <li>How can you communicate your expectations so that you’re on the same page?</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="compromising-with-each-others-expectations">Compromising with Each Others’ Expectations</h3>
+<p><strong>Facilitator #2 says:</strong> How many of you are early birds? Now, how many of you are night owls? Let’s say the early birds and the night owls get paired up, how could they worked together successfully?</p>
+
+<ul>
+  <li>Solicit answers from the cohort on strategies for working together.</li>
+</ul>
+
+<p><strong>Slide 18:</strong></p>
+
+<ul>
+  <li>Beware of the Paired Project Fallacy:
+    <ul>
+      <li>My partner is better than I am OR My partner is holding me back.</li>
+    </ul>
+  </li>
+  <li>Why is this a fallacy?
+    <ul>
+      <li>This is a fallacy because it discounts all the important skills you both bring to your partnership.</li>
+      <li>If you don’t feel as strong in your technical skills, what are your strengths? How do your strengths balance out your partner’s? How can you contribute to the project management? What do you want to learn during this project to improve your technical skills?</li>
+      <li>If you feel like you have stronger technical skills, teaching your partner will help you solidify these skills. Alternatively, what can you learn from your partner?</li>
+      <li>Beware of the “Developer’s Ego”; learning to ask questions is an important skill for the workplace.</li>
+    </ul>
+  </li>
+  <li>Bottom line: Paired project code is owned by the entire team. There is no room (and no time, considering your tight deadlines) for egos – you are here to support each other.</li>
+</ul>
+
+<h3 id="holding-each-other-accountable">Holding Each Other Accountable</h3>
+<p><strong>Slide #19:</strong></p>
+
+<ul>
+  <li>Memo: Documenting your DTR in a memo will provide you with a record of what you discussed to reference as the project goes on. Make it into a gist so that everyone from the group has it.</li>
+  <li>Stand Up: Start each work session discussing what you are each working on that day and what goals you hope to accomplish at the end of the work session.</li>
+  <li>Retro: Hold regular retros to discuss what’s going well, what’s not going well, and what you should change as a group to make your project and team more successful.
+    <ul>
+      <li>We’ll talk about retros a little more in week 4.</li>
+    </ul>
+  </li>
+  <li>Re-DTR: In longer projects, review and readjust expectations midway through the project.</li>
+</ul>
+
+<p><strong>Facilitator #1:</strong> Using Slides #21-25, go through the following:</p>
+
+<h3 id="using-crucial-conversations">Using Crucial Conversations</h3>
+<p><strong>On Slide 21, Facilitator #1 says:</strong> Consider this scenario – you ask a friend to pick you up from the doctor’s office and take you to school. This is a really good friend, one you’ve relied on often. And right now, they’re late. What’s going through your mind?</p>
+
+<ul>
+  <li>Solicit 1-2 responses from the cohort.</li>
+</ul>
+
+<p>Then say: Ok, actually this friend is not that reliable. They’ve been late before. Sometimes they don’t return your messages. And now, they’re late, and you’re going to be late to class. Now, what’s going through your mind?</p>
+
+<ul>
+  <li>Solicit 1-2 responses from the cohort.</li>
+</ul>
+
+<p>Now say: We often go from thinking about external circumstances influencing someone’s behavior to starting to make assumptions about that person. That’s called the Fundamental Attribution Error.</p>
+
+<p>Now, let’s say your friend gets here finally. You get in the car, and your friend is giving all sorts of excuses (“Sorry, I had to take my dog to the vet, and then I had to call my grandma, and then there was a ton of construction so I had to take a detour…”), and you just say, “it’s fine.” What have you just done?</p>
+
+<ul>
+  <li>Solicit 1-2 responses from the cohort.</li>
+</ul>
+
+<p>You’ve reacted with <em>silence</em>; also known as passive aggression or enabling. You have not addressed the issue.</p>
+
+<p>Let’s say, you get in the car, they give you their excuses, and you really let them have it, yelling at them about what a bad friend they are! What have you just done?</p>
+
+<ul>
+  <li>Solicit 1-2 responses from the cohort.</li>
+</ul>
+
+<p>You’ve reacted with <em>violence</em>; also known as aggression. You also have not addressed the issue and maybe have ruined a relationship over it.</p>
+
+<h4 id="addressing-broken-expectations">Addressing Broken Expectations</h4>
+<p><strong>Slide #22:</strong> When a partner is not following through on expectations, the first step is to work on yourself:</p>
+
+<ul>
+  <li>How are you reacting?
+    <ul>
+      <li>Silence (avoiding the situation; passive aggression; using sarcasm). By not addressing the situation, it looks like you actually approve of what the other person did.</li>
+      <li>Violence (yelling; personal attacks). By reacting this way, it looks like you are hard to work with and are abusive when things don’t go your way.</li>
+      <li>Fundamental Attribution Error. This error comes from an assumption that others are doing contrary things because it’s part of their makeup or that they don’t care rather than considering other potential motivational forces</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Slide #23:</strong></p>
+
+<ul>
+  <li>How to fix these reactions:
+    <ul>
+      <li>Humanize the situation: analyze why the other person could have broken these social norms</li>
+      <li>Consider the 6 Sources of Influence:
+        <ul>
+          <li>Personal:
+            <ul>
+              <li>Motivation (does the person want/not want to do this?)</li>
+              <li>Ability (does the person have the ability to do this or not?)</li>
+            </ul>
+          </li>
+          <li>Social:
+            <ul>
+              <li>Motivation (peer pressure – from teammates, instructors, etc.)</li>
+              <li>Ability (what help does your partner need from others?)
+                <ul>
+                  <li>Think about how you’re contributing to the social aspect as well: pay attention to body language, tone of voice, etc.</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>Structural:
+            <ul>
+              <li>Motivation (deadlines, grades, etc.)</li>
+              <li>Ability (What is structurally holding you back? Do you need a better organizational system? Trello, waffle.io, etc.)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="facilitating-the-conversation">Facilitating the Conversation</h4>
+<p><strong>Slide #24:</strong> Now that you’ve identified a motivation behind your partner’s behavior, how do you conduct a conversation to change that behavior?</p>
+
+<ul>
+  <li><strong>Establish safety</strong>: you’re about to address something sensitive with another person and they may feel threatened in one way or another.
+    <ul>
+      <li><strong>Mutual Respect</strong>: People feel unsafe when they don’t feel mutual respect
+        <ul>
+          <li><strong>Fix</strong>: calm tone of voice, facial expressions, and using respectful language</li>
+          <li>Ask for permission to speak with your partner</li>
+          <li>Speak in private</li>
+        </ul>
+      </li>
+      <li><strong>Mutual Purpose</strong>: People feel unsafe when they don’t feel that there is a mutual purpose for resolving the problem
+        <ul>
+          <li><strong>Fix</strong>: Phrase your conversation around the goals of the project instead of you vs. your partner</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Use Contrasting: “Don’t/Do Statement”
+    <ul>
+      <li>Example: “I don’t want you to think that I don’t value your ideas. You’ve contributed a lot of great ideas to the project. I do want to talk about how we could discuss ideas as a group before making a decision.”</li>
+    </ul>
+  </li>
+  <li>Describe what’s happened:
+    <ul>
+      <li>Start with <strong>Facts</strong>. What exactly happened? <em>Be careful of <strong>NOT</strong> inserting your opinion of what happened.</em>
+        <ul>
+          <li>“We agreed that we would make big decisions together, but during the check-in, you told our instructor that you had already decided to implement that new feature before you discussed it with me.”</li>
+        </ul>
+      </li>
+      <li>Describe how the incident made you feel:
+        <ul>
+          <li>“When you said that, it made me feel frustrated because I didn’t think you valued my input and you weren’t taking our expectations seriously.”</li>
+        </ul>
+      </li>
+      <li><strong>Ask</strong> for the other person’s side:
+        <ul>
+          <li>“What is your take on this?”</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Slide #25:</strong></p>
+
+<ul>
+  <li>Following up after stating your side:
+    <ul>
+      <li>Listen to the other person’s side</li>
+      <li>Analyze the response &amp; go back to the 6 sources of influence:
+        <ul>
+          <li>Is the problem due to <strong>motivation</strong> or <strong>ability</strong>?</li>
+          <li>Discuss consequences related to your <strong>mutual purpose</strong>:
+            <ul>
+              <li>“If we don’t make decisions together, our project will suffer.”</li>
+            </ul>
+          </li>
+          <li>Discuss new expectations if the issue is motivation:
+            <ul>
+              <li>“It sounds like you made that the decision because you felt pressure from the instructor to have a new idea in place at the check-in. Let’s redefine our goals for each check-in.”</li>
+            </ul>
+          </li>
+          <li>Discuss finding resources if the issue is ability:
+            <ul>
+              <li>“You made the decision because you couldn’t reach me. Let’s find 3 mutual times we can check in throughout the day.”</li>
+            </ul>
+          </li>
+          <li>Create action steps:
+            <ul>
+              <li>Re-DTR: who will do what and when?</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Facilitator #2:</strong> Using Slides #27 &amp; 28, go through the following:</p>
+
+<h4 id="practice">Practice</h4>
+<p><strong>Slide #27:</strong></p>
+
+<p><strong>Scenario:</strong> During DTR, Partner A and Partner B decided that you would have an end of day retro to debrief how the worktime went. But at the end of the first day, Partner A left abruptly right after class and didn’t meet with Partner B for their retro. Then in day two, Partner A doesn’t have a task finished that was promised to be done. Partner B is worried about time and how to proceed when Partner A seems unreliable.</p>
+
+<ul>
+  <li>Decide who Partner A is and who Partner B is and use the ideas we’ve discussed to have a conversation to address the issue and reset expectations</li>
+  <li>What assumptions need to be addressed?</li>
+  <li>How will you conduct the conversation?</li>
+</ul>
+
+<p>Debrief by calling on 1-2 people: what was easy or difficult about having this conversation?</p>
+
+<h3 id="closing">Closing</h3>
+<p><strong>Slide #28:</strong></p>
+
+<p>Share out takeaways:</p>
+
+<ul>
+  <li>What is DTR?</li>
+  <li>How do you hold each other accountable to expectations?</li>
+  <li>What will you do if expectations broken?</li>
+  <li>What steps will you take to have that conversation?</li>
+</ul>
+
+        </article>
+      </section>
+    </div>
+    <footer>
+  <p>Turing School of Software and Design, a Colorado Non-Profit Organization.</p>
+  <p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+</footer>
+
+    <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+  </body>
+</html>

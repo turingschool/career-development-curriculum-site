@@ -64,7 +64,7 @@ Let's start by looking at calendars. I recommend using Google Calendar because y
     * [backend.turing.io](backend.turing.io)
     * [frontend.turing.io](frontend.turing.io)
 Find the relevant calendar and click on the plus in the bottom right of the calendar:
-![Adding Google Calendar](https://github.com/turingschool/career-development-curriculum/blob/master/files/Adding%20Google%20Calendar.png)
+![Adding Google Calendar](/files/Adding%20Google%20Calendar.png)
 * Add events as needed to keep track of appointments, deadlines, and to create specific timeboxes to get tasks done 
 * Enable notifications so that you can be reminded of pending appointments. Navigate to "My Calendars" on the lefthand side of the screen, click on the dropdown arrow, and click on "Edit Notifications." After you set the timing on notifications that will work best for you, you can also decide how you'd like to receive that notification back on the "General" screen.
 
@@ -92,18 +92,18 @@ Using a physical planner can be a great way to keep track of deadlines and task 
 
 #### Virtual To-Do Lists & Task Management Apps
 * **Todoist:** This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well. 
-![Todoist](https://github.com/turingschool/career-development-curriculum/blob/master/files/Todoist.png)
+![Todoist](/files/Todoist.png)
 * **Wunderlist:** This is a straightforward app for creating to-do lists and setting reminders. You can also collaborate with others on shared lists. 
-![Wunderlist](https://github.com/turingschool/career-development-curriculum/blob/master/files/Wunderlist.jpg)
+![Wunderlist](/files/Wunderlist.jpg)
 * **Trello** lets you create boards that contain lists that contain cards. These boards can be shared with other Trello users. Cards have titles, descriptions, a message log for activities, checklists, due dates, labels, links, attachments and be assigned to other Trello users.
-![Trello](https://github.com/turingschool/career-development-curriculum/blob/master/files/Trello.png)
+![Trello](/files/Trello.png)
 * **Workflowy:** Create to-do lists in a very straightforward way. 
-![Workflowy](https://github.com/turingschool/career-development-curriculum/blob/master/files/Workflowy.png)
+![Workflowy](/files/Workflowy.png)
 
 #### Bookmarks
 As you compile notes and resources from your many classes and web searches, having a quick, reliable way to find them again is essential. **Google Keep** is a great organizer for bookmarks. Use it to keep track of notes, reminders, and to-do lists in one place that syncs with your Google accounts and that you can share with others to help hold yourself accountable. Add it as an extension on your browser on Chrome to have a handy way to organize your bookmarks quickly. 
 
-![Google Keep](https://github.com/turingschool/career-development-curriculum/blob/master/files/Google%20Keep.png)
+![Google Keep](/files/Google%20Keep.png)
 
 #### You Do
 Make plans to set up a system right now. If you're already using a system, consider ways of making it more productive. Consider:
@@ -140,7 +140,7 @@ Slack is Turing's main mode of communication, so we expect students to be checki
 #### Notifications
 Start by setting up your notifications. Hit ```command ,``` to open up Notifications:
 
-![Opening Notifications](https://github.com/turingschool/career-development-curriculum/blob/master/images/Opening%20Notifications.png)
+![Opening Notifications](/images/Opening%20Notifications.png)
 
 You shouldn't have these totally turned off, but you should create a system to prioritize messages.
 
@@ -149,7 +149,7 @@ Other things to keep in mind:
 * Star channels you use frequently
 * Utilize the "All Unreads" feature to quickly skim messages and see what's important for you to respond to *now* and what can wait
 * Mark messages as "unread" if you need to back to them later by clicking on the ellipsis (...) button when you hover over a message and clicking "Mark unread" OR you can ask Slackbot to remind you to respond to something later by hitting ```/remind``` and then typing out a message that Slackbot can notify you about. Here are some examples:
-![Slackbot Remind Feature](https://github.com/turingschool/career-development-curriculum/blob/master/files/Slackbot%20Remind%20Feature.png)
+![Slackbot Remind Feature](/files/Slackbot%20Remind%20Feature.png)
 
 #### Other Resources
 While [this tutorial](https://vimeo.com/157164958) was made in an earlier version of Slack's interface, it includes all the same information as a helpful refresher from today's session.

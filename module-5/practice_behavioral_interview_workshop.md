@@ -21,7 +21,7 @@ Today, we're going to talk about preparing for the behavioral interview, looking
 Participants take 10 minutes to prep their answers for these questions.
 
 ### Review
-Let's go over some interview techniques that we [first discussed in Module Three's session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/interview_workshop.md). The STAR method is an effective way to break down an answer for most interview questions:
+Let's go over some interview techniques that we [first discussed in Module Three's session](/module_three/interview_workshop.md). The STAR method is an effective way to break down an answer for most interview questions:
 
 * **Situation:** The interviewer wants you to present a recent challenge and situation in which you found yourself.
 * **Task:** What were you required to achieve? The interviewer will be looking to see what you were trying to achieve from the situation. Some performance development methods use “Target” rather than “Task”. Job interview candidates who describe a “Target” they set themselves instead of an externally imposed “Task” emphasize their own intrinsic motivation to perform and to develop their performance.

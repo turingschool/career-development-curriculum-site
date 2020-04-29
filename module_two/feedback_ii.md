@@ -103,7 +103,7 @@ Now that we've unpacked the underlying interests behind our positions in feedbac
 ### Nonviolent Communication Framework
 In order to dive into what your feelings/thoughts/concerns/opinions really are in terms of the feedback you need to give, consider the steps to the [Nonviolent Communication Framework](http://www.nonviolentcommunication.com/freeresources/article_archive/heartofnvc_mrosenberg.htm) in order to use our natural *compassion* when communicating with each other.
 
-Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
+Similar to the Facts-Feelings-Ask model of having crucial conversations that we discussed in [Learning to Pair](/module_one/learning_to_pair.md) in Module One, the Nonviolent Communication Framework asks you to consider how to be more *mindful* in your communication with others.
 
 * **Whole Group:** What does it mean to be mindful in communication? What would that look like? When is communication *not* mindful?
 
@@ -177,5 +177,5 @@ Now is the time to prepare for giving feedback to your project partners in conve
 ### Final Reflection & Next Steps
 As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro. 
 
-* Reflect in your deliverable using the [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
+* Reflect in your deliverable using the [template](/module_two/feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
 

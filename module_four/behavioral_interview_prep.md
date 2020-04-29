@@ -51,7 +51,7 @@ When answering an interview question, keep the acronym [STAR](https://en.wikiped
   * Retro notes
   * Eval notes
 * Utilize your resources:
-  * [Interview Prep Resources](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+  * [Interview Prep Resources](/module_four/interview_prep_resources.md)
  
 #### Bank of Common Questions
 

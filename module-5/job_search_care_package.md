@@ -9,8 +9,8 @@ Congratulations! You've graduated! As you embark on your job search, here is an 
 * [Miscellaneous](#miscellaneous)
 
 ## Resumes & Cover Letters <a name="resumes-cover-letters"></a>
-* [Resume Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/resume_review_checklist.md)
-* [Cover Letter Checklist](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_checklist.md)
+* [Resume Checklist](/module_three/resume_review_checklist.md)
+* [Cover Letter Checklist](/module_four/cover_letter_checklist.md)
 
 ## Finding Job Opportunities <a name="job-opportunities"></a>
 
@@ -140,12 +140,12 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 ### Prepare for Coffee Meetings
 * Using your research, prepare some questions to ask your contact
 * Start here:
-   * [Research Converation Questions](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md)
+   * [Research Converation Questions](/module_four/research_conversation_questions.md)
    * [Culture Queries Generator](https://www.keyvalues.com/culture-queries)
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
-For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
+For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](/module-5/outreach_networking_refresh.md)
 
 ### Networking Groups for Underrepresented People in Tech
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
@@ -162,7 +162,7 @@ For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://g
 
 ## Interview Prep <a name="interview-prep"></a>
 
-[Use this resources doc](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
+[Use this resources doc](/module_four/interview_prep_resources.md) to find LOTS of interviewing resources including MULTIPLE mentors who you can have mock interviews with! 
 
 ## Your GitHub <a name="github"></a>
 * [How to Write a Great ReadMe](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
@@ -171,7 +171,7 @@ For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://g
 * [Follow the steps suggested here for auditing your projects](http://backend.turing.io/module4/lessons/project_polish)
 
 ## Miscellaneous <a name="miscellaneous"></a>
-* [Tips for Writing Technical Blog Posts](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md)
+* [Tips for Writing Technical Blog Posts](/module_four/blogging_tips.md)
 * [Open Source Guide](https://opensource.guide/)
-* [Tips for Speaking at a Meetup](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
-* [Markdown on Negotiations](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
+* [Tips for Speaking at a Meetup](/module_four/meetup_involvement_guidelines.md)
+* [Markdown on Negotiations](/module_four/negotiations.md)

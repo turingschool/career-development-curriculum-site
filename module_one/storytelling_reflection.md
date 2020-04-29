@@ -1,13 +1,16 @@
-# Storytelling Reflection 
+---
+layout: page
+title: Storytelling Reflection
+---
 
-1. Describe your 3-act arc by answering these three questions in 1-2 paragraphs: 
+1. Describe your 3-act arc by answering these three questions in 1-2 paragraphs:
 * **Who are you?** Consider describing:
   * How your values and perspective have driven you to come to Turing
   * Your Pairin themes
-  * How you've seen yourself grow during this module at Turing 
+  * How you've seen yourself grow during this module at Turing
 
 * **Why are you here?** Consider describing:
-  * When have you struggled at Turing? How have you dealt with struggle? 
+  * When have you struggled at Turing? How have you dealt with struggle?
   * When have you succeeded at Turing? How did you accomplish those successes?
 
 * **What's next?** Consider describing:

@@ -1,4 +1,7 @@
-# Intro to StrengthsFinder (Module One, Week One)
+---
+layout: page
+title: Intro to StrengthsFinder (Module One, Week One)
+---
 
 ## Facilitator Guide
 
@@ -6,7 +9,7 @@
 
 * Students are able to understand what constitutes a strength
 * Students are able to understand how to develop a strength
-* Students are able to reflect on StrengthsFinder results 
+* Students are able to reflect on StrengthsFinder results
 * Students are able to familiarize themselves with each other's strengths
 * Students are able to create goals for their professional development at Turing using StrengthsFinder
 
@@ -20,10 +23,10 @@
 
 * [Student Markdown](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/intro_strengthsfinder_session.md)
 
-* Students will create gists for their reflections using this [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md). **Note:** they should NOT edit the template itself. Repeating students have specific questions to answer midway down the template. 
+* Students will create gists for their reflections using this [template](https://github.com/turingschool/career-development-curriculum/edit/master/module_one/strengths_reflection_guidelines.md). **Note:** they should NOT edit the template itself. Repeating students have specific questions to answer midway down the template.
 
 Length: 60 minutes
- 
+
 * Opening (5 mins)
 * Overview: what is a strength, etc. (10 mins)
 * I Do: Demonstrate how to interpret reports (10 mins)
@@ -32,9 +35,9 @@ Length: 60 minutes
 * Closing: Recap use of StrengthsFinder and option for coaching (2 mins)
 
 ### Before the Session
-* Review your strengths and reports before the session to be ready to share them with the class. You'll want to update Slide 12 with your own strengths. 
+* Review your strengths and reports before the session to be ready to share them with the class. You'll want to update Slide 12 with your own strengths.
 * You'll also want to update Slide 22 with guidelines for how Ellen Mary would like to run coaching/support sessions with students.
-* Create a spreadsheet by making a copy of [this one](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1sTqhaRG-25nTau3gqkSPHZ9YQkfBejCEXyNgyEylXK4/edit?usp=sharing) and adding in the roster for the cohort to use in the session. 
+* Create a spreadsheet by making a copy of [this one](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1sTqhaRG-25nTau3gqkSPHZ9YQkfBejCEXyNgyEylXK4/edit?usp=sharing) and adding in the roster for the cohort to use in the session.
 
 | Timing                                             | Facilitator Actions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Participant Actions                                             |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|

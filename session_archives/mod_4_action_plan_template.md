@@ -1,5 +1,5 @@
 # Template: Module 4 Action Plan 
-*This is your deliverable from the [Job Search Strategies I session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)*
+*This is your deliverable from the [Job Search Strategies I session](/module_three/job_search_strategies_i.md)*
 
 ## Module 4 Goals
 

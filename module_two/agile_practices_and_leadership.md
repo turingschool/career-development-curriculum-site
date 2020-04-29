@@ -35,7 +35,7 @@ Length: 90 minutes
 * Discuss how to leverage each others' strengths to work even more effectively in your project
 
 ### Deliverable (Allison)
-Submit a reflection on using agile and participating in retro feedback using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
+Submit a reflection on using agile and participating in retro feedback using [this template](/module_two/agile_feedback_reflection_guidelines.md) in survey provided by 9am on Friday of Week 5
 
 ### Connections: The Why (Jeff & Allison)
 To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill. And refining your process helps you establish your place in the industry as an emerging developer. 
@@ -44,7 +44,7 @@ In this session we'll take a quick overview of "Waterfall," "Agile," how to begi
 
 ### Waterfall vs. Agile (Jeff)
 
-![Agile vs. Waterfall](https://github.com/turingschool/career-development-curriculum/blob/master/files/Agile%20vs.%20Waterfall.png)
+![Agile vs. Waterfall](/files/Agile%20vs.%20Waterfall.png)
 
 #### Waterfall
 1. Requirements - the big book of features
@@ -199,7 +199,7 @@ Let's consider how our strengths play a part in the types of roles we take on in
   * **Relationship Building:** Relationship Builders are the glue that holds a team together. Strengths associated with bringing people together -- whether it is by keeping distractions at bay or keeping the collective energy high -- transform a group of individuals into a team capable of carrying out complex projects and goals.
   * **Strategic Thinking:** Those who are able to keep people focused on “what they could” be are constantly pulling a team and its members into the future. They continually absorb and analyze information and help the team make better decisions. 
 
-![SF Leadership Domains](https://github.com/turingschool/career-development-curriculum/blob/master/files/SF%20Leadership%20Domains.png)
+![SF Leadership Domains](/files/SF%20Leadership%20Domains.png)
 
 With your top 5 StrengthsFinder strengths, where do you fall in these styles? What does this tell you about how you operate on teams?
 

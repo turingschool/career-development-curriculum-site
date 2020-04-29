@@ -8,7 +8,7 @@
 * Build a sustainable and meaningful relationship with a mentor
 
 ### Deliverable
-You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
 In the technology industry, moreso than in other industries, getting ahead in your career comes down to who you know. Establishing strong connections with those in the technology community starts while you're at Turing.

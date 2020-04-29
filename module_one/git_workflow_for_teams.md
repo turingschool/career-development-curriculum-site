@@ -1,8 +1,12 @@
-# Git Workflow for Teams
+---
+layout: page
+title: Git Workflow for Teams
+---
+
 This is a general overview of an effective way to use Git in your team projects.
 
 1. Clone down the repository.
-2. Check out a branch Name this branch according to the functionality you are implementing. 
+2. Check out a branch Name this branch according to the functionality you are implementing.
 For example, if you’re working on queries for your Url model - you could name your branch ```url-queries``` (```git checkout -b 'url-queries'```).
 3. Implement the functionality and **add** and **commit** your changes along the way. This does NOT mean one commit at the end of your implementation. Each time you get a piece of functionality to work, you should write a meaningful commit message. *Note:* Your commit messages should be in the imperative, present tense. For example - “Add functionality to find request types by Url” or “Update list_all_requests test to account for edge case”
 4. Make sure your changes are added and committed (on your branch).

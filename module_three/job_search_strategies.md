@@ -136,7 +136,7 @@ How do you search for these? Start with Google!
 * [BuiltIn](http://builtin.com/)
   * Provides lots of details about companies
   * Located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
-* [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/). Note: if the link doesn't work for you, you can [download the file here](https://github.com/turingschool/career-development-curriculum/blob/master/files/Colorado%20Tech%20Companies%20Directory_2017.numbers).
+* [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/). Note: if the link doesn't work for you, you can [download the file here](/files/Colorado%20Tech%20Companies%20Directory_2017.numbers).
     * Tips:
       * Check out the articles and directory here for lots of companies you can add to your research
       * Start with cold outreach here to establish connections

@@ -15,11 +15,11 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
 
-   * [Professional Storytelling III](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/professional_storytelling_iii.md) 
-   * [Job Search Strategies](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies.md)
-   * [Outreach & Networking II](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/outreach_networking_ii.md)
-   * [Resume Review Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/m3_resume_review.md)
-   * [Cover Letters Overview](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/cover_letters_overview.md)
+   * [Professional Storytelling III](/module_three/professional_storytelling_iii.md) 
+   * [Job Search Strategies](/module_three/job_search_strategies.md)
+   * [Outreach & Networking II](/module_three/outreach_networking_ii.md)
+   * [Resume Review Workshop](/module_three/m3_resume_review.md)
+   * [Cover Letters Overview](/module_three/cover_letters_overview.md)
     
 ### Deliverables
 * You **are required** to:
@@ -28,7 +28,7 @@ You **are not required** to attend professional development sessions *that you h
   * Draft a cover letter to bring to PD in week 1 of Module 4
 
 * Options for additional deliverables (choose **at least 2** that you will complete during the module):
-   * Complete a mock technical interview with one of the mentors listed [here](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+   * Complete a mock technical interview with one of the mentors listed [here](/module_four/interview_prep_resources.md)
    * Complete a second mock behavioral interview by signing up on the spreadsheet in your cohort channel
    * Participate in resume review workshop by bringing a resume tailored to a specific position OR bring a cover letter draft for that position
    * Attend a Meetup -- be specific on which meetup in your plan below

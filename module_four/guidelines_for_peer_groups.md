@@ -18,16 +18,16 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
 * Outreach emails: 
    * Write emails together 
    * Give feedback on each other’s emails before sending them out
-   * Use [these guidelines and tips](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_guidelines.md) for the email-writing and reviewing process. 
+   * Use [these guidelines and tips](/module_four/cold_outreach_guidelines.md) for the email-writing and reviewing process. 
    * Alumni Resource: Check out this [blog post](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer) from 1606-BE grad Jesse Spevack on how he utilized cold outreach in his job search. 
 
 * Coffee meetings: 
-   * What questions do you want to make sure to ask? Create a list with your group. Use [this list](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/research_conversation_questions.md) to get started
+   * What questions do you want to make sure to ask? Create a list with your group. Use [this list](/module_four/research_conversation_questions.md) to get started
    * Share updates on how coffee meetings go as group members attend them
 
 * Networking events: 
    * What meetups are coming up? Who can you connect with at them? Make a plan to attend a meetup together
-   * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch. Here are some [tips to help you get started](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/meetup_involvement_guidelines.md)
+   * Discuss ideas for pitching a talk at a meetup; help anyone interested write out their pitch. Here are some [tips to help you get started](/module_four/meetup_involvement_guidelines.md)
    * Alumni Resource: 1406 grad Alan Smith has some [advice](https://turingschool.slack.com/files/U02B4RACH/F6F5K924A/My_Standard_Job_Hunt_Advice) for how you can utilize your job searching time, especially on networking 
 
 * Storytelling: 
@@ -38,7 +38,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Review common questions with each other
     * Discuss approaches that you've taken in mock interviews and real interviews alike
     * Share resources to help each other level up
-    * For resources and mentors who you can schedule mock interviews with, make sure to [reference this document](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_prep_resources.md)
+    * For resources and mentors who you can schedule mock interviews with, make sure to [reference this document](/module_four/interview_prep_resources.md)
 
 * Job Search Housekeeping: Resumes, Social Media, Turing Portfolios, GitHub:
     * Share your resumes with each other for feedback and tips
@@ -52,7 +52,7 @@ Welcome to Module Four! This is when you’ll kick your job search into high gea
     * Spend time writing blog posts together
     * Complete peer review
     * Discuss ideas for how you can use a blog post to increase visibility
-    * Use these [tips for writing blogs using templates, writing tools, and peer review resources.](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/blogging_tips.md) 
+    * Use these [tips for writing blogs using templates, writing tools, and peer review resources.](/module_four/blogging_tips.md) 
 
 * Pooling your resources: 
     * What leads or tips can you share with each other? Have you talked with someone who may not have an opening/company that's the right fit for you but could be a great fit for one of your groupmates?
