@@ -1,8 +1,8 @@
-title: "Back-End Engineering Curriculum - Turing School of Software and Design"
+title: "Career Development Curriculum - Turing School of Software and Design"
 description: "Open source career development curriculum for the Turing School of Software and Design"
 url: "https://career.turing.io/"
 
-baseurl: ''
+baseurl: '/career-development-curriculum-site/'
 permalink: /:title
 
 markdown: kramdown
@@ -26,10 +26,10 @@ defaults:
       layout: "page"
 
 assets:
-  root_url: '/assets'
+  root_url: '/career-development-curriculum-site/assets'
 
 images:
-  root_url: '/assets/images'
+  root_url: '/career-development-curriculum-site/assets/images'
 
 gems:
   - jemoji
