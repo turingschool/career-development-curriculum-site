@@ -17,14 +17,14 @@ Students will leave Module Three with a clear blueprint for their job search by 
 
 ### Sessions
 
-* Week 1: [Professional Storytelling III: Resumes & Turing Portfolio](/module_three/professional_storytelling_iii.md)
-* Week 2: [Job Search Strategies](/module_three/job_search_strategies.md)
+* Week 1: [Professional Storytelling III: Resumes & Turing Portfolio](professional_storytelling_iii)
+* Week 2: [Job Search Strategies](job_search_strategies)
 * Week 3:
-   * [Outreach & Networking II](/module_three/outreach_networking_ii.md)
-   * [Resume Review Workshop](/module_three/m3_resume_review.md)
+   * [Outreach & Networking II](outreach_networking_ii)
+   * [Resume Review Workshop](m3_resume_review)
 * Week 4: Job Shadowing
 * Week 5:
-   * [Cover Letters Overview](/module_three/cover_letters_overview.md)
+   * [Cover Letters Overview](cover_letters_overview)
    * Alumni Portfolio Workshop
 
 ### Deliverables
@@ -35,4 +35,4 @@ In order to fulfill the requirements of module three, students will submit these
 
 
 ### Repeating the Module
-If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](/module_three/m3_repeat_plan.md).
+If you're repeating the module, you'll meet with Allison during Week 1 to discuss an alternate plan for meeting your professional development goals during the repeat module using [these guidelines](m3_repeat_plan).
