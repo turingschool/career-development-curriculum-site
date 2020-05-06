@@ -42,6 +42,22 @@ Copy these prompts into your career journal document to complete throughout Mod 
 1. Power of self-reflection
 
 2. Social identity mapping
+First, create you own social identity map on a piece of paper:
+* Outer ring: write words that describe your given identity
+* Middle ring: list aspects of your chosen identity
+* Center: write your core attributes—traits, behaviors, beliefs, values, characteristics, and skills that you think make you unique as an individual. Select things that are enduring and key to who you are.
+
+After you complete your map:
+* Underline the items that are important to you
+* Put a + beside the items that you believe clearly demonstrate that you fit into the tech industry
+* Put a - beside the items that you believe do not demonstrate that you fit into the tech industry
+* Put a ? beside the items that you're unsure how they could show your ability to contribute to the tech industry
+
+Reflect:
+*
+*
+*
+*
 
 3. Values mapping
 
