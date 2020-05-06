@@ -106,9 +106,9 @@ Apply to your practice. Apply your learning to your practice. Consider what opti
 * Based on this week of reflections, write out your vision statement for your career:
 
 ### Mod 1 Week 5: Creating Your Vision, Part II
-1.
+1. Flower Exercise
 
-2.
+2. Write out your top 5 strengths that you've seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?
 
 3.
 
