@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Cover Letter Resources
+---
 
 # Resume Resources
 
