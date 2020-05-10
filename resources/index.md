@@ -8,6 +8,7 @@ Below are a list of additional resources to help you with your career developmen
 
 
 ### Application Resources
+* [Resume Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
 * [Cover Letter Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md)
 
 ### Recommended Reading
