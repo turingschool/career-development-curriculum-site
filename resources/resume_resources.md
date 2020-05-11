@@ -5,12 +5,12 @@ title: Cover Letter Resources
 
 # Resume Resources
 
-### General Advice
+## General Advice
 
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
 * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
 
-### Resume Templates
+## Resume Templates
 
 * [Creddle](http://creddle.io/)
 * [Enhancv](https://enhancv.com/)
@@ -23,12 +23,12 @@ title: Cover Letter Resources
 * [Hiration](https://www.hiration.com/)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
-### Resume Checklist
+## Resume Checklist
 
-## Order of Content
+### Order of Content
 - [ ] Heading/Contact, Summary, Skills, Projects, Experience/Education
 
-## Heading & Contact Info
+### Heading & Contact Info
 - [ ] Name: stand outs, easy to read
 - [ ] Title: "software developer/front end engineer/back end engineer," stand outs, easy to read, comparable in size to name 
 - [ ] Email address
@@ -37,13 +37,13 @@ title: Cover Letter Resources
 - [ ] LinkedIn link 
 - [ ] Personal website (optional)
 
-## Summary/Profile
+#### Summary/Profile
 - [ ] Provides a brief description of the student's career trajectory, why they're interested in software, and what they aim to do in their career
 - [ ] If for a specific position, the summary is tailored accordingly (instead of discussing general interest in software, summary addresses interest in specific job/company)
 - [ ] Clear and concise
 - [ ] No grammatical or spelling errors
 
-## Skills
+### Skills
 - [ ] Skills listed are technical
 - [ ] Skills are grouped logically
 - [ ] No grammatical or spelling errors
@@ -51,7 +51,7 @@ title: Cover Letter Resources
 - [ ] If for a specific position, skills are tailored accordingly
 - [ ] Skills do not include hobbies or other extraneous details
 
-## Projects
+### Projects
 - [ ] At least 3 projects are listed
 - [ ] Title is included
 - [ ] Technologies, frameworks, testing suite, etc. are all listed as bullet points
@@ -61,19 +61,19 @@ title: Cover Letter Resources
 - [ ] Links should go to student's own version of repo and not their project partner's, if applicable
 - [ ] No grammatical or spelling errors
 
-## Experience
+### Experience
 - [ ] Turing is listed either here or under Education
 - [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
 - [ ] Formatted with job title followed by company name
 - [ ] Brief description of role and what value they brought to the company
 - [ ] No grammatical or spelling errors
 
-## Education
+### Education
 - [ ] Turing is listed either here or under Experience
 - [ ] Brief description of area of study or skills that can relate to software development or specific job applying to
 - [ ] No grammatical or spelling errors
 
-## Layout
+### Layout
 - [ ] Clean, easy-to-follow
 - [ ] If color is used, it is easy to read and distinguish all parts of the resume 
 - [ ] Printable version
