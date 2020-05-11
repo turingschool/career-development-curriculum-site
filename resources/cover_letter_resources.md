@@ -9,6 +9,8 @@ title: Cover Letter Resources
 
 * [Ask a Manager: Examples of great cover letters](https://www.askamanager.org/category/cover-letters)
 * [The Muse: All-Time Best Tips for Writing Cover Letters](https://www.themuse.com/advice/how-to-write-a-cover-letter-31-tips-you-need-to-know)
+* [The Muse: Cover Letter Examples for Every Type of Job Seeker](https://www.themuse.com/advice/cover-letter-examples-every-type-job-seeker)
+* [The Muse: 12 Great Resources if Writing a Cover Letter Fills You With Dread](https://www.themuse.com/advice/12-great-resources-if-writing-a-cover-letter-fills-you-with-dread)
 
 ## Writing the Cover Letter: Checklist
 Use this checklist to make sure cover letters have all the necessary components. 
