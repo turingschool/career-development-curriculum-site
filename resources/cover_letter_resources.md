@@ -35,8 +35,8 @@ Use this checklist to make sure cover letters have all the necessary components.
 
 ## Paragraph #1 
 - [ ] Opening sentence makes it clear what position is being applied for
-- [ ] Provides a brief description of the student's career trajectory, why they're interested this position, and what they aim to do with this specific job/company
-- [ ] If applicable: referencing a contact at the company that they've spoken with 
+- [ ] Provides a brief description of the job seeker's career trajectory and how it connects to the company's mission, product, user experience, customers, etc, 
+- [ ] If applicable: references a contact at the company that they've spoken with 
 - [ ] Clear and concise
 - [ ] No grammatical or spelling errors
 
@@ -47,6 +47,6 @@ Use this checklist to make sure cover letters have all the necessary components.
 - [ ] No grammatical or spelling errors
 
 ## Paragraph #3
-- [ ] Makes a connection back to the company: how the student can bring value to the company, passion about the product, what they hope to help the company achieve, etc.
+- [ ] Makes a connection back to the company: how the job seeker can bring value to the company, passion about the product, what they hope to help the company achieve, etc.
 - [ ] Clear and concise
 - [ ] No grammatical or spelling errors
