@@ -5,7 +5,23 @@ title: Cover Letter Resources
 
 # Resume Resources
 
+### General Advice
+
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
+* [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+
+### Resume Templates
+
+* [Creddle](http://creddle.io/)
+* [Enhancv](https://enhancv.com/)
+* [Resumake](https://resumake.io/)
+* [VisualCV](https://www.visualcv.com/resume-builder/)
+* [Resume Builder](https://resume-builder.qwilr.com/)
+* [Standard Resume](https://standardresume.co/)
+* [Kick Resume](https://www.kickresume.com/)
+* [Canva](https://www.canva.com/)
+* [Hiration](https://www.hiration.com/)
+* Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 ### Resume Checklist
 
