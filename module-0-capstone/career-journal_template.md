@@ -37,7 +37,7 @@ How might knowing about your strengths and working preferences benefit you as a 
 
 ### Mod 1
 Find the prompts to Mod 1 here:
-* [Week 1]
+* [Week 1](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-1)
 * [Week 2]
 * [Week 3]
 * [Week 4]
