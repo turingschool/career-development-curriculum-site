@@ -24,11 +24,11 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 ## **Capstone submission directions:**
 ### Part One: Pairin Survey
-1. **To Do:** Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
+1. Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
-   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow.
-
-  The survey should take you about 15-20 minutes.
+   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. The survey should take you about 15-20 minutes.
+  
+2. Create a gist to include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 
 **Optional:** To build an understanding of your Pairin results, here are additional resources:
 
@@ -37,8 +37,6 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
    * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
-
-2. **To Do:** Create a gist to include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 
 ### Part Two: Career Journal
 Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-0-capstone/career-journal_template.md) to create your journal and answer initial questions. 
