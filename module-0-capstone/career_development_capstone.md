@@ -39,20 +39,23 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
    * What is your greatest area of improvement?
    * How do you hope to maximize your strengths for your new career in software development?
    * How might knowing about your strengths and working preferences benefit you as a software developer?
+   
+Optional further reading:
+   * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
+   * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
+   * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ## **Capstone submission directions:**
 ### Part One: Pairin
 In a gist, please:
 1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 2. Include your responses to the questions in Step 3.
-3. Include your responses to the questions in Step 5.
 
 ### Part Two: Career Journal
+* **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
+* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
+* **Ongoing progress checks.** Throughout the module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time. 
+* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
 
 ### Career Development Capstone Submission Directions
-Fill out this survey with links to both  **[here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
-
-Optional further reading:
-   * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
-   * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
-   * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
+Fill out this survey to answer some questions for the Career Development team and submit the links to both of your documents from Parts I and II **[here](https://forms.gle/8GXA5kHhZ156jdd16)**
