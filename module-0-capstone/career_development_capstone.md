@@ -4,11 +4,13 @@ title: Turing Career Development - Mod 0 Capstone
 subheading: Developing Mindsets to Succeed
 ---
 
+# Turing Career Development - Mod 0 Capstone
+
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
 When you're transitioning careers, often many other aspects of your approach to work and life undergo a transition as well. Turing aims to be a place where you can work through these transitions successfully. While enrolled at Turing and during your subsequent job search, you'll be provided with tools and strategies to develop the professional skills necessary to enter a new career as a software developer.
 
-The pre-work for career development is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
+The career development capstone is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
 
 * Agency: Taking initiative and ownership over your learning and work
 * Empathy: Understanding and sharing others' emotions in order to relate to them
@@ -44,21 +46,17 @@ Step 3: Please respond to the following questions in a reflection (4-6 sentences
    * How do you hope to maximize your strengths for your new career in software development?
    * How might knowing about your strengths and working preferences benefit you as a software developer?
 
- Step 4: Read Ta-Nehisi Coates' article, ["Getting Better at Difficult Things"](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/) and watch Kathy Sierra's keynote from [Fluent Conf 2015](https://www.youtube.com/watch?v=FKTxC9pl-WM)
-
- Step 5: Please respond to the following questions in a reflection (4-6 sentences):
-  * What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
-  * How do Sierra's and Coate's material relate to your current process for learning?
-  * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
-  * How will you prepare yourself to be at your best with your learning process while at Turing?
-
 ## **Capstone submission directions:**
+### Part One: Pairin
 In a gist, please:
 1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
 2. Include your responses to the questions in Step 3.
 3. Include your responses to the questions in Step 5.
 
-Submit your gist in the survey **[here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
+### Part Two: Career Journal
+
+### Career Development Capstone Submission Directions
+Fill out this survey with links to both  **[here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
 
 Optional further reading:
    * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
