@@ -22,6 +22,8 @@ The career development capstone is focused on introducing you to a set of mindse
 ### Introduction to Strengths-based Development
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. 
 
+We will also be asking you to create and use a career journal during your time at Turing to practice the skill of self-reflection and track the progress that you're making in your career change and new job search. 
+
 ## **Capstone submission directions:**
 ### Part One: Pairin Survey
 1. Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
