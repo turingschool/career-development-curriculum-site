@@ -5,6 +5,7 @@ subheading: Developing Mindsets to Succeed
 ---
 
 # Turing Career Development - Mod 0 Capstone
+## Developing Mindsets to Succeed
 
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
@@ -17,13 +18,6 @@ The career development capstone is focused on introducing you to a set of mindse
 * Engagement: Active participation in community
 * Grit: A combination of perseverance and passion
 * Growth: A belief that your abilities can be developed through dedication, hard work, and resiliency
-
-Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-work while the other four mindsets will be introduced to you here. Your objectives in this pre-work are to:
-
-* Understand the non-coding aspects that go into being a successful programmer
-* Reflect on your current mindsets and build an understanding of new or differing mindsets
-* Understand a strengths-based approach to development
-* Begin analyzing how your strengths apply to your development at Turing
 
 ### Introduction to Strengths-based Development
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. Follow the steps below to fulfill this part of the prework:
