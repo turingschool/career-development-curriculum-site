@@ -4,16 +4,22 @@ title: Mod 3 Career Journal Prompts
 ---
 
 # Mod 3 Career Journal Prompts
+* [Week 1 Prompts](#week-1)
+* [Week 2 Prompts](#week-2)
+* [Week 3 Prompts](#week-3)
+* [Week 4 Prompts](#week-4)
+* [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 3. 
+Copy these prompts into your career journal document to complete throughout Mod 2. 
 
-### Mod 3 Week 1:  
+### Mod 3 Week 1:  <a name="week-1"></a>
 
-### Mod 3 Week 2:
+### Mod 3 Week 2:  <a name="week-2"></a>
 
-### Mod 3 Week 3:
+### Mod 3 Week 3:  <a name="week-3"></a>
 
-### Mod 3 Week 4:
+### Mod 3 Week 4:  <a name="week-4"></a>
 
-### Mod 3 Week 5:
+### Mod 3 Week 5:  <a name="week-5"></a>
+ 
