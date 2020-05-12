@@ -12,7 +12,7 @@ title: Mod 2 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 2. 
+Copy these prompts into your career journal document to complete throughout Mod 3. 
 
 ### Mod 2 Week 1:  <a name="week-1"></a>
 
