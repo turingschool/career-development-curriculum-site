@@ -13,7 +13,7 @@ title: Career Journal Template
 
 ### Directions
 1. Copy the following Mod 0 prompts into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
-2. Submit the link to your document in [this survey]( for your Mod 0 Capstone. 
+2. Submit the link to your document in [this survey](https://forms.gle/x4DCbZV64Z1ouyrY6) for your Mod 0 Capstone. 
 
 ### Mod 0 
 1.
