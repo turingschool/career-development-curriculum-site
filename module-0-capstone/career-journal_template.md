@@ -8,7 +8,7 @@ title: Career Journal Template
 ## Overview
 * **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
-* **Ongoing progress checks.** Throughout the module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time. 
+* **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time. 
 * **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
@@ -22,7 +22,11 @@ title: Career Journal Template
 
 3.
 
-4.
+4.    * What is your greatest strength and how do you know?
+   * How do you work best?
+   * What is your greatest area of improvement?
+   * How do you hope to maximize your strengths for your new career in software development?
+   * How might knowing about your strengths and working preferences benefit you as a software developer?
 
 5. What is your greatest strength and how do you know?
 How do you work best?
