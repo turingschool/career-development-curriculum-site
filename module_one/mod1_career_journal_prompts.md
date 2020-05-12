@@ -5,10 +5,16 @@ title: Mod 1 Career Journal Prompts
 
 # Mod 1 Career Journal Prompts
 
+* [Week 1 Prompts](#week-1)
+* [Week 2 Prompts](#week-2)
+* [Week 3 Prompts](#week-3)
+* [Week 4 Prompts](#week-4)
+* [Week 5 Prompts](#week-5)
+
 ### Directions
 Copy these prompts into your career journal document to complete throughout Mod 1. 
 
-### Mod 1 Week 1: Understanding your strengths 
+### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
   * I can...
@@ -38,7 +44,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * What are some steps you could take here?
 * How could you be aware of progress you're making?
 
-### Mod 1 Week 2: Building Your Compass
+### Mod 1 Week 2: Building Your Compass <a name="week-2"></a>
 1. Power of self-reflection
 * What is challenging about self-reflection?
 * How can you continue to build the habit of self-reflection at Turing? 
@@ -76,7 +82,7 @@ Reflect:
 * Where do they clash?
 * Does one drive the other? How?
 
-### Mod 1 Week 3:
+### Mod 1 Week 3:   <a name="week-3"></a>
 1. Self-Reflection:
 Reflect on an experience in your paired project:
 * What did I experience during the conversation?
@@ -96,7 +102,7 @@ Apply to your practice. Apply your learning to your practice. Consider what opti
 
 5. Build new accountability systems; share them
 
-### Mod 1 Week 4: Creating Your Vision, Part I
+### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
 1. Start Where You Are (Empathize with the user -- *you*):
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
     * How would you rate your overall health on a scale of 1-5?
@@ -132,7 +138,7 @@ Apply to your practice. Apply your learning to your practice. Consider what opti
 5. Test –- solutions:
 * Based on this week of reflections, write out your vision statement for your career:
 
-### Mod 1 Week 5: Creating Your Vision, Part II
+### Mod 1 Week 5: Creating Your Vision, Part II  <a name="week-5"></a>
 1. Flower Exercise
 
 2. Write out your top 5 strengths that you've seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?
