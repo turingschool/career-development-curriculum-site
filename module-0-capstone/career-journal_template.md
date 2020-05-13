@@ -12,8 +12,9 @@ title: Career Journal Template
 * **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
-1. Copy the following Mod 0 prompts into your own gist or Google Doc. You'll be sharing this with the Career Development Team. 
-2. Submit the link to your document in [this survey](https://forms.gle/x4DCbZV64Z1ouyrY6) for your Mod 0 Capstone. 
+1. Copy the following prompts into your own gist or Google Doc. 
+2. Respond to the Mod 0 prompts.
+3. Submit the link to your document in [this survey](https://forms.gle/x4DCbZV64Z1ouyrY6) for your the career development component of your Mod 0 Capstone. 
 
 ### Mod 0 
 1. When you've worked towards a goal in the past, what systems or tools have been helpful for you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing? 
