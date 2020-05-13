@@ -18,23 +18,15 @@ title: Career Journal Template
 ### Mod 0 
 1. When you've worked towards a goal in the past, what systems or tools have been helpful for you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing? 
 
+2. As you start this new career, what is one of your strengths and how do you know? 
 
-Describe the vision you currently have for your career after Turing: 
+3. Describe how you work best (conditions, environment, preferences, etc.):
 
-2. What is one of your strengths and how do you know? 
+4. As you start this new career, what is your greatest area of improvement when it comes to your professional skills?
 
-3. How do you work best? 
+5. How will developing a deeper understanding of your strengths and working preferences benefit you as a software developer?
 
-4.    * What is your greatest strength and how do you know?
-   * How do you work best?
-   * What is your greatest area of improvement?
-   * How do you hope to maximize your strengths for your new career in software development?
-   * How might knowing about your strengths and working preferences benefit you as a software developer?
-
-5. What is your greatest strength and how do you know?
-How do you work best?
-What is your greatest area of improvement?
-How might knowing about your strengths and working preferences benefit you as a software developer?
+6. Describe the vision you currently have for your career after Turing: 
 
 ### Mod 1
 Find the prompts to Mod 1 here:
