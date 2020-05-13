@@ -47,11 +47,10 @@ Find the prompts to Mod 1 here:
 ### Mod 2
 Find the prompts to Mod 2 here:
 * [Week 1](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1)
-* [Week 2]
-* [Week 3]
-* [Week 4]
-* [Week 5]
-
+* [Week 2](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-2)
+* [Week 3](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3)
+* [Week 4](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-4)
+* [Week 5](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-5)
 
 ### Mod 3
 Find the prompts to Mod 3 here:
