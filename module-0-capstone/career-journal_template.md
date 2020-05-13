@@ -34,15 +34,13 @@ What is your greatest area of improvement?
 How do you hope to maximize your strengths for your new career in software development?
 How might knowing about your strengths and working preferences benefit you as a software developer?
 
-
 ### Mod 1
 Find the prompts to Mod 1 here:
 * [Week 1](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-1)
 * [Week 2](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2)
 * [Week 3](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-3)
 * [Week 4](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-4)
-* [Week 5]
-
+* [Week 5](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-5)
 
 ### Mod 2
 Find the prompts to Mod 2 here:
