@@ -16,11 +16,14 @@ title: Career Journal Template
 2. Submit the link to your document in [this survey](https://forms.gle/x4DCbZV64Z1ouyrY6) for your Mod 0 Capstone. 
 
 ### Mod 0 
-1.
+1. When you've worked towards a goal in the past, what systems or tools have been helpful for you in accomplishing that goal? How could you adapt those same systems/tools to use while at Turing? 
 
-2.
 
-3.
+Describe the vision you currently have for your career after Turing: 
+
+2. What is one of your strengths and how do you know? 
+
+3. How do you work best? 
 
 4.    * What is your greatest strength and how do you know?
    * How do you work best?
@@ -31,7 +34,6 @@ title: Career Journal Template
 5. What is your greatest strength and how do you know?
 How do you work best?
 What is your greatest area of improvement?
-How do you hope to maximize your strengths for your new career in software development?
 How might knowing about your strengths and working preferences benefit you as a software developer?
 
 ### Mod 1
