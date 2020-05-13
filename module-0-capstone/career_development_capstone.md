@@ -19,7 +19,7 @@ The career development capstone is focused on introducing you to a set of mindse
 * Grit: A combination of perseverance and passion
 * Growth: A belief that your abilities can be developed through dedication, hard work, and resiliency
 
-### Introduction to Strengths-based Development
+### Introduction to Strengths-based Development & Career Journaling
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. 
 
 We will also be asking you to create and use a career journal during your time at Turing to practice the skill of self-reflection and track the progress that you're making in your career change and new job search. 
@@ -41,7 +41,7 @@ We will also be asking you to create and use a career journal during your time a
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ### Part Two: Career Journal
-Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-0-capstone/career-journal_template.md) to create your journal and answer initial questions. 
+Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-0-capstone/career-journal_template.md) to create your journal and answer the Mod 0 questions. 
 
 ### Career Development Capstone Submission Directions
 Fill out this survey to answer some questions for the Career Development team and submit the links to both of your documents from Parts I and II **[here](https://forms.gle/8GXA5kHhZ156jdd16)**
