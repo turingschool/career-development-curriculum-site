@@ -12,7 +12,7 @@ title: Career Journal Template
 * **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
 
 ### Directions
-1. Copy the following prompts into your own gist or Google Doc. 
+1. Copy the following prompts into your own private gist or Google Doc. Note: when creating a gist, please make sure to add .md at the end of the title to turn it into markdown format. If you're using a Google doc, please provide comment access.
 2. Respond to the Mod 0 prompts.
 3. Submit the link to your document in [this survey](https://forms.gle/x4DCbZV64Z1ouyrY6) for your the career development component of your Mod 0 Capstone. 
 
