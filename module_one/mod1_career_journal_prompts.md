@@ -104,6 +104,8 @@ Habits of a Software Developer
   
 * Throughout the week, record here in what ways you've tried to implement your new habit and tried to break your bad habit. What were the results?
 
+Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
+
 ### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
 1. Start Where You Are (Empathize with the user -- *you*):
 * Health: how you answer “how are you”; intersection of physical, mental, and emotional health
