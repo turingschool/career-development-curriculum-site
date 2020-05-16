@@ -86,16 +86,23 @@ Reflect:
 Habits of a Software Developer
 * What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
 
-* What do you think are the behaviors that this person demonstrates to embody the identity of a software developer?
+* What are the behaviors that this person demonstrates to embody the identity of a software developer?
 
+* Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
 
-2. Reflect on Habits
-
-3. Build new Habits
-
-4. Reflect on Accountability systems
-
-5. Build new accountability systems; share them
+* Outline a new habit you can put into place:
+  * Cue (make it obvious):
+  * Craving (make it attractive):
+  * Response (make it easy to complete):
+  * Reward (make it satisfying):
+  
+* Outline a habit you'd like to break:
+  * Cue (make it invisible):
+  * Craving (make it unattractive):
+  * Response (make it difficult):
+  * Reward (make it unsatisfying):
+  
+* Throughout the week, record here in what ways you've tried to implement your new habit and tried to break your bad habit. What were the results?
 
 ### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
 1. Start Where You Are (Empathize with the user -- *you*):
