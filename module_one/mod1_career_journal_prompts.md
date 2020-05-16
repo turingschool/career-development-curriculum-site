@@ -82,17 +82,12 @@ Reflect:
 * Where do they clash?
 * Does one drive the other? How?
 
-### Mod 1 Week 3:   <a name="week-3"></a>
-1. Self-Reflection:
-Reflect on an experience in your paired project:
-* What did I experience during the conversation?
-• What happened inside me during the conversation?
-Reflect on your learning. Analyze your experience and compare to the models or principles that you want to follow.
-• What does this experience say to me?
-• What can I learn?
-Apply to your practice. Apply your learning to your practice. Consider what options you have for the next time you face a similar situation.
-• What options do I see for the next time I encounter this situation?
-• What specifically do I intend to do based on my reflection?
+### Mod 1 Week 3: Habits & Accountability Systems   <a name="week-3"></a>
+Habits of a Software Developer
+* What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
+
+* What do you think are the behaviors that this person demonstrates to embody the identity of a software developer?
+
 
 2. Reflect on Habits
 
