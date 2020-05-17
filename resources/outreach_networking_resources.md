@@ -1,3 +1,8 @@
+---
+layout: page
+title: Outreach & Networking
+---
+
 # Outreach & Networking 
 Below are both resources and outlined steps for taking on outreach and networking for your job search. 
 
