@@ -31,8 +31,6 @@ Below are both resources and outlined steps for taking on outreach and networkin
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
-For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/module-5/outreach_networking_refresh.md)
-
 ### Networking Groups for Underrepresented People in Tech
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
