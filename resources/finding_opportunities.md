@@ -7,6 +7,9 @@ title: How to Find Opportunities
 Below are resources to help you find opportunities from job postings to networking groups:
 
 ### Search by...company
+* [BuiltIn](http://builtin.com/)
+    * Provides lots of details about companies
+    * Located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/)
     * Tips:
       * Check out the articles and directory here for lots of companies you can add to your research
@@ -24,34 +27,17 @@ Below are resources to help you find opportunities from job postings to networki
 
 ### Search by...culture
 * [Key Values](https://www.keyvalues.com/) allows you to search for companies that fit with your key values.
+* [Glassdoor](https://www.glassdoor.com/index.htm)
+* [CareerBliss](https://www.careerbliss.com/reviews/)
+* [The Muse](https://www.themuse.com/)
+* [The Vault](https://www.vault.com/best-companies-to-work-for/technology)
+* Tip: use Owler to track these companies and find out more about their culture
 
 * Start Ups:
   * [Startupers](https://www.startupers.com/)
   * [Techstars Listing of Companies](https://www.techstars.com/companies/)
-
-* Remote work:
-  * [Established Remote Companies](https://github.com/yanirs/established-remote)
-  * [List of Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
-  * [List of Startups with Distributed Teams](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?usp=sharing)
-  * [Another Remote Company List](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit?usp=sharing)
-  * [AngelList Remote Job Collection](https://angel.co/remote)
-  * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
-  * [Flex Jobs](https://www.flexjobs.com/)
-  * [NODESK](https://nodesk.co/remote-jobs/)
-  * [Remote4me](https://remote4me.com/)
-  * [RemoteBase](https://remotebase.io)
-  * [Remote.co](https://remote.co/remote-jobs/)
-  * [Remote OK](https://remoteok.io/remote-dev-jobs)
-  * [Remotive](https://remotive.io/)
-  * [Remote Woman](https://remotewoman.com/)
-  * [StackOverflow Remote Job Listings](https://stackoverflow.com/jobs/remote-developer-jobs)
-  * [We Work Remotely Job Board](https://weworkremotely.com/)
-  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
-
-Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
   
 ### Search by...language or skillset
-* [Top Ruby Jobs](https://toprubyjobs.com/)
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Now](https://jobs.rubynow.com/)
 * [Ruby on Rails Jobs](https://www.rorjobs.com/)
@@ -59,6 +45,8 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [React Job Board](https://www.reactjobboard.com/)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Elixir Jobs](https://elixirjobs.net/)
+* [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
+* [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills
 
 ### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
@@ -76,6 +64,7 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 
 ### Search by...job listings
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
@@ -97,7 +86,30 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
 * [gun.io](https://gun.io/)
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
-* And of course, don't forget about the #job-hunt or #module-5 channels on Slack
+* And of course, don't forget about the #job-hunt channel on Slack
+
+### Search by...remote opportunities
+* Remote listings:
+  * [Established Remote Companies](https://github.com/yanirs/established-remote)
+  * [List of Remote-Friendly Companies](https://github.com/remoteintech/remote-jobs)
+  * [List of Startups with Distributed Teams](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?usp=sharing)
+  * [Another Remote Company List](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit?usp=sharing)
+  * [AngelList Remote Job Collection](https://angel.co/remote)
+  * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
+  * [Flex Jobs](https://www.flexjobs.com/)
+  * [NODESK](https://nodesk.co/remote-jobs/)
+  * [Remote4me](https://remote4me.com/)
+  * [RemoteBase](https://remotebase.io)
+  * [Remote.co](https://remote.co/remote-jobs/)
+  * [Remote OK](https://remoteok.io/remote-dev-jobs)
+  * [Remotive](https://remotive.io/)
+  * [StackOverflow Remote Job Listings](https://stackoverflow.com/jobs/remote-developer-jobs)
+  * [We Work Remotely Job Board](https://weworkremotely.com/)
+  * [Working Nomads](https://www.workingnomads.co/jobs?category=development)
+
+Also check out these [Remote Working Resources](https://github.com/lukasz-madon/awesome-remote-job)
+
+* [Remote Woman](https://remotewoman.com/) is a community for professional women who work remotely.
 
 ## Search by...recruiter assistance
 * [Staffing Agencies Resources](https://www.clearlyrated.com/staffing/it-engineering-staffing/web-mobile-software-development-staffing)
@@ -105,9 +117,13 @@ Also check out these [Remote Working Resources](https://github.com/lukasz-madon/
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
 * [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills.
 
-### Networking Groups for Underrepresented People in Tech 
-Disclaimer: these are not places to look for job postings; these are places to connect with others in the industry. 
+### Search by...outreach & social media
+In addition to finding the right posting, remember that the next step is to find a face at the company to connect with. LinkedIn will be your go-to site for this, but a great way to continue the research into places you want to work that are aligned with your goals is by building your network. Below are some suggestions for groups to utilize for this purpose:
 
+* [Meetup](http://www.meetup.com/)
+   * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
+      * Organizers list: who are they? Where do they work? What other meetups are they active in?
+      * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
@@ -117,5 +133,11 @@ Disclaimer: these are not places to look for job postings; these are places to c
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
 * [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech. 
 * [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
-* [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people. 
+
+### Social Media Resources for your Job Search:
+
+* [The Best Way to Use Social Media for Your Job Search](http://www.forbes.com/sites/trudysteinfeld/2012/09/28/the-best-ways-to-use-social-media-in-your-job-search/)
+* [Twitter 101: A Tutorial for the Timid](https://www.themuse.com/advice/twitter-101-a-tutorial-for-the-timid)
+* [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
+* [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
