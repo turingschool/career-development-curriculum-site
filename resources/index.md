@@ -6,10 +6,16 @@ title: Career Development Resources
 # Career Development Resources
 Below are a list of additional resources to help you with your career development and job search. 
 
+### Storytelling & Branding Resources
+* [Resources for Building Your Brand as a Software Developer](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/branding_resources.md)
+
+### Finding Opportunities Resources
+* [Listing of various tools for finding opportunities](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/finding_opportunities.md)
 
 ### Application Resources
 * [Resume Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
 * [Cover Letter Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md)
+* [Outreach & Networking Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/outreach_networking_resources.md)
 
 ### Recommended Reading
 * [Atomic Habits](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
