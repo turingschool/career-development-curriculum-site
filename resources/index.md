@@ -26,5 +26,6 @@ Below are a list of additional resources to help you with your career developmen
 * [Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322)
 * [Mindset: The New Psychology of Success](https://bookshop.org/books/mindset-the-new-psychology-of-success/9780345472328)
 * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
+* [Refactoring](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
 * [The Checklist Manifesto](https://bookshop.org/books/the-checklist-manifesto-how-to-get-things-right/9780312430009)
 * [What Color is Your Parachute?](https://bookshop.org/books/what-color-is-your-parachute-2020-a-practical-manual-for-job-hunters-and-career-changers-revised/9781984856562)
