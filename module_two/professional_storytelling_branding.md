@@ -11,7 +11,7 @@ subheading: Crafting Your Professional Narrative
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
-## [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md)
+### [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-2)
 * Draft of professional story
 * Update your LinkedIn and include a link to your profile
 * Create next steps for any other branding tools
