@@ -93,3 +93,44 @@ Why is this important? According to the online reputation management consultantc
 #### LinkedIn
 LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
 
+#### Dissecting the Profile
+**First Look:**
+The top of your profile is an opportunity to make a great first impression. When a recruiter or potential employer clicks on your profile, they see 4 initial things:
+
+* **Your picture:** Headshot of just you (not your friends, family, or pets!) and the same photo across your multiple profiles
+* **Your headline:** What your expertise is
+* **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
+* **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out.
+
+**Headline:** 
+
+* This is your expertise
+   * What do you want your brand to be? 
+   * When recruiters do a search, what keywords do you want to lead to you? 
+	* Consider "Software Developer," "Back End Engineer," or "Front End Engineer"
+	* You can combine your past experiences with new skills like "Software Developer | Former Educator"
+	* Consider adding in languages/frameworks you specialize in 
+   * Any keywords here should be consistently displayed throughout your profile
+
+**Summary:** 
+This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person and should be told from a high level.
+
+Tips for an effective summary:
+
+* Keep it to 2-3 short paragraphs, 2-3 sentences per paragraph
+* Write it in first person
+* Provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? 
+	* Put your email address right there in the summary. Once you get a job, you can take it out, but don't create any blockers right now
+	
+#### Examples: What can a LinkedIn summary look like?
+* Merge your past experience with your new career path:
+   * “Combining marketing experience with a love for data, I’m a software developer looking to…”
+* What are your motives?
+   * “My love for helping people led me to develop apps that focus on the user experience…” 
+* What do you enjoy working with? Mention your specialities (aka keywords):
+   * “Along with my experience in client-side development, I have been learning and working with Node, Express, Knex, PostgreSQL and RESTful API creation to fill out my server-side experience.”
+
+Still need convincing that you need a summary?
+* The summary allows you to show up in search results
+* Remember: 82% of business decision makers said that presence in search results was an influential factor when vetting people online
+* A summary is an easy way for someone to learn specifically about you when searching for candidates
