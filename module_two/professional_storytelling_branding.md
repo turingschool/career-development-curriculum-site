@@ -80,3 +80,16 @@ During a networking event explored in this [Harvard Business Review article](htt
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, *"What happened next?"* -- are compelling to a listener.
 
 ## Application: Telling Your Story through Branding
+Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. 
+
+Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
+
+* 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
+* 42% of US adults looked someone up before deciding to do business with them.
+* 27% have searched for someone they met in a professional setting, such as a networking event.
+* 23% of US adults have looked up a coworker. 
+
+### Tools to Create Your Personal Brand
+#### LinkedIn
+LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
+
