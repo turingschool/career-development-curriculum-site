@@ -6,8 +6,12 @@ subheading: Crafting Your Professional Narrative
 
 [Slides for this session](https://docs.google.com/presentation/d/13LaP5xgNjVy-Yro6qzG1nUH5eqWac38Vf03q1105XDE/edit?usp=sharing)
 
-### Objectives
+### Learning Goals
 * Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
+* 
+
+## [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md)
+* Draft of professional story
 
 
 #### Connecting it all Together
@@ -72,3 +76,5 @@ During a networking event explored in this [Harvard Business Review article](htt
 
 * Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, *"What happened next?"* -- are compelling to a listener.
+
+## Application: Telling Your Story through Branding
