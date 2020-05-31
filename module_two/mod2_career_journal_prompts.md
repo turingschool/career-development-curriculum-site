@@ -16,7 +16,13 @@ Copy these prompts into your career journal document to complete throughout Mod 
 
 ### Mod 2 Week 1:  <a name="week-1"></a>
 
-### Mod 2 Week 2:  <a name="week-2"></a>
+
+### Mod 2 Week 2: Professional Storytelling & Branding  <a name="week-2"></a>
+1. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
+
+2. Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the [lesson here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/professional_storytelling_branding.md). 
+
+3. 
 
 ### Mod 2 Week 3:  <a name="week-3"></a>
 
