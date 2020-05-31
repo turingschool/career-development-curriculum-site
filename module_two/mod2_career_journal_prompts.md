@@ -22,7 +22,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 
 2. Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the [lesson here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/professional_storytelling_branding.md). 
 
-3. 
+3. What other steps will you take this week to update your branding or practice your story?
 
 ### Mod 2 Week 3:  <a name="week-3"></a>
 
