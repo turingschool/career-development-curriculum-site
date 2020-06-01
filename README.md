@@ -1,7 +1,5 @@
 # Career Development Curriculum
 
-![Scope & Sequence](images/pd_new_scope.jpeg)
-
 Turing’s **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers. 
 
 Turing’s career development curriculum is created directly out of this mission with a focus on **unlocking students’ potential** in modules one and two through cultivating self-awareness and empathy. In modules three and four, curriculum focuses on providing strategies to empower students to **succeed in high-fulfillment technical careers** by creating connections within the technology industry, building competencies for industry leadership, and securing a fulfilling career -- and not just another job. 
