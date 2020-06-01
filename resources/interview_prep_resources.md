@@ -60,6 +60,7 @@ Below you can find lots of resources to help you prepare for both components.
 * [Essential Python Questions](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6?icn=post-3ey8yl7epg&ici=post-du107ozr6)
 * [Essential Java Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23?icn=post-3ey8yl7epg&ici=post-du107xs23)
 * Read about the [interview process at over 500 companies](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
+* [Popular Tech Stacks](https://stackshare.io/stacks)
 
 ## Behavioral Interview Prep Resources
 
