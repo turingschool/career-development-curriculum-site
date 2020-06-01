@@ -4,6 +4,13 @@ title: Module 5
 subheading: Post-Grad Job Seeker Support
 ---
 
-* Deliverable before graduation: [Accountability Group DTR]()
+## Module 5 Overview
 
-* [Job Search Care Package](/module-5/job_search_care_package.md)
+
+### What You Can Expect
+
+
+### Continuing the Career Journal
+
+
+
