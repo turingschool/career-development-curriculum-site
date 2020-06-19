@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Turing Career Development - Mod 0 Capstone
+title: Turing Career Development - Mod 1 Prework
 subheading: Developing Mindsets to Succeed
 ---
 
-# Turing Career Development - Mod 0 Capstone
+# Turing Career Development - Mod 1 Prework
 ## Developing Mindsets to Succeed
 
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
 When you're transitioning careers, often many other aspects of your approach to work and life undergo a transition as well. Turing aims to be a place where you can work through these transitions successfully. While enrolled at Turing and during your subsequent job search, you'll be provided with tools and strategies to develop the professional skills necessary to enter a new career as a software developer.
 
-The career development capstone is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
+The career development prework is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
 
 * Agency: Taking initiative and ownership over your learning and work
 * Empathy: Understanding and sharing others' emotions in order to relate to them
@@ -24,7 +24,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 We will also be asking you to create and use a career journal during your time at Turing to practice the skill of self-reflection and track the progress that you're making in your career change and new job search. 
 
-## **Capstone submission directions:**
+## **Mod 1 Prework submission directions:**
 ### Part One: Pairin Survey
 1. Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
@@ -41,7 +41,7 @@ We will also be asking you to create and use a career journal during your time a
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ### Part Two: Career Journal
-Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-0-capstone/career-journal_template.md) to create your journal and answer the Mod 0 questions. 
+Follow the directions on the [career journal template page here]() to create your journal and answer the Mod 0 questions. 
 
-### Career Development Capstone Submission Directions
+### Career Development Mod 1 Prework Submission Directions
 Fill out this survey to answer some questions for the Career Development team and submit the links to both of your documents from Parts I and II **[here](https://forms.gle/8GXA5kHhZ156jdd16)**
