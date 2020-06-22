@@ -4,8 +4,14 @@ title: Module 1 Career Development
 ---
 
 ## Module 1 Overview
+Module 1 Career Development is focused on Discovery. 
 
 ### Key Learning Goals
+Core Competencies of Module 1:
+* Self-reflection
+* Identifying and building an understanding of one's strengths, values, and social identity
+* Identifying helpful and unhelpful habits
+* Creation of a career vision
 
 ### Module 1 Outcomes
 
