@@ -18,11 +18,11 @@ At the end of Module 1, students will have a working vision statement for their 
 
 ### Weekly Topics
 
-* Week 1: [Understanding Your Strengths](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%201_understanding%20your%20strengths.md)
-* Week 2: [Building Your Compass: Identity, Values, and Goals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%202_building%20your%20compass.md)
-* Week 3: [Building Habits to Become a Software Developer](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%203_building%20habits.md)
-* Week 4: [Creating Your Career Vision, Part I](
-* Week 5: [Creating Your Career Vision, Part II](
+* Week 1: [Understanding Your Strengths](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_1_understanding_your_strengths.md)
+* Week 2: [Building Your Compass: Identity, Values, and Goals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_2_building_your_compass.md)
+* Week 3: [Building Habits to Become a Software Developer](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_3_building_habits.md)
+* Week 4: [Creating Your Career Vision, Part I](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_4_career_vision_part_i.md)
+* Week 5: [Creating Your Career Vision, Part II](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_5_career_vision_part_ii.md)
 
 ### Career Journal
 Students will engage in self-reflection and ideation in their career journals every week during a module. 
