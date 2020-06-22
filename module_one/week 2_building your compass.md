@@ -1,7 +1,4 @@
----
-layout: page
-title: Building Your Compass: Identity, Values, and Goals
----
+
 
 # Building Your Compass: Identity, Values, and Goals
 
