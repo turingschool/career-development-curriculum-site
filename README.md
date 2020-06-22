@@ -16,7 +16,7 @@ Through this development, upon graduation, students will be able to communicate 
 
 In this repo, you'll find all of the curriculum for career development, including information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
 
-* [Module 1](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
+* [Module 1](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/index.md)
 * [Module 2](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
 * [Module 3](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
 * [Module 4](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
