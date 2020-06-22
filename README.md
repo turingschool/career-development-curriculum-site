@@ -20,3 +20,4 @@ In this repo, you'll find all of the curriculum for career development, includin
 * [Module 2](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
 * [Module 3](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
 * [Module 4](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
+* [Module 5 (post-grad job search support)](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-5/index.md)
