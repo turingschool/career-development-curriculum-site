@@ -4,24 +4,25 @@ title: Module 1 Career Development
 ---
 
 ## Module 1 Overview
-Module 1 Career Development is focused on Discovery. 
+Module 1 Career Development is focused on the **Discovery** phase, which encourages students to focus on answering the questions of "Why am I here? What do I want in this career? What strengths, habits, and abilities do I have to help me get there? What should I develop to help me further?" Students will engage in discovery through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 1:
 * Self-reflection
-* Identifying and building an understanding of one's strengths, values, and social identity
-* Identifying helpful and unhelpful habits
+* Identify and build an understanding of one's strengths, values, and social identity
+* Identify helpful and unhelpful habits
 * Creation of a career vision
 
 ### Module 1 Outcomes
+At the end of Module 1, students will have a working vision statement for their career. In Module 2, they will build on this to create a professional story, professional brand, and working job search strategy. 
 
 ### Weekly Topics
 
 * Week 1: [Understanding Your Strengths](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%201_understanding%20your%20strengths.md)
-* Week 2:
-* Week 3: 
-* Week 4:
-* Week 5: 
+* Week 2: [Building Your Compass: Identity, Values, and Goals](
+* Week 3: [Building Habits to Become a Software Developer](
+* Week 4: [Creating Your Career Vision, Part I](
+* Week 5: [Creating Your Career Vision, Part II](
 
 ### Career Journal
 Students will engage in self-reflection and ideation in their career journals every week during a module. 
@@ -35,4 +36,4 @@ Students will engage in self-reflection and ideation in their career journals ev
 Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 1 set of career journal prompts.](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md)
 
 ### Repeating the Module
-
+For students repeating Module 1, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/m1_PD_repeat_plan.md). The Career Development team will check in with repeating students to provide guidance and answer questions. 
