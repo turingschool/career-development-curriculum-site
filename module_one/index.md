@@ -20,7 +20,7 @@ At the end of Module 1, students will have a working vision statement for their 
 
 * Week 1: [Understanding Your Strengths](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%201_understanding%20your%20strengths.md)
 * Week 2: [Building Your Compass: Identity, Values, and Goals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%202_building%20your%20compass.md)
-* Week 3: [Building Habits to Become a Software Developer](
+* Week 3: [Building Habits to Become a Software Developer](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%203_building%20habits.md)
 * Week 4: [Creating Your Career Vision, Part I](
 * Week 5: [Creating Your Career Vision, Part II](
 
