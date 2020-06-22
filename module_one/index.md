@@ -11,7 +11,7 @@ title: Module 1 Career Development
 
 ### Weekly Topics
 
-* Week 1: 
+* Week 1: [Understanding Your Strengths](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week%201_understanding%20your%20strengths.md)
 * Week 2:
 * Week 3: 
 * Week 4:
