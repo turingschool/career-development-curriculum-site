@@ -11,7 +11,7 @@ title: Module 3 Career Development
 
 ### Weekly Topics
 
-* Week 1: 
+* Week 1: [Professional Storytelling II: Resumes & Portfolios](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/week_1_resumes_and_portfolios.md) 
 * Week 2: 
 * Week 3: 
 * Week 4:
