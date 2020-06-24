@@ -36,7 +36,8 @@ You are **not** required to attend any of the professional development sessions 
   * Project & priority management
   * Stress management
   * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assist SAB reps in facilitating cohort retros, organizing a non-coding social activity, etc.
-  * 
+  * Participate in an activity related to your new career outside of Turing (i.e., attend a meetup, network with an alum, research companies you're interested in, etc.)
+  * Write a blog post about something you're learning
 
 3. Please copy and paste these prompts into your career journal:
 
