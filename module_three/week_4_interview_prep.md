@@ -4,6 +4,9 @@ title: Interview Prep
 subheading: Putting It All Together
 ---
 
+# Interview Prep
+## Putting It All Together
+
 [Slides for this lesson](https://docs.google.com/presentation/d/1QT4czt0vE16yO5KVhsfFTHyOvWbkUrX5gxHd069k6bA/edit?usp=sharing)
 
 ### Learning Goals
@@ -23,12 +26,9 @@ We've been focusing on:
 ### Opening
 Using a fist to five, how was that practice for you? What was difficult about it?
 
-**Slide #7:**
-
 Let's start by thinking about this question: *how well do you know yourself?*
 
 That question is the essence of the non-technical interview. To ace this part of the interview, you want to bring a level of self-awareness to the process so that you can confidently answer any question asked of you.
-
 
 ### Interview Prep Strategies
 There are many ways to prepare for interviews. Today, we'll go through 4 particular tips to help with this process:
@@ -49,8 +49,6 @@ This question is asking you to:
 * **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take?
 * **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
 
-**Slide #11:**
-
 **2. Use the [STAR Method](https://en.wikipedia.org/wiki/Situation,_task,_action,_result):**
 
 * **Situation:** The interviewer wants you to present a recent challenge and situation in which you found yourself.
@@ -58,16 +56,10 @@ This question is asking you to:
 * **Action:** What did you do? The interviewer will be looking for information on what you did, why you did it, and what the alternatives were.
 * **Results:** What was the outcome of your actions? What did you achieve through your actions and did you meet your objectives? What did you learn from this experience and have you used this learning since?
 
-**Slide #12:**
-
-**Note to Facilitator #2:** Call on a front end student to give you specifics on a project for the following question. Write up on the board some of the specifics that they share and outline how that fits with the STAR method.
-
 Example:
 * Tell me about a successful project that you've worked on.
 
 Let's unpack this using the STAR method.  
-
-**Slide #13:**
 
 **3. Know how to talk about Turing**
 
@@ -78,21 +70,13 @@ Let's unpack this using the STAR method.
 
 * Don't assume your interviewer knows anything about Turing
 
-**Note to Facilitator #2:** Call on a back end student to talk through the example #1:
-
 Example #1:
 
 Instead of saying “In Module 1, when I was working on the Battleship project…” what could you say?
 
-**Slide #14:**
-
-**Note to Facilitator #2:** Call on 1-2 more students to respond to the following questions:
-
 Example #2:
 
 "I’ve never heard of Turing. What did you focus on there? What’s the structure of the program? How did it prepare you for this career?"
-
-**Slide #14:**
 
 **4. Make a list:**
 
@@ -104,14 +88,7 @@ Brainstorm:
 
 Start this running list in your journal. We'd also recommend that you keep an interview prep-specific journal.
 
-[More interview prep resources are available here](interview_prep_resources.md)
-
-**Facilitator #1:** Using slides #17-21, go through the following:
-
-**Slide #17:**
-
 ### We Do
-**Note to Facilitator #1:** Instruct the students to use their journals to respond to as many of the remaining questions here as possible in 5 minutes:
 
 1. Take 5 minutes to continue prepping in your journal over some of the common interview questions listed here:
 
@@ -122,18 +99,12 @@ Start this running list in your journal. We'd also recommend that you keep an in
 * What is your approach to working on a team?
 * What is an area of growth for you?
 
-**Slide #18:**
-
-**Note to Facilitator #1:** Call on 1-2 volunteers to come to the front to answer a question or two from the list. Volunteers can pick the question they respond to. As the facilitator, give them some feedback and then call on 1-2 other students to provide additional feedback.
-
 2. With volunteers, listen to their responses and provide some feedback. Pay attention to:
   * What do you notice about the answer?
   * What do you appreciate about it?
   * What would you do differently?
 
 Whole Group: What else do you notice about the answers given here?
-
-**Slide #19:**
 
 ### Group Practice
 Get into groups of 3-4 for more practice on these questions. You could also choose to push yourself to answer questions not on the above list. Reminder that feedback should be:
@@ -142,30 +113,6 @@ Get into groups of 3-4 for more practice on these questions. You could also choo
 * Actionable
 * Kind
 
-**Slide #21:**
-
 ### Closing
-**Note to Facilitator #1:** Call on 1-2 students to respond to the following questions:
 
-* What are your takeaways from today's practice?
-* What next steps will you take to prepare for next module's mock interviews?
 
-Next Mod:
-* Before Mod 3, you have [pre-work to create an interview prep system](pre_work.md)
-* In Mod 3, you’ll complete a mock behavioral interview with a staff member
-
-**Facilitator #2:** Using slide #23, go through the following:
-
-**Slide #23:**
-
-### Peer Review: Outreach & Networking Deliverable
-1. Get into groups of 3-4 people
-2. Share your outreach/networking plans with each other
-3. Give each other feedback:
-  * Is it clear why your partner is reaching out to this person? Why/why not?
-  * Is it clear what the ask is? Why/why not?
-  * What other next steps should your partner consider to make a strong connection here?
-  * How can you as a group help each other be accountable to these plans and follow-through?
-4. Go back to your plans and make any updates that you need to in the gist to help hold yourself accountable
-
-**Note to Facilitator #2:** Before closing out, have 2-3 groups share out what steps they're taking with their outreach and how they're holding each other and themselves accountable.
