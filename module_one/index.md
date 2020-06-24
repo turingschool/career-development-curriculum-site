@@ -8,6 +8,7 @@ Module 1 Career Development is focused on the **Discovery** phase, which encoura
 
 ### Key Learning Goals
 Core Competencies of Module 1:
+* Self-awareness
 * Self-reflection
 * Identify and build an understanding of one's strengths, values, and social identity
 * Identify helpful and unhelpful habits
