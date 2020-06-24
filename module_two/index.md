@@ -4,14 +4,21 @@ title: Module 2 Career Development
 ---
 
 ## Module 2 Overview
-Module 2 Career Development is focused on the **Building on Your Vision** phase, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and continuous self-reflection in their career journals.  
+Module 2 Career Development is focused on **building on one's initial career vision** established in Module 1, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 2:
-* 
+* Ability to express one's...
 
 ### Module 2 Outcomes
-At the end of Module 2, students will  In Module 3, they will 
+At the end of Module 2, students will have:
+
+* A more refined vision for their career
+* A professional story that articulates that vision
+* An outlined strategy for their job search
+* An understanding of best practices for outreach and networking
+
+In Module 3, they will expand on this learning by focusing on executing their strategies. 
 
 ### Weekly Topics
 
