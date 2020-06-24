@@ -30,7 +30,7 @@ You are **not** required to attend any of the professional development sessions 
 
 ### Career Journal
 1. Please create a new section of your career journal and title it "Mod 1 Repeat."
-2. For this module, you should consider 2-3 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
+2. For this module, you should consider 1-2 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
   * Organization & time management
   * Communication
   * Project & priority management
