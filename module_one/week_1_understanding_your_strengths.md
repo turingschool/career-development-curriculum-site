@@ -85,4 +85,104 @@ Based on how they like to work, how would you describe Sam and Ana’s strengths
 **Do Now:** The first prompt in [this week's career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-1) will ask you to think about what you skills, knowledge, and talents you combine into one of your strengths.
 
 ## Application: Using the Pairin Survey
+If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth. 
 
+### Understanding the Results: Overview of Top 4 Qualities
+Your results show you top 4 qualities:
+
+1. Top Thinking Style 
+2. Most Intense Driver
+3. Highest EQ Competency
+4. Leading Virtue Class
+
+The following information comes from the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf)
+
+#### Thinking Styles 
+The Thinking Styles are characteristic ways of processing information and handling tasks. This includes how people acquire knowledge, organize thoughts, form views and opinions, apply personal value, plan, decide, solve problems, and express themselves. Thinking styles are NOT the same thing as thinking ability. These are categorized in 4 areas:
+
+* Cooperative-Practical: Team Player
+* Imaginative-Inspirational
+* Intuitive-Conceptual
+* Objective-Analytical
+
+#### Drivers 
+Psychologist Henry Murray outlined a set of psychological needs that—-alone or in combination—-drive specific behaviors. Murray believed that everyone has the same set of needs but that individuals experience them in different intensities. These Drivers are based on Murray’s needs. The three domains (Love, Work & Growth) are derived from the core concepts of Abraham Maslow, Edgar Schein and James Sales. 
+
+* **Love** — *to interact, connect with &  experience care for and from others*
+   * Relationship: Friend 
+   * Supportiveness: Caregiver 
+   * Flamboyance: Stand-out 
+   * Deference: Loyalist
+   * Support-Seeking: Reliant
+
+* **Work** — *to influence outcomes & gain mastery*
+   * Achievement: Ace Achiever 
+   * Personal Power: Director 
+   * Persistence: Tug Boat 
+   * Order: Specialist 
+   * Aggressiveness: Blaze 
+
+* **Growth** — *to be all that I can be in life; fulfilled purpose & potential*
+   * Change: Transformer 
+   * Independence: Maverick 
+   * Perceptivity: Searcher 
+   * Vitality: Enthusiast 
+   * Self-Blame: Microscope 
+
+#### Emotional Intelligence (EQ) Competencies 
+The definition of Emotional Intelligence or EQ (first advanced by researchers Peter Salavoy and John Mayer, but popularized by author Daniel Goleman) is the ability to:
+
+* Recognize, understand and manage our own emotions
+* Recognize, understand and influence the emotions of others
+
+In practical terms, developing EQ means gaining awareness that emotions drive our behavior and impact people (positively and negatively) and learning to manage those emotions — both our own and others — especially when we are under pressure. The EQ framework has four categories comprising 18 competencies as outlined below.
+
+* Self-Awareness 
+  * Emotional Self-Awareness: Self-Attuned
+  * Self-Assessment:	Self-Examiner 
+  * Self-Confidence:	Self-Confident
+
+* Self-Management 
+  * Self-Control: Calm, Cool, Collected 
+  * Transparency: Glass Window 
+  * Achievement: Ace Achiever
+  * Initiative: Self-Starter 
+  * Optimism: Can Do Attitude 
+  * Flexibility & Adaptability:	Elasticity
+
+* Social Awareness 
+  * Empathy: I “Get” You 
+  * Organizational Awareness: Group Expert 
+  * Service Orientation: At Your Service 
+
+* Relationship Management  
+  * Inspirational Leader: Inspirational Leader 
+  * Influential Leader: Influential Leader
+  * Enriching Others:	People Developer 
+  * Change:	Transformer 
+  * Conflict Management: Conflict Wrangler 
+  * Cooperative-Practical: Team Player 
+
+#### Virtue Classes
+Six broad virtues classifying 24 specific strengths that consistently emerge as “good” across history and culture. Pairin’s virtues map to Character Strengths and Virtues (Peterson, C., & Seligman, M. E. P., 2004), the work of a prestigious group of researchers who have attempted to create a systematic classification and measurement of widely valued positive traits. Their aim was to present a measure of humanist ideals of virtue in an empirical and scientific way.  
+
+Knowing your leading virtue class and associated strengths isn’t just interesting information. Research shows that tapping into character strengths can help an individual to: 1) Buffer against, manage and overcome problems, 2) Improve relationships, and 3) Enhance health and overall well-being.
+
+* Courage: Lover of Courage 
+* Humanity: Lover of Humanity 
+* Justice: Lover of Justice 
+* Transcendence:	Lover of Transcendence 
+* Wisdom & Knowledge:	Lover of Wisdom 
+* Temperance:	Lover of Moderation 
+
+**Do Now:** In the [second prompt for your career journal this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-1), read through your Pairin results and reflect on what they mean to you.
+
+### Opportunity for Professional Coaching
+What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
+
+* Stress management
+* Organization and time management
+* Career transition guidance
+* Using your Pairin data for growth
+
+You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session this module. All coaching sessions are completely confidential. 
