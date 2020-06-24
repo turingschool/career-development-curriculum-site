@@ -18,11 +18,11 @@ Here's the breakdown of expectations for repeating the module:
 ### Sessions
 You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
-* Week 1: 
+* Week 1: [Building Habits to Become a Software Developer, Part II](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_1_habits_part_ii.md)
 * Week 2: [Professional Storytelling & Branding](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_2_professional_storytelling_branding.md)
-* Week 3: 
-* Week 4:
-* Week 5: 
+* Week 3: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_3_job_search_strategies.md)
+* Week 4: [Building Habits to Become a Software Developer, Part III](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_4_habits_part_iii.md)
+* Week 5: [Outreach & Networking I](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_5_outreach_networking_i.md)
 
 ### Career Journal
 1. Please create a new section of your career journal and title it "Mod 2 Repeat."
