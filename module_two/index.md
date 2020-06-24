@@ -4,7 +4,7 @@ title: Module 2 Career Development
 ---
 
 ## Module 2 Overview
-Module 2 Career Development is focused on the **Discovery** phase, which encourages students to focus on answering the questions of "Why am I here? What do I want in this career? What strengths, habits, and abilities do I have to help me get there? What should I develop to help me further?" Students will engage in discovery through weekly workshops, discussions, and continuous self-reflection in their career journals.  
+Module 2 Career Development is focused on the **Building on Your Vision** phase, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 2:
@@ -15,11 +15,11 @@ At the end of Module 2, students will  In Module 3, they will
 
 ### Weekly Topics
 
-* Week 1: 
+* Week 1: [Building Habits to Become a Software Developer, Part II](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_1_habits_part_ii.md)
 * Week 2: [Professional Storytelling & Branding](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_2_professional_storytelling_branding.md)
-* Week 3: 
-* Week 4:
-* Week 5: 
+* Week 3: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_3_job_search_strategies.md)
+* Week 4: [Building Habits to Become a Software Developer, Part III](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_4_habits_part_iii.md)
+* Week 5: [Outreach & Networking I](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_5_outreach_networking_i.md)
 
 ### Career Journal
 Students will engage in self-reflection and ideation in their career journals every week during a module. 
