@@ -12,7 +12,7 @@ Reminder that in Mod 1, we covered the topics of:
 * Self-awareness
 * Self-reflection
 * Identify and build an understanding of one's strengths, values, and social identity
-* Identify helpful and unhelpful habits
+* Identify effective and ineffective habits
 * Creation of a career vision
 
 As you make your plan here, think about how you can push yourself to grow in these areas further.
@@ -29,7 +29,7 @@ You are **not** required to attend any of the professional development sessions 
 * Week 5: [Creating Your Career Vision, Part II](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/week_5_career_vision_part_ii.md)
 
 ### Career Journal
-1. Please create a new section of your career journal and title it "Mod 1 Repeat."
+1. Please create a new section of your career journal and title it "Mod 1 Repeat Journal Reflections."
 2. For this module, you should consider 1-2 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
   * Organization & time management
   * Communication
