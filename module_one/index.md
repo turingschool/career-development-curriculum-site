@@ -11,7 +11,7 @@ Core Competencies of Module 1:
 * Self-awareness
 * Self-reflection
 * Identify and build an understanding of one's strengths, values, and social identity
-* Identify helpful and unhelpful habits
+* Identify effective and ineffective habits
 * Creation of a career vision
 
 ### Module 1 Outcomes
