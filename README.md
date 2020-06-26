@@ -20,17 +20,11 @@ The touchstones of this curriculum include developing these mindsets:
 * Mod 4: Execute your strategy, phase II: continue utilizing and refining your strategy as you talk to companies and go on interviews
 
 ### Structure of Career Development
-To provide you with support in each of these areas, every week you’ll have a workshop on a specific professional development topic 
+Every Monday, students will have a workshop on a specific professional development topic to provide them with support in each of these areas. The workshops will provide space for whole group and small group discussion, readings, and reflection time along with resources and strategies for implementing new ideas. 
 
-We’ll discuss this topic and give you strategies for implementing it
+Throughout the rest of the week, students will be able to put this learning into practice through reflections in their career journals. What is a career journal?  It's a document where the student can create a road map for their career goals through self-reflection, prompts, and questions.
 
-Throughout the rest of the week, you’ll work on it with your career journal
-
-Where will you record this work? In your career journal! 
-
-This journal will be something that the Career Dev team will review at the end of each mod to see your progress, and we will use this to provide even more tailored support where needed. 
-
-Provides you with a road map for your career
+The Career Dev team will review each students' journal reflections weekly and again at the end of each module to assess their progress and provide tailored support when needed.  
 
 ### Module Overview
 See below for the focus for each module more in-depth along with links to the sessions:
