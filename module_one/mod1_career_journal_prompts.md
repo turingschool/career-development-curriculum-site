@@ -12,7 +12,7 @@ title: Mod 1 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 1. 
+Copy these prompts into your career journal document to complete throughout Mod 1. Please label this section of your career journal "Module 1 Journal Reflections."
 
 ### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>
 1. Describe one of your strengths
