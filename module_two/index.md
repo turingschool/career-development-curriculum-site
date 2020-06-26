@@ -8,7 +8,11 @@ Module 2 Career Development is focused on **building on one's initial career vis
 
 ### Key Learning Goals
 Core Competencies of Module 2:
-* Ability to express one's...
+* Self-awareness shown through ability to express one's strengths, values, and professional goals
+* Build on effective habits
+* Decrease ineffective habits
+* 
+* Best practices for building one's professional network
 
 ### Module 2 Outcomes
 At the end of Module 2, students will have:
