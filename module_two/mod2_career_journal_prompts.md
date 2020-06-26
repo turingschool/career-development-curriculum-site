@@ -23,9 +23,9 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 3.
 
-4.
+4. Track how you spend your time this week...
 
-5.
+5. Create new habits following intention implementation...
 
 
 ### Mod 2 Week 2: Professional Storytelling & Branding  <a name="week-2"></a>
