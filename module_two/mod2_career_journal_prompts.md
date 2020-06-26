@@ -17,19 +17,32 @@ Copy these prompts into your career journal document to complete throughout Mod 
 ### Mod 2 Week 1: Building Habits to Become a Software Developer, Part II  <a name="week-1"></a>
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
-1. Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you? What processes would you like to try differently this module to become more effective at your work and as a software developer?
+-Review the 4-step process of a habit:
+		-Cue, craving, response, reward 
+	-Refer back to implementation intentions journal prompt
+	-Motivation vs. Clarity (back to implementation intention)
+	-Habit-stacking again 
+	-Re-stress environment 
 
-2. 
+1. Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you? What processes would you like to try differently this module to become more effective at your work and as a software developer? 
 
-3.
+2. Temptation bundling...
 
-4. Track how you spend your time this week...
+3. How to enjoy “hard” habits: Reframe your habits to consider their benefits rather than their drawbacks; name 3 habits that you have to do and explain the benefits of them. How do they further your goals longterm? How will they add to your processes as a successful developer? At the end of the day, how do they add to your life? 
 
-5. Create new habits following intention implementation...
+4. Environment design: how does your environment set-up currently help you with your habits? How could it be improved to make it easier for you to follow through on your habits? 
+
+5. “When you start a new habit, it should take less than two minutes to do.” Read this 4-min article on [how to stop procrastinating](https://jamesclear.com/how-to-stop-procrastinating). Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer? 
+
+6. Breaking a habit...
+
+7. Create new habits following intention implementation...
 
 
 ### Mod 2 Week 2: Professional Storytelling & Branding  <a name="week-2"></a>
-1. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
+1. Track how you spent your time last week...
+
+2. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
 
 2. Update your LinkedIn profile with the following: updated photo/headshot, headline, summary statement using your story, and Turing added to your experience and education sections. Include a link to your profile here in the journal. Remember the guidelines and tips from the [lesson here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/professional_storytelling_branding.md). 
 
