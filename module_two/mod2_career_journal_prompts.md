@@ -32,7 +32,7 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 6. “When you start a new habit, it should take less than two minutes to do.” Read this 4-min article on [how to stop procrastinating](https://jamesclear.com/how-to-stop-procrastinating). Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer? 
 
 ### Mod 2 Week 2: Professional Storytelling & Branding  <a name="week-2"></a>
-1. Track how you spent your time last week...
+1. Assess your habits from week 1: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
 
 2. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions *who are you, why are you here,* and *what's next?* Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
 
@@ -41,6 +41,8 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 3. What other steps will you take this week to update your branding or practice your story?
 
 ### Mod 2 Week 3: Job Search Strategies <a name="week-3"></a>
+Assess your habits from week 2: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
+
 Reflect on how you’ve spent your time so far at Turing to gauge your engagement and energy:
 * When have you been excited, focused, and enjoyed your work?
 * When have you felt bored, restless, or unhappy?
@@ -59,7 +61,7 @@ Applying wayfinding to using job search resources
 ### Mod 2 Week 4: Building Habits to Become a Software Developer, Part III  <a name="week-4"></a>
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
-1.
+1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
 
 2.
 
@@ -71,6 +73,8 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 
 ### Mod 2 Week 5: Outreach & Networking I  <a name="week-5"></a>
+Assess your habits from week 4: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
+
 Mind Maps:
 * 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
 * 2. **Energy.** What did you reflect on last week in regards to when you feel most energized in your work at Turing? Pull out an idea that resonates with you most and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
