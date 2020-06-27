@@ -11,7 +11,7 @@ Core Competencies of Module 2:
 * Self-awareness shown through ability to express one's strengths, values, and professional goals
 * Build on effective habits
 * Decrease ineffective habits
-* 
+* Create and follow through on effective job search strategies
 * Best practices for building one's professional network
 
 ### Module 2 Outcomes
