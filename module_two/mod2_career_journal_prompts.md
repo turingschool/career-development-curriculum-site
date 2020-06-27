@@ -21,7 +21,7 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 2. Setting intentions for this module: who do I want to be this module? What specific habits would help me get there? How are those habits tied to the identity of a software developer?
 
-3. Incorporate temptation bundling to create a new habit by using this template:
+3. Incorporate [temptation bundling](https://jamesclear.com/temptation-bundling) to create a new habit by using this template:
   * After [CURRENT HABIT], I will [HABIT I NEED TO DO].
   * After [HABIT I NEED], I will [HABIT I WANT TO DO].
 
