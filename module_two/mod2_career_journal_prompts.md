@@ -63,14 +63,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
 
-2.
+2. Reinforcement
 
-3.
+3. Back to reframing to see benefits of unenjoyable habits
 
-4.
+4. Use a habit tracker
+ 
+5. How to get back on track when missing a habit
 
-5.
-
+6. Check in with your accountabilibuddy 
 
 ### Mod 2 Week 5: Outreach & Networking I  <a name="week-5"></a>
 Assess your habits from week 4: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
