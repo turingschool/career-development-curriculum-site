@@ -13,7 +13,35 @@ title: Mod 3 Career Journal Prompts
 ### Directions
 Copy these prompts into your career journal document to complete throughout Mod 3. 
 
-### Mod 3 Week 1:  <a name="week-1"></a>
+### Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios <a name="week-1"></a>
+
+1. Reflections from last module -- career vision, job search strategy that aligns with it -- what industries and companies are you targeting? 
+
+2. Build your resume
+* What will you emphasize in your resume that directly relates to your targeted industries?
+* Pick a template from those listed in the Templates section [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Order your content in this way:
+   * Header (Name + Software Developer OR Back End Engineer OR Front End Engineer, etc.)
+   * Contact info
+   * Summary
+   * Skills
+   * Projects
+   * Experience
+   * Education
+* Check out other resources [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md) including the Resume Checklist
+* Link to your resume or include a screenshot here: 
+
+3. Upload your resume to CV Compiler by following these steps: 
+* Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
+* Click on "Improve Your Student Resume"
+* Authorize it with either LinkedIn or GitHub
+* Fill out the fields with your Name and Email and the promo code Turing2003
+* Upload your resume
+* Based on the feedback you received from CV Compiler, what updates will you make to your resume?
+
+4. Portfolio
+
+
 
 ### Mod 3 Week 2:  <a name="week-2"></a>
 
