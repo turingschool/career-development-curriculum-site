@@ -72,7 +72,7 @@ Now, if your goal is to become a software developer, what steps should you take 
 
 Start with designing a system that can achieve that goal. We'll look here at Clear's Habit Loop:
 
-![The+Habit+Loop](https://github.com/turingschool/career-development-curriculum-site/blob/master/images/The%2BHabit%2BLoop.pdf)
+![Habit Loop](https://github.com/turingschool/career-development-curriculum-site/blob/master/images/The%2BHabit%2BLoop.pdf)
 
 This outlines how habits work:
 
