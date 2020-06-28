@@ -9,7 +9,11 @@ Repeating the module is an opportunity to not only solidify technical skills but
 
 Reminder that in Mod 3, we covered the topics of:
 
-* 
+* Resumes
+* Cover letters
+* Application process
+* Outreach & Networking connected to companies you're applying to
+* Interview prep
 
 As you make your plan here, think about how you can push yourself to grow in these areas further.
 
@@ -27,7 +31,14 @@ You are **not** required to attend any of the professional development sessions 
 ### Career Journal
 1. Please create a new section of your career journal and title it "Mod 3 Repeat Journal Reflections."
 2. For this module, you should consider 2-3 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
-  * 
+  * Update your resume and ask your mentor or career dev team member to review it
+  * Write a cover letter for a posting that you're interested in; ask mentor or career dev team member to review it
+  * Find someone at each company you're interested in and reach out to them; set up a phone call
+  * Apply to 1-2 jobs a week (including updating resume, customized cover letter, and outreach for each application)
+  * Update your Turing alumni portfolio
+  * Attend a networking event, such as an online meetup
+  * Update your Huntr with your current job applications
+  * Schedule a mock technical or behavioral interview with a mentor
 
 3. Please copy and paste these prompts into your career journal:
 
