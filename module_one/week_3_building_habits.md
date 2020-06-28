@@ -103,3 +103,37 @@ That brings us to the solution phase with the Response and Reward:
 3. Response: You pull out your phone and check social media
 4. Reward: You satisfy the craving to feel relieved. Checking social media is now associated with feeling stalled in work.
 
+### The Four Laws of Behavior Change
+This brings us to the Four Laws of Behavior Change for creating an effective habit:
+
+1. The 1st Law (Cue) is to **make it obvious**
+2. The 2nd Law (Craving) is to **make it attractive**
+3. The 3rd Law (Response) is to **make it easy**
+4. The 4th Law (Reward) is to **make it satisfying**
+
+For breaking an ineffective habit, the inverse of the laws applies:
+
+1. Make it invisible
+2. Make it unattractive
+3. Make it difficult
+4. Make it unsatisfying
+
+### Putting the 1st Law into Practice: Build Self-Awareness
+In order to make your habits obvious, you have to start by observing what you do already. What behaviors are effective for becoming the person you want to be?
+Decide if your behaviors align with what you discussed are effective habits for software developers. 
+
+Then apply some strategies:
+
+* Create an implementation intention
+  * Tie the new habit to time and location
+  * “I will [BEHAVIOR] at [TIME] in [LOCATION].” 
+  * Example: “I will meditate for 1 minute at 7am in my kitchen.”
+
+* Stack the new habit onto a current habit:
+  * “After [CURRENT HABIT], I will [NEW HABIT].”
+  * The key here is to make the habit highly specific + immediately actionable
+  * Example: “After I pour my coffee each morning, I will meditate for 1 minute.”
+
+* Design your environment for success. If you want to make something happen, how can your surroundings or available resources optimize your chances of doing it?
+
+The rest of the journal prompts for this week ask you to put these strategies into place. 
