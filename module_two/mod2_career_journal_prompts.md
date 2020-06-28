@@ -68,13 +68,17 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 3. Back to reframing to see benefits of unenjoyable habits
 
 4. Use a habit tracker
+ -"Don't Break the Chain": What is a habit that you want to make sure to do *every day*? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you've completed it? 
+
+ After [CURRENT HABIT], I will [TRACK MY HABIT].
+ -Need help? Check out one of these [habit tracking apps](https://www.lifehack.org/668261/best-habit-tracking-apps)
  
 5. How to get back on track when missing a habit
 
 6. Check in with your accountabilibuddy 
 
 ### Mod 2 Week 5: Outreach & Networking I  <a name="week-5"></a>
-Assess your habits from week 4: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
+Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module? 
 
 Mind Maps:
 * 1. **Engagement.** What did you reflect on last week in regards to when you're engaged in your work at Turing? Pull out an idea that resonates with you most (e.g., "Talking through a problem with a partner," "The moment when I solve a problem that I previously didn't know how to do," "Setting up a successful project management process for my team") and break that idea down into parts and make a list (what are all the steps that go into that moment? When do you get to use your strengths? What is fun about this?).
