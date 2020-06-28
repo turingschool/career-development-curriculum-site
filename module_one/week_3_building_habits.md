@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Building Habits to Become a Software Developer
+title: Building Habits to Become a Software Developer, Part I
 ---
 
-# Building Habits to Become a Software Developer
+# Building Habits to Become a Software Developer, Part I
 
 [Slides for the session](https://docs.google.com/presentation/d/1BwXUyaDs4Ms9v8i9Iye3I3XnGirTpLgQxOzglAEw_Wc/edit?usp=sharing)
 
@@ -67,4 +67,7 @@ It's important to start by redesigning your goal. It's not to learn to code; it'
 
 **Do Now:** The first 2 prompts in [this week's career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-3) asks you to consider what the traits and behaviors of a good software developer are.
 
-### 
+### Redesign the Systems: Utilize the Habit Loop
+Now, if your goal is to become a software developer, what steps should you take to reach that goal and embody that new identity?
+
+
