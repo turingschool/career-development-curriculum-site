@@ -63,19 +63,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen? 
 
-2. Reinforcement
+2. Implement a reiforcement strategy: to make one of your habits more satisfying, what is a reward you can give yourself immediately after completing the habit? How will this reward encourage you to continue completing that habit?
 
-3. Back to reframing to see benefits of unenjoyable habits
-
-4. Use a habit tracker
- -"Don't Break the Chain": What is a habit that you want to make sure to do *every day*? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you've completed it? 
-
- After [CURRENT HABIT], I will [TRACK MY HABIT].
- -Need help? Check out one of these [habit tracking apps](https://www.lifehack.org/668261/best-habit-tracking-apps)
+3. "Don't Break the Chain": Use a habit tracker
+* What is a habit that you want to make sure to do *every day*? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you've completed it? Could you automate the tracking? How will you do that?
+* Need help? Check out one of these [habit tracking apps](https://www.lifehack.org/668261/best-habit-tracking-apps)
  
-5. How to get back on track when missing a habit
+4. How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?
 
-6. Check in with your accountabilibuddy 
+5. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable? 
 
 ### Mod 2 Week 5: Outreach & Networking I  <a name="week-5"></a>
 Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module? 
