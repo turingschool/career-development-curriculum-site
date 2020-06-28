@@ -9,7 +9,10 @@ Repeating the module is an opportunity to not only solidify technical skills but
 
 Reminder that in Mod 2, we covered the topics of:
 
-* 
+* Self-awareness shown through ability to express one's strengths, values, and professional goals
+* Create a vision for your career
+* Create and follow through on effective job search strategies
+* Best practices for building one's professional network
 
 As you make your plan here, think about how you can push yourself to grow in these areas further.
 
@@ -30,7 +33,7 @@ You are **not** required to attend any of the professional development sessions 
 ### Career Journal
 1. Please create a new section of your career journal and title it "Mod 2 Repeat Journal Reflections."
 2. For this module, you should consider 1-2 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
-  * Refining your professional story
+  * Refining and practicing your professional story
   * Updating your LinkedIn profile
   * Implementing additional outreach with people from the Turing community or the tech community at large
   * Deciding on new strategies for your job search (i.e., refining the industries and companies you're looking at, conducting research on those companies, deciding next steps for outreach, etc.)
