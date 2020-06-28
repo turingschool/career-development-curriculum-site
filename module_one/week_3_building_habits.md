@@ -70,4 +70,36 @@ It's important to start by redesigning your goal. It's not to learn to code; it'
 ### Redesign the Systems: Utilize the Habit Loop
 Now, if your goal is to become a software developer, what steps should you take to reach that goal and embody that new identity?
 
+Start with designing a system that can achieve that goal. We'll look here at Clear's Habit Loop:
+
+![The+Habit+Loop](https://github.com/turingschool/career-development-curriculum-site/blob/master/images/The%2BHabit%2BLoop.pdf)
+
+This outlines how habits work:
+
+* Cue (trigger to do the behavior)
+* Craving (motivation; wanting a change in state)
+* Response (thought or action taken)
+* Reward (end goal; what satisfies or teaches us)
+
+#### Example #1:
+The Cue and Craving describe the problem you want to solve:
+
+1. Cue: You wake up
+2. Craving: You want to feel alert
+
+That brings us to the solution phase with the Response and Reward:
+
+3. Response: You drink a cup of coffee
+4. Reward: You satisfy the craving to feel alert. You now associate drinking coffee with waking up.
+
+#### Example #2:
+The Cue and Craving describe the problem you want to solve:
+
+1. Cue: You hit a roadblock on a project
+2. Craving: You feel stuck and want to relieve your frustration
+
+That brings us to the solution phase with the Response and Reward:
+
+3. Response: You pull out your phone and check social media
+4. Reward: You satisfy the craving to feel relieved. Checking social media is now associated with feeling stalled in work.
 
