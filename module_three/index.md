@@ -4,14 +4,27 @@ title: Module 3 Career Development
 ---
 
 ## Module 3 Overview
-Module 3 Career Development is focused on ... Students will engage in discovery through weekly workshops, discussions, and continuous self-reflection in their career journals.  
+Module 3 Career Development is focused on **executing the strategies** that students have been building in the previous two modules. Prior to Mod 3, students will have created their career visions and started to build job search strategies aligned with those visions. In Mod 3, students have the opportunity to put these ideas into practice through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 3:
-* 
+* Self-awareness
+* Self-reflection
+* Putting effective habits into place
+* Professional storytelling through tools such as resumes, cover letters, and online portfolios
+* Executing effective job search strategies
+* Best practices for outreach and networking on job applications
+* Best practices for interviewing for technical jobs
 
 ### Module 3 Outcomes
-At the end of Module 3, students will have.... 
+At the end of Module 3, students will have:
+
+* An even more refined vision for their career
+* A working resume
+* A working knowledge of how to write cover letters
+* A working Turing alumni portfolio
+* Demonstrated competency in outreach and networking
+* Demonstrated competency in interview best practices
 
 ### Weekly Topics
 
