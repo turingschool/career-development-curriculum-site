@@ -89,7 +89,7 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
   * Progress on your goal(s):
   * Progress on your habit(s):
   * New ideas or changes to put into place this week:
-  * Reflections on the module as a whole (where have you improved? What do you want to continue doing in Module 2? What do you want to stop doing?):
+  * Reflections on the module as a whole (where have you improved? What do you want to continue doing in Module 3? What do you want to stop doing?):
 
 **You are expected to be reflecting and responding to these weekly prompts every week during the module in your PD work time. If you have any questions about these expectations, please reach out to Allison.**
 
