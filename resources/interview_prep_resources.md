@@ -54,6 +54,8 @@ Below you can find lots of resources to help you prepare for both components.
 * [List of Ruby on Rails questions](https://www.codementor.io/blog/ruby-on-rails-interview-questions-du107w0ss?icn=post-3ey8yl7epg&ici=post-du107w0ss)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [Essential JavaScript questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z?icn=post-3ey8yl7epg&ici=post-du107p62z)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 * [Top 50 React Interview Prep Questions](https://www.edureka.co/blog/interview-questions/react-interview-questions/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Additional React Questions](https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1?icn=post-3ey8yl7epg&ici=post-du1084ym1)
 * [Essential Angular Questions](https://www.codementor.io/blog/angularjs-interview-questions-sample-answers-du1081n7p?icn=post-3ey8yl7epg&ici=post-du1081n7p)
