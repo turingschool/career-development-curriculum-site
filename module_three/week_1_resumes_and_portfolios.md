@@ -97,5 +97,30 @@ Consider:
 * If you decide to interview them, what follow-up questions would you ask? 
 
 ### Turing Alumni Portfolios
-The Turing alumni portfolios live on our site at [alumni.turing.io](https://alumni.turing.io/)
+Turing provides you with a space to build a portfolio on our website at [alumni.turing.io](https://alumni.turing.io/). These portfolios are how we showcase our job seeking graduates and soon-to-be graduates! We share these directly with employers, but employers also regularly come to our site to look for candidates.
 
+#### Set Up
+You'll receive an email invitation for your initial log in, but after that, log in at: [alumni.turing.io/user](https://alumni.turing.io/user). After initial set up, your username is your email without the email extension (i.e., if your email is jsmith@gmail.com, your username is jsmith)
+
+Start your working draft following these directions:
+
+* Professional photo (Just you! Sorry, but no kids or animals)
+* Description (where you tell your professional story)
+* Polished draft of resume
+* At least 2 projects highlighted
+  * Show variety: paired, team, individual
+  * Next mod: you’ll need to have 3 projects
+* Select “published” for both your profile and projects when you save them in order to display them on the site
+* Check out [examples](https://alumni.turing.io/)
+
+#### Troubleshooting
+Unfortunately, this site was built by a different company and contains a lot of bugs. In order to successfully create your portfolio, you'll need to follow these directions:
+
+* Use Safari
+* Double check all fields when trying to save
+* Select any cohort (cohort does not matter)
+* Do not copy and paste information 
+  * It will not paste in correctly
+* GitHub ID doesn't matter; leave it blank
+
+For a helpful visual to this, check out this [demo video built by an alum](https://www.youtube.com/watch?v=v7J5cYJ24hU&feature=youtu.be)
