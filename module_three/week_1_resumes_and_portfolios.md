@@ -83,7 +83,7 @@ During the session, you'll get to participate in this group activity in which yo
 
 Review these alumni resumes:
 
-* [Erin Pintozzi[(https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
+* [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
 * [Torie Joy-Warren](https://alumni.turing.io/sites/default/files/resumes/torie_joy_warren.pdf)
 * [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
 * [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
