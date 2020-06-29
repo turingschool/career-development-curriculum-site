@@ -17,6 +17,15 @@ Ideas in this session are adapted from [Atomic Habits by James Clear](https://bo
 * Implement temptation bundling to improve your motivation
 * Apply new strategies within your environment design and everyday process to break down procrastination
 
+### [This Week's Career Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1)
+
+* Reflect on habits from last mod
+* Set intentions for this mod
+* Incorporate temptation bundling
+* Reframe hard habits
+* Follow-up on environment design for your habits
+* Apply the 2-min. rule to help you stop procrastinating
+
 ### Review
 Consider:
 
@@ -68,11 +77,3 @@ Consider:
 
 * How can we build a culture within our cohorts where the desired behavior we all want to express is our collective norm? 
 * How will we encourage and hold each other accountable to holding effective habits throughout the entire module?
-
-### Closing
-The rest of the [journal prompts for this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1) ask you to put these strategies into place:
-
-* Incorporate temptation bundling
-* Reframe hard habits
-* Follow-up on environment design for your habits
-* Apply the 2-min. rule to help you stop procrastinating
