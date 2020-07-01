@@ -47,7 +47,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
     * What do you want this portfolio to say about you?
     * How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?\\
 
-5. Ian's workshop this week is designed to help you break down your interest in specific industries even further. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board. 
+5. Ian's workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board. 
 
 ### Mod 3 Week 2:  <a name="week-2"></a>
 
