@@ -45,7 +45,7 @@ Now that you've found some companies where you'd like to apply for work, you nee
 
 Open the following Google Spreadsheet and make a copy for yourself. Follow the instructions on the "Intro" tab.
 
-https://docs.google.com/spreadsheets/d/1nhwWitQ2OwMj8qf833Uc-NKNpn5dS74nO2cRvtc_yQQ/edit#gid=0
+https://docs.google.com/spreadsheets/d/1wd4Yvz0GCKi-ktUUdD76SuBFq-cSFnkjfYwPaPBpF5E/edit#gid=0
 
 Use the search tools in those previous Career Development curriculum notes that you opened in other tabs. Refer to these often as you're researching companies.
 
@@ -67,8 +67,6 @@ As passionate as you might be about the job, you DO need to ask yourself these h
 
 # OUTCOME
 
-Due by end of class:
-
-DM your spreadsheet URL to your instructors with at least ONE OR TWO companies in ONE industry where you'd like to work.
-
 Fill out everything you can find online from LinkedIn, blog articles, Google searches, etc. Leave gaps where you can't find information.
+
+Keep track of your progress in your career journal, talk to the careers team about things that stand out as being important to you for your job search.
