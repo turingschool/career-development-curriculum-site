@@ -97,8 +97,11 @@ If you find yourself with:
 #### Cover Letter Activity
 Look through the cover letters of alumni listed here and consider:
 
+* [April Dagonese](https://github.com/turingschool/career-development-curriculum-site/blob/master/files/April%20Cover%20Letter.pdf)
+* [Abdulla Qudrat](https://github.com/turingschool/career-development-curriculum-site/blob/master/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+* [Tommasina Miller](https://github.com/turingschool/career-development-curriculum-site/blob/master/files/Example%20Cover%20Letter.pdf)
+* [Vinton Te'o](https://github.com/turingschool/career-development-curriculum-site/blob/master/files/Vinton%20Cover%20Letter.pdf)
+
 * What do you notice about these cover letters?
 * What is effective? What value could they bring to the company? How do you know?
 * What could be changed to make the letter more effective?
-
-
