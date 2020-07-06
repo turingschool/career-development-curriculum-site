@@ -31,3 +31,4 @@ Last mod, we discussed [lots of tools for building your job search strategy](htt
 You can find all this information synthesized here in the [Resources page on Finding Opportunities](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/finding_opportunities.md).
 
 We also looked at this chart:
+![Job Search Strategy Chart](https://github.com/turingschool/career-development-curriculum-site/blob/master/images/Job%20Search%20Strategy%20Chart.png)
