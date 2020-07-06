@@ -50,6 +50,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * How can you continue to build the habit of self-reflection at Turing? 
 
 2. Social identity mapping
+
 First, create you own social identity map on a piece of paper (or [print this out](https://github.com/turingschool/career-development-curriculum/blob/master/files/Social%20Identity%20Map.pdf)):
 * Outer ring: write words that describe your given identity
 * Middle ring: list aspects of your chosen identity
