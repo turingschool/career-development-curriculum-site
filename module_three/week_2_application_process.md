@@ -78,7 +78,27 @@ Then, talk about yourself, but remember -- this still isn't really about you. Ta
 Now, create a connection between you and the company:
 
 * What can we do together?
-* ’s not about what you can *t from them; it’s about what you can give to them
+* It’s not about what you can *get* from them; it’s about what you can *give* to them
 
+### Do's and Don'ts on Cover Letters
+There is no one-size-fits-all way to write a cover letter; there are multiple ways to write an effective cover letter. However, there are some general rules to follow:
+
+* Any time you mention yourself **connect** it explicitly to the job/company
+* Keep it concise (no more than a page; half a page is ideal)
+* If you’ve met someone at the company, drop their name!
+* State the position you’re applying for in the first line
+
+If you find yourself with:
+
+* Very long/wordy cover letters, try reading it out loud to find extraneous details. Cut those to make easily skimmable, shorter paragraphs
+* A cover letter that is all about you, try reframing sentences about you by starting the sentence talking about the company and seguing into how you can provide value to them based on your experiences and skills
+* Grammar and spelling errors, try [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/). Reading cover letters aloud or having a peer proofread will also help you catch a lot of those mistakes.
+
+#### Cover Letter Activity
+Look through the cover letters of alumni listed here and consider:
+
+* What do you notice about these cover letters?
+* What is effective? What value could they bring to the company? How do you know?
+* What could be changed to make the letter more effective?
 
 
