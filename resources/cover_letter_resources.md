@@ -12,6 +12,7 @@ title: Cover Letter Resources
 * [The Muse: Cover Letter Examples for Every Type of Job Seeker](https://www.themuse.com/advice/cover-letter-examples-every-type-job-seeker)
 * [The Muse: 12 Great Resources if Writing a Cover Letter Fills You With Dread](https://www.themuse.com/advice/12-great-resources-if-writing-a-cover-letter-fills-you-with-dread)
 * [How to Write the Ultimate Tech Cover Letter (with examples)](https://docs.google.com/document/d/1u0HDGdncaJF-Z41wvsisn5UEdhyr1-wI-Lu0c7RexBk/edit?usp=sharing)
+* [How to Start a Cover Letter](https://www.thebalancecareers.com/cover-letter-opening-sentences-examples-2061030)
 
 ## Writing the Cover Letter: Checklist
 Use this checklist to make sure cover letters have all the necessary components. 
