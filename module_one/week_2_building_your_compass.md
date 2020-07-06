@@ -63,10 +63,33 @@ When we discuss values, we're talking about:
 
 In order to map your values, it's helpful to consider which are most important to you and show up in your life always compared to values that show up in only specific contexts as well as values that you don't hold. Your [third journal prompt this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) asks you to sort specific values according to different categories: always valued, often valued, sometimes valued, and seldom valued.
 
-#### Workview
+#### Workview & Lifeview
+When we say workview, we're talking about what work is and what it means to you. This means summarizing what good, worthwhile work means to you, not about the work you want to do -- this isn't a job description. This is about *why* work matters to you.
 
+Consider these questions:
 
-#### Lifeview
+* Why work? Hint: after you initially respond with "to earn money," go deeper
+* What's work for?
+* What does work mean?
+* How does it relate to you as an individual, others, society?
+* What defines good or worthwhile work?
+* What does money have to do with it?
+* What do experience, growth, and fulfillment have to do with it?
+
+One could argue that even with all the money and security at a person's fingertips, they would still need work in order to fulfill their purpose. The [positive psychologist Martin Seligman](https://bookshop.org/books/flourish-a-visionary-new-understanding-of-happiness-and-well-being/9781439190760) found that people who can make an explicit connection between their work and something socially meaningful to them are more likely to find satisfaction and are better able to adapt to the inevitable stresses and compromises that come with working. 
+
+We should also consider our lifeview, which summmarizes what you value in life. This is a summary of your ideas about the world and how it works, and this is why first understanding your social identity and values are so important. 
+
+Consider these questions:
+
+* Why are we here?
+* What is the meaning or purpose of life?
+* What is the relationship between the individual and others?
+* Where do family, country, and the rest of the world fit in?
+* What is good and what is evil?
+* What is the role of joy, sorrow, justice, injustice, love, peace, and strife in life?
+
+Your [last journal prompt this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) asks you to reflect on both your workview and lifeview and consider how they intersect.
 
 ### Synthesis
-Knowing 
+A success career vision is one that connects the dots between who you are and what you value with the career that you seek out. Aligning your workview and your lifeview will allow you to do just that where you can live a *coherent* life that matches your values and in which you haven't sacrificed your integrity. Any time you feel lost, whether in your job search or in life in general, come back to your compass to get you back on track. 
