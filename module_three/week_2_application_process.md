@@ -105,3 +105,6 @@ Look through the cover letters of alumni listed here and consider:
 * What do you notice about these cover letters?
 * What is effective? What value could they bring to the company? How do you know?
 * What could be changed to make the letter more effective?
+
+### Synthesis
+As you work on your cover letter this week, here are [additional resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) to help you. 
