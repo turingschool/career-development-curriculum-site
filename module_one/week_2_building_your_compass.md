@@ -27,7 +27,7 @@ Take 5-7 minutes to read through [this post on the power of self-reflection](htt
 
 Here's [another, longer article](https://www.smashingmagazine.com/2018/01/importance-self-reflection-part-2/) that provides some additional insight into the importance of self-reflection as it relates to work and working relationships. 
 
-Your first journal prompt this week will ask you to consider what is challenging about self-reflection and how you can continue to build it as a habit while at Turing.
+Your [first journal prompt](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) this week will ask you to consider what is challenging about self-reflection and how you can continue to build it as a habit while at Turing.
 
 ### Building a Compass
 The following ideas come from the book [Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322)
@@ -41,17 +41,32 @@ To create your "true north," we're going to utilize a few different tools that w
 In summary, building a compass will allow you to move from the dysfunctional belief of **"I should already know where I'm going,"** which is a fixed mindset approach to understanding your goals to **"I won't always know where I'm going, but I can always know whether I'm going in the right direction."** Throughout Turing and your job search, come back to your compass to help you understand if your actions are aligned with what's important to you in your new career. When they are, you are absolutely on the right track!
 
 #### Social Identity Mapping
+Your social identity uses parts of a person's identity to categorize them into groups. We do this almost unconsciously as we meet and talk to other people -- as humans, we organize ideas through groupings. We do this people too, and we are all members of multiple groups according to our social identities. Many of us compare the groups we belong to with other groups, typically thinking more highly of our own.
+
+Your social identity is a combination of three broad components:
+
+* Given: consisting of the conditions that are outside of your control such as birthplace, gender, certain family roles or physical characteristics
+* Chosen: includes the characteristics that you choose such as occupation, hobbies and political affiliation
+* Core: made up of the attributes that make you unique as an individual such as behaviors, values, skills, and items from your given and chosen categories
+
+Even though our social identities could cause us to stick with people who are most like us, by sharing our social identities, we begin to see the ways in which our social identities overlap with people who on the surface seem unlike us. Understanding our social identities allows us to identify the ways in which we already feel like we're a part of the tech industry, identify the ways we don't yet feel that we're a part of the tech industry, and begin to build bridges to incorporate the latter even more.
+
+The [second journal prompt](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) for this week asks you to create your social identity map and reflect on how you bring your identity to the tech industry. 
 
 #### Values Mapping
+When we discuss values, we're talking about: 
+
+* An enduring belief that a specific mode of conduct or end-state of existence is preferable over others.
+* A principle, standard, or quality considered worthwhile or desirable.
+* What drives our behavior and are directly related to job satisfaction and fulfillment.
+* We value some things more than others and these priorities affect the choices we make in life.
+
+In order to map your values, it's helpful to consider which are most important to you and show up in your life always compared to values that show up in only specific contexts as well as values that you don't hold. Your [third journal prompt this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) asks you to sort specific values according to different categories: always valued, often valued, sometimes valued, and seldom valued.
 
 #### Workview
+
 
 #### Lifeview
 
 ### Synthesis
 Knowing 
-
-
-
-
-
