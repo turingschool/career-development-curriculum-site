@@ -50,8 +50,8 @@ We'll focus on:
 Some resources for you:
 
 * Join #job-hunt
-* [Interview Prep Resources](interview_prep_resources.md)
-* [Job Search Care Package](/module-5/job_search_care_package.md)
+* [Interview Prep Resources](interview_prep_resources)
+* [Job Search Care Package](/module-5/job_search_care_package)
 
 **Slide #4:**
 
@@ -221,7 +221,7 @@ As a junior developer, your resume might look very different from its previous f
 
 #### Content Inclusion - Follow this order
 
-Use this [checklist when creating your resume](resume_review_checklist.md)
+Use this [checklist when creating your resume](resume_review_checklist)
 
 * **Header:**
 	* Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)

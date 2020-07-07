@@ -3,7 +3,7 @@ layout: page
 title: Template: Module 4 Action Plan
 ---
 
-*This is your deliverable from the [Job Search Strategies I session](job_search_strategies_i.md)*
+*This is your deliverable from the [Job Search Strategies I session](job_search_strategies_i)*
 
 ## Module 4 Goals
 

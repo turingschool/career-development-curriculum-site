@@ -11,7 +11,7 @@ subheading: Crafting Your Professional Narrative
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
-### [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-2)
+### [This Week's Career Journal](/module_two/mod2_career_journal_prompts#week-2)
 * Draft of professional story
 * Update your LinkedIn and include a link to your profile
 * Create next steps for any other branding tools
@@ -31,15 +31,15 @@ From your professional story, we'll craft your resume, your Turing portfolio, up
 ## Professional Storytelling
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
 
-Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry? 
+Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry?
 
 Let's start by thinking about stories. What do you love about stories? Emma Coats, a former story artist for Pixar, shared her [22 rules for storytelling here](https://www.washingtonpost.com/blogs/comic-riffs/post/pixar-tips-brave-artist-emma-coats-shares-her-storytelling-wit-and-wisdom-on-twitter%20followher/2012/06/25/gJQADaxd2V_blog.html), and we'll use some of them to apply them to our storytelling. We're going to start with rule #10:
 
-    Pull apart the stories you like. What you like in them is a part of you; 
+    Pull apart the stories you like. What you like in them is a part of you;
     you’ve got to recognize it before you can use it.
 
-Consider: 
-* What is a story that has inspired you in the past? 
+Consider:
+* What is a story that has inspired you in the past?
 * Why has that story stuck with you?
 
 ### Elements of a Story
@@ -65,14 +65,14 @@ These elements are present in your story as well. You are the main character, th
 There are 3 main questions to help us understand our own stories and our character arcs:
 * **Who are you?** *(as a developer, a teammate, a worker, a career changer)*
 * **Why are you here?** *(Why software development? Why now? Consider both your background but also what drives you to be in this field)*
-* **What's next?** *(Where do you see yourself going in this career?)* 
+* **What's next?** *(Where do you see yourself going in this career?)*
 
 ### How to Tell Your Story
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
-Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story. 
+Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
 
-**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
+**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring.
 
 During a networking event explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story), senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Here are some takeaways:
 
@@ -80,18 +80,18 @@ During a networking event explored in this [Harvard Business Review article](htt
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, *"What happened next?"* -- are compelling to a listener.
 
 ## Application: Telling Your Story through Branding
-Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. 
+Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
 
 Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
 
 * 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
 * 42% of US adults looked someone up before deciding to do business with them.
 * 27% have searched for someone they met in a professional setting, such as a networking event.
-* 23% of US adults have looked up a coworker. 
+* 23% of US adults have looked up a coworker.
 
 ### Tools to Create Your Personal Brand
 #### LinkedIn
-LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/). 
+LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/).
 
 #### Dissecting the Profile
 **First Look:**
@@ -102,31 +102,31 @@ The top of your profile is an opportunity to make a great first impression. When
 * **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
 * **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out.
 
-**Headline:** 
+**Headline:**
 
 * This is your expertise
-   * What do you want your brand to be? 
-   * When recruiters do a search, what keywords do you want to lead to you? 
+   * What do you want your brand to be?
+   * When recruiters do a search, what keywords do you want to lead to you?
 	* Consider "Software Developer," "Back End Engineer," or "Front End Engineer"
 	* You can combine your past experiences with new skills like "Software Developer | Former Educator"
-	* Consider adding in languages/frameworks you specialize in 
+	* Consider adding in languages/frameworks you specialize in
    * Any keywords here should be consistently displayed throughout your profile
 
-**Summary:** 
+**Summary:**
 This is the story that you're telling: who you are (as a developer, worker, teammate, individual, etc.), how you got here (why software development, why now), what's next (what are your longterm career goals/ambitions). Your story is one of the few places in the profile where you can introduce yourself as a whole person and should be told from a high level.
 
 Tips for an effective summary:
 
 * Keep it to 2-3 short paragraphs, 2-3 sentences per paragraph
 * Write it in first person
-* Provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you? 
+* Provide a call to action -- what do you want people to do when they see your profile? Do you want them to look at your code, website, email you?
 	* Put your email address right there in the summary. Once you get a job, you can take it out, but don't create any blockers right now
-	
+
 **Examples: What can a LinkedIn summary look like?**
 * Merge your past experience with your new career path:
    * “Combining marketing experience with a love for data, I’m a software developer looking to…”
 * What are your motives?
-   * “My love for helping people led me to develop apps that focus on the user experience…” 
+   * “My love for helping people led me to develop apps that focus on the user experience…”
 * What do you enjoy working with? Mention your specialities (aka keywords):
    * “Along with my experience in client-side development, I have been learning and working with Node, Express, Knex, PostgreSQL and RESTful API creation to fill out my server-side experience.”
 
@@ -135,12 +135,12 @@ Still need convincing that you need a summary?
 * Remember: 82% of business decision makers said that presence in search results was an influential factor when vetting people online
 * A summary is an easy way for someone to learn specifically about you when searching for candidates
 
-**Work Experience:** 
+**Work Experience:**
 As you list your past experiences, your accompanying description should not be bullet points. Why? It doesn't read as well on LinkedIn and interferes with keyword searches. LinkedIn is also built out to be a *storytelling platform*, so use it that way. Write in complete sentences and paragraphs. Think about how you read across a computer screen. You want your profile to be easy to scan since recruiters only have so much time to look at them.
 
 * Focus on applicable and transferable skills; Again, consider keyword searches
-* Instead of listing tasks, discuss value of your past work. 
-   * What value did you bring to this company? 
+* Instead of listing tasks, discuss value of your past work.
+   * What value did you bring to this company?
 * Link to the name of the company
    * List Turing under experience but clearly state that you're a student
    * Edit your title to "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
@@ -161,12 +161,12 @@ To edit your URL, click on "edit your public profile" on the righthand side of t
 * You can make your LinkedIn in multiple languages to address and attract different communities. This is effective if you'd like to work abroad
 
 **Career Interests Button:**
-Below your summary, on your personal dashboard, there is an option to update your career interests to let recruiters know if you're actively, passively, or not looking for opportunities. You can update this if you'd like to let recruiters know more specifically about your interests. Be warned -- you may open yourself up to lots of contacts if you click it on, and they may not always be helpful. But this would also increase your conversations with recruiters, which at the very least could be a good learning opportunity. 
+Below your summary, on your personal dashboard, there is an option to update your career interests to let recruiters know if you're actively, passively, or not looking for opportunities. You can update this if you'd like to let recruiters know more specifically about your interests. Be warned -- you may open yourself up to lots of contacts if you click it on, and they may not always be helpful. But this would also increase your conversations with recruiters, which at the very least could be a good learning opportunity.
 
 **Add Connections**
 Your network & their relevance to the job you want DO matter -- start connecting with peers in the industry!
 * Aim for at least 100 connections
-* Quality over quantity 
+* Quality over quantity
 * When adding Turing staff/alumni, please include an introductory message.                                          
 * Engage with your connections by liking, commenting on, and/or sharing their updates.
 * As you continue to grow in your development at Turing, share your own updates, whether they be blog posts or links to projects.
@@ -179,7 +179,7 @@ Your network & their relevance to the job you want DO matter -- start connecting
 * [Matt Kaufman](https://www.linkedin.com/in/matthew-leo-kaufman/)
 
 #### GitHub Overview
-You already have a GitHub profile -- make sure it looks good! 
+You already have a GitHub profile -- make sure it looks good!
 
 - Add a headshot photo rather than using the avatar to look more professional
 - Complete your GitHub profile with:
@@ -192,7 +192,7 @@ You already have a GitHub profile -- make sure it looks good!
 * File issues on all your repos for things that need fixing up
 
 #### Twitter Overview
-You don't *have* to have a Twitter account. But a lot of software developers (aka the people you want to connect with) are using Twitter, so we would highly recommend that you create a profile if you don't have one already! 
+You don't *have* to have a Twitter account. But a lot of software developers (aka the people you want to connect with) are using Twitter, so we would highly recommend that you create a profile if you don't have one already!
 
 Twitter allows you to:
 

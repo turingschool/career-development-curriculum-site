@@ -4,7 +4,7 @@ title: Networking
 ---
 
 #### Option 1: Cold Outreach
-Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](cold_outreach_deliverable_guidelines.md) by **Monday of Week 5**
+Start to meet others in the industry through informal research conversations. How do you meet them? Send them a cold outreach email and then set up a coffee meeting. To fulfill this deliverable, provide a synopsis of 6 cold outreach interactions following these [guidelines](cold_outreach_deliverable_guidelines) by **Monday of Week 5**
 
 #### Option 2: Speak at a Meetup
 Many Meetups are interested in having new people come speak to their communities, and beginner's tracks are the norm at many major Meetups. Contact the Meetup organizers, propose a talk idea (this can be about anything!), and get on their list. If you start to make this habit, organizers will begin to contact *you* when they need someone to fill in. This is a great opportunity to meet people and help out local meetups. To complete this deliverable, submit a gist by **Monday of Week 5** listing:  

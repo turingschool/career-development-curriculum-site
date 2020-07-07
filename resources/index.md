@@ -4,21 +4,21 @@ title: Career Development Resources
 ---
 
 # Career Development Resources
-Below are a list of additional resources to help you with your career development and job search. 
+Below are a list of additional resources to help you with your career development and job search.
 
 ### Storytelling & Branding Resources
-* [Resources for Building Your Brand as a Software Developer](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/branding_resources.md)
+* [Resources for Building Your Brand as a Software Developer](/resources/branding_resources)
 
 ### Finding Opportunities Resources
-* [Listing of various tools for finding opportunities](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/finding_opportunities.md)
+* [Listing of various tools for finding opportunities](/resources/finding_opportunities)
 
 ### Application Resources
-* [Resume Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
-* [Cover Letter Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md)
-* [Outreach & Networking Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/outreach_networking_resources.md)
+* [Resume Resources](/resources/resume_resources)
+* [Cover Letter Resources](/resources/cover_letter_resources)
+* [Outreach & Networking Resources](/resources/outreach_networking_resources)
 
 ### Interview Prep Resources
-* [Compilation of Lots of Interview Prep Resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md)
+* [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
 
 ### Recommended Reading
 * [Atomic Habits](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
