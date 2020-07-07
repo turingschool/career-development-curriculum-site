@@ -11,7 +11,7 @@ title: Mod 3 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 3. 
+Copy these prompts into your career journal document to complete throughout Mod 3.
 
 ### Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios <a name="week-1"></a>
 
@@ -19,7 +19,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 
 2. Build your resume
 * What will you emphasize in your resume that directly relates to your targeted industries?
-* Pick a template from those listed in the Templates section [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Pick a template from those listed in the Templates section [here](/resources/resume_resources)
 * Order your content in this way:
    * Header (Name + Software Developer OR Back End Engineer OR Front End Engineer, etc.)
    * Contact info
@@ -28,10 +28,10 @@ Copy these prompts into your career journal document to complete throughout Mod 
    * Projects
    * Experience
    * Education
-* Check out other resources [here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md) including the Resume Checklist
-* Link to your resume or include a screenshot here: 
+* Check out other resources [here](/resources/resume_resources) including the Resume Checklist
+* Link to your resume or include a screenshot here:
 
-3. Upload your resume to CV Compiler by following these steps: 
+3. Upload your resume to CV Compiler by following these steps:
 * Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
 * Click on "Improve Your Student Resume"
 * Authorize it with either LinkedIn or GitHub
@@ -47,10 +47,10 @@ Copy these prompts into your career journal document to complete throughout Mod 
     * What do you want this portfolio to say about you?
     * How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?\\
 
-5. Ian's workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board. 
+5. Ian's workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board.
 
 ### Mod 3 Week 2: The Application Process  <a name="week-2"></a>
-1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) as well as [the session](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/week_2_application_process.md) to complete your cover letter. 
+1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](/resources/cover_letter_resources) as well as [the session](/module_three/week_2_application_process) to complete your cover letter. 
 * Post the link to your cover letter here
 
 2. Review your cover letter with a peer some time this week. What feedback did your partner give you? What next steps will you take to make your cover letter even stronger?
@@ -59,7 +59,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 
 ### Mod 3 Week 3: Outreach & Networking II <a name="week-3"></a>
 Outreach & Networking Plan:  
-* What company are you exploring this week? Who will you contact from that company? Why that person? How will you contact them? How will you follow up? 
+* What company are you exploring this week? Who will you contact from that company? Why that person? How will you contact them? How will you follow up?
 
 Execute your plan:
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What did you learn about the company? What other next steps should you take for pursuing this company? Be sure to update this in Huntr.
@@ -69,24 +69,23 @@ Prepare for Job Shadow: AEIOU
 * Activities: what questions do you have about the activities that a software developer does on a daily basis?  
 * Environment: what questions do you have about the overall environment and culture of this workplace?
 * Interactions: what questions do you have about the team at this company? What do you hope to see in your interactions during the shadow?
-* Objects: what questions do you have about the code or the product? 
-* Users: what questions do you have about how the company interacts with their users? 
+* Objects: what questions do you have about the code or the product?
+* Users: what questions do you have about how the company interacts with their users?
 
 After the Job Shadow, reflect on the same questions; what are your takeaways from the shadow? Ho
 * Activities: what was engaging to the person/people you shadowed?
 * Environment: what did you notice about how they talked about the culture and environment of this company?
 * Interactions: what did you notice about your interactions with this person/people?
 * Objects: what did you learn about their approach to code and/or product development?
-* Users: what did you learn about their approach to their users? 
+* Users: what did you learn about their approach to their users?
 * What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?
 
 Interview Prep:
 * Pick a successful project and write about it with the STAR method:
 * Write about a time you failed and what you learned from that experience:
-* Write about how you've approached working with a team using a specific example: 
+* Write about how you've approached working with a team using a specific example:
 * What other stories will you prepare to share?
 * Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
-* Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
+* Using this [interview prep resource doc](/resources/interview_prep_resources), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
 
 ### Mod 3 Week 5: Refining Your Stratey  <a name="week-5"></a>
- 

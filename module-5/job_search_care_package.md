@@ -175,7 +175,7 @@ For more, check out the [Mod 5 Outreach & Networking Refresh Markdown](outreach_
 * [Follow the steps suggested here for auditing your projects](http://backend.turing.io/module4/lessons/project_polish)
 
 ## Miscellaneous <a name="miscellaneous"></a>
-* [Tips for Writing Technical Blog Posts](/module_four/blogging_tips.md)
+* [Tips for Writing Technical Blog Posts](/module_four/blogging_tips)
 * [Open Source Guide](https://opensource.guide/)
-* [Tips for Speaking at a Meetup](/module_four/meetup_involvement_guidelines.md)
-* [Markdown on Negotiations](/module_four/negotiations.md)
+* [Tips for Speaking at a Meetup](/module_four/meetup_involvement_guidelines)
+* [Markdown on Negotiations](/module_four/negotiations)

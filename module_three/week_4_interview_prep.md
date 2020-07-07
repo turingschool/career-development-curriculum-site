@@ -11,16 +11,16 @@ subheading: Putting It All Together
 
 ### Learning Goals
 * Understand how to answer interview questions using the STAR method
-* 
+*
 
-### [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md)
-* 
+### [This Week's Career Journal](/module_three/mod3_career_journal_prompts)
+*
 
 
 ### Connecting it all Together
 We've been focusing on:
 
-* 
+*
 
 
 ### Opening
@@ -114,5 +114,3 @@ Get into groups of 3-4 for more practice on these questions. You could also choo
 * Kind
 
 ### Closing
-
-

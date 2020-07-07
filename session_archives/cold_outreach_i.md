@@ -13,7 +13,7 @@ title: Cold Outreach I
 
 ### Deliverable
 
-You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
+You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](cold_outreach_i_guidelines) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
 

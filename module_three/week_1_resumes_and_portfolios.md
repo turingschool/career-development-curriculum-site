@@ -13,7 +13,7 @@ subheading: Resumes & Portfolios
 * Utilize your job search strategy to customize your resume
 * Utilize your job search strategy to customize your alumni portfolio
 
-### [This Week's Career Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-1)
+### [This Week's Career Journal Prompts](/module_three/mod3_career_journal_prompts#week-1)
 * Refine your career vision and industry list
 * Build your resume
 * Build your Turing portfolio
@@ -22,10 +22,10 @@ subheading: Resumes & Portfolios
 ### Overview
 Last mod, we spent time defining and revising your career vision based on the values and goals you have for this career. We’ll start here again this module because everything we do in the job search needs to tie back to that career vision. Remember, this is your **compass** -- your vision gives you direction on where to go in your job search, and your strategy should be based on that.
 
-This week's [first prompt in your career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-1) asks you to reflect on this vision and make sure it's still aligned with what you want. 
+This week's [first prompt in your career journal](/module_three/mod3_career_journal_prompts#week-1) asks you to reflect on this vision and make sure it's still aligned with what you want. 
 
 ### Resumes
-It's important to know what your career vision is and the strategy you're utilizing to put it into place because these are the foundations for your resume. 
+It's important to know what your career vision is and the strategy you're utilizing to put it into place because these are the foundations for your resume.
 
 * Common misconception: Your resume should be one-size-fits-all
 * Reframe: Your resume should be a direct reflection of the strategy you’re using in the job search
@@ -38,7 +38,7 @@ Since you are a software developer now, your software projects are an essential 
 * Open Source projects
 * Etc.
 
-You should include links to your repos and deployed apps. Note: for group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead. 
+You should include links to your repos and deployed apps. Note: for group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
 Your descriptions for your projects should tell a reader what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
 
@@ -49,7 +49,7 @@ Reminder that you should **always** customize your resume to the position for wh
 2. Showcasing specific projects
 3. Highlight transferable skills
 
-We recommend using a summary statement on your new resume so that you can: 
+We recommend using a summary statement on your new resume so that you can:
 
 1. Describe why you've made a career change
 2. Make a connection between the company you're applying to and the work you do/want to do
@@ -68,13 +68,13 @@ When building your resume, make sure to keep this checklist handy as well:
 * Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
 * Your resume should only be 1 page. Employers will not read past that 1 page.
 * There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
-* Using a [template like those listed here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md) will ensure your resume passes an ATS system (applicant tracking system)
-* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile. 
+* Using a [template like those listed here](/resources/resume_resources) will ensure your resume passes an ATS system (applicant tracking system)
+* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
 
 ### What to Do
-This week is focused on building your working resume. These [steps are outlined in your second and third prompts in this week's career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-1):
+This week is focused on building your working resume. These [steps are outlined in your second and third prompts in this week's career journal](/module_three/mod3_career_journal_prompts#week-1):
 
-* Build your resume using [these templates and checklist](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/resume_resources.md)
+* Build your resume using [these templates and checklist](/resources/resume_resources)
 * Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (instructions in the career journal).
 * Update your resume using that feedback
 
@@ -88,13 +88,13 @@ Review these alumni resumes:
 * [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
 * [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
 
-Consider: 
+Consider:
 
 * What is your first impression of this candidate?
-* What do you know about this candidate's technical abilities? 
+* What do you know about this candidate's technical abilities?
 * What questions do you have about this candidate?
 * Would you choose to interview this person based on their resume? Why or why not?
-* If you decide to interview them, what follow-up questions would you ask? 
+* If you decide to interview them, what follow-up questions would you ask?
 
 ### Turing Alumni Portfolios
 Turing provides you with a space to build a portfolio on our website at [alumni.turing.io](https://alumni.turing.io/). These portfolios are how we showcase our job seeking graduates and soon-to-be graduates! We share these directly with employers, but employers also regularly come to our site to look for candidates.
@@ -119,7 +119,7 @@ Unfortunately, this site was built by a different company and contains a lot of 
 * Use Safari
 * Double check all fields when trying to save
 * Select any cohort (cohort does not matter)
-* Do not copy and paste information 
+* Do not copy and paste information
   * It will not paste in correctly
 * GitHub ID doesn't matter; leave it blank
 

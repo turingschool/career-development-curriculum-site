@@ -11,7 +11,7 @@ There are facilitator notes throughout this markdown to divide up responsibiliti
 
 ### Before the Session
 
-Facilitator #1 should select a job posting ahead of time that you'll use to demonstrate writing a cover letter for in the session. Use sites from the [Job Search Strategies](job_search_strategies.md) lesson to help you.
+Facilitator #1 should select a job posting ahead of time that you'll use to demonstrate writing a cover letter for in the session. Use sites from the [Job Search Strategies](job_search_strategies) lesson to help you.
 
 ### Session Structure
 
@@ -173,7 +173,7 @@ Bonus:
 * Interested in a specific company? Use their tools or libraries in your projects at Turing! Mention this in your cover letter
 
 Need help?
-* To ensure you're hitting the right points, you can use this [Cover Letter Checklist](cover_letter_checklist.md)
+* To ensure you're hitting the right points, you can use this [Cover Letter Checklist](cover_letter_checklist)
 
 **Slide #15:**
 
@@ -243,5 +243,5 @@ Using a position you've added to Huntr, work on a cover letter today using the p
 Reminder about deliverables:
 
 * Cover letter draft for a real position due week 1 of Mod 4
-  * Reminder you can find job postings from [the sites listed here](job_search_strategies.md). Remember to note any research you need to do and add it to your Huntr boards.
+  * Reminder you can find job postings from [the sites listed here](job_search_strategies). Remember to note any research you need to do and add it to your Huntr boards.
 * Turing alumni portfolio due Monday of week 6 at 9am

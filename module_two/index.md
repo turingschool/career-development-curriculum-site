@@ -22,26 +22,26 @@ At the end of Module 2, students will have:
 * An outlined strategy for their job search
 * An understanding of best practices for outreach and networking
 
-In Module 3, they will expand on this learning by focusing on executing their strategies. 
+In Module 3, they will expand on this learning by focusing on executing their strategies.
 
 ### Weekly Topics
 
-* Week 1: [Building Habits to Become a Software Developer, Part II](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_1_habits_part_ii.md)
-* Week 2: [Professional Storytelling & Branding](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_2_professional_storytelling_branding.md)
-* Week 3: [Job Search Strategies](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_3_job_search_strategies.md)
-* Week 4: [Building Habits to Become a Software Developer, Part III](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_4_habits_part_iii.md)
-* Week 5: [Outreach & Networking I](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/week_5_outreach_networking_i.md)
+* Week 1: [Building Habits to Become a Software Developer, Part II](/module_two/week_1_habits_part_ii)
+* Week 2: [Professional Storytelling & Branding](/module_two/week_2_professional_storytelling_branding)
+* Week 3: [Job Search Strategies](/module_two/week_3_job_search_strategies)
+* Week 4: [Building Habits to Become a Software Developer, Part III](/module_two/week_4_habits_part_iii)
+* Week 5: [Outreach & Networking I](/module_two/week_5_outreach_networking_i)
 
 ### Career Journal
-Students will engage in self-reflection and ideation in their career journals every week during a module. 
+Students will engage in self-reflection and ideation in their career journals every week during a module.
 
 **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
-* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
-* **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time. 
-* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation. 
+* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way!
+* **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
+* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
 
 #### Set Up
-Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts.](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md)
+Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts.](/module_two/mod2_career_journal_prompts)
 
 ### Repeating the Module
-For students repeating Module 2, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/m2_pd_repeat_plan.md). The Career Development team will check in with repeating students to provide guidance and answer questions. 
+For students repeating Module 2, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](/module_two/m2_pd_repeat_plan). The Career Development team will check in with repeating students to provide guidance and answer questions.
