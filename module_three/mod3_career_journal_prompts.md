@@ -88,4 +88,4 @@ Interview Prep:
 * Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
 * Using this [interview prep resource doc](/resources/interview_prep_resources), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
 
-### Mod 3 Week 5: Refining Your Stratey  <a name="week-5"></a>
+### Mod 3 Week 5: Refining Your Strategy  <a name="week-5"></a>
