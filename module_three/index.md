@@ -29,7 +29,6 @@ At the end of Module 3, students will have:
 ### Weekly Topics
 
 * Week 1: [Professional Storytelling II: Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
-* Week 1: [Professional Storytelling II: Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
 * Week 2: [The Application Process](/module_three/week_2_application_process)
 * Week 3: [Outreach & Networking II](/module_three/week_3_outreach_networking_ii)
 * Week 4: [Interview Prep](/module_three/week_4_interview_prep)
