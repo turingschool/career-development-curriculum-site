@@ -84,6 +84,10 @@
   }
 }
 
+section.mission, section.touchstones, section.overview, section.structure {
+  display: none;
+}
+
 @media (max-width: $tablet-width) {
   .splash {
     height: 350px;
