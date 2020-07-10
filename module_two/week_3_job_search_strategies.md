@@ -18,5 +18,43 @@ title: Job Search Strategies
 * Setting up schedule and routines for the job search this module
 * Apply wayfinding to job search tools
 
-### Overview
+### Review: Professional Storytelling
+Reminder that last week we discussed the principles of professional storytelling, starting with this template:
 
+* Who are you?
+* Why are you here?
+* What's next?
+
+Your professional story is how you begin to communicate your career vision and help understand your character and motivations. This is how people connect with you. Make sure to continue practicing your story to get more and more comfortable with it!
+
+### Job Search Strategies: Start with your Vision
+Why does your vision matter? Remember, it's your compass! Successful job search strategies connect the dots between:
+* Who you are
+* What you value
+* Jobs you seek out
+
+How can you do that?
+* Align your job search strategy with your vision
+* Only seek out opportunities related to your vision and your industry interests
+
+Bottom line: if something doesn't align with your vision, don't pursue it. It will not be a good use of your time.
+
+### Wayfinding
+Ideas here come from [Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322)
+
+Wayfinding refers to the ancient practice of figuring out where you're going when you don't actually know your destination. In order to execute wayfinding, you need a compass and a general direction. That's it! There's no need to have an exact destination because when it comes to your life, there is no *one* destination; there are only clues that can allow you to figure out the best next step. The first clues you should start with are:
+
+* Engagement
+* Energy
+
+
+
+
+### Job Search Strategies: Use Your Resources
+
+
+
+### Session Takeaways
+* Job search strategies should be guided by and aligned with your industry interests and overall vision
+* Start your journey by diving into research to make sure everything’s aligned
+* Your application process must include outreach and networking (our focus for next week)
