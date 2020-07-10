@@ -3,8 +3,6 @@ layout: page
 title: Job Search Strategies
 ---
 
-# Job Search Strategies
-
 [Slides for this session](https://docs.google.com/presentation/d/1DD1ZBuUDJN96ojOhP4pGOQzvcdjfah1AwVrZGwjggAs/edit?usp=sharing)
 
 ### Learning Goals
@@ -12,7 +10,7 @@ title: Job Search Strategies
 * Set up habits and routines for your job search now
 * Utilize various resources provided for you
 
-### [This Week's Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md)
+### [This Week's Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3)
 * Reflect on your habits
 * Reflect on Turing experience: engagement and energy
 * Setting up schedule and routines for the job search this module
@@ -47,11 +45,23 @@ Wayfinding refers to the ancient practice of figuring out where you're going whe
 * Engagement
 * Energy
 
+Your journal this week asks you to [reflect on the experiences you've had at Turing so far that either sparked your engagement and energy or drained it](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3). Reflecting on these experiences will help you understand where you should focus your time in your future career.
 
+Takeaway:
+* Initial, dysfunctional belief: "Work is not supposed to be enjoyable; that's why they call it work."
+* Reframe: "Enjoyment is a guide to finding the right work for you." 
 
+So, when is work fun? Don't focus on money, perks, or "fun work culture." Instead, pay attention to when your work allows you to use your strengths or when you feel deeply engaged and energized by what you're doing -- this is the kind of work you should be pursuing. 
+
+Come back to these ideas whenever you find yourself veering off course. Using your engagement and energy as guideposts will help you stack on track. 
 
 ### Job Search Strategies: Use Your Resources
+Here are some general best practices to keep in mind when setting up your job search strategy:
 
+1. Set up routines and a schedule
+2. Set up a tracker and use it
+3. Go through all the different [resources here for finding job opportunities](/resources/finding_opportunities) AND apply wayfinding:
+    * Does the resource fit with the direction you want to go? If not, skip it
 
 
 ### Session Takeaways
