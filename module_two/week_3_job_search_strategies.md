@@ -61,7 +61,10 @@ Here are some general best practices to keep in mind when setting up your job se
 1. Set up routines and a schedule
 2. Set up a tracker and use it
 3. Go through all the different [resources here for finding job opportunities](/resources/finding_opportunities) AND apply wayfinding:
-    * Does the resource fit with the direction you want to go? If not, skip it
+    * Does the resource fit with the direction you want to go? If not, skip it.
+    
+#### Set up Routines & a Schedule
+
 
 
 ### Session Takeaways
