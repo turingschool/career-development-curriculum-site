@@ -37,6 +37,8 @@ Below are resources to help you find opportunities from job postings to networki
   * [Startupers](https://www.startupers.com/)
   * [Techstars Listing of Companies](https://www.techstars.com/companies/)
   
+* Learn about [freelance work here from Incluzion](https://learn.incluzion.co/) and [set up a profile here](https://app.incluzion.co/login/) to be notified about freelance opportunities
+  
 ### Search by...language or skillset
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Now](https://jobs.rubynow.com/)
@@ -64,6 +66,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
+* [Incluzion](https://incluzion.co/) is a community of Black and Latinx professionals working remotely and flexibly. They also operate as a connector between companies and diverse talent. 
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 
 ### Search by...job listings
@@ -97,6 +100,7 @@ Below are resources to help you find opportunities from job postings to networki
   * [AngelList Remote Job Collection](https://angel.co/remote)
   * [Authentic Jobs - Remote](https://authenticjobs.com/#onlyremote=1)
   * [Flex Jobs](https://www.flexjobs.com/)
+  * [Incluzion Remote Jobs Board](https://incluzion.co/remote-jobs-info/)
   * [NODESK](https://nodesk.co/remote-jobs/)
   * [Remote4me](https://remote4me.com/)
   * [RemoteBase](https://remotebase.io)
