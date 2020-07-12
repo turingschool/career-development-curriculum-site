@@ -77,13 +77,29 @@ It's important to recognize that if you want a job by graduation or soon after, 
    * Conduct research into companies/job postings
    * Outreach to contacts
    * Attend networking events
-   * Uate your resume/write cover letters (we’ll discuss next week)
-Update LinkedIn/GitHub/other social media
-Practice interview prep
+   * Update your resume/write cover letters (we’ll discuss next week)
+   * Update LinkedIn/GitHub/other social media
+   * Practice interview prep
+   
+Your [next career journal prompt is about organizing your schedule to make time for your job esarch.](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3)
 
+#### Create a Job Search Tracker: Introducing Huntr
+Huntr is a kanban board-like tracker similar to Trello that allows you to track your job search in a very visual and step-by-step way. You should have received an email invitation for using it. If you didn't, reach out to Allison or another member of the Career Development team.
 
+Within Huntr, you can create cards for a company you're interested in and then move it through each stage of the application job search. Check out this [user's guide](https://blog.huntr.co/huntr-quickstart-guide/) to get started. It's also a good idea to install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to seamlessly add job postings from the site you find them right to your Huntr board. 
 
+#### Resources for Finding Opportunities: Go Beyond Job Postings
+The resources listed here are not just about finding postings on job boards. In fact, your job search should *never* be limited to job postings. We'll continue to talk about the importance of building relationships and research, but it's important to note that as little as [20-30% of job listings are posted online](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking) and [referral candidates are 4 times as likely to be hired as non-referral candidates](https://medium.com/@mikestafiej/employee-referral-statistics-you-need-to-know-for-2020-infographic-19cc720380f2).
+
+With that in mind, here is what the job search process should look like:
+
+![Job Search Strategy Chart](/images/Job%20Search%20Strategy%20Chart.png)
+
+As you look for opportunities, remember to go beyond the initial posting. [Go through the resources](/resources/finding_opportunities) listed here and apply wayfinding:
+
+* What can you pull out from job postings, company information, culture information, etc. that is aligned with your compass? If there isn’t anything, stop using it and don’t pursue that job -- it will be a waste of your time
+   
 ### Session Takeaways
 * Job search strategies should be guided by and aligned with your industry interests and overall vision
 * Start your journey by diving into research to make sure everything’s aligned
-* Your application process must include outreach and networking (our focus for next week)
+* Your application process must include outreach and networking
