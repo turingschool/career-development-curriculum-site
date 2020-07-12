@@ -64,6 +64,22 @@ Here are some general best practices to keep in mind when setting up your job se
     * Does the resource fit with the direction you want to go? If not, skip it.
     
 #### Set up Routines & a Schedule
+Knowing a general direction means nothing if you're going to put in the work to set out on it. You are extremely busy at Turing, but it's important that you begin to carve out time for your job search starting *right now.* How can you do this?
+
+* Take advantage of your work time. You have PD work time set aside every week -- make sure to use it to work on your career journal, refining your career vision and job search strategy, and taking the necessary steps to further your goals.
+* Reframe your approach to the time you have. Your schedule will never suddenly became free and clear, but it can become manageable if you organize it according to your priorities
+
+It's important to recognize that if you want a job by graduation or soon after, you have to start implementing your job search routines *right now.* Here is an approach you can take:
+
+* Block out 1-2 hours a week to work on your job search
+* Again, utilize your PD work time
+* What could you do during that time?
+   * Conduct research into companies/job postings
+   * Outreach to contacts
+   * Attend networking events
+   * Uate your resume/write cover letters (we’ll discuss next week)
+Update LinkedIn/GitHub/other social media
+Practice interview prep
 
 
 
