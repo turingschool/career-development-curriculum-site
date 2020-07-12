@@ -58,6 +58,8 @@ Copy these prompts into your career journal document to complete throughout Mod 
 3. If you were to apply to this position (and you should!), how will you customize your resume for it? What other next steps would you need to take here?
 
 ### Mod 3 Week 3: Outreach & Networking II <a name="week-3"></a>
+
+
 Outreach & Networking Plan:  
 * What company are you exploring this week? Who will you contact from that company? Why that person? How will you contact them? How will you follow up?
 
