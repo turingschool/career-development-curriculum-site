@@ -18,4 +18,30 @@ title: Outreach & Networking II
 * Execute your outreach plan
 
 ### Review: Best Practices for Resumes & Cover Letters
+Let's go back to the application process: 
 
+![Job Search Strategy Chart](/images/Job%20Search%20Strategy%20Chart.png)
+
+Step #4 reflects the part where you'll focus on your resume and cover letter. Reminder of best practices for those:
+
+#### Resume Highlights
+* Your resume should be a direct reflection of the strategy you’re using in the job search
+* Technical Resumes lead with projects
+* Customizing your resume is about telling your story
+
+#### Cover Letter Highlights
+* Your cover letter should be the direct result of the research you’ve done into the company
+* Cover letters are about the company; talk about yourself only in relation to the company
+* Always customize your cover letters
+* Tell your story in a concise way -- utilize an elevator pitch
+
+#### Where You Should Be at This Point in the Mod
+You should have:
+  * A working draft of your resume & used CV Compiler
+  * Had a peer review on a cover letter
+
+Haven’t done these yet? 
+  * Prioritize them before the end of the module
+  * Alert Tracey or Ryan on where you are with your progress
+
+### Outreach & Networking for an Application
