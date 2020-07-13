@@ -135,7 +135,7 @@ When you discussed software developers with your small group on Monday, what ass
 
 What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?
 
-5. Test –- solutions
+6. Test –- solutions
 
 Based on this week of reflections, write out your initial vision statement for your career:
 
