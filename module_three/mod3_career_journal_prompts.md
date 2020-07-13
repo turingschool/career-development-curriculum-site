@@ -50,7 +50,7 @@ Copy these prompts into your career journal document to complete throughout Mod 
 5. Ian's workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board.
 
 ### Mod 3 Week 2: The Application Process  <a name="week-2"></a>
-1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](/resources/cover_letter_resources) as well as [the session](/module_three/week_2_application_process) to complete your cover letter. 
+1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) as well as [the session](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/week_2_application_process.md) to complete your cover letter. 
 * Post the link to your cover letter here
 
 2. Review your cover letter with a peer some time this week. What feedback did your partner give you? What next steps will you take to make your cover letter even stronger?
