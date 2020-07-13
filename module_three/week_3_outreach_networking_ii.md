@@ -76,4 +76,14 @@ Next, you need to consider **who** to contact:
 
 It's important to note that many private companies offer referral bonuses to employees who refer a candidate who goes on to get hired, so not only is it in your best interest to create a strong relationship with someone at the company, but it is in theirs as well! All you have to do is reach out and ask to talk...which brings us to...
 
+**What do you say?**
+
+* Research your contact so you can make connections to their interests/accomplishments by looking at their LinkedIn, Twitter, blog posts, or even just googling them
+* Prepare a message that includes:
+  * A quick intro -- who are you?
+  * Purpose/connection -- why are you reaching out? Be straightforward
+  * Specifics -- what do you know about them? What do you know about the company?
+  * Questions -- what do you want to learn from them?
+  
+Note: keep your message short and sweet!
 
