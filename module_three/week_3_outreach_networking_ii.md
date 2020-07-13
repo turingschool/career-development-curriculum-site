@@ -3,8 +3,6 @@ layout: page
 title: Outreach & Networking II
 ---
 
-# Outreaching & Networking II
-
 [Slides for this session](https://docs.google.com/presentation/d/13_L1dp5bZ2Lczb-fPy4MBw5pHSMM5RU6tKmOF1oBmbE/edit?usp=sharing)
 
 ### Learning Goals
@@ -74,4 +72,8 @@ Next, you need to consider **who** to contact:
 
 * Start with any warm contacts you have at the company. This could include Turing alumni or friends of friends or people you worked with once. These are all warm contacts.
 * Software developers who work at the company. They are doing the jobs you want to do! They will have the most relevant insight into the role you're looking at. Start with people who are in senior or team management positions.
-* 
+* Recruiters. If the company utilizes recruiters or talent acquisition people, they are definitely good people to reach out to. They can speak to the hiring process and make sure your name gets in front of the necessary people.
+
+It's important to note that many private companies offer referral bonuses to employees who refer a candidate who goes on to get hired, so not only is it in your best interest to create a strong relationship with someone at the company, but it is in theirs as well! All you have to do is reach out and ask to talk...which brings us to...
+
+
