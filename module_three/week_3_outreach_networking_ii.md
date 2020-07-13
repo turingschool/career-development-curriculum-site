@@ -87,3 +87,28 @@ It's important to note that many private companies offer referral bonuses to emp
   
 Note: keep your message short and sweet!
 
+Reminder about things NOT to say in messages:
+
+* Asking for referrals without establishing a relationship first. You will make your contact uncomfortable and halt the relationship right away.
+* Asking for a job. This is not something the contact can do, and again, you'll ruin the relationship before it's even started.
+* Sending a LinkedIn request with no introduction. If you have not met this person in real life (which includes conversing over Slack), then you need to introduce yourself first.
+* Generic templates that haven't been customized. People can tell when you've sent them a form email. Don't do this.
+
+**How do you contact people?**
+Again, LinkedIn is a great place to start, but reminder that if you're reaching out to a Turing alum, start with Slack! 
+
+Otherwise, find their email by using one of these tools:
+
+* Start by searching the person's GitHub!
+* [Email Hunter](https://emailhunter.co/)
+* [Find That Lead](https://findthatlead.com/)
+* [Find That Email](https://findthat.email/)
+* [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
+* [Quickmail.io](https://quickmail.io/)
+* [Snov.io](https://snov.io/)
+* [Go Pin Leads](https://www.gopinleads.com/)
+* Check the person's GitHub profile or look for their personal website
+
+### Putting This Into Practice
+Once again, [this week's career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-3) is focused on making a plan for conducting outreach for the company you've been targeting. You'll also get an opportunity to discuss ideas with a small group during the session.
