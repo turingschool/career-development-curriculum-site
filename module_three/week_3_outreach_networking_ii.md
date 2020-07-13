@@ -45,3 +45,33 @@ Haven’t done these yet?
   * Alert Tracey or Ryan on where you are with your progress
 
 ### Outreach & Networking for an Application
+Again, reminder of the application process:
+
+![Job Search Strategy Chart](/images/Job%20Search%20Strategy%20Chart.png)
+
+You shouldn't submit an application without completing Step #3! Why? Outreach should be a key component of your application strategy, especially when job searching during a pandemic. 
+
+Why is that? 
+
+* Everyone is working from home and wants to **connect**
+* Follow up with previous interviews, event connections, and other contacts
+* LinkedIn & other social media are key to your search right now
+  * Make sure it’s up to date! 
+  * Ask for LinkedIn recommendations/endorsements (staff, peers, colleagues, mentors) 
+  * Share and post! (Twitter, GitHub, LinkedIn)
+
+#### Reviewing Your Outreach Strategy
+Start by getting clear on what your purpose is -- why are you reaching out to someone at the company?
+
+* This is how you do research on the company, and you can then use that information both in your cover letter and in interviews
+* This allows you to connect with a *person* in order to build relationships at the company, exchange information, and expand both your networks -- therefore, it's mutually beneficial
+* Your hoped for outcome here is to become a referral candidate
+  * Keep in mind that [**referral candidates are 4 times as likely to be hired as non-referral candidates**](https://medium.com/@mikestafiej/employee-referral-statistics-you-need-to-know-for-2020-infographic-19cc720380f2). 
+  
+And the only way you can become a referral candidate is if you include outreach as an essential component of your job search strategy.
+
+Next, you need to consider **who** to contact:
+
+* Start with any warm contacts you have at the company. This could include Turing alumni or friends of friends or people you worked with once. These are all warm contacts.
+* Software developers who work at the company. They are doing the jobs you want to do! They will have the most relevant insight into the role you're looking at. Start with people who are in senior or team management positions.
+* 
