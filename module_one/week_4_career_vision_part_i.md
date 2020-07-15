@@ -34,8 +34,10 @@ First, let's debunk a popular myth: if you know what you're passionate about, yo
 “A well-designed career is a career that is generative--it is constantly creative, productive, changing, evolving, and there is always the possibility of surprise.” -[Designing Your Life](https://bookshop.org/books/designing-your-life-how-to-build-a-well-lived-joyful-life/9781101875322).
 
 ### Design Thinking
+Design Thinking refers to 
 
-Design Thinking Steps when used in product development (not necessarily in this order; this is a fluid process):
+
+Steps when used in product development (not necessarily in this order; this is a fluid process):
 Empathize – with your users
 Define – your users’ needs, their problem, and your insights
 Ideate – by challenging assumptions and creating ideas for innovative solutions
