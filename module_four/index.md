@@ -3,19 +3,22 @@ layout: page
 title: Module 4 Career Development
 ---
 
-## Module 4 Overview
+## Overview
+Module 4 career development curriculum is customized to the needs of the cohort while also providing review on important topics such as outreach and networking, resume and cover letter best practices, interview skills, refining job search strategies, and negotiating an offer
 
 ### Key Learning Goals
+Core Competencies of Module 4:
+
+* 
 
 ### Module 4 Outcomes
+To successfully complete Module 4 professional development, students should have completed the following:
 
-### Weekly Topics
-
-* Week 1: 
-* Week 2: 
-* Week 3: 
-* Week 4:
-* Week 5: 
+- [ ] Resume updated and reviewed by Career Specialist
+- [ ] Turing alumni portfolio updated and reviewed by Career Specialist
+- [ ] LinkedIn profile updated and reviewed by Career Specialist
+- [ ] Applied to at least 1 job opportunity
+- [ ] Conducted outreach with at least 1 contact related to job application
 
 ### Career Journal
 
