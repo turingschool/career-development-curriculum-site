@@ -3,7 +3,7 @@ layout: page
 title: Module 1 Career Development
 ---
 
-## Module 1 Overview
+## Module Overview
 Module 1 Career Development is focused on the **Discovery** phase, which encourages students to focus on answering the questions of "Why am I here? What do I want in this career? What strengths, habits, and abilities do I have to help me get there? What should I develop to help me further?" Students will engage in discovery through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
@@ -15,7 +15,12 @@ Core Competencies of Module 1:
 * Creation of a career vision
 
 ### Module 1 Outcomes
-At the end of Module 1, students will have a working vision statement for their career. In Module 2, they will build on this to create a professional story, professional brand, and working job search strategy.
+At the end of Module 1, students should have:  
+
+- [ ] A working career vision statement
+- [ ] A completed Mod 1 career journal
+
+These two items must be completed in order for the student to have successfully completed their career development for the module. In Module 2, they will build on this to create a professional story, professional brand, and working job search strategy.
 
 ### Weekly Topics
 
