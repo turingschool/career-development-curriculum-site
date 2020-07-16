@@ -3,7 +3,7 @@ layout: page
 title: Module 1 Career Development
 ---
 
-## Module Overview
+## Overview
 Module 1 Career Development is focused on the **Discovery** phase, which encourages students to focus on answering the questions of "Why am I here? What do I want in this career? What strengths, habits, and abilities do I have to help me get there? What should I develop to help me further?" Students will engage in discovery through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
