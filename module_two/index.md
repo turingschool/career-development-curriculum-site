@@ -15,14 +15,15 @@ Core Competencies of Module 2:
 * Best practices for building one's professional network
 
 ### Module 2 Outcomes
-At the end of Module 2, students will have:
+At the end of Module 2, students should have:  
 
-* A more refined vision for their career
-* A professional story that articulates that vision
-* An outlined strategy for their job search
-* An understanding of best practices for outreach and networking
+- [ ] A professional story draft that articulates their career vision
+- [ ] LinkedIn profile updated and reviewed by a member of the Career Development team
+- [ ] Conducted outreach with at least 1 contact for career research purposes
+- [ ] Participated in a job shadow experience
+- [ ] A completed career journal for Mod 2
 
-In Module 3, they will expand on this learning by focusing on executing their strategies.
+These items must be completed in order for the student to have successfully completed their career development for the module. In Module 3, they will expand on this learning by focusing on executing their strategies.
 
 ### Weekly Topics
 
