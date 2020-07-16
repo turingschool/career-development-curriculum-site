@@ -3,7 +3,7 @@ layout: page
 title: Module 2 Career Development
 ---
 
-## Module Overview
+## Overview
 Module 2 Career Development is focused on **building on one's initial career vision** established in Module 1, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and continuous self-reflection in their career journals.  
 
 ### Key Learning Goals
