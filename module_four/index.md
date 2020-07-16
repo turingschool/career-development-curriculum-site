@@ -23,4 +23,4 @@ To successfully complete Module 4 professional development, students should have
 ### Career Journal
 
 ### Repeating the Module
-
+For students repeating the module, they will meet with the Career Specialist to design specific goals to work on during the module.
