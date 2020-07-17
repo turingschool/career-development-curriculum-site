@@ -3,6 +3,7 @@ layout: page
 title: Building Habits to Become a Software Developer, Part III
 subheading: Making Good Habits Sustainable
 ---
+Ideas in this session are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 [Slides for this session](https://docs.google.com/presentation/d/1-IBHv1FMKcT57G_XLGYB4C_yB5kRhaTVi0UDUBWtd6Y/edit?usp=sharing)
 
@@ -10,13 +11,14 @@ subheading: Making Good Habits Sustainable
 
 ### [This Week's Career Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-4)
 
-### Overview
+### Review
 
+### 4th Rule of Behavior Change: Make It Satisfying
+When a behavior is satisfying, we are more likely to repeat it. Why? Because positive emotions cultivate habits.
 
-4th Rule of Behavior Change: Make it Satisfying
-When a behavior is satisfying, we are more likely to repeat it; positive emotions cultivate habits
-The first 3 laws of behavior change increase the odds that you’ll do something once; this last law increases the odds that you’ll complete the behavior more than once; this piece closes the habit loop in order to make change sustainable for longterm
-Immediate-return environment vs. delayed-return environment
+The first 3 laws of behavior change increase the odds that you’ll do something once while this last law increases the odds that you’ll complete the behavior more than once. This piece closes [the habit loop](/module_one/week_3_building_habits) in order to make change sustainable for longterm.
+
+#### Immediate-return environment vs. Delayed-return Environment
 We will gravitate towards rewards we can get immediately; these are the behaviors that will get repeated
 However, success in most fields requires you to ignore immediate gratification in favor of delayed gratification
 Good news: it’s possible to train yourself to delay gratification and put in habits for sustained success down the road; here’s what you do:
@@ -26,11 +28,19 @@ Using instant gratification to your advantage:
 Find way to feel successful through reinforcement measures; this works especially well when working on habits of avoidance, aka behaviors you want to stop doing. Every time you don’t do the thing, find a way to reward yourself. 
 Example: If you’re trying to save money and eat out less, create a savings account with the name of the goal you have (i.e. “Vacation” or “Expensive Jacket”) and transfer the money you’re saving from not getting take-out to that account
 Important to note: select short-term rewards that reinforce your identity rather than ones that conflict with it; going back to identity-based goals; eventually, your identity takes precedence as the reason for why you keep doing a habit -- it’s not about the reward, it’s about the fact that the habit reinforces who you are
-Habit Tracking: a way of providing instant gratification that leads to longterm satisfaction; also known as “don’t break the chain”
+
+#### Habit Tracking
+a way of providing instant gratification that leads to longterm satisfaction; also known as “don’t break the chain”
 The mere act of tracking a habit can spark the urge to change it
-Read both articles -- paper clip and Seinfeld
+
+Read
+
+[How to Stick with Good Habits Every Day by Using the "Paper Clip Strategy"](https://jamesclear.com/paper-clips)
+[How to Stop Procrastinating on Your Goals by Using the "Seinfeld Strategy"](https://jamesclear.com/stop-procrastinating-seinfeld-strategy)
+
 What are your takeaways about habit tracking? Why are visual cues so powerful in sticking to a behavior?
 Journal prompt + group discussion
+
 Takeaways:
 Habit tracking creates a visual cue that can remind you to act
 Habit tracking is inherently motivating because you see the progress you are making and don’t want to lose it
@@ -49,7 +59,7 @@ Focus on how to bounce back and remind yourself to show up; how can you still sh
 Power of accountability partners
 Having someone to check in with or complete the habit with is another way to hold yourself accountable to actually doing it
 Articles for students
-Paper Clip Strategy
+[Paper Clip Strategy
 Do the Painful Things First
 Seinfeld Strategy
 How to Get Back on Track
