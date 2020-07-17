@@ -8,8 +8,18 @@ Ideas in this session are adapted from [Atomic Habits by James Clear](https://bo
 [Slides for this session](https://docs.google.com/presentation/d/1-IBHv1FMKcT57G_XLGYB4C_yB5kRhaTVi0UDUBWtd6Y/edit?usp=sharing)
 
 ### Learning Goals
+* Build on your awareness of your current habits
+* Utilize the 4th law of “make it satisfying” to create longterm habits
+* Implement habit tracking to improve your motivation
+* Apply new strategies within your environment design and everyday process to break down procrastination
 
 ### [This Week's Career Journal Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-4)
+
+* Assess your habits from last week
+* Implement reinforcement strategies
+* Don't Break the Chain: Set up a habit tracker
+* Get back on track
+* Create a habit contract with an accountability partner
 
 ### Review
 
