@@ -92,6 +92,6 @@ Interview Prep:
 * Write about how you've approached working with a team using a specific example:
 * What other stories will you prepare to share?
 * Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
-* Using this [interview prep resource doc](/resources/interview_prep_resources), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
+* Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
 
 ### Mod 3 Week 5: Refining Your Strategy  <a name="week-5"></a>
