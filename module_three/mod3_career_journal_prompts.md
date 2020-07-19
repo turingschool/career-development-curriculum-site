@@ -87,7 +87,7 @@ After the Job Shadow, reflect on the same questions; what are your takeaways fro
 * What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?
 
 Interview Prep:
-* Pick a successful project and write about it with the STAR method:
+* Pick a successful project and write about it with the STAR method (What was the situation/scenario of the project? What was the task/target of the project? What action steps did you take? What were the results?):
 * Write about a time you failed and what you learned from that experience:
 * Write about how you've approached working with a team using a specific example:
 * What other stories will you prepare to share?
