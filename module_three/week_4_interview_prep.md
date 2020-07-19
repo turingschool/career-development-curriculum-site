@@ -4,23 +4,21 @@ title: Interview Prep
 subheading: Putting It All Together
 ---
 
-# Interview Prep
-## Putting It All Together
-
 [Slides for this lesson](https://docs.google.com/presentation/d/1QT4czt0vE16yO5KVhsfFTHyOvWbkUrX5gxHd069k6bA/edit?usp=sharing)
 
 ### Learning Goals
-* Understand how to answer interview questions using the STAR method
-*
+* Outline questions for job shadow and create a reflection process for that activity
+* Ideate and try out solutions to improve your strategy
+* Understand how to answer interview questions through specific strategies
 
-### [This Week's Career Journal](/module_three/mod3_career_journal_prompts)
-*
-
+### [This Week's Career Journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-4)
+* Prep for job shadow
+* Reflect on job shadow afterwards
+* Create interview prep strategies
 
 ### Connecting it all Together
 We've been focusing on:
 
-*
 
 
 ### Opening
@@ -103,14 +101,5 @@ Start this running list in your journal. We'd also recommend that you keep an in
   * What do you notice about the answer?
   * What do you appreciate about it?
   * What would you do differently?
-
-Whole Group: What else do you notice about the answers given here?
-
-### Group Practice
-Get into groups of 3-4 for more practice on these questions. You could also choose to push yourself to answer questions not on the above list. Reminder that feedback should be:
-
-* Specific
-* Actionable
-* Kind
 
 ### Closing
