@@ -18,6 +18,14 @@ title: Outreach & Networking I
 * Create and execute a plan for outreach
 
 ### Review
+[Week 3's session](/module_two/week_3_job_search_strategies) dove into resources and ideas for how to build your job search strategy. And this probably led to more questions about how to structure your time.
+
+Consider this: what should your job search practice look like day-to-day? If your first answer is something along the lines of "it should look like scrolling through the internet and sifting through job postings to see what you can get and then submitting your resume"...that is false. If that is the plan you follow, you will have a longer job search, guaranteed. Why? Because when you do this, you're not prioritizing what's important to you. You're not following your vision. And beyond that, you're forgetting about other crucial steps in the process:
+
+
+
+
+
 
 ### Applying Design Thinking: Mind Maps
 
