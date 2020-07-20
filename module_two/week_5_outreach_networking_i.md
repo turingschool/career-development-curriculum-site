@@ -22,7 +22,7 @@ title: Outreach & Networking I
 
 Consider this: what should your job search practice look like day-to-day? If your first answer is something along the lines of "it should look like scrolling through the internet and sifting through job postings to see what you can get and then submitting your resume"...that is false. If that is the plan you follow, you will have a longer job search, guaranteed. Why? Because when you do this, you're not prioritizing what's important to you. You're not following your vision. And beyond that, you're forgetting about other crucial steps in the process:
 
-
+![JSS_highlight Steps 2 and 3](/images/JSS_highlight%20Steps%202%20and%203.png)
 
 
 
