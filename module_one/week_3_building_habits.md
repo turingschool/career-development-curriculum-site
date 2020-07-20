@@ -3,8 +3,6 @@ layout: page
 title: Building Habits to Become a Software Developer, Part I
 ---
 
-# Building Habits to Become a Software Developer, Part I
-
 [Slides for the session](https://docs.google.com/presentation/d/1BwXUyaDs4Ms9v8i9Iye3I3XnGirTpLgQxOzglAEw_Wc/edit?usp=sharing)
 
 Ideas here come from the book [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
