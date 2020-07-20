@@ -74,8 +74,9 @@ To review, we've discussed building your compass (a way to understand your gener
 
 A way to do this is to reflect on four main areas of your "dashboard":
 
-* Health
-* Work
-* Play
-* Love
+* **Health.** Thinking about your health provides the answer to "how are you?" Consider the intersection of your physical, mental, and emotional health right now.
+* **Work.** This is what you do. What you're currently doing is learning and practicing software development. Consider how you create value in your work, for yourself, your teammates, your cohort, etc.
+* **Play.** When thinking about play, consider what brings you joy in your daily life right now. When do you achieve "flow" aka total engagement in your activities? 
+* **Love.** This speaks to the sense of connection you feel between yourself and the world around you. Consider who are the people who matter in your life? How does love flow between you and them?
 
+Your [career journal prompts this week](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-4) ask you to reflect on these four areas to reach that first step of understanding where you currently are. You'll then work through the rest of the steps in the design process to come up with your first version of your career vision.
