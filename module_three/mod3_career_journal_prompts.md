@@ -103,4 +103,9 @@ Copy these prompts into your career journal document to complete throughout Mod 
 
 4. Plan #3:
 
-5. Make it actionable: choose one of the plans above and using feedback from your small group discussion, outline....
+5. Make it actionable: rank each plan on a scale of 1-5 for how much your plan aligns with the following: 
+Available resources: proximity, time, money, contacts, etc.
+Coherence: how it fits into your workview and lifeview (review this)
+Confidence level: how to match that
+How excited you are about it
+
