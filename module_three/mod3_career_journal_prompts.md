@@ -95,3 +95,12 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
 
 ### Mod 3 Week 5: Refining Your Strategy  <a name="week-5"></a>
+1. Taking stock of where you are: what have you accomplished this module? What have you learned? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)
+
+2. Plan #1:
+
+3. Plan #2:
+
+4. Plan #3:
+
+5. Make it actionable: choose one of the plans above and using feedback from your small group discussion, outline....
