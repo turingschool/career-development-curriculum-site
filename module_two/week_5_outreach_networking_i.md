@@ -24,8 +24,7 @@ Consider this: what should your job search practice look like day-to-day? If you
 
 ![JSS_highlight Steps 2 and 3](/images/JSS_highlight%20Steps%202%20and%203.png)
 
-
-
+You need to first research a company so that you know it fits what you're looking for AND reach out to someone at the company, which is another way to do research as well as build relationships at the company. But first let's talk about where to start.
 
 ### Applying Design Thinking: Mind Maps
 
