@@ -3,8 +3,6 @@ layout: page
 title: The Application Process
 ---
 
-# The Application Process
-
 [Slides from the session](https://docs.google.com/presentation/d/1X54FfmWCyoQ6y0e2ma0ZkfIMsJ8PotDqyKrKBCRm7e8/edit?usp=sharing)
 
 ### Learning Goals
