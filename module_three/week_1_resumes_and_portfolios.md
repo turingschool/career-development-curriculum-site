@@ -4,8 +4,6 @@ title: Professional Storytelling II
 subheading: Resumes & Portfolios
 ---
 
-## Resumes & Portfolios
-
 [Slides for the session](https://docs.google.com/presentation/d/17sz_0Je9OQfvqQ-NEC3UOMS4wBuKdrhNPqXZVXfP9uc/edit?usp=sharing)
 
 ### Learning Goals
