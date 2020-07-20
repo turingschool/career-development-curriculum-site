@@ -27,8 +27,18 @@ Consider this: what should your job search practice look like day-to-day? If you
 You need to first research a company so that you know it fits what you're looking for AND reach out to someone at the company, which is another way to do research as well as build relationships at the company. But first let's talk about where to start.
 
 ### Applying Design Thinking: Mind Maps
+Let’s start by thinking about how your vision fits into the research you need to do on a company. Come back to design thinking, specifically the principle of Ideate. Instead of thinking, “I have to find the one right idea, reframe it to "I need to look at multiple ideas for how I could execute my vision.”
+
+Remember we’re trying to solve the problem of how to become a software developer. The first idea that probably comes to mind is “get a job in this field,” but that’s not the complete solution. The complete solution is putting your vision into place, and there are lots of ways to execute that. You have to think beyond the first idea -- you have to think beyond scrolling through job postings. 
+
+This brings us to another way to reframe our initial thoughts. We might start with "here's what I want," but let's take it a step further to "here's what I *might* want" to embrace additional ideas. 
+
+The process to help us get there is to generate many and new ideas for how to apply your vision by utilizing outreach and networking to uncover more answers. As you engage in this process today, beware of judgment that comes up when you're thinking -- this is the enemy of creativity. Impostor Syndrome is judgment. Fixed mindset is judgment. Free yourself from that. 
+
+This week in your [career journal](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-5) you'll create mind maps to describe the engagement, energy, and flow that you want to incorporate into your future job. Then, apply prototyping by asking yourself -- what does this information tell me about what's important to me in my career as a software developer? What do I still need to learn about this career?
 
 ### Find Out More: Outreach & Networking
+
 
 ### The Outreach Process: Why, Who, How
 
