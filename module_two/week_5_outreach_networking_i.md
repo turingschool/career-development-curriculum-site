@@ -15,6 +15,14 @@ title: Outreach & Networking I
 * Review habit tracker
 * Create mind maps to assess your engagement, energy, and flow
 * Protoype mind maps: what does these maps tell you about what's important to you as a software developer?
-* 
+* Create and execute a plan for outreach
 
-### Overview
+### Review
+
+### Applying Design Thinking: Mind Maps
+
+### Find Out More: Outreach & Networking
+
+### The Outreach Process: Why, Who, How
+
+### Next Steps: Put It Into Practice
