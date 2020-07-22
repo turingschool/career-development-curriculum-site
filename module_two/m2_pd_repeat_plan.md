@@ -3,8 +3,6 @@ layout: page
 title: PD Plan for Repeating Module 2
 ---
 
-# PD Plan for Repeating Module 2
-
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search.
 
 Reminder that in Mod 2, we covered the topics of:
