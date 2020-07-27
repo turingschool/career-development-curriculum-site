@@ -18,6 +18,7 @@ Students will engage in self-reflection and ideation in their career journals ev
 Although your journal can take different forms according to your preferences, this is a [suggested template]( that we highly recommend you utilize:
 
 Mod X Week X Prompts [link here]
+
 [-] (completed)
 [-] (partially complete)
 [-] (not started)
