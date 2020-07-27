@@ -19,8 +19,8 @@ Although your journal can take different forms according to your preferences, th
 
 Mod X Week X Prompts [link here]
 
-[-] (completed)
+-[ ] (completed)
 
-[-] (partially complete)
+-[ ] (partially complete)
 
-[-] (not started)
+-[ ] (not started)
