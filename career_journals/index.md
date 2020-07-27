@@ -20,5 +20,7 @@ Although your journal can take different forms according to your preferences, th
 Mod X Week X Prompts [link here]
 
 [-] (completed)
+
 [-] (partially complete)
+
 [-] (not started)
