@@ -3,8 +3,6 @@ layout: page
 title: Cover Letter Resources
 ---
 
-# Cover Letter Resources
-
 ## General Advice
 
 * [Ask a Manager: Examples of great cover letters](https://www.askamanager.org/category/cover-letters)
