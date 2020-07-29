@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Cover Letter Resources
+title: Resume Resources
 ---
-
-# Resume Resources
 
 ## General Advice
 
