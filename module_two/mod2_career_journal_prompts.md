@@ -10,9 +10,18 @@ title: Mod 2 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 2.
+Copy these prompts into the career journal document you started in Mod 0. Please label this section of your career journal "Module 2 Journal Reflections" and [it's recommended that you use this template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) to organize your responses. 
 
 ### Mod 2 Week 1: Building Habits to Become a Software Developer, Part II <a name="week-1"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 1: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 1. Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you? What processes would you like to try differently this module to become more effective at your work and as a software developer?
@@ -31,6 +40,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 6. “When you start a new habit, it should take less than two minutes to do.” Read this [4-min article on how to stop procrastinating](https://jamesclear.com/how-to-stop-procrastinating). Apply the 2-minute rule to reframe 2-3 of your habits by scaling them down into the 2-minute version. How does this reframing help you think about shaping your new identity as a software developer?
 
 ### Mod 2 Week 2: Professional Storytelling & Branding <a name="week-2"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 2: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Assess your habits from week 1: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
 
 2. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions who are you, why are you here, and what's next? Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
@@ -40,6 +58,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 4. What other steps will you take this week to update your branding or practice your story?
 
 ### Mod 2 Week 3: Job Search Strategies <a name="week-3"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 3: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Assess your habits from week 2: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
 
 2. Reflect on how you’ve spent your time so far at Turing to gauge your engagement and energy:
@@ -64,6 +91,15 @@ When is your energy drained?
 * What next steps will you take to explore that opportunity and find contacts? Add that information to your Huntr card.
 
 ### Mod 2 Week 4: Building Habits to Become a Software Developer, Part III <a name="week-4"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 4: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
@@ -81,6 +117,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 5. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?
 
 ### Mod 2 Week 5: Outreach & Networking I <a name="week-5"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 5: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module?
 
 Mind Maps:
