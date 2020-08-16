@@ -100,21 +100,37 @@ Week 4: [Link here to your gist]
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
-Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
+In week 4, you'll have a job experience activity with employers. The next two prompts are designed to help you both prepare and reflect on that experience: 
+1. Prepare for Job Experience: AEIOU
+* Activities: what questions do you have about the activities that a software developer does on a daily basis?  
+* Environment: what questions do you have about the overall environment and culture of this workplace?
+* Interactions: what questions do you have about the team at this company? What do you hope to learn during this experience?
+* Objects: what questions do you have about the code or the product?
+* Users: what questions do you have about how the company interacts with their users?
 
-1. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
+2. After the Job Experience, reflect on the same questions; what are your takeaways from the activity? 
+* Activities: what was engaging to the person/people you met with?
+* Environment: what did you notice about how they talked about the culture and environment of this company?
+* Interactions: what did you notice about your interactions with this person/people?
+* Objects: what did you learn about their approach to code and/or product development?
+* Users: what did you learn about their approach to their users?
+* What are your main takeaways from the shadow? How will you use this information to help you with your job search strategy?
 
-2. Implement a reiforcement strategy: to make one of your habits more satisfying, what is a reward you can give yourself immediately after completing the habit? How will this reward encourage you to continue completing that habit?
+Ideas below are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
-3. "Don't Break the Chain": Use a habit tracker
+3. Assess your habits from week 3: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
+
+4. Implement a reiforcement strategy: to make one of your habits more satisfying, what is a reward you can give yourself immediately after completing the habit? How will this reward encourage you to continue completing that habit?
+
+5. "Don't Break the Chain": Use a habit tracker
 
 * What is a habit that you want to make sure to do every day? How could you visually cue yourself to complete it (i.e., moving a paper clip)? How can you visually track it each time you've completed it? Could you automate the tracking? How will you do that?
 
 * Need help? Check out one of these [habit tracking apps](https://www.lifehack.org/668261/best-habit-tracking-apps)
 
-4. How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?
+6. How to get back on track when missing a habit: if you miss a day or two of completing your habit, how will you get yourself going again?
 
-5. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?
+7. Pick an accountability partner (your cohort accountabilibuddy, your mentor, a close friend, etc.) and create a habit contract with them. How often will you check in with each other? How will they hold you accountable?
 
 ### Mod 2 Week 5: Outreach & Networking I <a name="week-5"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
