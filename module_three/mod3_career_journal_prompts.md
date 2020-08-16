@@ -13,6 +13,8 @@ title: Mod 3 Career Journal Prompts
 ### Directions
 Copy these prompts into the career journal document you started in Mod 0. Please label this section of your career journal "Module 3 Journal Reflections" and [it's recommended that you use this template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) to organize your responses. 
 
+**For all journal responses, you have the option to submit a video or audio recording instead of a written response. It's recommend to use YouTube or Vimeo for these recordings. If you have any questions on this, please reach out to a member of the Career Dev team.**
+
 ### Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios <a name="week-1"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
