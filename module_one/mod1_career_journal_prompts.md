@@ -12,9 +12,18 @@ title: Mod 1 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 1. Please label this section of your career journal "Module 1 Journal Reflections."
+Copy these prompts into the career journal document you started in Mod 0. Please label this section of your career journal "Module 1 Journal Reflections" and [it's recommended that you use this template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) to organize your responses. 
 
 ### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 1: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
   * I can...
@@ -45,6 +54,15 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * How could you be aware of progress you're making?
 
 ### Mod 1 Week 2: Building Your Compass <a name="week-2"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 2: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
 1. Power of self-reflection
 * What is challenging about self-reflection?
 * How can you continue to build the habit of self-reflection at Turing? 
@@ -84,6 +102,15 @@ Reflect:
 * Does one drive the other? How?
 
 ### Mod 1 Week 3: Habits & Accountability Systems   <a name="week-3"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 3: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 **Habits of a Software Developer**
@@ -105,6 +132,15 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
 
 ### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 4: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
 1. Habits Reflection:
 * How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? 
 
@@ -140,6 +176,15 @@ What is the basic threshold that your new career must meet after Turing? What wo
 Based on this week of reflections, write out your initial vision statement for your career:
 
 ### Mod 1 Week 5: Creating Your Vision, Part II  <a name="week-5"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 5: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
 1. Habits Reflection:
 * How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? 
 
