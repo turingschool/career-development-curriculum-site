@@ -11,9 +11,17 @@ title: Mod 3 Career Journal Prompts
 * [Week 5 Prompts](#week-5)
 
 ### Directions
-Copy these prompts into your career journal document to complete throughout Mod 3.
+Copy these prompts into the career journal document you started in Mod 0. Please label this section of your career journal "Module 3 Journal Reflections" and [it's recommended that you use this template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) to organize your responses. 
 
 ### Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios <a name="week-1"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 1: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Refine your career vision: What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? Based on your latest version of your career vision, list the top 3-5 industries and companies you'll pursue in your job search as of right now. Why did you pick these industries/companies? How do they relate to the values and goals you have for yourself in your job search?
 
@@ -50,6 +58,15 @@ Copy these prompts into your career journal document to complete throughout Mod 
 5. Ian's workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template here](https://docs.google.com/spreadsheets/d/1Ncn2w6l3SaXOM71ZHcBPutxCoFOhHNlDa56Xuzz0SHs/edit?usp=sharing) and post a link to your copy here to show what research you've completed. You can also link this research to your Huntr board.
 
 ### Mod 3 Week 2: The Application Process  <a name="week-2"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 2: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) as well as [the session](https://careerdev.turing.io/module_three/week_2_application_process) to complete your cover letter. 
 * Post the link to your cover letter here
 
@@ -58,6 +75,15 @@ Copy these prompts into your career journal document to complete throughout Mod 
 3. If you were to apply to this position (and you should!), how will you customize your resume for it? What other next steps would you need to take here?
 
 ### Mod 3 Week 3: Outreach & Networking II <a name="week-3"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 3: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Back to your resume and cover letter you've been working on:
 * What other next steps do you want to take to make these two components stronger?
 
@@ -71,6 +97,15 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * Reach out to your contact THIS WEEK. If possible, reach out to more than one person OR find a meetup to attend also. What happened? What did you learn about the company? What other next steps should you take for pursuing this company? Be sure to update this in Huntr.
 
 ### Mod 3 Week 4: Interview Prep  <a name="week-4"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 4: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Prepare for Job Shadow: AEIOU
 * Activities: what questions do you have about the activities that a software developer does on a daily basis?  
 * Environment: what questions do you have about the overall environment and culture of this workplace?
@@ -95,6 +130,15 @@ Copy these prompts into your career journal document to complete throughout Mod 
 * Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
 
 ### Mod 3 Week 5: Refining Your Strategy  <a name="week-5"></a>
+Answer the below questions in a separate gist and link them into your career journal using this template:
+
+Week 5: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
+
 1. Taking stock of where you are: what have you accomplished this module? What have you learned? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)?
 
 2. Create plans for 3 different companies you want to target:
