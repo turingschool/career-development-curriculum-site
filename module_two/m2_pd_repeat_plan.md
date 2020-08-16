@@ -27,7 +27,7 @@ You are **not** required to attend any of the professional development sessions 
 * Week 5: [Outreach & Networking I](/module_two/week_5_outreach_networking_i)
 
 ### Career Journal
-1. Please create a new section of your career journal and title it "Mod 2 Repeat Journal Reflections."
+1. Please create a new section of your career journal and title it "Mod 2 Repeat Journal Reflections." We recommend [using this template to organize your responses](/career_journals/career_journal_template).
 2. For this module, you should consider 1-2 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
   * Organization & time management
   * Communication
