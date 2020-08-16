@@ -27,7 +27,7 @@ You are **not** required to attend any of the professional development sessions 
 * Week 5: [Refining Your Strategy](/module_three/week_5_refining_your_strategy)
 
 ### Career Journal
-1. Please create a new section of your career journal and title it "Mod 3 Repeat Journal Reflections."
+1. Please create a new section of your career journal and title it "Mod 3 Repeat Journal Reflections." We recommend [using this template to organize your responses](/career_journals/career_journal_template).
 2. For this module, you should consider 2-3 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
   * Update your resume and ask your mentor or career dev team member to review it
   * Write a cover letter for a posting that you're interested in; ask mentor or career dev team member to review it
