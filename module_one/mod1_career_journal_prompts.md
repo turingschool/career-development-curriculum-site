@@ -3,8 +3,6 @@ layout: page
 title: Mod 1 Career Journal Prompts
 ---
 
-# Mod 1 Career Journal Prompts
-
 * [Week 1 Prompts](#week-1)
 * [Week 2 Prompts](#week-2)
 * [Week 3 Prompts](#week-3)
