@@ -42,7 +42,7 @@ Students will engage in self-reflection and ideation in their career journals ev
 * **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
 
 #### Set Up
-Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts.](/module_two/mod2_career_journal_prompts)
+Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts.](/module_two/mod2_career_journal_prompts). In addition, [here is a template for how you can organize all of your career journal responses](/career_journals/career_journal_template.md). 
 
 ### Repeating the Module
 For students repeating Module 2, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](/module_two/m2_pd_repeat_plan). The Career Development team will check in with repeating students to provide guidance and answer questions.
