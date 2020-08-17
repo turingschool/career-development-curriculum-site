@@ -160,6 +160,6 @@ If you will not be able to complete your journal this week, please provide an up
 * Available resources to help you pursue it: contacts, time, knowledge of the company, etc.
 * Coherence: how it aligns with your career vision
 * Confidence level: how feasible does this feel to you?
-* How excited you are about it
+* How excited you are about it?
 
 Now, pick the plan with the highest numbers across the board. What steps will you take next to pursue this strategy as you go into the next module? 
