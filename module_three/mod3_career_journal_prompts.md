@@ -44,7 +44,7 @@ If you will not be able to complete your journal this week, please provide an up
 * Go to [https://cvcompiler.com/students/turingschool](https://cvcompiler.com/students/turingschool)
 * Click on "Improve Your Student Resume"
 * Authorize it with either LinkedIn or GitHub
-* Fill out the fields with your Name and Email and the promo code Turing2003
+* Fill out the fields with your Name and Email and the promo code Turing2005
 * Upload your resume
 * Based on the feedback you received from CV Compiler, what updates will you make to your resume?
 
