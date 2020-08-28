@@ -23,6 +23,10 @@ Below are a list of additional resources to help you with your career developmen
 ### Interview Prep Resources
 * [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
 
+### Leveling Up Your Tech
+* [Directions on Open Source Contributions to DEV Community](https://github.com/forem/forem). DEV (Dev.to) is "a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community."
+* [Stackshare: Research Tech Stacks of Popular Companies](https://stackshare.io/stacks)
+
 ### Succeeding in the Workplace
 * [TEDx Talk from Carla Harris: How to Find the Person Who Will Help You Get Ahead at Work](https://www.leadingauthorities.com/speakers/video/carla-harris-how-find-person-who-will-help-you-get-ahead-work-tedx)
 
