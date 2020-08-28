@@ -49,6 +49,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Elixir Jobs](https://elixirjobs.net/)
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
 * [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills
+* [Stackshare](https://stackshare.io/stacks) allows you to search for tech stacks of popular companies
 
 ### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
