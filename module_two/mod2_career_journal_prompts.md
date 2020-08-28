@@ -86,7 +86,7 @@ When is your energy drained?
 
 * Go through the resources [listed here](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/finding_opportunities.md) and explore 2-3 tools. List what you looked at here:
 
-* Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn't align with your vision, what will you try next?
+* Apply wayfinding: of what you looked at, what did you discover that aligns with your vision? If it didn't align with your vision, what will you try next? Decide what tools to bookmark to explore later. 
 
 * Find a job posting that aligns with your vision. What's the posting? How does it align with what you're looking for? Add it to your Huntr.
 
