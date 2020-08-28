@@ -8,6 +8,7 @@ Below are both resources and outlined steps for taking on outreach and networkin
 
 ### Research Your Contacts
 * Start with LinkedIn
+  * [Check out this write-up from Ian on asking for Turing staff introductions to LinkedIn connections](https://gist.github.com/iandouglas/40e5c634b259de8512446bf76d3199e7)
 * Then, look for personal sites, blogs, Twitter, etc. to find out additional information
 * Take time to read and understand who you're contacting and analyzing what your ask is
   * HINT: You're not asking for a job
