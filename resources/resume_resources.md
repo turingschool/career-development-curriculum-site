@@ -7,6 +7,7 @@ title: Resume Resources
 
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
 * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+* [Use JobScan to upload your resume and a job posting to see how it compares](https://www.jobscan.co/)
 
 ## Resume Templates
 
