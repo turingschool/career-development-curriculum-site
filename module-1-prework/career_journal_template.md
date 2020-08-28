@@ -29,35 +29,184 @@ title: Career Journal Template
 
 6. Describe the vision you currently have for your career after Turing:
 
-### Mod 1
-Find the prompts to Mod 1 here:
-* [Week 1](/module_one/mod1_career_journal_prompts#week-1)
-* [Week 2](/module_one/mod1_career_journal_prompts#week-2)
-* [Week 3](/module_one/mod1_career_journal_prompts#week-3)
-* [Week 4](/module_one/mod1_career_journal_prompts#week-4)
-* [Week 5](/module_one/mod1_career_journal_prompts#week-5)
+## Set Up Your Career Journal for Mods 1-4:
+It's recommended that you use the following template to set up the rest of your career journal.
 
-### Mod 2
-Find the prompts to Mod 2 here:
-* [Week 1](/module_two/mod2_career_journal_prompts#week-1)
-* [Week 2](/module_two/mod2_career_journal_prompts#week-2)
-* [Week 3](/module_two/mod2_career_journal_prompts#week-3)
-* [Week 4](/module_two/mod2_career_journal_prompts#week-4)
-* [Week 5](/module_two/mod2_career_journal_prompts#week-5)
+### Mod 1 
 
-### Mod 3
-Find the prompts to Mod 3 here:
-* [Week 1](/module_three/mod3_career_journal_prompts#week-1)
-* [Week 2](/module_three/mod3_career_journal_prompts#week-2)
-* [Week 3](/module_three/mod3_career_journal_prompts#week-3)
-* [Week 4](/module_three/mod3_career_journal_prompts#week-4)
-* [Week 5](/module_three/mod3_career_journal_prompts#week-5)
+Week 1: [Week 1 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-1)
 
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 2: [Week 2 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-2) 
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 3: [Week 3 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-3)
+[
+Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 4: [Week 4 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-4)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 5: [Week 5 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_one/mod1_career_journal_prompts.md#week-5)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+### Mod 2 
+
+Week 1: [Week 1 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 2: [Week 2 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-2)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 3: [Week 3 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 4: [Week 4 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-4)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 5: [Week 5 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-5)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+### Mod 3 
+
+Week 1: [Week 1 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-1)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 2: [Week 2 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-2)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 3: [Week 3 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-3) 
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 4: [Week 4 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-4)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 5: [Week 5 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_career_journal_prompts.md#week-5)
+
+[Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 ### Mod 4
-Find the prompts to Mod 4 here:
-* [Week 1](/module_four/mod4_career_journal_prompts#week-1)
-* [Week 2](/module_four/mod4_career_journal_prompts#week-2)
-* [Week 3](/module_four/mod4_career_journal_prompts#week-3)
-* [Week 4](/module_four/mod4_career_journal_prompts#week-4)
-* [Week 5](/module_four/mod4_career_journal_prompts#week-5)
+**Note: Mod 4 Prompts will be provided to you by your Career Specialist at that time.**
+
+Week 1: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 2: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 3: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 4: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
+
+Week 5: [Link here to your gist]
+- [ ] (completed)
+- [ ] (partially complete)
+- [ ] (not started)
+
+If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
