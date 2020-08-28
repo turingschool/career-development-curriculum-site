@@ -33,7 +33,7 @@ Below are a list of additional resources to help you with your career developmen
 * [More Than Enough: Claiming Space for Who You Are (No Matter What They Say)](https://bookshop.org/books/more-than-enough-claiming-space-for-who-you-are-no-matter-what-they-say/9780525561583)
 * [Presence: Bringing Your Boldest Self to Your Biggest Challenges](https://bookshop.org/books/presence-bringing-your-boldest-self-to-your-biggest-challenges/9780316256582)
 * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
-* [Refactoring](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
+* [Refactoring: Improving the Design of Existing Code](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
 * [Strategize to Win: The New Way to Start Out, Step Up, or Start Over in Your Career](https://bookshop.org/books/strategize-to-win-the-new-way-to-start-out-step-up-or-start-over-in-your-career/9781594633058)
 * [Switchers: How Smart Professionals Change Careers -- And Seize Success](https://bookshop.org/books/switchers-how-smart-professionals-change-careers-and-seize-success/9780814439630)
 * [The Checklist Manifesto](https://bookshop.org/books/the-checklist-manifesto-how-to-get-things-right/9780312430009)
