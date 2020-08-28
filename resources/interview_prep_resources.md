@@ -38,6 +38,8 @@ Below you can find lots of resources to help you prepare for both components.
 
 * [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) is held twice a month, either downtown or in the Denver Tech Center
 
+* [Leet Code](https://leetcode.com/) is a platform both practicing technical interview skills (there are over 1600 questions to practice!) and for helping companies identify top technical talent through sponsored events on the platform.
+
 * Coding challenges resources:
    * [Turing challenges](https://github.com/turingschool/challenges)
    * [Code Wars](https://www.codewars.com/)
@@ -69,6 +71,7 @@ Below you can find lots of resources to help you prepare for both components.
 ### Start Here
 * [Behavioral Interview Formats and Questions to Review](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
+* [How to Ace Your Behavioral Interview](https://docs.google.com/document/d/1puRi85xZkeTIXSgCsMYdGVi0GXJ1ANUXEvgnnhVH9Cc/edit?usp=sharing)
 
 ### Bank of Common Questions
 **Storytelling, Experience, and Career Goals Questions:**
