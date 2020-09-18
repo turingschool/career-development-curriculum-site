@@ -22,7 +22,5 @@ To successfully complete Module 4 professional development, students should have
 * Applied to at least 1 job opportunity
 * Conducted outreach with at least 1 contact related to job application
 
-### Career Journal
-
 ### Repeating the Module
 For students repeating the module, they will meet with the Career Specialist to design specific goals to work on during the module.
