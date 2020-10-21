@@ -46,6 +46,7 @@ Below you can find lots of resources to help you prepare for both components.
    * [Exercisms](http://exercism.io/languages/)
    * [HackerRank](https://www.hackerrank.com/dashboard)
    * [CodeSignal](https://codesignal.com/)
+   * [Interview Cake](https://www.interviewcake.com/)
 
 ### Other Resources
 
