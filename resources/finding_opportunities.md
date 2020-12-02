@@ -10,11 +10,6 @@ Below are resources to help you find opportunities from job postings to networki
 * [BuiltIn](http://builtin.com/)
     * Provides lots of details about companies
     * Located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
-* [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/)
-    * Tips:
-      * Check out the articles and directory here for lots of companies you can add to your research
-      * Start with cold outreach here to establish connections
-      * Then look into their hiring needs
 * [Google](http://www.google.com/)
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
