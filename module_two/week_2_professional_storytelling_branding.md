@@ -97,7 +97,7 @@ LinkedIn is specifically set up to utilize algorithms and context to help employ
 **First Look:**
 The top of your profile is an opportunity to make a great first impression. When a recruiter or potential employer clicks on your profile, they see 4 initial things:
 
-* **Your picture:** Headshot of just you (not your friends, family, or pets!) and the same photo across your multiple profiles
+* **Your picture:** Headshot of just you (not your friends, family, or pets!) and the same photo across your multiple profiles. Don't have a professional-looking headshot? Check out [this post](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/) with tips on how to take your own!
 * **Your headline:** What your expertise is
 * **Your location:** Where do you want to be? If you want to work in San Francisco, list San Francisco
 * **The first few sentences of your summary:** This is why it's so important. Make those first 100 words stand out.
