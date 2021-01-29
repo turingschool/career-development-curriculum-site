@@ -22,8 +22,6 @@ Week 1: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 1. Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you? What processes would you like to try differently this module to become more effective at your work and as a software developer?
@@ -49,8 +47,6 @@ Week 2: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 1. Assess your habits from week 1: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
 
 2. Write a draft of your professional story here as 1-2 paragraphs. Focus on answering the questions who are you, why are you here, and what's next? Consider how to talk about your motives and values, the turning points that led to your career change, and what you envision for yourself going forward.
@@ -66,8 +62,6 @@ Week 3: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Assess your habits from week 2: how did you spend your time this past week? What was effective in your habits? What could be more effective? What steps will you take to make that happen?
 
@@ -99,8 +93,6 @@ Week 4: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 In week 4, you'll have a job experience activity with employers. The next two prompts are designed to help you both prepare and reflect on that experience: 
 1. Prepare for Job Experience: AEIOU
@@ -141,8 +133,6 @@ Week 5: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 Review your habit tracker: how did you monitor your habit(s)? What does this tell you about your overall progress becoming the person you want to be? In general, how satisfied are you with how you spent your time this module? What could be improved next module?
 
