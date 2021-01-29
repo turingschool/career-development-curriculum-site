@@ -4,7 +4,7 @@ title: Module 3 Career Development
 ---
 
 ## Overview
-Module 3 Career Development is focused on **executing the strategies** that students have been building in the previous two modules. Prior to Mod 3, students will have created their career visions and started to build job search strategies aligned with those visions. In Mod 3, students have the opportunity to put these ideas into practice through weekly workshops, discussions, and continuous self-reflection in their career journals.  
+Module 3 Career Development is focused on **executing the strategies** that students have been building in the previous two modules. Prior to Mod 3, students will have created their career visions and started to build job search strategies aligned with those visions. In Mod 3, students have the opportunity to put these ideas into practice through weekly workshops, discussions, and optional self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 3:
@@ -25,10 +25,8 @@ At the end of Module 3, students should have:
 - [ ] Peer review of a cover letter
 - [ ] An outlined strategy for their job search
 - [ ] Conducted outreach with at least 1 contact at a company student is targeting
-- [ ] Participated in at least 1 mock interview (including both behavioral and technical questions)
-- [ ] Completed Mod 3 career journal
 
-These items must be completed in order for the student to have successfully completed their career development for the module. In Module 4, they will continue to refine each of these items to execute their job search strategy. 
+In Module 4, they will continue to refine each of these items to execute their job search strategy. 
 
 ### Weekly Topics
 
@@ -36,7 +34,6 @@ These items must be completed in order for the student to have successfully comp
 * Week 2: [The Application Process](/module_three/week_2_application_process)
 * Week 3: [Outreach & Networking II](/module_three/week_3_outreach_networking_ii)
 * Week 4: [Interview Prep](/module_three/week_4_interview_prep)
-* Week 5: [Refining Your Strategy](/module_three/week_5_refining_your_strategy)
 
 ### Career Journal
 Students will engage in self-reflection and ideation in their career journals every week during a module.
@@ -44,7 +41,7 @@ Students will engage in self-reflection and ideation in their career journals ev
 **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way!
 * **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
-* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
+* **Module Expectations.** Career journals are optional to complete. The Career Development team has seen that students who engage in the self-reflection of the journals are often hired more quickly because of the time they invest into creating their job search strategy, but we do not require students to complete journals. Instead, we'll read career journals upon request to provide specific feedback and customized support. 
 
 #### Set Up
 Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 3 set of career journal prompts](/module_three/mod3_career_journal_prompts). For all journal responses, students have the option to submit a video or audio recording instead of a written response. We recommend using YouTube or Vimeo for these recordings and including the links in their journals. If you have any questions on this, please reach out to a member of the Career Dev team. In addition, [here is a template for how you can organize all of your career journal responses](/career_journals/career_journal_template). 
