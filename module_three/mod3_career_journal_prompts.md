@@ -22,8 +22,6 @@ Week 1: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 1. Refine your career vision: What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? Based on your latest version of your career vision, list the top 3-5 industries and companies you'll pursue in your job search as of right now. Why did you pick these industries/companies? How do they relate to the values and goals you have for yourself in your job search?
 
 2. Build your resume
@@ -66,8 +64,6 @@ Week 2: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) as well as [the session](https://careerdev.turing.io/module_three/week_2_application_process) to complete your cover letter. 
 * Post the link to your cover letter here
 
@@ -82,8 +78,6 @@ Week 3: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Back to your resume and cover letter you've been working on:
 * What other next steps do you want to take to make these two components stronger?
@@ -104,8 +98,6 @@ Week 4: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Prepare for Job Shadow: AEIOU
 * Activities: what questions do you have about the activities that a software developer does on a daily basis?  
@@ -129,37 +121,3 @@ If you will not be able to complete your journal this week, please provide an up
 * What other stories will you prepare to share?
 * Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
 * Using this [interview prep resource doc](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/interview_prep_resources.md), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice:
-
-### Mod 3 Week 5: Refining Your Strategy  <a name="week-5"></a>
-Answer the below questions in a separate gist and link them into your career journal using this template:
-
-Week 5: [Link here to your gist]
-- [ ] (completed)
-- [ ] (partially complete)
-- [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
-1. Taking stock of where you are: what have you accomplished this module? What have you learned? Where are you stuck (have you not been able to follow through on outreach? Is your resume not finished?)?
-
-2. Create plans for 3 different companies you want to target:
-* Questions to reflect on here: Why do you like this company? What makes you want to work there? Why are you a good fit for this company? What do you bring to the company? What transferable skills do you have? What do you already know about the company (product, team, culture, company size, location, etc.)? What do you need to learn?
-* Steps to take:
-  * Outreach: look at the company’s LinkedIn page: who could you reach out to? What questions do you want to ask that person?
-  * Experience: once you've made a connection at the company, how could you find out more? Consider setting up a job shadow or exploring their tech stack in your projects
-* Read back over the plan. How does it reflect your vision? 
-* Imagine that you get the job. A year later, what have you gained from this experience? How have you started to fulfill your vision? 
-
-* Plan #1:
-
-* Plan #2:
-
-* Plan #3:
-
-3. Make it actionable: rank each plan on a scale of 1-5 for how much your plan aligns with the following: 
-* Available resources to help you pursue it: contacts, time, knowledge of the company, etc.
-* Coherence: how it aligns with your career vision
-* Confidence level: how feasible does this feel to you?
-* How excited you are about it?
-
-Now, pick the plan with the highest numbers across the board. What steps will you take next to pursue this strategy as you go into the next module? 
