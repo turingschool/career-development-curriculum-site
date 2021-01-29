@@ -12,10 +12,10 @@ Students have the opportunity to engage in self-reflection and ideation through 
 
 **Ongoing progress checks.** Throughout each module, you'll have the opportunity to respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
 
-**Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
+**Module Expectations.** Career journals are optional to complete. The Career Development team has seen that students who engage in the self-reflection of the journals are often hired more quickly because of the time they invest into creating their job search strategy, but we do not require students to complete journals. Instead, we'll read career journals upon request to provide specific feedback and customized support. 
 
 ## Template
-Although your journal can take different forms according to your preferences, this is a [suggested template]( that we highly recommend you utilize:
+Although your journal can take different forms according to your preferences, this is a [suggested template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) that we highly recommend you utilize to help you keep them organized:
 
 Mod X Week X Prompts [link here]
 
