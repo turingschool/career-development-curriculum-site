@@ -22,8 +22,6 @@ Week 1: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 1. Describe one of your strengths
 * What is something you have learned to do well (list a skill)?
   * I can...
@@ -60,8 +58,6 @@ Week 2: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Power of self-reflection
 * What is challenging about self-reflection?
@@ -109,8 +105,6 @@ Week 3: [Link here to your gist]
 - [ ] (partially complete)
 - [ ] (not started)
 
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
 Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 **Habits of a Software Developer**
@@ -138,8 +132,6 @@ Week 4: [Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
 1. Habits Reflection:
 * How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? 
@@ -174,28 +166,3 @@ What is the basic threshold that your new career must meet after Turing? What wo
 6. Test –- solutions
 
 Based on this week of reflections, write out your initial vision statement for your career:
-
-### Mod 1 Week 5: Creating Your Vision, Part II  <a name="week-5"></a>
-Answer the below questions in a separate gist and link them into your career journal using this template:
-
-Week 5: [Link here to your gist]
-- [ ] (completed)
-- [ ] (partially complete)
-- [ ] (not started)
-
-If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
-
-1. Habits Reflection:
-* How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? 
-
-2. Design Thinking Reflection: [Cultivating Beginner's Mind](https://mindfulambition.net/beginners-mind/)
-
-* How can beginner's mind be helpful when it comes to thinking about your career and job search? What are some habits you could put into place to cultivate beginner's mind regularly? 
-
-Optional additional reading: [How to Cultivate Beginner's Mind to Become a True Expert](https://medium.com/better-humans/how-to-cultivate-beginners-mind-to-become-a-true-expert-b2e82953318d)
-
-3. Go through the [Flower Exercise brainstorming worksheets linked here](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing). Then complete your [Flower Exercise final worksheet here](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing) and link that finished worksheet here.
-
-4. Write out your top 5 strengths that you've seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?
-
-5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
