@@ -4,7 +4,7 @@ title: Module 2 Career Development
 ---
 
 ## Overview
-Module 2 Career Development is focused on **building on one's initial career vision** established in Module 1, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and continuous self-reflection in their career journals.  
+Module 2 Career Development is focused on **building on one's initial career vision** established in Module 1, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and optional self-reflection in their career journals.  
 
 ### Key Learning Goals
 Core Competencies of Module 2:
@@ -20,10 +20,9 @@ At the end of Module 2, students should have:
 - [ ] A professional story draft that articulates their career vision
 - [ ] LinkedIn profile updated and reviewed by a member of the Career Development team
 - [ ] Conducted outreach with at least 1 contact for career research purposes
-- [ ] Participated in a job shadow experience
-- [ ] A completed career journal for Mod 2
+- [ ] Participated in the What's a Dev experience
 
-These items must be completed in order for the student to have successfully completed their career development for the module. In Module 3, they will expand on this learning by focusing on executing their strategies.
+In Module 3, they will expand on this learning by focusing on executing their strategies.
 
 ### Weekly Topics
 
@@ -39,7 +38,7 @@ Students will engage in self-reflection and ideation in their career journals ev
 **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way!
 * **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
-* **Module Expectations.** A completed career journal is required for successfully passing each module. The career development team will be assessing your progress throughout the module, and you will submit it for final review in week 6. You will also include highlights from your progress in your end of module portfolio presentation.
+* **Module Expectations.** Career journals are optional to complete. The Career Development team has seen that students who engage in the self-reflection of the journals are often hired more quickly because of the time they invest into creating their job search strategy, but we do not require students to complete journals. Instead, we'll read career journals upon request to provide specific feedback and customized support. 
 
 #### Set Up
 Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts](/module_two/mod2_career_journal_prompts). For all journal responses, students have the option to submit a video or audio recording instead of a written response. We recommend using YouTube or Vimeo for these recordings and including the links in their journals. If you have any questions on this, please reach out to a member of the Career Dev team. In addition, [here is a template for how you can organize all of your career journal responses](/career_journals/career_journal_template). 
