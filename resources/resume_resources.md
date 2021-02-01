@@ -61,14 +61,14 @@ title: Resume Resources
 - [ ] No grammatical or spelling errors
 
 ### Experience
-- [ ] Turing is listed either here or under Education
+- [ ] Turing is listed either here or under Education (you can say you received a "Diploma in [Back]/[Front]-End Engineering")
 - [ ] Amount of space "Experience" section takes up on the page is less than that of the "Projects" section
 - [ ] Formatted with job title followed by company name
 - [ ] Brief description of role and what value they brought to the company
 - [ ] No grammatical or spelling errors
 
 ### Education
-- [ ] Turing is listed either here or under Experience
+- [ ] Turing is listed either here or under Experience (you can say you received a "Diploma in [Back]/[Front]-End Engineering")
 - [ ] Brief description of area of study or skills that can relate to software development or specific job applying to
 - [ ] No grammatical or spelling errors
 
