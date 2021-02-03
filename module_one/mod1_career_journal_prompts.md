@@ -7,7 +7,6 @@ title: Mod 1 Career Journal Prompts
 * [Week 2 Prompts](#week-2)
 * [Week 3 Prompts](#week-3)
 * [Week 4 Prompts](#week-4)
-* [Week 5 Prompts](#week-5)
 
 ### Directions
 Copy these prompts into the career journal document you started in Mod 0. Please label this section of your career journal "Module 1 Journal Reflections" and [it's recommended that you use this template](https://github.com/turingschool/career-development-curriculum-site/blob/master/career_journals/career_journal_template.md) to organize your responses. 
