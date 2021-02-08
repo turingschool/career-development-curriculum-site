@@ -63,7 +63,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
 * [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
 * [Incluzion](https://incluzion.co/) is a community of Black and Latinx professionals working remotely and flexibly. They also operate as a connector between companies and diverse talent. 
-* [Jopwell](https://www.jopwell.com/jobs) is a job site built specifically to advance careers for Black, Latinx, and Native American students and professionals.
+* [Jopwell](https://www.jopwell.com) is a community built specifically to advance careers for Black, Latinx, and Native American students and professionals. They post jobs as well as information on events and career advice. 
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 
 ### Search by...job listings
