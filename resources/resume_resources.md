@@ -20,6 +20,7 @@ title: Resume Resources
 * [Kick Resume](https://www.kickresume.com/)
 * [Canva](https://www.canva.com/)
 * [Hiration](https://www.hiration.com/)
+* [Free Resume Templates from JobScan](https://www.jobscan.co/resume-templates)
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 ## Resume Checklist
