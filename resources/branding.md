@@ -1,5 +1,9 @@
-### Tools to Create Your Personal Brand
-#### LinkedIn
+---
+layout: page
+title: Tips for Creating your Personal Brand
+---
+
+### LinkedIn
 LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/).
 
 #### Dissecting the Profile
@@ -87,7 +91,7 @@ Your network & their relevance to the job you want DO matter -- start connecting
 * [Bekah Lundy](https://www.linkedin.com/in/bekah-lundy/)
 * [Matt Kaufman](https://www.linkedin.com/in/matthew-leo-kaufman/)
 
-#### GitHub Overview
+### GitHub Overview
 You already have a GitHub profile -- make sure it looks good!
 
 - Add a headshot photo rather than using the avatar to look more professional
@@ -100,7 +104,7 @@ You already have a GitHub profile -- make sure it looks good!
 * Pin your best projects to your profile page and keep it up-to-date
 * File issues on all your repos for things that need fixing up
 
-#### Twitter Overview
+### Twitter Overview
 You don't *have* to have a Twitter account. But a lot of software developers (aka the people you want to connect with) are using Twitter, so we would highly recommend that you create a profile if you don't have one already!
 
 Twitter allows you to:
