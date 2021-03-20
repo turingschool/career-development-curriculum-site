@@ -25,55 +25,11 @@ We recognize that everyone comes into Turing with their own unique identity and 
 ## Professional Development Curriculum Standards
 Note: SIAT = Student is able to
 
-Level I (Knowledge, Comprehension)	How it’s measured	Level II (Comprehension, Application)	How it’s measured	Level III (Application, Analysis, Synthesis)	How it’s measured
-"Learning:
-Identification of what information needs to be acquired about the tech industry
-
-
-Actions: 
-Outreach in the Turing community"	"SIAT describe their own needs in regards to their identity and networking
-
-SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
-
-SIAT ask mentors questions about their jobs and career paths
-
-SIAT discuss career goals with mentor in at least two conversations"	"Learning:
-Make connections between information gathered and next steps for networking
-
-
-Actions:
-Outreach to warm contacts
-
-Phone call/coffee meeting with warm contacts"	"SIAT identify and utilize networking strategies that work best for them based on their own identity
-
-SIAT identify and utilize networking groups with which they identify 
-
-SIAT identify contacts from their network to reach out to linked to specific reasons
-
-SIAT describe and demonstrate successful strategies for how to write messages to contacts
-
-SIAT schedule a coffee meeting/phone call
-
-SIAT formulate specific questions for coffee meeting tied to goals 
-
-SIAT apply responses from contact to create connections to student’s own values and goals in their career path"	"Learning:
-Synthesize learning from initial outreach and apply to specific positions and/or further learning
-
-
-Actions:
-Outreach for specific position
-
-Phone call/coffee meeting with cold contact
-
-Job shadow"	"SIAT identify contacts outside their immediate network from companies/industries that align with their interests
-
-SIAT identify relevant contacts from companies with positions they want to pursue
-
-SIAT research company and contact to come up with relevant questions for coffee meetings or job shadows
-
-SIAT analyze takeaways from conversations to apply to own career goals and use in job application"
-
 ### Networking
+
+| Level I (Knowledge, Comprehension) | How it’s measured | Level II (Comprehension, Application) | How it’s measured | Level III (Application, Analysis, Synthesis) | How it’s measured |
+|-|-|-|-|-|-|
+| Learning:<br><br>* Identification of what information needs<br> to be acquired about the tech industry<br><br>Actions: <br><br>* Outreach in the Turing community | * SIAT describe their own needs <br>in regards to their identity and networking<br><br>* SIAT formulate specific questions about the <br>tech industry important to their experience and <br>connect them to their career goals<br><br>* SIAT ask mentors questions about their jobs <br>and career paths<br><br>* SIAT discuss career goals with mentor in at <br>least two conversations | Learning:<br><br>* Make connections between information <br>gathered and next steps for networking<br><br>Actions:<br><br>* Outreach to warm contacts<br><br>* Phone call/coffee meeting with warm contacts | * SIAT identify and utilize networking strategies <br>that work best for them based on their own identity<br><br>* SIAT identify and utilize networking groups with <br>which they identify <br><br>* SIAT identify contacts from their network to reach <br>out to linked to specific reasons<br><br>* SIAT describe and demonstrate successful strategies <br>for how to write messages to contacts<br><br>* SIAT schedule a coffee meeting/phone call<br><br>* SIAT formulate specific questions for coffee meeting <br>tied to goals <br><br>* SIAT apply responses from contact to create connections <br>to student’s own values and goals in their career path | Learning:<br><br>* Synthesize learning from initial outreach <br>and apply to specific positions and/or further learning<br><br>Actions:<br><br>* Outreach for specific position<br><br>* Phone call/coffee meeting with cold contact<br><br>* Job shadow | * SIAT identify contacts outside their immediate network <br>from companies/industries that align with their interests<br><br>* SIAT identify relevant contacts from companies with positions <br>they want to pursue<br><br>* SIAT research company and contact to come up with relevant <br>questions for coffee meetings or job shadows<br><br>* SIAT analyze takeaways from conversations to apply to own <br>career goals and use in job application   |
 
 ### Interviewing
 
