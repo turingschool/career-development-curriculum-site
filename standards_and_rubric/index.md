@@ -30,20 +30,10 @@ Here are the tools we'll use to measure professional readiness (skip to each sec
    * [Job Search Strategies](#job-search-strategies)
    * [Negotiations](#negotiations)
 * [Rubric](#rubric)
-* [Checks for Understanding](#checks-for-understanding) 
-* [Summative Assessments](#summative-assessments)
-* [Interventions](#interventions)
+* [Evaluations](#evaluations)
 
 ## Professional Development Curriculum Standards
 Note: SIAT = Student is able to
-
-Skip to each competency's standards:
-
-* [Networking](#networking)
-* [Interviewing](#interviewing)
-* Materials
-* Job Search Strategies
-* Negotiations
 
 ### Networking <a name="networking"></a>
 
@@ -53,8 +43,12 @@ Skip to each competency's standards:
 
 ### Interviewing <a name="interviewing"></a>
 
+### Materials <a name="materials"></a>
 
+### Job Search Strategies <a name="job-search-strategies"></a>
 
-## Rubric
+### Negotiations <a name="negotiations"></a>
 
-## Evaluations
+## Rubric <a name="rubric"></a> 
+
+## Evaluations <a name="evaluations"></a>
