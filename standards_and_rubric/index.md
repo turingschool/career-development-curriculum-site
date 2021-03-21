@@ -98,5 +98,8 @@ Students and the career development team will use the following rubric to:
 [Back to Top](#back-to-top)
 
 ## Evaluations <a name="evaluations"></a>
+Students will evaluate themselves according to the standards and rubric at the end of each module through a survey that will also be shared with the Career Development Team so that we know how to support each student's growth. This evaluation will also provide the basis for students' end-of-module portfolio review. 
+
+Instructors will also complete a professional readiness evaluation on how they've seen students perform in regards to professional communication, work with team members, and implementing best practices for software development. This feedback will be shared with students during end-of-module portfolio reviews. 
 
 [Back to Top](#back-to-top)
