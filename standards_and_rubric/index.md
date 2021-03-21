@@ -63,15 +63,32 @@ Defined as a student’s branding materials that showcase their work for employe
 [Back to Top](#back-to-top)
 
 ### Job Search Strategies <a name="job-search-strategies"></a>
+Defined as a student’s understanding of their own goals and creating a set of steps to achieve them.
 
+| Level I (Knowledge, Comprehension) | How it’s measured | Level II (Comprehension, Application) | How it’s measured | Level III (Application, Analysis, Synthesis) | How it’s measured |
+|-|-|-|-|-|-|
+| Learning:<br><br>* Beginner Career Exploration (Identification of career goals in a broad sense)<br><br>Actions:<br><br>* Create initial career roadmap | * SIAT identify work they enjoy doing at Turing and why<br><br>* SIAT describe values they are seeking from a workplace<br><br>* SIAT make connections between personal values based on their identity and values in an ideal workplace | Learning:<br><br>* Intermediate Career Exploration (Drill down into specifics for career goals) <br><br>Actions:<br><br>* Update career roadmap | * SIAT make connections between work they enjoy at Turing and work they would like to pursue as a career<br><br>* SIAT describe at least 1 company/industry they are interested in pursuing<br><br>* SIAT make connections to how their previous experience, strengths, passions, and/or values align to the industries/companies they’ve chosen through research | Learning:<br><br>* Application of Career Exploration findings<br><br>Actions:<br><br>* Analyze companies and postings effectively and apply to career roadmap | * SIAT describe all components of their job search strategy and how they work together <br><br>* SIAT analyze job postings and company websites to identify alignment with interests and skills<br><br>* SIAT describe how opportunities they decide to pursue match their career goals and interests<br><br>* SIAT describe at least 3 companies/industries they are interested in pursuing<br><br>* SIAT create and maintain a job search tracking system  |
 
 [Back to Top](#back-to-top)
 
 ### Negotiations <a name="negotiations"></a>
+Defined as information on software industry market rates for compensation and the resources needed to negotiate for competitive rates.
+
+| Level I (Knowledge, Comprehension) | How it’s measured | Level II (Comprehension, Application) | How it’s measured | Level III (Application, Analysis, Synthesis) | How it’s measured |
+|-|-|-|-|-|-|
+| Learning:<br><br>* Familiar with concept of negotiations<br><br>Actions:<br><br>* Discussion of job offers with mentor<br><br>* Read through Turing outcomes reports  | * SIAT describe the benefits of negotiating job offers<br><br>* SIAT understand aspects of job offers (i.e., base salary, signing bonuses, benefits, equity, etc.)<br><br>* SIAT understand how the wage gap affects them based on their identity<br><br>* SIAT describes how their identity influences their feelings about negotiations  | Learning:<br><br>* Understanding of salary and benefits at tech companies<br><br>* Understanding of laws regarding salary in states/regions seeking employment (i.e., the Colorado Equal Pay Act) <br><br>Actions:<br><br>* Research project into salary and benefits packages at top companies <br><br>* Research into the laws protecting job seekers in salary negotiations | * SIAT understand general salary and job offer expectations at companies of interest<br><br>* SIAT apply understanding of tech job offers to create their own salary goals for their new career using market rates for industry and Turing salaries history<br><br>* SIAT describe what is and isn’t allowed regarding salary information in regions that they are interested in job searching<br><br>* SIAT identify their own blockers in negotiations and strategize solutions | Learning:<br><br>* Strategies for negotiating for market rate salaries based on skillset<br><br>Actions:<br><br>* Apply strategies to real offers they receive | * SIAT discuss effective negotiation strategies<br><br>* SIAT create their own strategy for approaching negotiations in their job offers based on their values, identity, and needs<br><br>* SIAT analyze job offers and utilize negotiating strategies for approaching them |
 
 [Back to Top](#back-to-top)
 
 ## Rubric <a name="rubric"></a> 
+The following rubric is to be used to:
+
+* Determine professional readiness at each level
+* Determine interventions for not meeting expectations
+* Demonstrate at which level a student is performing 
+
+
+
 
 [Back to Top](#back-to-top)
 
