@@ -4,40 +4,40 @@ title: Module 1 Career Development
 ---
 
 ## Overview
-Module 1 Career Development is focused on the **Discovery** phase, which encourages students to focus on answering the questions of "Why am I here? What do I want in this career? What strengths, habits, and abilities do I have to help me get there? What should I develop to help me further?" Students will engage in discovery through weekly workshops, discussions, and optional self-reflection in their career journals.  
+In accordance with our mission, our objective is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
+
+* Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
+* Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
+* Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
+* Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
+* Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
 
 ### Key Learning Goals
 Core Competencies of Module 1:
-* Self-awareness
-* Self-reflection
-* Identify and build an understanding of one's strengths, values, and social identity
-* Identify effective and ineffective habits
-* Creation of a career vision
+* Build self-awareness around strengths and goals
+* Build community through professional development
+* Incorporate your mentor into job search support
+* Establish sense of ownership over your professional development and job search
 
 ### Module 1 Outcomes
-At the end of Module 1, students should have:  
+* Achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing
 
-- [ ] A working career vision statement
+### What This Will Look Like Week-by-Week
 
-In Module 2, they will build on this to create a professional story, professional brand, and working job search strategy.
+* Sessions:
+    * Week 1: 
+    * Week 3:
+* Activities:
+    * Week 2: Networking Activity
+    * Week 4: Follow-up Networking Activity
+* Homeroom Groups
+    * Meet weekly during weeks 1-5
+    * Mix It Up with cross-program and module groups in weeks 2 and 4
 
-### Weekly Topics
+### Weekly Discussion Guidelines & Prompts
 
-* Week 1: [Understanding Your Strengths](/module_one/week_1_understanding_your_strengths)
-* Week 2: [Building Your Compass: Identity, Values, and Goals](/module_one/week_2_building_your_compass)
-* Week 3: [Building Habits to Become a Software Developer](/module_one/week_3_building_habits)
-* Week 4: [Creating Your Career Vision, Part I](/module_one/week_4_career_vision_part_i)
 
-### Career Journal
-Students will have the opportunity to engage in optional self-reflection and ideation in their career journals every week during a module.
 
-**What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
-* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way!
-* **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
-* **Module Expectations.** Career journals are optional to complete. The Career Development team has seen that students who engage in the self-reflection of the journals are often hired more quickly because of the time they invest into creating their job search strategy, but we do not require students to complete journals. Instead, we'll read career journals upon request to provide specific feedback and customized support. 
-
-#### Set Up
-Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 1 set of career journal prompts](/module_one/mod1_career_journal_prompts). For all journal responses, students have the option to submit a video or audio recording instead of a written response. We recommend using YouTube or Vimeo for these recordings and including the links in their journals. If you have any questions on this, please reach out to a member of the Career Dev team. In addition, [here is a template for how you can organize all of your career journal responses](/career_journals/career_journal_template). 
 
 ### Repeating the Module
 For students repeating Module 1, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](/module_one/m1_PD_repeat_plan). The Career Development team will check in with repeating students to provide guidance and answer questions.
