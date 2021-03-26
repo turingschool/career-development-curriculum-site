@@ -12,6 +12,8 @@ In accordance with our mission, our objective is for all Turing students to have
 * Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
 * Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
 
+All of these will be addressed in Module 1 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
+
 ### Key Learning Goals
 Core Competencies of Module 1:
 * Build self-awareness around strengths and goals
