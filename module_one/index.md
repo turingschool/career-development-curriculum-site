@@ -37,6 +37,7 @@ Materials Level I:
    * Headline updated
    * Summary statement
    * Turing added
+  
 *If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
 
 Interviewing Level I:
