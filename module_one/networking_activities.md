@@ -41,10 +41,12 @@ Reach out to a contact from your existing network and ask to set up a call to di
 
 Depending on who you choose to reach out to, your questions will look different. Here are some suggested prompts to get you started:
 * Tell me about your background. How did you get to where you are now?
+* What does your company do? How does your role contribute to that? 
 * What is the number one piece of advice you have for someone like me who is changing careers/starting something new?
-* Is there anyone you could recommend I talk to at your company or in the tech industry at large and why? Would you be able to make an introduction for me? 
-*  
-
+* I'm not sure what industry/companies I'm interested in. Do you have any advice on how I could start to figure that out?
+* I know I'm interested in ______ kind of work. Do you have any advice on how I could learn more about that?
+* How did you figure out where you wanted to start with your first job? How has that influenced your career?
+* Is there anyone you would recommend I talk to at your company or in the tech industry at large? Would you be able to make an introduction for me?  
 
 When to complete this by:
 * As soon as possible but by the end of Week 3 at the latest
@@ -54,18 +56,24 @@ Reach out to someone who works at a company or in an industry that you are inter
 
 * Utilize LinkedIn to find software developers from a company's page. You can decide if you want to reach out to someone who is junior or senior, and keep in mind that questions will be different depending on their level. 
 * Send a LinkedIn message or find their email using resources on [this page](/resources/outreach_networking_resources) to introduce yourself and explain very clearly both what you want to talk to them about and *why* you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
+* Take notes during the conversation
+* Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network.
 
-Suggestions for other junior developers:
+Suggestions for questions to other junior developers:
 * Tell me about your background. How did you get started in the tech industry?
-* 
+* What strategies were successful for you as you applied to this company? 
+* What kind of work do you do day-to-day?
+* How have you approached learning on the job?
+* What advice would you have for me as someone who is interested in this company?
 
-Suggestions for senior developers or hiring managers:
+Suggestions for questions to senior developers or hiring managers:
 * Tell me about your background. How did you get started in the tech industry?
 * At your company, what do you look for in junior developers?
 * What can junior developers do to help themselves stand out? 
 * What do you enjoy about this company/industry?
 * What is the biggest problem facing your company/industry? 
 * How does the software team work with other teams within the company? 
+* What advice would you have for me as someone who is interested in this company?
 
 When to complete this by:
 * As soon as possible but by the end of Week 3 at the latest
@@ -75,6 +83,7 @@ When to complete this by:
 * What constitutes networking? Do I have to talk to someone in person/on a call? A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
 * How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
 * What if my contact is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to network with them once they are free. And in the meantime, try to reach out to a second person to network with (the more people you talk to over the course of your time at Turing, the better!). 
+* Is this the only networking activity we'll be doing? A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
 
 ## Week 4: Follow-Up Networking Activity
 
