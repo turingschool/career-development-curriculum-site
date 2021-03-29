@@ -11,7 +11,7 @@ At this point, you should have already reached out to your mentor to introduce y
 
 * Set up a call with your mentor and let them know you specifically want to talk about their career experience. Provide them with a couple of options for times to talk. 
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
-* Take notes during the conversation
+* Take notes during the conversation. Where should you keep these notes? Your career journal (the gist you submitted in Mod 0) would be a great place to keep track of your job search practices.
 * Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network. 
 
 Suggested questions/discussion prompts:
@@ -36,7 +36,7 @@ Reach out to a contact from your existing network and ask to set up a call to di
 
 * Send a message to this person. If you don't know them personally, take the time to introduce yourself and explain very clearly both what you want to talk to them about and *why* you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
-* Take notes during the conversation
+* Take notes during the conversation. Where should you keep these notes? Your career journal (the gist you submitted in Mod 0) would be a great place to keep track of your job search practices.
 * Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network.
 
 Depending on who you choose to reach out to, your questions will look different. Here are some suggested prompts to get you started:
@@ -56,7 +56,7 @@ Reach out to someone who works at a company or in an industry that you are inter
 
 * Utilize LinkedIn to find software developers from a company's page. You can decide if you want to reach out to someone who is junior or senior, and keep in mind that questions will be different depending on their level. 
 * Send a LinkedIn message or find their email using resources on [this page](/resources/outreach_networking_resources) to introduce yourself and explain very clearly both what you want to talk to them about and *why* you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
-* Take notes during the conversation
+* Take notes during the conversation. Where should you keep these notes? Your career journal (the gist you submitted in Mod 0) would be a great place to keep track of your job search practices.
 * Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network.
 
 Suggestions for questions to other junior developers:
