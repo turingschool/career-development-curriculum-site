@@ -46,7 +46,7 @@ When to complete this by:
 Reach out to someone who works at a company or in an industry that you are interested in. This could be a person who you have a mutual connection with or someone you don't have any connection to yet. Some suggestions about how to approach this:
 
 * Utilize LinkedIn to find software developers from a company's page. You can decide if you want to reach out to someone who is junior or senior, and keep in mind that questions will be different depending on their level. 
-* Send a LinkedIn message or find their email using resources on this page to introduce yourself and ask to set up a call 
+* Send a LinkedIn message or find their email using resources on [this page](/resources/outreach_networking_resources) to introduce yourself and ask to set up a call 
 
 
 
