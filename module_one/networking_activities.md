@@ -74,7 +74,7 @@ When to complete this by:
 
 * What constitutes networking? Do I have to talk to someone in person/on a call? A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
 * How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
-* What if my mentor is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to complete this activity once they are free. Or you could complete the Level II activity with another person in the Turing community. 
+* What if my contact is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to network with them once they are free. And in the meantime, try to reach out to a second person to network with (the more people you talk to over the course of your time at Turing, the better!). 
 
 ## Week 4: Follow-Up Networking Activity
 
