@@ -7,17 +7,37 @@ title: Networking Activities
 There is no session this week! Instead, this week should be used to begin building your network, both within the Turing community and the tech industry. In order to fulfill expectations for this week, choose **one** of the following options to complete:
 
 ### Level I: Network with your Mentor
-At this point, you should have already reached out to your mentor to introduce yourself and have a DTR. You may have already met a few times, but it's likely that those conversations were focused on your technical learning. But you can utilize your mentor for so much more! 
+At this point, you should have already reached out to your mentor to introduce yourself and have a DTR. You may have already met a few times, but it's likely that those conversations were focused on your technical learning. But you can utilize your mentor for so much more! They have been in your shoes and know what it's like to be new to the industry. They are a wealth of knowledge and can provide you with ample advice. To network with your mentor, take the following steps:
 
-Students provided with prompting questions to ask mentor about their jobs, career paths, etc. (community/joy)
+* Set up a call with your mentor and let them know you specifically want to talk about their career experience
+* Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
+* Take notes during the conversation
+* Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network. 
+
+Suggested questsions/discussion prompts:
+
+* Tell me about your background. How did you get started in the tech industry?
+* When you were looking for your first software job, what strategies were successful for you? What strategies were not successful?
+* What is the number one piece of advice you have for someone like me who is just starting out in this career?
+* At your company, what do you look for in junior developers?
+* What can junior developers do to help themselves stand out? 
+* 
 
 When to complete this by:
 * As soon as possible but by the end of Week 3 at the latest
 
 ### Level II: Network with a Contact You Already Know
-Reach out to a contact from your network outside of Turing and ask to set up a call to discuss career advice
+Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Someone in the tech industry (not necessarily a developer), someone who has changed careers before, or someone  This could also be another person in the Turing network but who isn't your mentor -- an alum who is in the same Student Circle as you, for example. Take the following steps to reach out:
 
-; provided with some suggested questions; complete coffee meeting by end of week 3
+* Send a message to this person. If you don't know them personally, take the time to introduce yourself and explain very clearly both what you want to talk to them about and *why* you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? 
+* Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
+* Take notes during the conversation
+* Decide on one takeaway from the conversation that you can 
+
+
+Depending on who you choose to reach out to, your questions will look different. Here are some suggested prompts to get you started:
+
+
 
 When to complete this by:
 * As soon as possible but by the end of Week 3 at the latest
