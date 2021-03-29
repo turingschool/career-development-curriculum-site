@@ -36,9 +36,10 @@ When to complete this by:
 ### FAQs
 
 * What constitutes networking? Do I have to talk to someone in person/on a call? A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
-* How do I go about contacting someone if I don't have their email? A: There are several sites listed here that can help you find 
+* How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
 
 ## Week 4: Follow-Up Networking Activity
 
 
-[Standards: Networking Levels I, II, or III as selected by student](/standards_and_rubric)
+
+**Standards covered in this activity:** [Networking Levels I, II, or III](/standards_and_rubric/index) as selected by the student
