@@ -59,11 +59,11 @@ Interviewing Level I:
     * Week 1: 
     * Week 3:
 * Activities:
-    * Week 2: Networking Activity
-    * Week 4: Follow-up Networking Activity
+    * Weeks 2 & 4: [Complete Networking Activities & Follow-up](/module_one/networking_activities)
 * Homeroom Groups
     * Meet weekly during weeks 1-5
     * Mix It Up with cross-program and module groups in weeks 2 and 4
+    * In Week 5, you will meet with your group to provide feedback on your LinkedIn profiles. This is your main deliverable coming out of Mod 1. 
 
 ### Weekly Discussion Guidelines & Prompts
 
