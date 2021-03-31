@@ -38,7 +38,7 @@ Below are both resources and outlined steps for taking on outreach and networkin
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
-### Networking Groups for Underrepresented People in Tech
+### Networking Groups for Specific Groups
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech.
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
@@ -49,4 +49,6 @@ Below are both resources and outlined steps for taking on outreach and networkin
 * [Out in Tech](https://outintech.com/#welcome) is a community to connect LGBTQ+ in tech.
 * [TechLatino](http://techlatino.org/) is an organization to empower Latino technological and scientific engagement.
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
+* [The Mom Project](https://themomproject.com/) is a community and job board that connects moms with companies that value and respect families and parents.
 * [Trans Tech Social Enterprises](https://www.transtechsocial.org/) is an incubator for LGBTQ Talent with a focus on economically empowering transgender people.
+* [Women in Web Dev](https://womeninwebdev.com/) is a community of women developers. 
