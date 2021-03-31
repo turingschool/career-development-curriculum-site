@@ -65,6 +65,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Incluzion](https://incluzion.co/) is a community of Black and Latinx professionals working remotely and flexibly. They also operate as a connector between companies and diverse talent. 
 * [Jopwell](https://www.jopwell.com) is a community built specifically to advance careers for Black, Latinx, and Native American students and professionals. They post jobs as well as information on events and career advice. 
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
+* [Black Career Network](https://www.blackcareernetwork.com/) connects Black professionals with job opportunities. 
 
 ### Search by...job listings
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
