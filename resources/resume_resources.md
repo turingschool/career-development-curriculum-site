@@ -9,6 +9,9 @@ title: Resume Resources
 * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
 * [Use JobScan to upload your resume and a job posting to see how it compares](https://www.jobscan.co/)
 
+## How to Get Started
+Start with a Google Doc or Word doc to get all your information organized and use as your main copy. Then start to dive into the different templates below to think about how you could display this visually and create customized resumes for each job application. Note: it's best to display your information in 1 coulmns (rather than 2 columns) for ATS systems. 
+
 ## Resume Templates
 
 * [Free Resume Templates from JobScan](https://www.jobscan.co/resume-templates)
