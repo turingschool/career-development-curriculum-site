@@ -3,7 +3,6 @@ layout: page
 title: Career Development Resources
 ---
 
-# Career Development Resources
 Below are a list of additional resources to help you with your career development and job search.
 
 ### Storytelling & Branding Resources
