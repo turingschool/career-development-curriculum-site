@@ -71,4 +71,4 @@ Interviewing Level I:
 
 
 ### Repeating the Module
-For students repeating Module 1, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](/module_one/m1_PD_repeat_plan). The Career Development team will check in with repeating students to provide guidance and answer questions.
+For students repeating Module 1, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 3, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
