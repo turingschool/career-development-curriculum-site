@@ -4,44 +4,70 @@ title: Module 2 Career Development
 ---
 
 ## Overview
-Module 2 Career Development is focused on **building on one's initial career vision** established in Module 1, which asks students to focus on building their professional story and brand through tools like LinkedIn, create initial strategies for the job search based on their vision, and begin networking in order to learn more about this career and expand their idea of what they want it to be. Students will engage in activities to build on their initial career visions through weekly workshops, discussions, and optional self-reflection in their career journals.  
+In accordance with our mission, our objective is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
+
+* Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
+* Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
+* Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
+* Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
+* Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
+
+All of these will be addressed in Module 2 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
 
 ### Key Learning Goals
 Core Competencies of Module 2:
-* Self-awareness shown through ability to express one's strengths, values, and professional goals
-* Build on effective habits
-* Decrease ineffective habits
-* Create and follow through on effective job search strategies
-* Best practices for building one's professional network
+* Build community through professional development
+* 
 
 ### Module 2 Outcomes
-At the end of Module 2, students should have:  
+By the end of Module 2, we aim for students to achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing.
 
-- [ ] A professional story draft that articulates their career vision
-- [ ] LinkedIn profile updated and reviewed by a member of the Career Development team
-- [ ] Conducted outreach with at least 1 contact for career research purposes
-- [ ] Participated in the What's a Dev experience
+(Note: SIAT = Student is able to)
 
-In Module 3, they will expand on this learning by focusing on executing their strategies.
+Networking Level I:
+* SIAT describe their own needs in regards to their identity and networking
+* SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
+* SIAT ask mentors questions about their jobs and career paths
+* SIAT discuss career goals with mentor in at least two conversations
 
-### Weekly Topics
+Materials Level I:
+* SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in LinkedIn
+* SIAT create a LinkedIn profile that includes:
+   * Professional-looking headshot
+   * Headline updated
+   * Summary statement
+   * Turing added
+  
+*If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
 
-* Week 1: [Building Habits to Become a Software Developer, Part II](/module_two/week_1_habits_part_ii)
-* Week 2: [Professional Storytelling & Branding](/module_two/week_2_professional_storytelling_branding)
-* Week 3: [Job Search Strategies](/module_two/week_3_job_search_strategies)
-* Week 4: [Building Habits to Become a Software Developer, Part III](/module_two/week_4_habits_part_iii)
-* Week 5: [Outreach & Networking I](/module_two/week_5_outreach_networking_i)
+Interviewing Level I:
+* SIAT describe how their identity influences their career goals
+* SIAT describe their strengths as they see them in previous careers/experiences and in current work at Turing
+* SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
+* SIAT reflect on and describe their approach to problem-solving in technical assessments
 
-### Career Journal
-Students will engage in self-reflection and ideation in their career journals every week during a module.
+#### Deliverables to be completed by end of Module 2
+* Resume draft reviewed by peers in week 5
+* Students complete end of mod self-evaluation survey for CD team to assess support needs
+* Portfolio review that includes self-evaluation
 
-**What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
-* **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way!
-* **Ongoing progress checks.** Throughout each module, you'll respond to the other prompts and update your progress in your document during professional development workshops and set aside work time.
-* **Module Expectations.** Career journals are optional to complete. The Career Development team has seen that students who engage in the self-reflection of the journals are often hired more quickly because of the time they invest into creating their job search strategy, but we do not require students to complete journals. Instead, we'll read career journals upon request to provide specific feedback and customized support. 
+### What This Will Look Like Week-by-Week
 
-#### Set Up
-Students will create their career journals in Mod 0 and submit them as part of their career development prework. [Here is the Module 2 set of career journal prompts](/module_two/mod2_career_journal_prompts). For all journal responses, students have the option to submit a video or audio recording instead of a written response. We recommend using YouTube or Vimeo for these recordings and including the links in their journals. If you have any questions on this, please reach out to a member of the Career Dev team. In addition, [here is a template for how you can organize all of your career journal responses](/career_journals/career_journal_template). 
+* Sessions:
+    * Week 1: 
+    * Week 2:
+    * Week 3:
+    * Week 4:
+* Activities:
+    * Week 4: What's a Dev?
+* Homeroom Groups
+    * Meet weekly during weeks 1-5
+    * Mix It Up with cross-program and module groups in weeks 2 and 4
+    * In Week 5, you will meet with your group to provide feedback on your resume drafts. This is your main PD deliverable from Mod 2. 
+
+### Weekly Discussion Guidelines & Prompts
+
+
 
 ### Repeating the Module
-For students repeating Module 2, they are not required to attend workshops again unless they would like to. They should continue to further their career development goals throughout the module, [following these guidelines and prompts for their career journals](/module_two/m2_pd_repeat_plan). The Career Development team will check in with repeating students to provide guidance and answer questions.
+For students repeating Module 2, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 3, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
