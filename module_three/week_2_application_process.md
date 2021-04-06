@@ -3,21 +3,16 @@ layout: page
 title: The Application Process
 ---
 
-[Slides from the session](https://docs.google.com/presentation/d/1X54FfmWCyoQ6y0e2ma0ZkfIMsJ8PotDqyKrKBCRm7e8/edit?usp=sharing)
-
 ### Learning Goals
-* Reconnect your job search strategy to your career vision
-* Share your professional story
-* Analyze a job posting in order to understand how approach a cover letter for it
+* Continue making connections between career roadmap and job search strategy
 * Understand and apply best practices for writing cover letters
-
-### [This Week's Career Journal](/module_three/mod3_career_journal_prompts#week-2)
-* Find a position to write a cover letter for
-* Participate in peer review on cover letter
-* Consider how to customize your resume for the position
+* Evaluate different cover letters
+* Analyze a job posting in order to understand how approach a cover letter for it
 
 ### Overview
-Last mod, we discussed [lots of tools for building your job search strategy](/module_two/week_3_job_search_strategies), such as searching by:
+How do you find job opportunities?
+
+Try searching by:
 
 * Specific companies
 * Culture
@@ -28,11 +23,11 @@ Last mod, we discussed [lots of tools for building your job search strategy](/mo
 
 You can find all this information synthesized here in the [Resources page on Finding Opportunities](/resources/finding_opportunities).
 
-We also looked at this chart to understand the components of the job search process:
+And consider all the components of the job search process:
 
 ![Job Search Strategy Chart](/images/Job%20Search%20Strategy%20Chart.png)
 
-Today, we're going to spend more time diving into the 4th step on what goes into the actual application.
+Let's look at the 4th step on what goes into the actual application.
 
 ### Application Process
 The actual application refers to 3 things:
@@ -105,4 +100,4 @@ Look through the cover letters of alumni listed here and consider:
 * What could be changed to make the letter more effective?
 
 ### Synthesis
-As you work on your cover letter this week, here are [additional resources](/resources/cover_letter_resources) to help you. 
+Work on a cover letter for a job you find that aligns with your [Career Roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and share it with your Homeroom group for feedbac. Here are [additional resources](/resources/cover_letter_resources) to help you. 
