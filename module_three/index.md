@@ -57,8 +57,8 @@ Interviewing Level I:
 
 * Sessions:
     * Week 1: 
-    * Week 2:
-    * Week 3:
+    * Week 2: 
+    * Week 3: [The Application Process](/module_three/application_process_session)
 * Activities:
     * Week 4: Job Shadow
     * Week 4: Mock Interviews
