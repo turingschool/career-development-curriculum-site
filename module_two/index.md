@@ -16,35 +16,34 @@ All of these will be addressed in Module 2 through a [scaffolded approach](https
 
 ### Key Learning Goals
 Core Competencies of Module 2:
-* Build community through professional development
-* 
+* Continue building community through professional development
+* Gain clarity on personal career goals
+* Continue utilizing mentor for job search support
+* Customize strategies for job search
+
+
+achieve Levels I and II readiness in Job Search Strategies and Negotiations and achieve Level II readiness in Networking, Materials, and Interviewing
+
 
 ### Module 2 Outcomes
-By the end of Module 2, we aim for students to achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing.
+By the end of Module 2, we aim for students to achieve [Levels I and II readiness](/standards_and_rubric/index) in Job Search Strategies and Negotiations and achieve Level II readiness in Networking, Materials, and Interviewing.
 
 (Note: SIAT = Student is able to)
 
-Networking Level I:
-* SIAT describe their own needs in regards to their identity and networking
-* SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
-* SIAT ask mentors questions about their jobs and career paths
-* SIAT discuss career goals with mentor in at least two conversations
+Networking Level II:
+* SIAT 
 
-Materials Level I:
-* SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in LinkedIn
-* SIAT create a LinkedIn profile that includes:
-   * Professional-looking headshot
-   * Headline updated
-   * Summary statement
-   * Turing added
-  
-*If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
+Materials Level II:
+* SIAT
 
-Interviewing Level I:
-* SIAT describe how their identity influences their career goals
-* SIAT describe their strengths as they see them in previous careers/experiences and in current work at Turing
-* SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
-* SIAT reflect on and describe their approach to problem-solving in technical assessments
+Interviewing Level II:
+* SIAT 
+
+Job Search Strategies Level I:
+* SIAT
+
+Negotiations Level I:
+* SIAT
 
 #### Deliverables to be completed by end of Module 2
 * Resume draft reviewed by peers in week 5
