@@ -68,6 +68,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Black Career Network](https://www.blackcareernetwork.com/) connects Black professionals with job opportunities. 
 
 ### Search by...job listings
+* Turing's Terminal Job Board postings in #job-hunt on Slack
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
 * [Link Up](https://www.linkup.com/job-seekers/) - an index of employer websites with job listings in order to avoid duplicates.
 * [GitHub’s Job Board](https://jobs.github.com/)
