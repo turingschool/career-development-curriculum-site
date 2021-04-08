@@ -27,3 +27,7 @@ title: Negotiations Resources
 * [Tips for Negotiating as a Black Woman](https://www.cnbc.com/2020/03/31/what-its-like-to-negotiate-salary-as-a-black-woman-equal-pay-day.html)
 * [Multiple Articles on Approaching Negotiations](https://www.themuse.com/advice/8-important-articles-to-read-before-you-start-negotiating-your-salary)
 * [The Salary Chronicles](https://www.forbes.com/sites/ericagellerman/?sh=5a0ea83913dd)
+
+### When You Get an Offer
+
+* [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
