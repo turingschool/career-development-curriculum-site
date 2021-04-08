@@ -59,7 +59,8 @@ Interviewing Level I:
     * Week 1: 
     * Week 3:
 * Activities:
-    * Weeks 2 & 4: [Complete Networking Activities & Follow-up](/module_one/networking_activities)
+    * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
+    * Week 4: [Complete a Follow-Up Networking Activity](/module_one/week_4_networking_activity)
 * Homeroom Groups
     * Meet weekly during weeks 1-5
     * Mix It Up with cross-program and module groups in weeks 2 and 4
