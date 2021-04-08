@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Networking Activities
+title: Networking Activity - Week 2
 ---
 
-## Week 2: Intro Networking Activity
+## Intro Networking Activity
 There is no session this week! Instead, this week should be used to begin building your network, both within the Turing community and the tech industry. In order to fulfill expectations for this week, choose **one** of the following options to complete:
 
 ### Level I: Network with your Mentor
@@ -84,9 +84,5 @@ When to complete this by:
 * How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
 * What if my contact is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to network with them once they are free. And in the meantime, try to reach out to a second person to network with (the more people you talk to over the course of your time at Turing, the better!). 
 * Is this the only networking activity we'll be doing? A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
-
-## Week 4: Follow-Up Networking Activity
-
-
 
 **Standards covered in this activity:** [Networking Levels I, II, or III](/standards_and_rubric/index) as selected by the student
