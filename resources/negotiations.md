@@ -16,7 +16,7 @@ title: Negotiations Resources
 
 * [This post describes both the breakdown of common tech salaries & tips for negotiating](https://candor.co/guides/salary-negotiation)
 * [How to Negotiate Tech Job Offers](https://www.breakinto.tech/how-to-negotiate-salary-and-tech-job-offers)
-* [Negotiating the First Job Offer after a Coding Bootcamp](https://derzorngottes.com/2020/02/23/negotiating-offer-first-coding-job/)
+* [Negotiating the First Job Offer after Coding Bootcamp](https://derzorngottes.com/2020/02/23/negotiating-offer-first-coding-job/)
 * [Discussing Salary at any step of the Hiring Process](https://www.themuse.com/advice/salary-negotiations-hiring-process)
 * [What to Consider Before Negotiating](https://www.themuse.com/advice/6-things-you-need-to-figure-out-before-you-negotiate-salary)
 * [4 Things to Keep in Mind when Approaching Negotiations](https://www.themuse.com/advice/4-secrets-to-negotiating-a-salary-that-will-make-your-bank-account-smile)
