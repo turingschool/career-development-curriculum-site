@@ -38,6 +38,9 @@ Below are both resources and outlined steps for taking on outreach and networkin
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
+### Join Communities
+* [Here's a list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
+
 ### Networking Groups for Specific Groups
 * [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech.
