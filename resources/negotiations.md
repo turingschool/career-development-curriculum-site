@@ -11,6 +11,7 @@ title: Negotiations Resources
 * [Payscale](https://www.payscale.com/)
 * [81cents](https://www.81cents.com/)
 * [Stack Overflow Salary Calculator](https://stackoverflow.com/jobs/salary)
+* [Levels.fyi](https://www.levels.fyi/comp.html?track=Software%20Engineer) lets you search by company, location, and position level to see market value for salaries.
 
 ### Understanding the Breakdown of Tech Salaries & Defining Strategies
 
