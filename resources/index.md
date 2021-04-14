@@ -17,7 +17,6 @@ Below are a list of additional resources to help you with your career developmen
 
 ### Outreach & Networking Resources
 * [Outreach & Networking Resources](/resources/outreach_networking_resources)
-* [Listing of Slack tech communities by region and tech interest](https://github.com/ladyleet/tech-community-slacks)
 
 ### Interview Prep Resources
 * [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
