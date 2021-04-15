@@ -12,6 +12,12 @@ With your group, we recommend setting norms for your group. These could include:
 * How to hold each other accountable
 * If and how you will communicate outside of Wednesday group time. We encourage groups to form Slack channels if they would like!
 
+Skip down to:
+* [Week 2](#week-2)
+* [Week 3](#week-3)
+* [Week 4](#week-4)
+* [Week 5](#week-5)
+
 ### Week 1 Prompts & Structure (60 mins)
 1. Set norms for how you want to work together (15 mins)
 2. Choose from the following discussion questions on strengths that the group would like to discuss. Choose several or just a few and share your thoughts (20-30 mins):
@@ -26,7 +32,7 @@ With your group, we recommend setting norms for your group. These could include:
 
 3. Write out action steps you can take to develop awareness of your strengths and any challenges (recommended: use your career journal that you started in Mod 0 to record your reflections). How could you be aware of the progress you are making? (10-15 min)
 
-### Week 2 Prompts & Structure (30 mins)
+### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
 2. Your activity for the week is to [work on networking](/module_one/week_2_networking_activity). Discuss your progress on the activity (25 mins):
 
@@ -35,10 +41,10 @@ With your group, we recommend setting norms for your group. These could include:
 * If you haven’t had the call yet, when are you planning to set it up? Could you use support from this group to send the message to your contact?
 * How do you feel about networking in general? What do you think it will take for you to build your network while you’re at Turing? What kind of support do you need in this area? How can this group provide that support for each other?  
 
-### Week 3 Prompts & Structure (60 mins)
+### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
  
-### Week 4 Prompts & Structure (30 mins)
+### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
   
-### Week 5 Prompts & Structure (60 mins)
+### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 
 
