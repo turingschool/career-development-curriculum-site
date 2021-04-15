@@ -61,7 +61,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 * Activities:
     * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
     * Week 4: [Complete a Follow-Up Networking Activity](/module_one/week_4_networking_activity)
-    * Week 5: [Workshop LinkedIn profiles] -- Coming soon
+    * Week 5: [LinkedIn Profile Workshop] -- Coming soon
 * Weekly student discussion groups (see below!)
 
 ### Weekly Opportunities for Cohort & Community Collaboration
