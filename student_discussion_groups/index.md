@@ -12,10 +12,10 @@ Our data shows that when cohorts collaborate together and support each other, th
 ### What will we talk about?
 There will be prompts and activities shared with you each week with instructions on how to structure the hour. But there will also be space for you to make it your own! Again, these groups are meant to be yours -- help each other, ask each other questions, give each other feedback, share resources. It’s difficult to find time to work on your PD and job search while at Turing -- this is time provided to you for that purpose. Use it wisely!
 
-* [Module 1 Homeroom Groups](
-* [Module 2 Homeroom Groups]( 
-* [Module 3 Homeroom Groups](
-* [Module 4 Homeroom Groups](
+* [Module 1 Homeroom](/student_discussion_groups/mod1_homeroom_discussion_prompts)
+* [Module 2 Homeroom]( 
+* [Module 3 Homeroom](
+* [Module 4 Homeroom](
 
 ### How will we come together?
 There is a calendar event for these groups every Wednesday on your module SLC Zoom account. When you join the zoom link, an SLC rep will open up breakout rooms that you can self-select into. You should move into the breakout room that corresponds to the group number you’re in. For example, if you’re in Group #3, go to Breakout Room #3. 
