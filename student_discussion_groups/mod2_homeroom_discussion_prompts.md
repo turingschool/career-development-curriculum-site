@@ -51,28 +51,27 @@ Skip down to:
 4. Discuss (15 mins):
   * What resource did you look at? What is helpful about it?
   * Technical interviews have a lot of similarities to assessments and evaluations you complete at Turing. Think back to your most recent assessment. What did you do well when it came to talking through your thought process? What do you want to improve on in this area? How could this group support you with that?
-When you don’t know how to answer a technical question in an interview, what can you do?
-What do you think are the 3 most important things an employer would want to know about a Turing graduate? How should you make sure to communicate that in an interview?
-(10 mins) In your career journal gist (or anywhere you will remember to look at this again), write down all the projects you’ve worked on so far. 
-Write 1 sentence describing the objective of the project
-Write down 3 high points of the project (did you successfully incorporate a new piece of learning? When did you/your team persevere through a challenge? What are you proud of with this project?)
-Write down 3 challenges you encountered in the project (what mistakes did you make? What did you learn from those experiences?)
-(10 mins) Close out the discussion:
-Share what you wrote about with your projects
-Revisit the concerns you wrote down at the beginning of the discussion today. Did you gain clarity on any of them? What are you still concerned about?
-
+  * When you don’t know how to answer a technical question in an interview, what can you do?
+  * What do you think are the 3 most important things an employer would want to know about a Turing graduate? How should you make sure to communicate that in an interview?
+5. In your career journal gist (or anywhere you will remember to look at this again), write down all the projects you’ve worked on so far (10 mins). 
+  * Write 1 sentence describing the objective of the project
+  * Write down 3 high points of the project (did you successfully incorporate a new piece of learning? When did you/your team persevere through a challenge? What are you proud of with this project?)
+  * Write down 3 challenges you encountered in the project (what mistakes did you make? What did you learn from those experiences?)
+6. Close out the discussion (10 mins):
+  * Share what you wrote about with your projects
+  * Revisit the concerns you wrote down at the beginning of the discussion today. Did you gain clarity on any of them? What are you still concerned about?
 
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
-1. Take 10 minutes to work on your [networking tracker from this week’s activity](/module_one/week_4_networking_activity)
-2. Share (10 mins):
-  * What have you learned so far about your current network?
-  * Have you communicated with people you know about your new career in software development? How did you let them know?
-  * Networking is just another word for building relationships. What are all the ways you’re currently building relationships at Turing? How could you turn to these relationships for support while at Turing? How could you turn to these relationships for support in your job search? 
-3. Prep for Mix It Up groups by sharing (5 mins):
-* What group are you in today?
-* What would you like to learn today? 
-* How will you contribute to the conversation?
-4. Take a 5-min pom and then join the zoom link in your Slack group for your Mix It Up group!
+1. Revisit your norms (5 mins)
+2. Coming out of the session on Job Search Strategies yesterday, share (10 mins):
+  * What were your key takeaways? 
+  * What has your job search strategy looked like in the past? How does it compare to what you learned in the session? 
+  * What changes should you make to build an effective job search strategy for your first software job?
+3. Take 10 mins to go through [these resources](/resources/finding_opportunities) on your own and start on your copy of the [Job Search Process sheet](https://docs.google.com/document/d/1B39ViRamGHNVLzelnlEIhzLWNwsrPvf1J8MjtxDKgsc/edit?usp=sharing) (10 mins).
+4. Share with each other (10 mins):
+  * What resource did you use? What did you learn?
+  * What kinds of jobs/companies will you target?
+  * How can you support each other with these goals? How will you hold each other accountable to the strategy steps?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 
