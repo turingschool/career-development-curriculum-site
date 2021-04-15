@@ -22,14 +22,13 @@ Skip down to:
 1. Set norms for how you want to work together (15 mins)
 2. Choose from the following discussion questions on strengths that the group would like to discuss. Choose several or just a few and share your thoughts (20-30 mins):
 
-* What would it take for you to build more awareness of your strengths?
-* What would you like to focus on in your professional development at Turing?
-* What can make it challenging to recognize your strengths? How can you work through those challenges?
-* Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
-* What can make it challenging to recognize your strengths? How can you work through those challenges?
-* Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
-* Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?
-
+  * What would it take for you to build more awareness of your strengths?
+  * What would you like to focus on in your professional development at Turing?
+  * What can make it challenging to recognize your strengths? How can you work through those challenges?
+  * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
+  * What can make it challenging to recognize your strengths? How can you work through those challenges?
+  * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
+  * Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?
 3. Write out action steps you can take to develop awareness of your strengths and any challenges (recommended: use your career journal that you started in Mod 0 to record your reflections). How could you be aware of the progress you are making? (10-15 min)
 
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
@@ -54,13 +53,13 @@ Skip down to:
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
 1. Take 10 minutes to work on your [networking tracker from this week’s activity](/module_one/week_4_networking_activity)
 2. Share (10 mins):
-* What have you learned so far about your current network?
-* Have you communicated with people you know about your new career in software development? How did you let them know?
-* Networking is just another word for building relationships. What are all the ways you’re currently building relationships at Turing? How could you turn to these relationships for support while at Turing? How could you turn to these relationships for support in your job search? 
+  * What have you learned so far about your current network?
+  * Have you communicated with people you know about your new career in software development? How did you let them know?
+  * Networking is just another word for building relationships. What are all the ways you’re currently building relationships at Turing? How could you turn to these relationships for support while at Turing? How could you turn to these relationships for support in your job search? 
 3. Prep for Mix It Up groups by sharing (5 mins):
-* What group are you in today?
-* What would you like to learn today? 
-* How will you contribute to the conversation?
+  * What group are you in today?
+  * What would you like to learn today? 
+  * How will you contribute to the conversation?
 4. Take a 5-min pom and then join the zoom link in your Slack group for your Mix It Up group!
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
