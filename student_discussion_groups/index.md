@@ -13,7 +13,7 @@ Our data shows that when cohorts collaborate together and support each other, th
 There will be prompts and activities shared with you each week with instructions on how to structure the hour. But there will also be space for you to make it your own! Again, these groups are meant to be yours -- help each other, ask each other questions, give each other feedback, share resources. It’s difficult to find time to work on your PD and job search while at Turing -- this is time provided to you for that purpose. Use it wisely!
 
 * [Module 1 Homeroom](/student_discussion_groups/mod1_homeroom_discussion_prompts)
-* [Module 2 Homeroom]( 
+* [Module 2 Homeroom](/student_discussion_groups/mod2_homeroom_discussion_prompts) 
 * [Module 3 Homeroom](
 * [Module 4 Homeroom](
 
