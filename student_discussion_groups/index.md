@@ -14,7 +14,7 @@ There will be prompts and activities shared with you each week with instructions
 
 * [Module 1 Homeroom](/student_discussion_groups/mod1_homeroom_discussion_prompts)
 * [Module 2 Homeroom](/student_discussion_groups/mod2_homeroom_discussion_prompts) 
-* [Module 3 Homeroom](
+* [Module 3 Homeroom](/student_discussion_groups/mod3_homeroom_discussion_prompts)
 * [Module 4 Homeroom](
 
 ### How will we come together?
