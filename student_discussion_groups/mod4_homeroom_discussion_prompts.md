@@ -30,6 +30,7 @@ Skip down to:
   * What are some goals that you hope to achieve as it relates to your job search in the next 6 weeks? Please try to come up with one of each type of goal below (However, more are encouraged):
     * Stretch Goal (Might be something outside of your control)
     * Achievable Goal (Think of a goal within your control) 
+
 Share:
   * What will get you to your goal? 
   * What can you do each week to achieve your goal? (add steps to your calendar)
