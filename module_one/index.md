@@ -26,13 +26,13 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 
 (Note: SIAT = Student is able to)
 
-Networking Level I:
+**Networking Level I:**
 * SIAT describe their own needs in regards to their identity and networking
 * SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
 * SIAT ask mentors questions about their jobs and career paths
 * SIAT discuss career goals with mentor in at least two conversations
 
-Materials Level I:
+**Materials Level I:**
 * SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in LinkedIn
 * SIAT create a LinkedIn profile that includes:
    * Professional-looking headshot
@@ -42,7 +42,7 @@ Materials Level I:
   
 *If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
 
-Interviewing Level I:
+**Interviewing Level I:**
 * SIAT describe how their identity influences their career goals
 * SIAT describe their strengths as they see them in previous careers/experiences and in current work at Turing
 * SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
@@ -56,17 +56,24 @@ Interviewing Level I:
 ### What This Will Look Like Week-by-Week
 
 * Sessions:
-    * Week 1: 
-    * Week 3:
+    * Week 1: [Understanding Your Developer Identity] -- Coming soon
+    * Week 3: [Storytelling & Branding] -- Coming soon
 * Activities:
     * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
     * Week 4: [Complete a Follow-Up Networking Activity](/module_one/week_4_networking_activity)
-* Homeroom Groups
-    * Meet weekly during weeks 1-5
+    * Week 5: [Workshop LinkedIn profiles](
+* Weekly student discussion groups (see below!)
+
+### Weekly Opportunities for Cohort & Community Collaboration
+Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index). Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
+
+* [Mod 1 Homeroom Group Information](
+* 
+
+
+Meet weekly during weeks 1-5
     * Mix It Up with cross-program and module groups in weeks 2 and 4
     * In Week 5, you will meet with your group to provide feedback on your LinkedIn profiles. This is your main deliverable coming out of Mod 1. 
-
-### Weekly Discussion Guidelines & Prompts
 
 
 
