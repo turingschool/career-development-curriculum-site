@@ -35,13 +35,29 @@ Skip down to:
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
 2. Discuss (20 mins):
-  * What are some questions you might have for a developer?
-  * Draft some networking messages and share them with each other for feedback
-  * Send your messages! 
-  * Brainstorm on other ways to connect with alumni and developers
+  * What are some ways that you have been networking currently? 
+  * What parts of your personal network have you not yet explored? 
+  * What are your networking goals for the remainder of this inning? 
 3. Take a 5-min pom before Mix It Up!
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
+1. Revisit norms (5 mins) 
+2. Review your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and share (15 mins):
+  * What industries are you interested in? What do you already know about those industries? What do you still want to learn?
+  * Take 5 minutes to update your career roadmap
+3. Research time (20 mins):
+  * Using these [resources](/resources/finding_opportunities) + your roadmap, find a job you would like to apply to.
+4. Share what you found and discuss why it’s a good fit for you (20 mins):
+  * Why are you interested in this job? 
+  * What else do you need to learn to know if it’s a good job for you to apply to?
+     * Examples: learn about the company’s culture 
+     * The best way to do that is through networking; how will you approach networking for this position?
+  * Identify one next step you will take for this job:
+     * Add this job to Huntr
+     * Reach out to someone at the company
+     * Update your resume for this position
+
+### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
 1. Revisit norms (5 mins) 
 2. Your session this week is on interviewing, so let’s talk about interview prep and skills! Each person share (10 mins):
   * In previous interviews, what have you done well?
@@ -60,18 +76,6 @@ Skip down to:
 6. Close out the discussion (10 mins):
   * Share what you wrote about with your projects
   * Revisit the concerns you wrote down at the beginning of the discussion today. Did you gain clarity on any of them? What are you still concerned about?
-
-### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
-1. Revisit your norms (5 mins)
-2. Coming out of the session on Job Search Strategies yesterday, share (10 mins):
-  * What were your key takeaways? 
-  * What has your job search strategy looked like in the past? How does it compare to what you learned in the session? 
-  * What changes should you make to build an effective job search strategy for your first software job?
-3. Take 10 mins to go through [these resources](/resources/finding_opportunities) on your own and start on your copy of the [Job Search Process sheet](https://docs.google.com/document/d/1B39ViRamGHNVLzelnlEIhzLWNwsrPvf1J8MjtxDKgsc/edit?usp=sharing) (10 mins).
-4. Share with each other (10 mins):
-  * What resource did you use? What did you learn?
-  * What kinds of jobs/companies will you target?
-  * How can you support each other with these goals? How will you hold each other accountable to the strategy steps?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 
