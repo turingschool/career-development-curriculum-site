@@ -77,10 +77,5 @@ Every Wednesday afternoon, you'll meet with other students to discuss and collab
 * [Mod 3 Homeroom Group Information](/student_discussion_groups/mod3_homeroom_discussion_prompts)
 * [Mix It Up Information](/mixed_groups)
 
-* Homeroom Groups
-    * Meet weekly during weeks 1-5
-    * Mix It Up with cross-program and module groups in weeks 2 and 4
-    * In Week 5, you will meet with your group to provide feedback on your resumes and cover letters. 
-
 ### Repeating the Module
 For students repeating Module 3, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 3, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
