@@ -61,22 +61,14 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 * Activities:
     * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
     * Week 4: [Complete a Follow-Up Networking Activity](/module_one/week_4_networking_activity)
-    * Week 5: [Workshop LinkedIn profiles](
+    * Week 5: [Workshop LinkedIn profiles] -- Coming soon
 * Weekly student discussion groups (see below!)
 
 ### Weekly Opportunities for Cohort & Community Collaboration
-Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index). Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
+Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
 
-* [Mod 1 Homeroom Group Information](
-* 
-
-
-Meet weekly during weeks 1-5
-    * Mix It Up with cross-program and module groups in weeks 2 and 4
-    * In Week 5, you will meet with your group to provide feedback on your LinkedIn profiles. This is your main deliverable coming out of Mod 1. 
-
-
-
+* [Mod 1 Homeroom Group Information](/student_discussion_groups/mod1_homeroom_discussion_prompts)
+* [Mix It Up Information](/mixed_groups)
 
 ### Repeating the Module
 For students repeating Module 1, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 1, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
