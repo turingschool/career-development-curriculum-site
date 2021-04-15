@@ -20,43 +20,54 @@ Skip down to:
 
 ### Week 1 Prompts & Structure (60 mins)
 1. Revisit norms for how your group wants to work together (15 mins):
-* What was helpful last mod?
-* What do you want to keep doing?
-* What do you want to stop doing?
-* What new ways do you want to collaborate with each other?
+  * What was helpful last mod?
+  * What do you want to keep doing?
+  * What do you want to stop doing?
+  * What new ways do you want to collaborate with each other?
 
 2. Work on filling out the career roadmap to the best of your ability (make a copy) (15-20 mins)
 3. Take turns sharing your takeaways from the career roadmap (15-20 mins)
 4. As a group discuss: (10-15 mins)
-* Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
-* What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
-* What questions or concerns do you have about building your tech resume? Surface them with the group here and then bring them with you to the session tomorrow!
+  * Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
+  * What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
+  * What questions or concerns do you have about building your tech resume? Surface them with the group here and then bring them with you to the session tomorrow!
 
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
-2. Your activity for the week is to [work on networking](/module_one/week_2_networking_activity). Discuss your progress on the activity (25 mins):
-
-* Have you had your networking call for this week yet? 
-* If so, what did you discuss with your contact and what were your main takeaways? 
-* If you haven’t had the call yet, when are you planning to set it up? Could you use support from this group to send the message to your contact?
-* How do you feel about networking in general? What do you think it will take for you to build your network while you’re at Turing? What kind of support do you need in this area? How can this group provide that support for each other?  
+2. Discuss (20 mins):
+  * What are some questions you might have for a developer?
+  * Draft some networking messages and share them with each other for feedback
+  * Send your messages! 
+  * Brainstorm on other ways to connect with alumni and developers
+3. Take a 5-min pom before Mix It Up!
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
-1. Revisit norms (5 mins)
-2. Start off by discussing (10 mins)
-   * How is your career story coming along? 
-   * Are you stuck on any particular part that you would like to discuss? 
-   * What parts do you feel really good about? 
-3. [Look through the guidelines for LinkedIn here](/resources/branding_resources) and update your profile (15-20 mins)
-4. Share your LinkedIn profiles with each other and provide feedback for one another (15-20 mins)
-5. Update your LinkedIn based on that feedback (10-15 mins)
+1. Revisit norms (5 mins) 
+2. Your session this week is on interviewing, so let’s talk about interview prep and skills! Each person share (10 mins):
+  * In previous interviews, what have you done well?
+  * In previous interviews, what has been challenging for you?
+  * What are your biggest concerns regarding interviews in the software industry? Write down some of these to discuss in tomorrow’s session
+3. [Spend 10 minutes reading through and bookmarking some of the resources here](/resources/interview_prep_resources) (10 mins):
+4. Discuss (15 mins):
+  * What resource did you look at? What is helpful about it?
+  * Technical interviews have a lot of similarities to assessments and evaluations you complete at Turing. Think back to your most recent assessment. What did you do well when it came to talking through your thought process? What do you want to improve on in this area? How could this group support you with that?
+When you don’t know how to answer a technical question in an interview, what can you do?
+What do you think are the 3 most important things an employer would want to know about a Turing graduate? How should you make sure to communicate that in an interview?
+(10 mins) In your career journal gist (or anywhere you will remember to look at this again), write down all the projects you’ve worked on so far. 
+Write 1 sentence describing the objective of the project
+Write down 3 high points of the project (did you successfully incorporate a new piece of learning? When did you/your team persevere through a challenge? What are you proud of with this project?)
+Write down 3 challenges you encountered in the project (what mistakes did you make? What did you learn from those experiences?)
+(10 mins) Close out the discussion:
+Share what you wrote about with your projects
+Revisit the concerns you wrote down at the beginning of the discussion today. Did you gain clarity on any of them? What are you still concerned about?
+
 
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
 1. Take 10 minutes to work on your [networking tracker from this week’s activity](/module_one/week_4_networking_activity)
 2. Share (10 mins):
-* What have you learned so far about your current network?
-* Have you communicated with people you know about your new career in software development? How did you let them know?
-* Networking is just another word for building relationships. What are all the ways you’re currently building relationships at Turing? How could you turn to these relationships for support while at Turing? How could you turn to these relationships for support in your job search? 
+  * What have you learned so far about your current network?
+  * Have you communicated with people you know about your new career in software development? How did you let them know?
+  * Networking is just another word for building relationships. What are all the ways you’re currently building relationships at Turing? How could you turn to these relationships for support while at Turing? How could you turn to these relationships for support in your job search? 
 3. Prep for Mix It Up groups by sharing (5 mins):
 * What group are you in today?
 * What would you like to learn today? 
