@@ -4,9 +4,12 @@ title: Follow-up Workshop on Storytelling & LinkedIn - Week 5
 ---
 
 ### Overview
+This is your final PD activity during this module. By the end of today, you want to 
+
 A working draft of your LinkedIn profile is a PD deliverable coming out this module. What should a working draft include? Minimum requirements:
 
 * Headshot 
+* Headline updated to include your software identity
 * Summary section to tell your professional story
 * Turing added to both Experience and Education sections
 
