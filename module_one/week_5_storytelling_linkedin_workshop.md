@@ -16,7 +16,7 @@ What should a working draft of a LinkedIn profile look like? The minimum require
 * Summary section to tell your professional story
 * Turing added to both Experience and Education sections
 
-For all the deatils on how to build an effective LinkedIn profile, check out the guidelines at the [top of this page](/resources/branding_resources)
+For all the details on how to build an effective LinkedIn profile, check out the guidelines at the [top of this page](/resources/branding_resources)
 
 ### Workshop Guidelines
 This workshop takes place during Week 5 Homeroom.
