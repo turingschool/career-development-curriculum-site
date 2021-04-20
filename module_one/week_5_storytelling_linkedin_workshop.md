@@ -19,7 +19,7 @@ What should a working draft of a LinkedIn profile look like? The minimum require
 For all the details on how to build an effective LinkedIn profile, check out the guidelines at the [top of this page](/resources/branding_resources)
 
 ### Workshop Guidelines
-This workshop takes place during Week 5 Homeroom.
+This workshop takes place during Week 5 Homeroom:
 
 1. Revisit your norms as a group to understand how you'll approach feedback with each other in this space (5 mins)
 2. Status check (10 mins)
