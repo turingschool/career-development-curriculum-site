@@ -10,7 +10,13 @@ This is your final PD activity during this module. By the end of today, the goal
 
 What should a working draft of your resume look like? The minimum requirements are:
 
-* 
+* No more than 1 page
+* Heading/Contact Information
+* Technical Skills
+* Technical Projects
+* Experience/Education
+
+A summary is optional but highly recommended
 
 For all the details on how to build an effective resume, check out the guidelines [here](/resources/resume_resources)
 
