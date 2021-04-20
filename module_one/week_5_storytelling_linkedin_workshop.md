@@ -29,14 +29,15 @@ This workshop takes place during Week 5 Homeroom.
       * What areas do you want to improve on when sharing your professional story?
    * Share where each person is in completing their LinkedIn rough draft:
       * If you haven't started your LinkedIn profile or made updates yet this module, this is what you should spend time on first.
-      * If you have already gotten the minimum requirements completed on your LinkedIn, 
-3. Storytelling practice (15 mins)
-4. Review your profile and update it to both ensure you have all the minimum requirements and add any additional content to strengthen your profile (15 mins)
-5. Provide feedback for each other on your LinkedIn that is **specific, actionable, and kind**:
+      * If you have already gotten the minimum requirements completed on your LinkedIn, focus on:
+          * Adding contacts (with a note!)
+          * Creating a post about a recent project
+          * [Looking ahead to how you'll structure your resume](/resources/resume_resources)
+3. Work time on your LinkedIn (15 mins)
+4. Each person shares their professional story and/or LinkedIn profile and the group provides feedback that is **specific, actionable, and kind** (20 mins):
    * What is working well? Examples: strong understanding of why they are changing careers; know what transferable skills they bring from their previous experiences; understand the kinds of technologies they are currently learning/specialize in; 
-   * What could be improved? Examples: it's not clear yet why you changed careers to become a software developer; 
-6. Update time:
-
-
+   * What could be improved? Examples: it's not clear yet why you changed careers to become a software developer; it's not clear what kind of software developer you are; it's not clear what kinds of jobs you are looking for.
+5. Use the last 10 minutes to make updates based on the feedback you received. 
 
 ### Next Steps
+Next module, you'll start to focus on your resume. Please make it a priority for your LinkedIn to be in good shape before the next module starts. If you have any questions on this, please reach out to Allison.
