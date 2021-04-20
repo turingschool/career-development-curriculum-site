@@ -68,7 +68,7 @@ By the end of Module 3, we aim for students to achieve [Level III readiness](/st
 * Activities:
     * Week 4: Job Shadow
     * Week 4: Mock Interviews -- Coming soon
-    * Week 5: [Resume Workshop](
+    * Week 5: [Resume Workshop](/module_three/week_5_resume_workshop)
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
