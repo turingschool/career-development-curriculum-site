@@ -4,7 +4,7 @@ title: End of Module Working Group - Week 5
 ---
 
 ### Overview
-This is your final PD activity during this module. By the end of today, the goal is for you to achieve:
+This is your final PD activity during this module. By the end of the module, the goal is for you to achieve:
 
 * LinkedIn updated and polished
 * Working draft of your resume
