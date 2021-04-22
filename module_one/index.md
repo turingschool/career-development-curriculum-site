@@ -29,8 +29,8 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 **Networking Level I:**
 * SIAT describe their own needs in regards to their identity and networking
 * SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
-* SIAT ask mentors questions about their jobs and career paths
-* SIAT discuss career goals with mentor in at least two conversations
+* SIAT ask mentors (or other contact) questions about their jobs and career paths
+* SIAT discuss career goals with mentor (or other contact) in at least 1 conversation
 
 **Materials Level I:**
 * SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in LinkedIn
