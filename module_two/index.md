@@ -59,7 +59,7 @@ By the end of Module 2, we aim for students to achieve [Levels I and II readines
 
 #### Deliverables to be completed by end of Module 2
 * Resume draft reviewed by peers in week 5
-* Students complete end of mod self-evaluation survey for CD team to assess support needs
+* Students complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) for CD team to assess support needs
 * Portfolio review that includes self-evaluation
 
 ### What This Will Look Like Week-by-Week
