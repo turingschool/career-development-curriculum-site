@@ -57,7 +57,7 @@ By the end of Module 3, we aim for students to achieve [Level III readiness](/st
 * Resume updated
 * Terminal portfolio created and published
 * Cover letter draft reviewed by peers in week 5
-* Students complete end of mod self-evaluation survey for CD team to assess support needs
+* Students complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) for CD team to assess support needs
 * Portfolio review that includes self-evaluation
 
 ### What This Will Look Like Week-by-Week
