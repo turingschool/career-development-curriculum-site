@@ -32,6 +32,12 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 * SIAT ask mentors (or other contact) questions about their jobs and career paths
 * SIAT discuss career goals with mentor (or other contact) in at least 1 conversation
 
+**Interviewing Level I:**
+* SIAT describe how their identity influences their career goals
+* SIAT describe their strengths from previous careers/experiences and in current work at Turing
+* SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
+* SIAT reflect on and describe their approach to problem-solving in technical assessments
+
 **Materials Level I:**
 * SIAT understand what makes them a unique asset to the tech industry in order to highlight these aspects of their identity in your LinkedIn
 * SIAT create a LinkedIn profile that includes:
@@ -41,12 +47,6 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
    * Turing added
   
 *If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
-
-**Interviewing Level I:**
-* SIAT describe how their identity influences their career goals
-* SIAT describe their strengths from previous careers/experiences and in current work at Turing
-* SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
-* SIAT reflect on and describe their approach to problem-solving in technical assessments
 
 #### Deliverables to be completed by end of Module 1
 * Students should have LinkedIn rough draft completed and get feedback from peers
