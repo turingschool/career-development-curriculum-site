@@ -27,13 +27,13 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 (Note: SIAT = Student is able to)
 
 **Networking Level I:**
-* SIAT describe their own needs in regards to their identity and networking
+* SIAT describe their own needs in networking in regards to their identity
 * SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
 * SIAT ask mentors (or other contact) questions about their jobs and career paths
 * SIAT discuss career goals with mentor (or other contact) in at least 1 conversation
 
 **Materials Level I:**
-* SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in LinkedIn
+* SIAT understand what makes them a unique asset to the tech industry in order to highlight these aspects of their identity in your LinkedIn
 * SIAT create a LinkedIn profile that includes:
    * Professional-looking headshot
    * Headline updated
@@ -44,7 +44,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 
 **Interviewing Level I:**
 * SIAT describe how their identity influences their career goals
-* SIAT describe their strengths as they see them in previous careers/experiences and in current work at Turing
+* SIAT describe their strengths from previous careers/experiences and in current work at Turing
 * SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
 * SIAT reflect on and describe their approach to problem-solving in technical assessments
 
