@@ -1,4 +1,6 @@
 # Career Development Site ReadMe
 
-Site is hosted at: careerdev.turing.io (soon to be careerdev.turing.edu)
+This site is for current students and graduates to find PD lesson plans, resources, and other helpful information. 
+
+Site is hosted at: careerdev.turing.edu
 
