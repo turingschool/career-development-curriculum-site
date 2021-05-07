@@ -56,7 +56,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 ### What This Will Look Like Week-by-Week
 
 * Sessions:
-    * Week 1: [Understanding Your Developer Identity] -- Coming soon
+    * Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
     * Week 3: [Storytelling & Branding] -- Coming soon
 * Activities:
     * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
