@@ -14,18 +14,16 @@ title: Understanding Your Strengths
 * Plan for how to discuss strengths and working preferences
 * Analyze opportunities for professional growth
 
-### [This Week's Career Journal](/module_one/mod1_career_journal_prompts#week-1)
-* Describe one of your strengths
-* Reflect on Pairin Top 4
-* Challenges with Strengths
-* Strengths in Action
-* Continued growth
-
 ### Strengths: Why are we starting here?
 The core of developing yourself professionally is *understanding yourself* and  *being able to speak to to that understanding.* You have to understand yourself in order to know what you're striving towards professionally as well as how to advocate for what you want.
 
-These abilities will not only help you at Turing but in your new career as a software developer.
+These abilities will not only help you at Turing and serve as the foundation for your job search by helping you:
 
+* Create a concise elevator pitch
+* Have a compelling answer to “tell me about yourself” question
+* Engage & connect with others
+* Create a powerful statement or summary for your resume, LinkedIn and alumni profiles.
+ 
 ## Overview
 This week's focus is on strengths. It can be easier said than done to identify what our strengths are. So, to help us break them down, we can think about them about our strengths as a combination of:
 
@@ -68,18 +66,29 @@ Let's look at another strength. A common strength that comes up for students in 
 
 Put together, these create the strength of persistence.
 
-### Putting this into Practice: Working Preferences
-Breaking down strengths in this way can be easier when we already know what the strength is, but how can you approach recognizing your strengths in everyday activities?
+### Putting this into Practice: How to Identify Strengths
+Breaking down strengths in this way can be easier when we already know what the strength is, but how can you approach identifying your strengths on your own?
 
-Start by thinking about *how you prefer to work.* Consider these scenarios:
+1. Use the SIGN method:
 
-1. Sam prefers to spend time thinking through problems in their head and drawing out solutions before discussing them.
-2. Ana enjoys being challenged and working hard. She doesn't feel like her day is complete if she hasn't accomplished something. She is very motivated by the satisfaction of meeting deadlines.
+* **Success:** Using your strengths makes you feel successful
+* **Instinct:** Activities you are naturally drawn to
+* **Growth:** Where you learn the most, come up with new ideas, and have the best insights
+* **Needs:** Where you feel the need to spend the most time
 
-Based on how they like to work, how would you describe Sam and Ana’s strengths?
+2. Use others to find your strengths:
 
-**Do Now:** The first prompt in [this week's career journal](/module_one/mod1_career_journal_prompts#week-1) will ask you to think about what you skills, knowledge, and talents you combine into one of your strengths.
+* What do others ask for your help with?
+* What do others want you to teach them?
+* What do you receive compliments for?
 
+3. Identify three shining moments in your work life or career(s) that have really stood out as shining moments.
+
+* Was it something you have learned to do well (list a skill)?
+* Something you know about (list some knowledge/expertise you have)?
+* Was it something you have a natural ability to do well (list a talent)?
+* How do those combine to create a specific strength?
+ 
 ## Application: Using the Pairin Survey
 If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
 
@@ -170,8 +179,6 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Transcendence:	Lover of Transcendence
 * Wisdom & Knowledge:	Lover of Wisdom
 * Temperance:	Lover of Moderation
-
-**Do Now:** In the [second prompt for your career journal this week](/module_one/mod1_career_journal_prompts#week-1), read through your Pairin results and reflect on what they mean to you.
 
 ### Opportunity for Professional Coaching
 What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
