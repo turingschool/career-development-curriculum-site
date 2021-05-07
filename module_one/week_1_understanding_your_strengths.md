@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding Your Strengths
+title: Understanding Your Developer Identity
 ---
 
 ### Prior to the Session
