@@ -20,7 +20,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 ### Sessions
 You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
-* Week 1: [Understanding Your Strengths](/module_one/week_1_understanding_your_strengths)
+* Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
 * Week 3: [
 
 ### Homeroom Groups
