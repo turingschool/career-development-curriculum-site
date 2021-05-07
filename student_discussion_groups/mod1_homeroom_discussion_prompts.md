@@ -63,5 +63,4 @@ Skip down to:
 4. Take a 5-min pom and then join the zoom link in your Slack group for your Mix It Up group!
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-
-
+This week's homeroom is a storytelling & LinkedIn workshop -- [find the guidelines here!](/module_one/week_5_storytelling_linkedin_workshop)
