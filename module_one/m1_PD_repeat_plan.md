@@ -20,12 +20,14 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
 * Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
-* Week 3: [Professional Storytelling & Branding](
+* Week 3: [Professional Storytelling & Branding](/module_one/week_3_professional_storytelling_branding)
 
 ### Homeroom Groups
-You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships. 
+You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
 
+During homeroom group time, some of the discussion topics will pertain to the session for that week. Even though you do not have to attend the sessions, you should contribute your ideas and reflections to the group and use the space to solicit feedback and collaboration on what you're working on. 
 
+Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 
 ### What You'll Work On
 For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
@@ -39,16 +41,26 @@ Here are some examples:
   * Stress management
   * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assisting SLC reps in facilitating cohort retros, organizing a non-coding social activity, etc.
   
-2. Goal #2: Build a professional skill(s) that will contribute to your success at Turing.
-  
-  * Participate in an activity related to your new career outside of Turing (i.e., attend a meetup, network with an alum, research companies you're interested in, etc.)
-  * Write a blog post about something you're learning
+2. Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
+
+Here are some examples:
+  * Networking:
+     * Reflect on your personal feelings about networking
+     * Define your own goals and needs in 1:1 networking situations
+     * Outline a process for starting a conversation with your mentor or another alum around career goals
+  * Interviewing:
+     * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
+     * Practice your professional story with your homeroom group, mentor, or another person in your support system
+     * 
+  * Materials:
+     * Update your LinkedIn according to [these guidelines](/resources/branding_resources)
+     * Follow companies on LinkedIn...
+  * Other:
+     * Write a blog post about something you're learning
 
 
-
-
-
-#### Goal (what is the goal): 
+#### Template for Defining & Tracking Your Goals
+Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
 
 * Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 
@@ -60,4 +72,5 @@ Here are some examples:
 
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
+### Additional Support
 Reminder that Allison is available for professional coaching. If you'd like to sign up for a session, please fill out this [request form](https://forms.gle/g84XjDuwLaBidDga9).
