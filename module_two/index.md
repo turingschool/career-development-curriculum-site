@@ -65,7 +65,7 @@ By the end of Module 2, we aim for students to achieve [Levels I and II readines
 ### What This Will Look Like Week-by-Week
 
 * Sessions:
-    * Week 1: [Introduction to Your Career Roadmap] -- Coming soon
+    * Week 1: [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap)
     * Week 2: [Building Connection: Part I] -- Coming soon
     * Week 3: [Interview Prep] -- Coming soon
     * Week 4: [Career Roadmap: Part II] -- Coming soon
