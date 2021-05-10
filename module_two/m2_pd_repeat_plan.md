@@ -55,8 +55,14 @@ Here are some examples:
      * Write out stories using the STAR method to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
   * Materials:
      * Create and update your resume using [these guidelines](/resources/resume_resources)
-  * Other:
+     * Have your mentor review your resume
+     * Update your LinkedIn profile using [these guidelines](/resources/branding_resources)
      * Write a blog post about something you're learning
+  * Job Search Strategies
+     * Update your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing)
+     * Search through [resources here](/resources/finding_opportunities) and pull out 2-3 to use in building your job search strategy
+  * Negotiations
+     * Start on research into 
 
 #### Template for Defining & Tracking Your Goals
 Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
