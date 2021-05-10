@@ -56,7 +56,6 @@ Here are some examples:
   * Materials:
      * Update your LinkedIn according to [these guidelines](/resources/branding_resources)
      * Start on your resume using [these guidelines](/resources/resume_resources)
-  * Other:
      * Write a blog post about something you're learning
 
 #### Template for Defining & Tracking Your Goals
