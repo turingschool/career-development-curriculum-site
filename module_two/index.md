@@ -22,7 +22,7 @@ Core Competencies of Module 2:
 * Customize strategies for job search
 
 ### Module 2 Outcomes
-By the end of Module 2, we aim for students to achieve [Levels I and II readiness](/standards_and_rubric/index) in Job Search Strategies and Negotiations and achieve Level II readiness in Networking, Interviewing, and Materials.
+By the end of Module 2, we aim for students to achieve [Levels I and II readiness](/standards_and_rubric/index) in Job Search Strategies and Negotiations and achieve [Level II readiness](/standards_and_rubric/index) in Networking, Interviewing, and Materials.
 
 (Note: SIAT = Student is able to)
 
