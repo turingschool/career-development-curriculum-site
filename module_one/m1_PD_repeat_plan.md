@@ -14,14 +14,13 @@ During your time in Mod 1 PD, we focused on building these core competencies:
 
 By the end of Module 1, we aim for students to achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing. While you repeat the module, this is an opportunity to continue this work and think about how you can push yourself to grow in these areas further.
 
-
 ## Expectations for Repeating the Module
 
 ### Sessions
 You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
 * Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
-* Week 3: [
+* Week 3: [Professional Storytelling & Branding](
 
 ### Homeroom Groups
 You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships. 
