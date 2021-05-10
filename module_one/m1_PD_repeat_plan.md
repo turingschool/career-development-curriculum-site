@@ -48,16 +48,16 @@ Here are some examples:
      * Reflect on your personal feelings about networking
      * Define your own goals and needs in 1:1 networking situations
      * Outline a process for starting a conversation with your mentor or another alum around career goals
+     * Reach out to 1 alum or another person from the Turing community to ask questions about their careers and advice for your job search
   * Interviewing:
      * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
      * Practice your professional story with your homeroom group, mentor, or another person in your support system
-     * 
+     * Write out stories to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
   * Materials:
      * Update your LinkedIn according to [these guidelines](/resources/branding_resources)
-     * Follow companies on LinkedIn...
+     * Start on your resume using [these guidelines](/resources/resume_resources)
   * Other:
      * Write a blog post about something you're learning
-
 
 #### Template for Defining & Tracking Your Goals
 Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
