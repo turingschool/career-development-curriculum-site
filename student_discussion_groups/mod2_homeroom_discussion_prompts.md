@@ -25,12 +25,20 @@ Skip down to:
   * What do you want to stop doing?
   * What new ways do you want to collaborate with each other?
 
-2. Work on filling out the career roadmap to the best of your ability (make a copy) (15-20 mins)
-3. Take turns sharing your takeaways from the career roadmap (15-20 mins)
-4. As a group discuss: (10-15 mins)
-  * Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
-  * What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
-  * What questions or concerns do you have about building your tech resume? Surface them with the group here and then bring them with you to the session tomorrow!
+2. Go to [terminal.turing.edu](https://terminal.turing.edu) and find three peer profiles to review. Find their resume by clicking on "open resume" on the left side of the portfolio. Take 10 minutes to examine these resumes and ask yourself these questions (be sure to take some notes on your career roadmap):
+
+* What do I like about this resume?
+* What stands out the most?
+* What would I do differently on this resume?
+
+3. Share out what you found (10-15 mins):
+* Is there anything you found that you will be doing on your resume?
+* Based on what you saw, how are you going to highlight projects on your resume? What about your past experience?
+* What are your plans to make your resume unique to you?
+
+4. Start working on your own resume draft. You can review tips from the [session](/module_two/week_1_career_roadmap) and check out these [resources](/resources/resume_resources) to help you. (15 mins)
+
+5. Share out what you've completed so far with the rest of your group and discuss next steps to help each other complete your resume drafts over the next few weeks (5 mins).
 
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
