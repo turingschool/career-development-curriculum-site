@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module 2 Career Development
+title: Module 2 Professional Development
 ---
 
 ## Overview
