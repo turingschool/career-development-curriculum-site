@@ -40,7 +40,8 @@ Here are some examples:
   * Project & priority management
   * Stress management
   * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assisting SLC reps in facilitating cohort retros, organizing a non-coding social activity, etc.
-  
+
+
 2. Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
 
 Here are some examples:
