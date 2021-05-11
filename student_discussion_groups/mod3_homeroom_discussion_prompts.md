@@ -25,7 +25,7 @@ Skip down to:
   * What do you want to stop doing?
   * What new ways do you want to collaborate with each other?
 
-2. Work on filling out the career roadmap to the best of your ability (make a copy) (15-20 mins)
+2. Work on filling out the [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) to the best of your ability (make a copy) (15-20 mins)
 3. Take turns sharing your takeaways from the career roadmap (15-20 mins)
 4. As a group discuss: (10-15 mins)
   * Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
