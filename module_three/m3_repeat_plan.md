@@ -5,71 +5,81 @@ title: PD Plan for Repeating Module 3
 
 Repeating the module is an opportunity to not only solidify technical skills but also take advantage of extra time to work on your professional development and take concrete steps for your job search.
 
-Reminder that in Mod 3, we covered the topics of:
+During your time in Mod 3 PD, we focused on building these core competencies:
 
-* Resumes
-* Cover letters
-* Application process
-* Outreach & Networking connected to companies you're applying to
-* Interview prep
+* Utilize community for support in job search
+* Continue utilizing mentor for job search support
+* Apply strategies to personal job search
 
-As you make your plan here, think about how you can push yourself to grow in these areas further.
+By the end of Module 3, we aim for students to achieve [Level III readiness](/standards_and_rubric/index) in Networking, Interviewing, Materials, and Job Search Strategies. While you repeat the module, this is an opportunity to continue this work and think about how you can push yourself to grow in these areas further.
 
-Here's the breakdown of expectations for repeating the module:
+## Expectations for Repeating the Module
 
 ### Sessions
-You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
+You are **not** required to attend the rest of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
-* Week 1: [Professional Storytelling II: Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios) 
-* Week 2: [The Application Process](/module_three/week_2_application_process)
-* Week 3: [Outreach & Networking II](/module_three/week_3_outreach_networking_ii)
-* Week 4: [Interview Prep](/module_three/week_4_interview_prep)
-* Week 5: [Refining Your Strategy](/module_three/week_5_refining_your_strategy)
+* Week 1: [Resumes & Portfolios](
+* Week 2: [Building Connection: Part II](
+* Week 3: [The Application Process](/module_three/week_3_application_process_session)
 
-### Career Journal
-1. Please create a new section of your career journal and title it "Mod 3 Repeat Journal Reflections." We recommend [using this template to organize your responses](/career_journals/career_journal_template).
-2. For this module, you should consider 2-3 goals you want to work on and track your progress towards those goals. What should these goals look like? Whatever will be most helpful for your professional growth this module. Here are some examples:
-  * Update your resume and ask your mentor or career dev team member to review it
-  * Write a cover letter for a posting that you're interested in; ask mentor or career dev team member to review it
-  * Find someone at each company you're interested in and reach out to them; set up a phone call
-  * Apply to 1-2 jobs a week (including updating resume, customized cover letter, and outreach for each application)
-  * Update your Turing alumni portfolio
-  * Attend a networking event, such as an online meetup
-  * Update your Huntr with your current job applications
-  * Schedule a mock technical or behavioral interview with a mentor
+**Please let Robyn Purvin (@robynp) know if you would like to participate in Job Shadow this module.**
 
-3. Please copy and paste these prompts into your career journal:
+### Homeroom Groups
+You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
 
-* Week 1:
-  * Reflections from last mod (what did I do well? Where can I improve?):
-  * Goal(s) for the module:
-  * Habit to put into place this week:
+During homeroom group time, some of the discussion topics will pertain to the session for that week. Even though you do not have to attend the sessions, you should contribute your ideas and reflections to the group and use the space to solicit feedback and collaboration on what you're working on. 
 
-* Week 2:
-  * Reflections on week 1 (what went well? What would you like to do better? What do you need help with?):
-  * Progress on your goal(s):
-  * Progress on your habit(s):
-  * New ideas or changes to put into place this week:
+Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 
-* Week 3:
-  * Reflections on week 2 (what went well? What would you like to do better? What do you need help with?):
-  * Progress on your goal(s):
-  * Progress on your habit(s):
-  * New ideas or changes to put into place this week:
+### What You'll Work On
+For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
 
-* Week 4:
-  * Reflections on week 3 (what went well? What would you like to do better? What do you need help with?):
-  * Progress on your goal(s):
-  * Progress on your habit(s):
-  * New ideas or changes to put into place this week:
+1. Goal #1: Build a professional skill(s) that will contribute to your success at Turing.
 
-* Week 5:
-  * Reflections on week 4 (what went well? What would you like to do better? What do you need help with?):
-  * Progress on your goal(s):
-  * Progress on your habit(s):
-  * New ideas or changes to put into place this week:
-  * Reflections on the module as a whole (where have you improved? What do you want to continue doing in Module 4? What do you want to stop doing?):
+Here are some examples:
+  * Organization & time management
+  * Communication
+  * Project & priority management
+  * Stress management
+  * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assisting SLC reps in facilitating cohort retros, organizing a non-coding social activity, etc.
+  
+2. Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
 
-**You are expected to be reflecting and responding to these weekly prompts every week during the module in your PD work time. If you have any questions about these expectations, please reach out to Allison.**
+Here are some examples:
+  * Networking:
+     * Identify relevant contact(s) from companies with positions you want to pursue
+     * Set up at least 1 phone call with a contact
+     * Research company and contact to come up with relevant questions for coffee meetings or job shadows
+  * Interviewing:
+     * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
+     * Practice your professional story with your homeroom group, mentor, or another person in your support system
+     * Write out stories using the STAR method to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
+     * Write out connections between skills/mindsets you have from previous career to a specific position/company you plan to interview with to describe why you are a good fit
+  * Materials:
+     * Update your resume using [these guidelines](/resources/resume_resources) to highlight your technical skills, transferable skills, and career interests
+     * Have your mentor review your resume
+     * Create and update your Terminal portfolio at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.io/developers/sign_in) and then request review to get it published
+     * Write a cover letter tailored to a specific position at a specific company utilizing [best practices for cover letter writing](/resources/cover_letter_resources)
+     * Update your LinkedIn profile using [these guidelines](/resources/branding_resources)
+     * Write a blog post about something you're learning
+  * Job Search Strategies
+     * Update your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing)
+     * Search through [resources here](/resources/finding_opportunities) and pull out 2-3 to use in building your job search strategy
+  * Negotiations
+     * Start on research into companies' [salary ranges](https://www.levels.fyi/) to know what to expect in your job search. 
 
-Reminder that Allison is available for professional coaching. If you'd like to sign up for a session, please fill out this [request form](https://forms.gle/g84XjDuwLaBidDga9).
+#### Template for Defining & Tracking Your Goals
+Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
+
+* Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
+
+* Measurable (How can you measure progress and know if you’ve successfully met your goal?):
+
+* Achievable (Do you have the skills required to achieve the goal? If not, can you obtain them? What is the motivation for this goal? Is the amount of effort required on par with what the goal will achieve?):
+
+* Relevant (How does this goal connect to your larger career goals?):
+
+* Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+
+### Additional Support
+Reminder that Ryan and Tracey are available for professional coaching. Please go to their Slack bios for sign-up links.
