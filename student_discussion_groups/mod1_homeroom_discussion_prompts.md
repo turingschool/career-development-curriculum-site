@@ -29,7 +29,9 @@ Skip down to:
   * What can make it challenging to recognize your strengths? How can you work through those challenges?
   * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
   * Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?
-3. Write out action steps you can take to develop awareness of your strengths and any challenges (recommended: use your career journal that you started in Mod 0 to record your reflections). How could you be aware of the progress you are making? (10-15 min)
+3. (10-15 min) Write out action steps you can take to develop awareness of your strengths and any challenges (recommended: use your career journal that you started in Mod 0 to record your reflections). How could you be aware of the progress you are making? 
+4. 
+If you are repeating the module, reflect on how you used your strengths last module. What changes do you want to make to your approach for this module?
 
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
