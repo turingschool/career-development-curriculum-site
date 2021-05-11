@@ -19,9 +19,9 @@ By the end of Module 2, we aim for students to achieve [Levels I and II readines
 ### Sessions
 During the 2105 inning, you are required to Week 1's session [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap), but you are **not** required to attend the rest of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
 
-* Week 2: [Building Connection: Part I](
+* Week 2: [Building Connection: Part I](/module_two/week_2_building_connection_i)
 * Week 3: [Interview Prep](/module_two/week_3_interview_prep)
-* Week 4: [Career Roadmap: Part II](
+* Week 4: [Your Career Roadmap Part II](/module_two/week_4_career_roadmap_ii)
 
 ### Homeroom Groups
 You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
@@ -46,9 +46,9 @@ Here are some examples:
 
 Here are some examples:
   * Networking:
-     * Define your own goals and needs in 1:1 networking situations
-     * Outline a process for starting a conversation with your mentor or another alum around career goals
-     * Create networking plans to connect with more contacts in the Turing community or your own networks
+     * Create networking plans to connect with 1-2 contacts in the Turing community or your own networks
+     * Set up at least 1 phone call with a contact
+     * Brainstorm questions to ask based on research into the contact and your own goals
   * Interviewing:
      * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
      * Practice your professional story with your homeroom group, mentor, or another person in your support system
@@ -62,7 +62,7 @@ Here are some examples:
      * Update your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing)
      * Search through [resources here](/resources/finding_opportunities) and pull out 2-3 to use in building your job search strategy
   * Negotiations
-     * Start on research into 
+     * Start on research into companies' [salary ranges](https://www.levels.fyi/) to know what to expect in your job search. 
 
 #### Template for Defining & Tracking Your Goals
 Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
