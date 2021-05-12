@@ -4,41 +4,36 @@ title: Professional Storytelling II
 subheading: Resumes & Portfolios
 ---
 
-[Slides for the session](https://docs.google.com/presentation/d/17sz_0Je9OQfvqQ-NEC3UOMS4wBuKdrhNPqXZVXfP9uc/edit?usp=sharing)
-
 ### Learning Goals
-* Review and refine your career vision and job search strategy
+* Introduce career mapping to help set up best strategies for job search success
 * Utilize your job search strategy to customize your resume
 * Utilize your job search strategy to customize your alumni portfolio
 
-### [This Week's Career Journal Prompts](/module_three/mod3_career_journal_prompts#week-1)
-* Refine your career vision and industry list
-* Build your resume
-* Build your Turing portfolio
-* Conduct research on companies of interest
+### What is a Career Roadmap?
+A career roadmap is a tool to help you navigate your job search by helping you to explore and reflect on the past, present and future as it relates to your career. Outlining your ideas for your career in this way helps provide context for all competencies related to job search such as, interviewing, resume building, negotiation, networking, and job search strategies.
 
-### Overview
-Last mod, we spent time defining and revising your career vision based on the values and goals you have for this career. We’ll start here again this module because everything we do in the job search needs to tie back to that career vision. Remember, this is your **compass** -- your vision gives you direction on where to go in your job search, and your strategy should be based on that.
+Start by making a copy of the [career roadmap template](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit) and filling it out to the best of your ability. It's okay if you don't know all the answers to the prompts yet. This is something that you'll continue to update over time as your understanding of your job search grows. 
 
-This week's [first prompt in your career journal](/module_three/mod3_career_journal_prompts#week-1) asks you to reflect on this vision and make sure it's still aligned with what you want. 
+Today as you start on this, consider these questions:
 
-### Resumes
-It's important to know what your career vision is and the strategy you're utilizing to put it into place because these are the foundations for your resume.
+* Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
+* What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
+* What questions or concerns do you have about building your tech resume? 
 
-* Common misconception: Your resume should be one-size-fits-all
-* Reframe: Your resume should be a direct reflection of the strategy you’re using in the job search
+### Connecting your Roadmap to your Resume
+As you start to think about your resume, your career roadmap will serve as a foundation. You can't build an effective resume until you know what story you want it to tell. And we'll start here by addressing a common misconception that resumes should be one-size-fits-all. Not only should you customize your resume for each job you apply to, but your resume should also be a **direct reflection of your job search strategy.** 
 
 #### Technical Resumes Lead with Projects
-Since you are a software developer now, your software projects are an essential -- arguably, the *most* essential -- part of your new resume. You should include:
+Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
 
 * Turing projects
 * Side projects
 * Open Source projects
 * Etc.
 
-You should include links to your repos and deployed apps. Note: for group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
+You should include links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
-Your descriptions for your projects should tell a reader what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
+Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
 
 #### Customizing Your Resume is About Telling Your Story
 Reminder that you should **always** customize your resume to the position for which you're applying. To make sure your resume is customized, pay attention to 3 things:
@@ -70,21 +65,14 @@ When building your resume, make sure to keep this checklist handy as well:
 * Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
 
 ### What to Do
-This week is focused on building your working resume. These [steps are outlined in your second and third prompts in this week's career journal](/module_three/mod3_career_journal_prompts#week-1):
+This week is focused on building your working resume.
 
 * Build your resume using [these templates and checklist](/resources/resume_resources)
-* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (instructions in the career journal).
+* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides).
 * Update your resume using that feedback
 
-#### Group Activity
-During the session, you'll get to participate in this group activity in which you'll act as a hiring committee for a junior engineering position at your company. You need to select 1 out of the 4 following resumes to decide who to move on to an interview. For the sake of this activity, the position is language agnostic. All of these are the first technical resumes of Turing alumni.
-
-Review these alumni resumes:
-
-* [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
-* [Torie Joy-Warren](https://alumni.turing.io/sites/default/files/resumes/torie_joy_warren.pdf)
-* [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
-* [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
+#### Resume Review Practice
+To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. Search through 2-3 resumes from the [Terminal portfolio site For the sake of this activity, the position is language agnostic. 
 
 Consider:
 
@@ -93,32 +81,3 @@ Consider:
 * What questions do you have about this candidate?
 * Would you choose to interview this person based on their resume? Why or why not?
 * If you decide to interview them, what follow-up questions would you ask?
-
-### Turing Alumni Portfolios
-Turing provides you with a space to build a portfolio on our website at [alumni.turing.io](https://alumni.turing.io/). These portfolios are how we showcase our job seeking graduates and soon-to-be graduates! We share these directly with employers, but employers also regularly come to our site to look for candidates.
-
-#### Set Up
-You'll receive an email invitation for your initial log in, but after that, log in at: [alumni.turing.io/user](https://alumni.turing.io/user). After initial set up, your username is your email without the email extension (i.e., if your email is jsmith@gmail.com, your username is jsmith)
-
-Start your working draft following these directions:
-
-* Professional photo (Just you! Sorry, but no kids or animals)
-* Description (where you tell your professional story)
-* Polished draft of resume
-* At least 2 projects highlighted
-  * Show variety: paired, team, individual
-  * Next mod: you’ll need to have 3 projects
-* Select “published” for both your profile and projects when you save them in order to display them on the site
-* Check out [examples](https://alumni.turing.io/)
-
-#### Troubleshooting
-Unfortunately, this site was built by a different company and contains a lot of bugs. In order to successfully create your portfolio, you'll need to follow these directions:
-
-* Use Safari
-* Double check all fields when trying to save
-* Select any cohort (cohort does not matter)
-* Do not copy and paste information
-  * It will not paste in correctly
-* GitHub ID doesn't matter; leave it blank
-
-For a helpful visual to this, check out this [demo video built by an alum](https://www.youtube.com/watch?v=v7J5cYJ24hU&feature=youtu.be)
