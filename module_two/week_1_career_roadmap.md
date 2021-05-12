@@ -70,14 +70,7 @@ This week is focused on building your working resume.
 * Update your resume using that feedback
 
 #### Resume Review Practice
-To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. You need to select 1 out of the 4 following resumes to decide who to move on to an interview. For the sake of this activity, the position is language agnostic. All of these are the first technical resumes of Turing alumni.
-
-Review these alumni resumes:
-
-* [Erin Pintozzi](https://alumni.turing.io/sites/default/files/resumes/Erin%27s%20Resume%20020917.pdf)
-* [Torie Joy-Warren](https://alumni.turing.io/sites/default/files/resumes/torie_joy_warren.pdf)
-* [Andrew James](https://github.com/turingschool/career-development-curriculum/blob/master/files/Andrew%20James%20Resume.pdf)
-* [Alex Tideman](https://alumni.turing.io/sites/default/files/resumes/alex_tideman.pdf)
+To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. Search through 2-3 resumes from the [Terminal portfolio site](https://terminal.turing.edu). For the sake of this activity, the position is language agnostic. 
 
 Consider:
 
