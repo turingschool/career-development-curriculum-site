@@ -83,26 +83,28 @@ Consider:
 * If you decide to interview them, what follow-up questions would you ask?
 
 ### Setting up your Alumni Portfolio -- Welcome to Terminal!
-Let’s take a look on how to set up your profile! [Watch this demo](https://share.descript.com/view/gUvd2rRN4Ck)
-Terminal is our joint job board and graduate portfolio site
-How we showcase our job seeking graduates and soon-to-be graduates
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
-How it’s used:
-Employers come here to look for candidates
-We also send these portfolios to employers
+#### How to Set It Up
+* Log into Terminal at https://terminal.turing.edu/developers/sign_in
+* Go to “Edit Profile” from account menu
+* Fill out profile until all sections are complete
+* Click “Request Review”
+* Staff member will review your profile and approve for publishing or request additional changes
+* For more info on how to set this up, [watch this demo](https://share.descript.com/view/gUvd2rRN4Ck)
 
-Log into Terminal at https://terminal.turing.edu/developers/sign_in
-Go to “Edit Profile” from account menu
-Fill out profile until all sections are complete
-Click “Request Review”
-Staff member will review your profile and approve for publishing or request additional changes
-Once published, your profile will be visible on the main alumni directory at terminal.turing.edu
+Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job.
 
 #### Terminal Portfolio: What Should Be Included
-Professional photo (Just you! Sorry, but no kids or animals)
-Description (where you tell your professional story)
-Polished draft of resume
-At least 2 projects highlighted
-Show variety: paired, team, individual
-Next mod: you’ll need to have at least 3 projects
+What needs to be included in order for your portfolio to be published?
+
+* Professional photo (Just you! Sorry, but no kids or animals)
+* Description (where you tell your professional story)
+* Polished draft of resume
+* At least **2 projects** highlighted
+    * Show variety: paired, team, individual
+    * Include an estimation of project contribution hours
+    * Include screenshots
+
+If you have any questions about this portfolio, please reach out the CD team!
 
