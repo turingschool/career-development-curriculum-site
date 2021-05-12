@@ -62,7 +62,7 @@ By the end of Module 3, we aim for students to achieve [Level III readiness](/st
 
 ### What This Will Look Like Week-by-Week
 * Sessions:
-    * Week 1: [Career Roadmap: Part III] -- Coming soon
+    * Week 1: [Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
     * Week 2: [Building Connection: Part II] -- Coming soon
     * Week 3: [The Application Process](/module_three/week_3_application_process_session)
 * Activities:
