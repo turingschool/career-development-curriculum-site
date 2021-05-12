@@ -106,5 +106,5 @@ What needs to be included in order for your portfolio to be published?
     * Include an estimation of project contribution hours
     * Include screenshots
 
-If you have any questions about this portfolio, please reach out the CD team!
+If you have any questions about this portfolio, please reach out to the CD team!
 
