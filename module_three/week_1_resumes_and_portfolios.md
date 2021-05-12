@@ -72,7 +72,7 @@ This week is focused on building your working resume.
 * Update your resume using that feedback
 
 #### Resume Review Practice
-To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. Search through 2-3 resumes from the [Terminal portfolio site For the sake of this activity, the position is language agnostic. 
+To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. Search through 2-3 resumes from the [Terminal portfolio site](https://terminal.turing.edu). For the sake of this activity, the position is language agnostic. 
 
 Consider:
 
@@ -81,3 +81,28 @@ Consider:
 * What questions do you have about this candidate?
 * Would you choose to interview this person based on their resume? Why or why not?
 * If you decide to interview them, what follow-up questions would you ask?
+
+### Setting up your Alumni Portfolio -- Welcome to Terminal!
+Let’s take a look on how to set up your profile! [Watch this demo](https://share.descript.com/view/gUvd2rRN4Ck)
+Terminal is our joint job board and graduate portfolio site
+How we showcase our job seeking graduates and soon-to-be graduates
+
+How it’s used:
+Employers come here to look for candidates
+We also send these portfolios to employers
+
+Log into Terminal at https://terminal.turing.edu/developers/sign_in
+Go to “Edit Profile” from account menu
+Fill out profile until all sections are complete
+Click “Request Review”
+Staff member will review your profile and approve for publishing or request additional changes
+Once published, your profile will be visible on the main alumni directory at terminal.turing.edu
+
+#### Terminal Portfolio: What Should Be Included
+Professional photo (Just you! Sorry, but no kids or animals)
+Description (where you tell your professional story)
+Polished draft of resume
+At least 2 projects highlighted
+Show variety: paired, team, individual
+Next mod: you’ll need to have at least 3 projects
+
