@@ -62,5 +62,5 @@ Skip down to:
 3. Update this to include interview practice/prep 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-
+In your last homeroom group time of the module, it's a working group on your end of module action items. [Find all the guidelines here!](/module_three/week_5_working_group)
 
