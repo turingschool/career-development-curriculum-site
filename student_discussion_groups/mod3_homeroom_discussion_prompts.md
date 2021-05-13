@@ -58,8 +58,7 @@ Skip down to:
      * Update your resume for this position
 
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
-1. Revisit norms (5 mins) 
-3. Update this to include interview practice/prep 
+There is no week 4 homeroom in 2105. Enjoy your Job Shadow!
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 In your last homeroom group time of the module, it's a working group on your end of module action items. [Find all the guidelines here!](/module_three/week_5_working_group)
