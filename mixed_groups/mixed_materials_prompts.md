@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Mix It Up: Materials
+title: Mix It Up
+subheading: Materials
 ---
 
 ## Overview
+
