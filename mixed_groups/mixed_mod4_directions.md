@@ -16,7 +16,10 @@ You'll be put into a Slack group with the other people in your Mix It Up group p
 **Do I have to be an expert on my topic?**
 No. If you select a topic that you want to work on, start by sharing what barriers you are experiencing with that topic and discuss ideas on how to improve with the group. 
 
-**If I feel do comfortable on a specific topic, how should I share my experience?**
+**If I feel do have experience with a specific topic, how should I share my experience?**
+Talk about what strategies you have used. For example, with networking, how have you approached networking? What was successful for you and what wasn't? What advice would you give to lower mod students about networking at their stage in the program? 
+
+**If I identify as someone who is less represented in tech and choose that group, how should I "lead" it?**
 
 
 **Do I need to prepare anything?**
@@ -36,9 +39,12 @@ Here are the topics:
 ### Structure for Leading the Discussion
 1. Introduce yourself with your name, pronouns, program, cohort, and how confident you feel about your topic on a scale of 1-5, and then ask others in the group to do the same.
 
-2. Depending on your topic, you'll start with different questions, but you can 
+2. You'll start the conversation by choosing questions from the prompts (see above) to respond to. 
 
-How do you do research into companies? How do you approach the application? 
-What strategies have been successful for you with your job search so far?
-What is challenging about figuring out a strategy for the job search? 
-What advice do you have for others at Turing when it comes to strategies for the job search?
+3. Everyone else will have an opportunity to contribute to the discussion as well.
+
+Bonus:
+* Ask the group to share specific resources in your group Slack channel.
+* Follow up with each other outside of this timeframe.
+* Add each other on LinkedIn.
+
