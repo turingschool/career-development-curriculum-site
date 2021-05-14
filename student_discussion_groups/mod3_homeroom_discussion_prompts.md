@@ -61,5 +61,13 @@ Skip down to:
 There is no week 4 homeroom in 2105. Enjoy your Job Shadow!
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-In your last homeroom group time of the module, it's a working group on your end of module action items. [Find all the guidelines here!](/module_three/week_5_working_group)
+Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
 
+1. Revisit norms (5 mins) 
+2. Take turns sharing your cover letters with each other. When possible, share the job posting and provide context about the position and company. All group members should provide appreciation and coaching feedback. What is effective about this cover letter? What could make this cover letter more effective? Reminder about best practices for [cover letters from the session](/module_three/week_3_application_process_session) and from [this resource guide](/resources/cover_letter_resources). (40 mins)
+3. Assess the feedback you received and make a plan for revision (15 mins):
+
+* What feedback did your partner give you?
+* What next steps will you take to make your cover letter even stronger?
+* If you were to apply to this position (and you should!), how will you customize your resume for it? 
+* What other next steps would you need to take for this application? 
