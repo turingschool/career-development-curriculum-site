@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Mix It Up: Specific Industries of Interest
+title: Mix It Up
+subheading: Specific Industries of Interest
 ---
 
 ## Overview
+
