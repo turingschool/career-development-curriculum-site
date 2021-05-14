@@ -21,7 +21,6 @@ Here are some potential topics:
 * [Materials](/mixed_groups/mixed_materials_prompts)
 * [Job Search Strategies](/mixed_groups/mixed_jss_prompts)
 * [Negotiations](/mixed_groups/mixed_negotiations_prompts)
-* [Specific technical interest](/mixed_groups/mixed_tech_interest_prompts)
 * [Specific industry interest](/mixed_groups/mixed_industry_interest_prompts)
 * [Identifying as someone less represented in tech](/mixed_groups/mixed_less_represented_prompts)
 
