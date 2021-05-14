@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mix It Up: Negotiations
+title: Mix It Up
+subheading: Negotiations
 ---
 
 ## Overview
