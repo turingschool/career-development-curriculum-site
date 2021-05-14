@@ -1,4 +1,7 @@
 ---
-layout: title
-page: Mix It Up: Networking
+layout: page
+title: Mix It Up
+subheading: Networking
 ---
+
+## Overview
