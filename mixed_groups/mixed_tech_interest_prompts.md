@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mix It Up: Technical Areas of Interest
+title: Mix It Up
+subheading: Technical Areas of Interest
 ---
 
 ## Overview
