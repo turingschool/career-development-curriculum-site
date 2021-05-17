@@ -27,14 +27,15 @@ The student lead chooses 1-2 of the following questions to respond to and share 
 ### Group Discussion (15 mins)
 There are several components of networking that could be helpful to discuss as a group today. From the following topics, choose 1 as a group and try out the activities listed at the link below
 
-* [Sending a message to a contact]( 
+* [Sending a message to a contact](#messaging)
+*  
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
 
 ## Activity Prompts
 
-### Messaging
+### Messaging <a name="messaging"></a>
 A key component of networking is personalization, both in your initial message to someone and in how you conduct the conversation with them. 
 
 1. Mod 4 student lead: share a recent message you have sent to a networking contact. Discuss how to prepare for the conversation with this contact. 
