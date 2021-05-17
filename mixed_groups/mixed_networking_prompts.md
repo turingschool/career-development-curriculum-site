@@ -25,15 +25,19 @@ The student lead chooses 1-2 of the following questions to respond to and share 
 * What advice do you have for others at Turing when it comes to networking?
 
 ### Group Discussion (15 mins)
-There are several components of networking that could be helpful to discuss as a group today. From the following topics, choose 1 as a group and try out the activities listed at the link below
+There are several components of networking that could be helpful to discuss as a group today. From the following topics, choose 1 as a group and try out the activities listed at the link below:
 
+* [Finding the right person to network with](#right-person)
 * [Sending a message to a contact](#messaging)
-*  
+* 
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
 
 ## Activity Prompts
+
+### Finding the Right Person to Network With <a name="right-person"></a>
+
 
 ### Messaging <a name="messaging"></a>
 A key component of networking is personalization, both in your initial message to someone and in how you conduct the conversation with them. 
