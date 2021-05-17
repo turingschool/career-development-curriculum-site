@@ -5,23 +5,21 @@ title: Career Development Resources
 
 Below are a list of additional resources to help you with your career development and job search.
 
-### Storytelling & Branding Resources
-* [Resources for Building Your Brand as a Software Developer](/resources/branding_resources)
+### Networking 
+* [Outreach & Networking Resources](/resources/outreach_networking_resources)
 
-### Finding Opportunities Resources
-* [Listing of various tools for finding opportunities](/resources/finding_opportunities)
+### Interviewing
+* [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
 
-### Application Resources
+### Materials
+* [Storytelling, LinkedIn & Other Branding Resources](/resources/branding_resources)
 * [Resume Resources](/resources/resume_resources)
 * [Cover Letter Resources](/resources/cover_letter_resources)
 
-### Outreach & Networking Resources
-* [Outreach & Networking Resources](/resources/outreach_networking_resources)
+### Job Search Strategies
+* [Listing of tools to find jobs](/resources/finding_opportunities)
 
-### Interview Prep Resources
-* [Compilation of Lots of Interview Prep Resources](/resources/interview_prep_resources)
-
-### Negotiations Resources
+### Negotiations
 * [List of resources to help you with negotiating your job offers](/resources/negotiations)
 
 ### Leveling Up Your Tech
