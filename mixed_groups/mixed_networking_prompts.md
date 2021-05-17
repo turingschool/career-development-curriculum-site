@@ -29,7 +29,7 @@ There are several components of networking that could be helpful to discuss as a
 
 * [Finding the right person to network with](#right-person)
 * [Sending a message to a contact](#messaging)
-* 
+* [Preparing for phone calls or coffee meetings](#preparing)
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
@@ -37,6 +37,10 @@ Take time to wrap up any conversation threads! Decide how you'd like to continue
 ## Activity Prompts
 
 ### Finding the Right Person to Network With <a name="right-person"></a>
+You know you want to network, but you're not sure who to reach out to.
+
+Everyone in the group find someone they want to network with. As a group, walk through the steps with each other to do research into a contact, craft a message, update your notes/tracker, etc.
+
 
 
 ### Messaging <a name="messaging"></a>
@@ -47,7 +51,8 @@ A key component of networking is personalization, both in your initial message t
     * If you are sending the message today, what steps will you take to prepare for the conversation?
 2. Mod 4 student lead: solicit advice from the group on how to write a message you want to send. 
 3.  
-4.    Everyone in the group find someone they want to network with. As a group, walk through the steps with each other to do research into a contact, craft a message, update your notes/tracker, etc.
-Here are resources to check out to help you with this
+4.    
+
+### Preparing <a name="messaging"></a>
 
 
