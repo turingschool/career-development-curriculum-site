@@ -24,7 +24,7 @@ The student lead chooses 1-2 of the following questions to respond to and share 
 * What advice do you have for others at Turing when it comes to interview prep?
 
 ### Group Discussion: Creating Interview Prep Documents & Practicing (15 mins)
-There are several components of interviewing that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed at the link below:**
+There are several components of interviewing that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed below:**
 
 1. **Talk about it.** Build awareness of your interview skills:
 
