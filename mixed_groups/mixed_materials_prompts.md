@@ -19,32 +19,36 @@ You're in a mixed group of people across modules and programs. Start by getting 
 ### Mod 4 Student Leader(s) Share Their Experiences (8-10 mins)
 The student lead chooses 1-2 of the following questions to respond to and share their experiences with the group:
 
-* What has been successful for you when it comes to using your LinkedIn/resume/cover letters to share your story?
-* What has been challenging for you in this area?
+* What has been successful for you when it comes to using your LinkedIn/resume/cover letters to share your story? What helpful advice have you received?
+* What has been challenging for you in this area? How are you working to overcome these challenges?
 * What advice do you have for others at Turing when it comes to preparing your materials?
 
 ### Group Discussion: Creating Interview Prep Documents & Practicing (15 mins)
-There are several components of interviewing that could be helpful to discuss as a group today. From the following topics, choose 1 as a group and try out the activities listed at the link below:
+There are several components of interviewing that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed at the link below:**
 
-1. **Talk about it.** Build awareness of your interview skills:
+1. **Resumes.** Mod 3 or 4 student shares their resume with the group. The group provides feedback on:
 
-* How are you already actively working on interview skills at Turing?
-* When you don’t know how to answer a technical question in an interview, what can you do?
-* What are some effective ways to talk about projects at Turing in interviews?
-* What do you think are the 3 most important things an employer would want to know about a Turing graduate? How should you make sure to communicate that in an interview? 
+* What can you learn about this person from their resume?
+* What catches your attention?
+* What questions do you still have about their experience/story after looking at the resume?
 
-2. **Prep for it.** Spend 10 minutes building an interview prep document using the following prompts and then share with each other your takeaways from this prep work.
+2. **LinkedIn.** Everyone in the group take turns sharing LinkedIn profiles with each other. The group provides feedback on:
 
-* 
+* What can you learn about this person from their resume?
+* What catches your attention?
+* What questions do you still have about their experience/story after looking at the resume?
 
-3. **Practice.** Using the [interview questions in the bottom of this page](/resources/interview_prep_resources), take turns asking each other interview questions and giving responses. Provide feedback for each other that is specific, actionable, and kind. 
+Connect with each other on LinkedIn!
 
-Share your professional story as a short pitch. How can you communicate this story through your LinkedIn or resume? Could you help from the group on how to do this better? Share feedback and ideas with each other.
-The key to a good cover letter is showing that you understand the company and their needs. What steps could you take to do that research? If you were a hiring manager reading a cover letter, what would you want to read in order to be excited about the candidate?
-Check out some of the portfolios up on Terminal. What trends do you notice that make them effective in sharing their story and skills? 
-4. Here are resources on branding, resumes, and cover letters 
+3. **Cover Letters.** Mod 3 or 4 student shares a cover letter with the group. The group provides feedback on:
 
+* How does this cover letter communicate that the applicant understands the company and their needs?
+* If you were the hiring manager for this position, what makes you excited about this candidate? 
+
+4. **Portfolios.**. Check out some of the portfolios up on [Terminal](https://terminal.turing.edu) -- students create these starting in Mod 3, and Turing staff shares these with employers. The group discusses:
+
+* What trends do you notice that make them effective in sharing their story and skills? 
+* What can you incorporate into your own portfolio to help you stand out as a candidate?
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
-
