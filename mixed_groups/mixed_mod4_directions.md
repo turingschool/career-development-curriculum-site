@@ -20,7 +20,7 @@ No. If you select a topic that you want to work on, start by sharing what barrie
 Talk about what strategies you have used. For example, with networking, how have you approached networking? What was successful for you and what wasn't? What advice would you give to lower mod students about networking at their stage in the program? 
 
 **If I identify as someone who is less represented in tech and choose that group, how should I "lead" it?**
-
+This group is run in a more open-ended format, and you are not expected to lead the group. You are still expected to post which breakout room the group will go to in the Slack message.
 
 **Do I need to prepare anything?**
 Nothing formal. You'll have time in your Homeroom Groups prior to the Mix It Up groups to prep what you'd like to share, but this is meant to be an informal discussion with a group of fellow students -- no formal presentation required!
