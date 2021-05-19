@@ -26,8 +26,9 @@ There are several components of job searching that could be helpful to discuss a
 
 * **Defining your job search.** 
   * What are your needs in a company and in your job search overall? What kind of support do you need from your peers and the Career Dev team?
+  * How could this group support each other in your job search?
  
-* **Authenticity in your job search
+* **Authenticity in your job search**
   * How do you feel about being your full self in the job search and workplace? 
   * What concerns do you have about that? 
   * What strategies have been helpful for you in the past in this area that you could share with the group?
