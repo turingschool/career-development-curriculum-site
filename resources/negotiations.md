@@ -9,6 +9,7 @@ title: Negotiations Resources
 
 * [Glassdoor](https://www.glassdoor.com/index.htm)
 * [Payscale](https://www.payscale.com/)
+* [Blind Salary Comparison](https://www.teamblind.com/salaryComparison)
 * [81cents](https://www.81cents.com/)
 * [Stack Overflow Salary Calculator](https://stackoverflow.com/jobs/salary)
 * [Levels.fyi](https://www.levels.fyi/comp.html?track=Software%20Engineer) lets you search by company, location, and position level to see market value for salaries.
