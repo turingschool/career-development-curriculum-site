@@ -39,7 +39,7 @@ Skip down to:
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
 1. Revisit norms (5 mins)
 2. Discuss (20 mins):
-  * Share a Stretch or Achievable goal you choose to work on from last week. What progress have you made?
+  * Share a Stretch or Achievable goal you've been working on. What progress have you made?
   * If progress was not made, share what challenges you had and what steps you can take to move the needle forward. 
 3. Take a 5-min pom before Mix It Up!
 
