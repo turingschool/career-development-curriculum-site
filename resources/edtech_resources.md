@@ -17,6 +17,11 @@ EdTech refers to technology in the education industry whether by creating softwa
 #### Companies
 
 * [BuiltIn's list of EdTech Companies](https://builtin.com/companies/type/edtech-companies)
+* Companies that have hired Turing grads:
+  * 2U
+  * Guild Education
+  * SchoolSafe Communications
+  * Year Up
 
 #### Job Boards & Search Tools
 
