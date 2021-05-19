@@ -30,7 +30,10 @@ As a group, discuss:
 * What interests you about this field? How can you incorporate your interest in this industry into your professional story? 
 * What steps could you take to learn more about this industry? Who should you network with? Share tips with each other.
 * Who from the Turing alumni network works in this industry? How could you find out?
-* Explore some of the resources at the link for your group above. Share takeaways with each other.
+* Explore some of the resources at the link for your group above. Share takeaways with each other:
+   * What companies sounded interesting and why? What are their products? 
+   * What networking opportunities are there to learn more about these companies?
+   * Do you have a better understanding of this industry now? Why/why not?
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
