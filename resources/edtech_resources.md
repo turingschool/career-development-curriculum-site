@@ -16,13 +16,9 @@ EdTech refers to technology in the education industry whether by creating softwa
 
 #### Companies
 
-* [Nationwide EdTech Companies](https://builtin.com/companies/type/edtech-companies)
-* [36 EdTech Companies Changing the Way We Learn](https://builtin.com/edtech/edtech-companies)
-
+* [BuiltIn's list of EdTech Companies](https://builtin.com/companies/type/edtech-companies)
 
 #### Job Boards & Search Tools
 
-
-#### Other Resources
-
-
+* [EdSurge](https://www.edsurge.com/jobs) (filter by Engineering jobs)
+* [AngelList](https://angel.co/jobs) (filter by Education)
