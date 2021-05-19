@@ -27,8 +27,9 @@ Depending on which group you're in, use the links below to dig into some resourc
 
 As a group, discuss:
 
-* What interests you in this field?
+* What interests you in this field? How can you incorporate your interest in this industry into your professional story? 
 * What steps could you take to learn more about this industry? Who should you network with? Share tips with each other.
+* Who from the Turing alumni network works in this industry? How could you find out?
 * Explore some of the resources at the link for your group above. Share takeaways with each other.
 
 ### Close Out & Next Steps (5 mins)
