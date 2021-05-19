@@ -42,4 +42,4 @@ There are several components of job searching that could be helpful to discuss a
     * [Searching for companies by key values](https://www.keyvalues.com/)
 
 ### Close Out & Next Steps (5 mins)
-Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
+Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion and if you'd like to support each other moving forward.
