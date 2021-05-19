@@ -27,7 +27,9 @@ Depending on which group you're in, use the links below to dig into some resourc
 
 As a group, discuss:
 
-* 
+* What interests you in this field?
+* What steps could you take to learn more about this industry? Who should you network with? Share tips with each other.
+* Explore some of the resources at the link for your group above. Share takeaways with each other.
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
