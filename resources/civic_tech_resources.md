@@ -23,8 +23,7 @@ More than probably any other industry, Civic Tech is designed to include others 
 
 * [Civic Tech Company Database](https://airtable.com/universe/exp8LkpapvedfTi6k/civic-tech-companies-and-organizations?explore=true)
 * [List of Tech Worker Cooperatives](https://github.com/hng/tech-coops#coops-namerica)
-* 
-
+* [Civic Tech Field Guide Company Page](https://civictech.guide/listing-category/social-impact-design-groups/)
 
 #### Job Boards & Search Tools
 
@@ -32,5 +31,6 @@ More than probably any other industry, Civic Tech is designed to include others 
 * [Progressive Data Jobs](https://www.progressivedatajobs.org/)
 * [Code for America's Public Interest Tech job board](https://jobs.codeforamerica.org/). Note: this site is down for maintenance until July 1, 2021
 
-### Getting the Job
-As with any other job in the tech industry, you should follow the same strategies of researching the company, networking with people at the company, customizing your resume and cover letter, and focusing your interview prep on the company. For more information
+#### Other Resources
+
+* [Public Interest Technology Resources](https://public-interest-tech.com/)
