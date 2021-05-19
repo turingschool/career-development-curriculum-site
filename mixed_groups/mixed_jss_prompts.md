@@ -27,26 +27,30 @@ The student lead chooses 1-2 of the following questions to respond to and share 
 ### Group Discussion: Building Job Search Strategies (15 mins)
 There are several components of job search strategies that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed below:**
 
-1. **Reflect on previous successes.** As a group, discuss:
+1. **Reflect on previous strategies.** As a group, discuss:
 
-* In a lot of ways, the job search as a software developer is not much different from other job searches. What has been successful for you in previous job searches? Why was that successful and how could you apply that to a strategy for this job search now? 
+* In a lot of ways, the job search as a software developer is not very different from other job searches. What has been successful for you in previous job searches? Why was that successful and how could you apply that to a strategy for this job search now? 
+* If you were to create a step by step strategy for applying to jobs, what are the steps you would include? Are there any that are more challenging for you to complete (an example of this might be networking)? If so, how will you find support for those steps? 
 
-2. **Create your career vision.**
+2. **Time management for your job search.** As a group, discuss:
 
-* What are your current goals or vision for your new career? If you don't know the answer, what How can that help you formulate a strong job search strategy? Solicit ideas from the rest of the group.
-What are all the ways you could find out about job opportunities beyond job boards?
-If you were to create a step by step strategy for applying to jobs, what are the steps you would include? Are there any that are more challenging for you to complete (an example of this might be networking)? If so, how will you find support for those steps? 
+* While you're still in Turing, what would it look like to block out time to work on your job search? 
+* Get specific:
+  * When will you make this happen? 
+  * How will you hold yourself accountable to this?
+  * What activities will you focus on during this time this week? 
+  * What outcomes do you hope to reach by the end of this module?
 
+3. **Create your career vision.** As a group, discuss:
 
-As a group, build a job search strategy:
-Regardless of what mod you’re currently in, what have you learned about successful job search strategies in the tech industry?
-Look through the resources here. How could you use them to have a successful strategy?
-Turing job searches are most successful and quickest when students collaborate with each other and share resources. What could that look like across programs and modules? How could you continue this idea sharing beyond today?
-4. I Do Activity: (10 mins)
-Everyone in the group spends 5 mins checking out more resources. See if you can find a company you’re interested in learning more about! 
-After 5 mins, share what you found with the group!
+* What are your current goals or vision for your new career? 
+* How will you use these goals/vision to drive your job search?
+* Turing job searches are most successful and quickest when students collaborate with each other and share resources. Knowing each other's goals will help you know which resources to share. How do you want to help each other beyond your discussion today?
 
+4. **Explore resources.** Check out the [resources here](/resources/finding_opportunities) and discuss:
 
+* What is 1 resource that looks helpful? How will you use that resource in the future?
+* If you were to start on your job search today, what is the first step you would take? What support do you need? How could this group help you with that step?
 
 ### Close Out & Next Steps (5 mins)
 Take time to wrap up any conversation threads! Decide how you'd like to continue the conversation (if you want) with each other beyond today's discussion. Add each other on LinkedIn. 
