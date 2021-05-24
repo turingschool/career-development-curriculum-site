@@ -27,6 +27,7 @@ Below are both resources and outlined steps for taking on outreach and networkin
 * [Quickmail.io](https://quickmail.io/)
 * [Snov.io](https://snov.io/)
 * [Go Pin Leads](https://www.gopinleads.com/)
+* [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
 * Check the person's GitHub profile or look for their personal website
 
 ### Prepare for Coffee Meetings
