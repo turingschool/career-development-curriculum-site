@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module 1 Professisonal Development
+title: Module 1 Professional Development
 ---
 
 ## Overview
