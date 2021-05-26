@@ -5,7 +5,7 @@ title: Turing Career Development - Mod 1 Prework
 
 The Career Development prework is divided into 8 sections and shouldn't take more than 2 hours to complete. 
 
-### Part I: Career Development Overview
+### Part I: Career Development Overview (15 mins)
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
 * Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
@@ -16,9 +16,14 @@ The objective of the Career Development Team is for all Turing students to have 
 
 You can find all information on the curriculum and job search support on the [Career Development site](https://careerdev.turing.edu)
 
+**Action Items to Complete:**
+1. Bookmark the [Career Development site](https://careerdev.turing.edu). You will also be able to find this site again from both the [Backend Curriculum site](https://backend.turing.edu) and the [Frontend Curriculum site](https://frontend.turing.edu). 
+2. 
+
 ### Part II: Pairin Survey (15-20 mins)
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. 
 
+**Action Items to Complete:**
 1. Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
    * First section: Choose adjectives to answer _how you currently are_
    * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. The survey should take you about 15-20 minutes.
@@ -43,15 +48,27 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 ### Part III: Intake Information
 
+**Action Items to Complete:**
+
 ### Part IV: Networking
+
+**Action Items to Complete:**
 
 ### Part V: Interviewing
 
+**Action Items to Complete:**
+
 ### Part VI: Materials
+
+**Action Items to Complete:**
 
 ### Part VII: Job Search Strategies
 
+**Action Items to Complete:**
+
 ### Part VIII: Negotiations
+
+**Action Items to Complete:**
 
 ## Career Development Mod 1 Prework Submission Directions
 Fill out this survey to answer some questions for the Career Development team and submit the links to both of your documents from Parts I and II **[here](https://forms.gle/8GXA5kHhZ156jdd16)**
