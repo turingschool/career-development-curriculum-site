@@ -18,7 +18,8 @@ You can find all information on the curriculum and job search support on the [Ca
 
 **Action Items to Complete:**
 1. Bookmark the [Career Development site](https://careerdev.turing.edu). You will also be able to find this site again from both the [Backend Curriculum site](https://backend.turing.edu) and the [Frontend Curriculum site](https://frontend.turing.edu). 
-2. 
+2. Watch this video
+3. Answer 4-5 questions...
 
 ### Part II: Pairin Survey (15-20 mins)
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. 
