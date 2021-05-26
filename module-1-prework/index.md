@@ -3,7 +3,7 @@ layout: page
 title: Turing Career Development - Mod 1 Prework
 ---
 
-The Career Development prework is divided into 8 sections and shouldn't take more than 2 hours to complete. 
+The Career Development prework is divided into 4 sections and shouldn't take more than 2 hours to complete. 
 
 ### Part I: Career Development Overview (15 mins)
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
@@ -65,7 +65,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 **Action Items to Complete:**
 
-##### Job Search Strategies
+#### Job Search Strategies
 
 **Action Items to Complete:**
 
