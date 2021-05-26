@@ -47,27 +47,29 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
-### Part III: Intake Information
+### Part III: Intake Information (15 mins)
 
 **Action Items to Complete:**
 
-### Part IV: Networking
+### Part IV: Complete 1 activity for Each Competency (60-75 mins)
+
+#### Networking
 
 **Action Items to Complete:**
 
-### Part V: Interviewing
+#### Interviewing
 
 **Action Items to Complete:**
 
-### Part VI: Materials
+#### Materials
 
 **Action Items to Complete:**
 
-### Part VII: Job Search Strategies
+##### Job Search Strategies
 
 **Action Items to Complete:**
 
-### Part VIII: Negotiations
+#### Negotiations
 
 **Action Items to Complete:**
 
