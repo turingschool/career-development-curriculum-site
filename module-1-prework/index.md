@@ -3,19 +3,18 @@ layout: page
 title: Turing Career Development - Mod 1 Prework
 ---
 
-When you're transitioning careers, often many other aspects of your approach to work and life undergo a transition as well. Turing aims to be a place where you can work through these transitions successfully. While enrolled at Turing and during your subsequent job search, you'll be provided with tools and strategies to develop the professional skills necessary to enter a new career as a software developer.
-
-Our objective is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies and the career development prework is focused on introducing you to 
-
-Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
-Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
-Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
-Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
-Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
-
-## **Mod 1 Prework submission directions:**
+The Career Development prework is divided into 8 sections and shouldn't take more than 2 hours to complete. 
 
 ### Part I: Career Development Overview
+The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
+
+* Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
+* Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
+* Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
+* Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
+* Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
+
+You can find all information on the curriculum and job search support on the [Career Development site](https://careerdev.turing.edu)
 
 ### Part II: Pairin Survey (15-20 mins)
 One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. 
