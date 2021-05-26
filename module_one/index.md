@@ -48,6 +48,8 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
   
 *If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
 
+Based on what you identified in the [Module 1 Prework](/module-1-prework/index) your specific outcome could look a little different. 
+
 #### Deliverables to be completed by end of Module 1
 * Students should have LinkedIn rough draft completed and get feedback from peers
 * Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
