@@ -18,7 +18,7 @@ You can find all information on the curriculum and job search support on the [Ca
 
 **Action Items to Complete:**
 1. Bookmark the [Career Development site](https://careerdev.turing.edu). You will also be able to find this site again from both the [Backend Curriculum site](https://backend.turing.edu) and the [Frontend Curriculum site](https://frontend.turing.edu). Spend a few minutes browsing around the site and make note of:
-    * The Career Dev Team mission statement on the homepage
+    * The Career Dev Team mission statement and Team members on the homepage
     * The [Module 1 section](/module_one/index), which includes lessons, activities, and information on your learning goals for Mod 1
     * The [Resources section](/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
     * The [Homeroom Groups](/student_discussion_groups/index) and [Mix It Up](/mixed_groups/index) information. Within your cohort, you'll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you'll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
