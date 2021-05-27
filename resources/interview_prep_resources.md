@@ -58,6 +58,7 @@ Below you can find lots of resources to help you prepare for both components.
 * [Essential Java Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23?icn=post-3ey8yl7epg&ici=post-du107xs23)
 * Read about the [interview process at over 500 companies](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 * [Popular Tech Stacks](https://stackshare.io/stacks)
+* [Devetry's Engineer Interview Rubric](https://info.devetry.com/engineer-interview-rubric)
 
 ## Behavioral Interview Prep Resources
 
