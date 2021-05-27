@@ -45,21 +45,20 @@ Skip down to:
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins) 
-2. Discuss the following discussion questions (30 mins):
-  * What are you taking away from yesterday’s PD session and Alumni panel?
-  * What are some goals that you hope to achieve as it relates to your job search in the next 6 weeks? Please try to come up with one of each type of goal below (However, more are encouraged):
-    * Stretch Goal (Might be something outside of your control)
-    * Achievable Goal (Think of a goal within your control) 
-
-Share:
+2. Discuss the following discussion questions (20 mins):
+  * What are some key takeaways from yesterday's session?
+  * What advice or tips can you utilize from the Alumni panelists that you can implement today? 
+  * Is there anything that was said yesterday that has changed your job search goals for the remainder of your time at Turing?
+  * What is the progress towards your stretch goals? Has anything changed?
+3. Plan out how to achieve your goals during the last 3 weeks of Mod 4 (20 mins):
   * What will get you to your goal? 
   * What can you do each week to achieve your goal? (add steps to your calendar)
   * What do you need to get this done? (resources, people) 
   * What would keep you from getting this done? 
   * How do you know you will complete this goal? What will you do to celebrate?
   * How will you hold yourself accountable to your goals?
-
-3. Write out action steps you can take right away (your career journal gist is a good place to put this!) (10 mins)
+5. Share plans with each other (10 mins):
+  * How can you hold each other accountable to these plans?
 
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
 1. Revisit your norms (5 mins)
