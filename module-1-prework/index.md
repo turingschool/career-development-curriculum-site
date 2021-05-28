@@ -42,7 +42,6 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
    * [Pairin Qualities Overview](/files/Pairin%20Top%20Qualities%20Overview.pdf) (2.5 minute read)
    * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
-   * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ### Part III: Complete 1 activity for Each Competency (60-75 mins)
