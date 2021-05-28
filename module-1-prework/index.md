@@ -45,8 +45,10 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ## Part III: Complete 1 activity for Each Competency (60-75 mins)
+As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
+Using outreach and networking strategies to make connections in the software industry to support a student’s job search
 
 **Networking Action Items to Complete:**
 
