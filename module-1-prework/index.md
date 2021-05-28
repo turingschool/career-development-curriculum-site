@@ -66,10 +66,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 **Negotiations Action Items to Complete:**
 
-## Part IV: Intake Information (15 mins) <a name="submission"></a>
-
-**How to Submit Your Career Development Prework:**
-
+## Part IV: Submit Your Career Development Prework (15 mins) <a name="submission"></a>
 Fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrPCjCpnlt1wWurL). 
 
 If you have any questions about the prework, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
