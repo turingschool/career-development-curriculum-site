@@ -39,6 +39,7 @@ Below you can find lots of resources to help you prepare for both components.
    * [HackerRank](https://www.hackerrank.com/dashboard)
    * [CodeSignal](https://codesignal.com/)
    * [Interview Cake](https://www.interviewcake.com/)
+   * [Daily Coding Problem](https://www.dailycodingproblem.com/)
 
 ### Other Resources
 
