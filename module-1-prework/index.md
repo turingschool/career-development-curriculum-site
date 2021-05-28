@@ -3,7 +3,7 @@ layout: page
 title: Turing Career Development - Mod 1 Prework
 ---
 
-The Career Development prework is divided into 4 sections and should take about 2 hours to complete. 
+The Career Development prework is divided into 4 sections and should take about 2 hours to complete. [Submission Directions for this Prework are here](#submission)
 
 ### Part I: Career Development Overview (15 mins)
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
@@ -24,7 +24,7 @@ You can find all information on the curriculum and job search support on the [Ca
     * The [Homeroom Groups](/student_discussion_groups/index) and [Mix It Up](/mixed_groups/index) information. Within your cohort, you'll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you'll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
     * The [Module 5 section](/module-5/index), which covers what job search support looks like once you've graduated from Turing.
 3. [Watch this video that outlines our expectations and FAQs about Career Development](
-4. Reflect on the following questions in the survey you'll submit for this section of prework (see directions at the bottom of this page):
+4. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
    * How do you feel about the expectations of the professional development curriculum? What are you excited about when it comes to professional development? What are your questions or concerns about these expectations?
 
 ### Part II: Pairin Survey (15-20 mins)
@@ -35,7 +35,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * First section: Choose adjectives to answer _how you currently are_
    * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. The survey should take you about 15-20 minutes.
   
-2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your prework survey submission (see directions at the bottom of this page).
+2. Download the PDF of your Pairin Top 4 results (or take a screenshot) and include it in your prework survey submission (see [submission directions here](#submission)).
 
 **Optional:** To build an understanding of your Pairin results, here are additional resources:
 
@@ -66,7 +66,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 
 **Action Items to Complete:**
 
-### Part IV: Intake Information (15 mins)
+### Part IV: Intake Information (15 mins) <a name="submission"></a>
 
 **Action Items to Complete:**
 Fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrPCjCpnlt1wWurL). 
