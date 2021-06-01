@@ -3,7 +3,17 @@ layout: page
 title: Cover Letter Resources
 ---
 
-## General Advice
+## Writing a Cover Letter
+If we were to sum up the cover letter and how it compares to your resume in one sentence, the resume is about you while the cover letter is about *them (the company).* 
+
+### Templates to Get You Started
+If you're having trouble getting started, check out some of the below templates, but make sure to *customize* your cover letter each time you write one:
+* [JobScan Software Engineer Example Cover Letter](https://drive.google.com/file/d/0ByjaebCKc6FnZDVXX3dpTFBRbDg/view?usp=sharing)
+* [JobScan General Cover Letter](https://drive.google.com/file/d/0ByjaebCKc6FneUVmOExtOXpKd28/view?usp=sharing)
+* [JobScan General Cover Letter #2](https://drive.google.com/file/d/0ByjaebCKc6FnQUhJUHhFLWJDdTg/view?usp=sharing)
+* [JobScan Management Example Cover Letter](https://drive.google.com/file/d/0ByjaebCKc6FnY3lGU1VOOG1rZW8/view?usp=sharing)
+
+### General Advice
 
 * [Ask a Manager: Examples of great cover letters](https://www.askamanager.org/category/cover-letters)
 * [The Muse: All-Time Best Tips for Writing Cover Letters](https://www.themuse.com/advice/how-to-write-a-cover-letter-31-tips-you-need-to-know)
@@ -12,10 +22,8 @@ title: Cover Letter Resources
 * [How to Write the Ultimate Tech Cover Letter (with examples)](https://docs.google.com/document/d/1u0HDGdncaJF-Z41wvsisn5UEdhyr1-wI-Lu0c7RexBk/edit?usp=sharing)
 * [How to Start a Cover Letter](https://www.thebalancecareers.com/cover-letter-opening-sentences-examples-2061030)
 
-## Writing the Cover Letter: Checklist
-Use this checklist to make sure cover letters have all the necessary components. 
-
-**Disclaimer for using this checklist:** The best cover letters are those that capture the applicant's voice and describes them in authentic way. This checklist is meant to help job seekers ensure that they have all the right pieces in their cover letter, NOT to create a carbon-copy template. 
+## General Checklist
+Use this checklist to make sure your cover letters have all the necessary components. 
 
 ### Layout
 - [ ] Clean, easy-to-follow
