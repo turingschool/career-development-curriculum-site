@@ -15,6 +15,7 @@ Below are a list of additional resources to help you with your career developmen
 * [Storytelling, LinkedIn & Other Branding Resources](/resources/branding_resources)
 * [Resume Resources](/resources/resume_resources)
 * [Cover Letter Resources](/resources/cover_letter_resources)
+* [Terminal Portfolio Directions](/resources/terminal_directions)
 
 ### Job Search Strategies
 * [Listing of tools to find jobs](/resources/finding_opportunities)
