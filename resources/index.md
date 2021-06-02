@@ -18,6 +18,7 @@ Below are a list of additional resources to help you with your career developmen
 
 ### Job Search Strategies
 * [Listing of tools to find jobs](/resources/finding_opportunities)
+* [Tips from 1906 BE grad Mack Halliday on Contracting](https://docs.google.com/document/d/1uq7N9DsqIEabHe19RGhKQ17yciKuZdZ7QYtOsLMqJiI/edit?usp=sharing)
 
 ### Negotiations
 * [List of resources to help you with negotiating your job offers](/resources/negotiations)
