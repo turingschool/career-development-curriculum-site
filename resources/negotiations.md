@@ -34,3 +34,8 @@ title: Negotiations Resources
 ### When You Get an Offer
 
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
+
+### Turing Salary Data
+* [Find latest Quarterly Salary Outcomes for Turing grads](https://turing.edu/outcomes/) and [more qualitative data on outcomes here](https://writing.turing.edu/tag/outcomes/)
+* [Averages for Contracts/Hourly Work](https://docs.google.com/spreadsheets/d/19KidjxU_8ux-oEzTRmYVPxT-zsonbjLaQ3KAijfDuyw/edit?usp=sharing)
+* Follow the #salaries channel on Slack
