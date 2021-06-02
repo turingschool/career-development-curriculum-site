@@ -91,7 +91,7 @@ Consider:
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
 #### How to Set It Up
-* Log into Terminal at https://terminal.turing.edu/developers/sign_in
+* Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
 * Click “Request Review”
