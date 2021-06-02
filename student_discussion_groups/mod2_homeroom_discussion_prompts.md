@@ -71,16 +71,16 @@ Skip down to:
 
 ### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
 1. Revisit your norms (5 mins)
-2. Coming out of the session on Job Search Strategies yesterday, share (10 mins):
-  * What were your key takeaways? 
-  * What has your job search strategy looked like in the past? How does it compare to what you learned in the session? 
-  * What changes should you make to build an effective job search strategy for your first software job?
-3. Take 10 mins to go through [these resources](/resources/finding_opportunities) on your own and start on your copy of the [Job Search Process sheet](https://docs.google.com/document/d/1B39ViRamGHNVLzelnlEIhzLWNwsrPvf1J8MjtxDKgsc/edit?usp=sharing) (10 mins).
+2. As you think about your What's a Dev event tomorrow, spend some time preparing questions (10 mins):
+  * What are your top questions right now about what a developer does?
+  * Look at up the companies you'll be hearing from. Do you have a sense of what they do? What questions do you have?
+  * If you were to apply at any of these companies, what information would you need to know first? What questions could you ask during the session to help you learn more?
+3. Next week's session is on Job Search Strategies. To help you begin to think about building your job search strategy, take 10 mins to go through [these resources](/resources/finding_opportunities) on your own and start on your copy of the [Job Search Process sheet](https://docs.google.com/document/d/1B39ViRamGHNVLzelnlEIhzLWNwsrPvf1J8MjtxDKgsc/edit?usp=sharing) (10 mins).
 4. Share with each other (10 mins):
   * What resource did you use? What did you learn?
   * What kinds of jobs/companies will you target?
   * How can you support each other with these goals? How will you hold each other accountable to the strategy steps?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-
+This week's homeroom group is a working session on your resumes. 
 
