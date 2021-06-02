@@ -47,6 +47,7 @@ Below are a list of additional resources to help you with your career developmen
 * [Grit: The Power of Passion and Perseverance](https://bookshop.org/books/grit-the-power-of-passion-and-perseverance/9781501111112)
 * [Mindset: The New Psychology of Success](https://bookshop.org/books/mindset-the-new-psychology-of-success/9780345472328)
 * [More Than Enough: Claiming Space for Who You Are (No Matter What They Say)](https://bookshop.org/books/more-than-enough-claiming-space-for-who-you-are-no-matter-what-they-say/9780525561583)
+* [Never Split the Difference: Negotiating as if Your Life Depended on It](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801)
 * [Presence: Bringing Your Boldest Self to Your Biggest Challenges](https://bookshop.org/books/presence-bringing-your-boldest-self-to-your-biggest-challenges/9780316256582)
 * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
 * [Refactoring: Improving the Design of Existing Code](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
