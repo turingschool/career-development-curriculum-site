@@ -35,9 +35,10 @@ There are several components of negotiations that could be helpful to discuss as
 * How could you communicate that you are worth that higher salary number?
 * Start making a list and brainstorm together! Examples: transferable skills and knowledge from previous careers, demonstrated abilities in the work that they’re looking for, etc.
 
-2. **Discuss Turing salaries.** Look through a few of the [Turing outcomes reports](https://turing.edu/outcomes/). 
+2. **Discuss Turing salaries.** Look through a few of the [Turing outcomes reports](https://turing.edu/outcomes/) or posts in the #salaries channel. 
 
 * What trends do you notice in the hiring outcomes?
+* After reading through the latest posts in the #salaries channel, what are your biggest takeaways?
 * How does this information help you prepare for your own job search?
 * What questions does this raise that you'll want to answer when it comes to your own salary expectations?
 
