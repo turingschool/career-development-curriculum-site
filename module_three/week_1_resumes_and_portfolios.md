@@ -98,18 +98,41 @@ Turing provides a space for professional portfolios on [our website](https://ter
 * Staff member will review your profile and approve for publishing or request additional changes
 * For more info on how to set this up, [watch this demo](https://share.descript.com/view/gUvd2rRN4Ck)
 
-Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job.
+Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
 #### Terminal Portfolio: What Should Be Included
-What needs to be included in order for your portfolio to be published?
+What needs to be included in order for your portfolio to be published? Here is what the team is looking for:
 
-* Professional photo (Just you! Sorry, but no kids or animals)
-* Description (where you tell your professional story)
-* Polished draft of resume
-* At least **2 projects** highlighted
+- [ ] **Title**
+- [ ] **Professional-looking photo** 
+     * This should be a photo of just you (no kids or animals, sorry!)
+     * Use the same photo as your LinkedIn and GitHub profiles if possible
+     * Don't have a professional-looking photo? [Check out this post](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home
+- [ ] **About Me Description**
+     * Tell your professional story -- what is your story about your past, present, and future that you want to share with employers? Make sure to answer these questions: who am I? Why am I in this field? What’s next for me?
+     * Consider how this is consistent with your LinkedIn and overall brand
+     * If you’re struggling with writing this and need additional support, please contact your mentor and/or members of the career development team
+     * Check out your peers’ About Me sections to see what you like and don’t like on [Terminal](https://terminal.turing.edu)
+     * Make sure to have someone else review this section for clarity, spelling, and grammar
+- [ ] **Email address**
+- [ ] **GitHub profile**
+- [ ] **LinkedIn profile**
+- [ ] **Polished draft of resume**
+- [ ] **Preferred Locations**
+- [ ] **Previous Industries**
+- [ ] **Skills**
+- [ ] At least **2 projects** 
     * Show variety: paired, team, individual
-    * Include an estimation of project contribution hours
-    * Include screenshots
+    - [ ] Include an estimation of project contribution hours
+    - [ ] Include screenshots
+    - [ ] Tools Used
+    - [ ] Code Repository Link
 
-If you have any questions about this portfolio, please reach out to the CD team!
+Nice to have but not required for initial publication:
+* Pronouns
+* Skills you are currently learning
+* Twitter profile
+* Project collaborators
+* Deployed Project link
 
+If you have any questions about this portfolio, please reach out to the Career Development team!
