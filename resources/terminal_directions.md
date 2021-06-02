@@ -24,15 +24,15 @@ What needs to be included in order for your portfolio to be published? Here is w
 
 - [ ] **Title**
 - [ ] **Professional-looking photo** 
-   * This should be a photo of just you (no kids or animals, sorry!)
-   * Use the same photo as your LinkedIn and GitHub profiles if possible
-   * Don't have a professional-looking photo? [Check out this post](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home  
+   - [ ] This should be a photo of just you (no kids or animals, sorry!)
+   - [ ] Use the same photo as your LinkedIn and GitHub profiles if possible
+   - [ ] Don't have a professional-looking photo? [Check out this post](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/) for tips on how to take one at home  
 - [ ] **About Me Description**
-   * Tell your professional story -- what is your story about your past, present, and future that you want to share with employers? Make sure to answer these questions: who am I? Why am I in this field? What’s next for me?
-   * Consider how this is consistent with your LinkedIn and overall brand
-   * If you’re struggling with writing this and need additional support, please contact your mentor and/or members of the career development team
-   * Check out your peers’ About Me sections to see what you like and don’t like on [Terminal](https://terminal.turing.edu)
-   * Make sure to have someone else review this section for clarity, spelling, and grammar  
+   - [ ] Tell your professional story -- what is your story about your past, present, and future that you want to share with employers? Make sure to answer these questions: who am I? Why am I in this field? What’s next for me?
+   - [ ] Consider how this is consistent with your LinkedIn and overall brand
+   - [ ] If you’re struggling with writing this and need additional support, please contact your mentor and/or members of the career development team
+   - [ ] Check out your peers’ About Me sections to see what you like and don’t like on [Terminal](https://terminal.turing.edu)
+   - [ ] Make sure to have someone else review this section for clarity, spelling, and grammar  
 - [ ] **Email address**
 - [ ] **GitHub profile**
 - [ ] **LinkedIn profile**
@@ -41,7 +41,7 @@ What needs to be included in order for your portfolio to be published? Here is w
 - [ ] **Previous Industries**
 - [ ] **Skills**
 - [ ] At least **2 projects** 
-   * Show variety: paired, team, individual 
+   - [ ] Show variety: paired, team, individual 
    - [ ] Include an estimation of project contribution hours
    - [ ] Include screenshots
    - [ ] Tools Used    
