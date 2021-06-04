@@ -9,20 +9,9 @@ title: Building Connection Part I
 * Create and execute a plan for your own outreach and networking this week  
 
 ### Why Outreach?
-You'll hear us say over and over again that networking is all about  “Networking is transactional.”
+You'll hear us talk about networking as an essential component to the job search, but it can feel uncomfortable for many. You might think to yourself: "I don't want to bother them" or "How do I talk to them without coming across like I'm asking for a job?" Instead of thinking about networking as being transactional, think about it like any other relationship -- it's about connection. 
 
-Reframe: “Networking is merely asking for directions.”
+Furthermore, networking have different purposes. In this session, we're going to focus on how networking can be a form of research. Think to yourself: what do I want to learn? Who is best to answer these questions? 
 
+### What Does This Look Like?
 
-Focus on how networking can be a form of research
-What do I want to learn?
-Who is best to answer these questions?
-Provide context with where they are at in the program and how networking can be experiential learning by nature
-What Does it look like?
-Walk through LinkedIn and demo ways to connect with alumni and companies
-Show how to follow companies
-Advise students to look at profiles of devs based on interest and what companies they have worked at both past present and future 
-Go to BuiltIn and showcase the information on the company directory as an additional resource to a starting point
-If you have additional resources to showcase be sure to demo to students 
-Collaboration and Brainstorming 
-Open to change
