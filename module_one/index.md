@@ -4,59 +4,11 @@ title: Module 1 Professional Development
 ---
 
 ## Overview
-In accordance with our mission, our objective is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
 
-* Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
-* Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
-* Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
-* Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
-* Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
 
-All of these will be addressed in Module 1 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
+Find more specifics here on [Mod 1 Key Learning Goals & Outcomes](/module_one/mod1_learning_goals)
 
-### Key Learning Goals
-Core Competencies of Module 1:
-* Build self-awareness around strengths and goals
-* Build community through professional development
-* Incorporate your mentor into job search support
-* Establish sense of ownership over your professional development and job search
-
-### Module 1 Outcomes
-By the end of Module 1, we aim for students to achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing.
-
-(Note: SIAT = Student is able to)
-
-**Networking Level I:**
-* SIAT describe their own needs in networking in regards to their identity
-* SIAT formulate specific questions about the tech industry important to their experience and connect them to their career goals
-* SIAT ask mentors (or other contact) questions about their jobs and career paths
-* SIAT discuss career goals with mentor (or other contact) in at least 1 conversation
-
-**Interviewing Level I:**
-* SIAT describe how their identity influences their career goals
-* SIAT describe their strengths from previous careers/experiences and in current work at Turing
-* SIAT describe why they decided to pursue this career in basic terms (i.e., desire for career change, love of problem solving, etc.)
-* SIAT reflect on and describe their approach to problem-solving in technical assessments
-
-**Materials Level I:**
-* SIAT understand what makes them a unique asset to the tech industry in order to highlight these aspects of their identity in your LinkedIn
-* SIAT create a LinkedIn profile that includes:
-   * Professional-looking headshot
-   * Headline updated
-   * Summary statement
-   * Turing added
-  
-*If a student has extenuating circumstances that preclude them from having a LinkedIn profile, the CD team will work with them on alternative options*
-
-Based on what you identified in the [Module 1 Prework](/module-1-prework/index) your specific outcome could look a little different. 
-
-#### Deliverables to be completed by end of Module 1
-* Students should have LinkedIn rough draft completed and get feedback from peers
-* Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
-* Portfolio review that includes self-evaluation
-
-### What This Will Look Like Week-by-Week
-
+### Lessons & Activities
 * Sessions:
     * Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
     * Week 3: [Professional Storytelling & Branding](/module_one/week_3_professional_storytelling_branding)
@@ -66,7 +18,14 @@ Based on what you identified in the [Module 1 Prework](/module-1-prework/index) 
     * Week 5: [LinkedIn Profile Workshop](/module_one/week_5_storytelling_linkedin_workshop)
 * Weekly student discussion groups (see below!)
 
-### Weekly Opportunities for Cohort & Community Collaboration
+#### Deliverables & Due Dates
+By the end of week 6:
+
+* Students should have LinkedIn rough draft completed and get feedback from peers
+* Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
+* Portfolio review that includes self-evaluation
+
+### Weekly Student Discussion & Community Collaboration
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
 
 * [Mod 1 Homeroom Group Information](/student_discussion_groups/mod1_homeroom_discussion_prompts)
