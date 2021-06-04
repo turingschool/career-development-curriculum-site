@@ -32,6 +32,9 @@ Below are a list of additional resources to help you with your career developmen
 * [FinTech](/resources/fintech_resources)
 * [Consulting](/resources/consulting_resources)
 
+### Resources for Specific Affinity Groups
+* [Resources for Veterans](/resources/veteran_resources)
+
 ### Leveling Up Your Tech
 * [Directions on Open Source Contributions to DEV Community](https://github.com/forem/forem). DEV (Dev.to) is "a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community."
 * [Stackshare: Research Tech Stacks of Popular Companies](https://stackshare.io/stacks)
