@@ -4,65 +4,11 @@ title: Module 2 Professional Development
 ---
 
 ## Overview
-In accordance with our mission, our objective is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
+Our approach to Mod 2 is 
 
-* Networking: Using outreach and networking strategies to make connections in the software industry to support a student’s job search
-* Interviewing: The skills needed to thoroughly respond to behavioral interview questions, articulate technical process, and demonstrate technical knowledge through code challenges
-* Materials: A student’s branding materials that showcase their work for employers, i.e., LinkedIn, resume, portfolio, cover letter
-* Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
-* Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
+Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mod2_learning_goals).
 
-All of these will be addressed in Module 2 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
-
-### Key Learning Goals
-Core Competencies of Module 2:
-* Continue building community through professional development
-* Gain clarity on personal career goals
-* Continue utilizing mentor for job search support
-* Customize strategies for job search
-
-### Module 2 Outcomes
-By the end of Module 2, we aim for students to achieve [Levels I and II readiness](/standards_and_rubric/index) in Job Search Strategies and Negotiations and achieve [Level II readiness](/standards_and_rubric/index) in Networking, Interviewing, and Materials.
-
-(Note: SIAT = Student is able to)
-
-**Networking Level II:**
-* SIAT identify and utilize networking strategies that work best for them based on their own identity and preferences
-* SIAT identify and utilize networking groups with which they identify 
-* SIAT identify contacts from their network to reach out to linked to specific reasons
-* SIAT describe and demonstrate successful strategies for how to write messages to contacts
-* SIAT schedule a coffee meeting/phone call
-* SIAT formulate specific questions for coffee meeting/phone calls tied to goals 
-* SIAT apply responses from contact to create connections to student’s own values and goals in their career
-
-**Interviewing Level II:**
-* SIAT apply reflections to describe why they belong in the tech industry
-* SIAT describe growth they observe in their strengths and in their current work at Turing
-* SIAT describe their goals for their career and values that matter to them in companies regardless of whether or not they have a specific company in mind
-* SIAT make connections between skills/mindsets from previous career to new career
-* SIAT provide relevant examples/utilize STAR in interview prep
-
-**Materials Level II:**
-* SIAT understand what makes them a unique asset to the tech industry in order to pull out aspects of identity to highlight in resume
-* SIAT summarize professional accomplishments and technical skills for a resume rough draft
-
-**Job Search Strategies Level I:**
-* SIAT identify work they enjoy doing at Turing and why
-* SIAT describe values they are seeking from a workplace
-* SIAT make connections between personal values based on their identity and values in an ideal workplace
-
-**Negotiations Level I:**
-* SIAT describe the benefits of negotiating job offers
-* SIAT understand aspects of job offers (i.e., base salary, signing bonuses, benefits, equity, etc.)
-* SIAT understand how the wage gap affects them based on their identity
-* SIAT describes how their identity influences their feelings about negotiations
-
-#### Deliverables to be completed by end of Module 2
-* Resume draft reviewed by peers in week 5
-* Students complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) for CD team to assess support needs
-* Portfolio review that includes self-evaluation
-
-### What This Will Look Like Week-by-Week
+### Lessons & Activities
 
 * Sessions:
     * Week 1: [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap)
@@ -70,8 +16,13 @@ By the end of Module 2, we aim for students to achieve [Levels I and II readines
     * Week 3: [Interview Prep](/module_two/week_3_interview_prep)
     * Week 4: [Career Roadmap: Part II] -- Coming soon
 * Activities:
-    * Week 4: What's a Dev?
+    * Week 4: [What's a Dev?](
     * Week 5: [Resume Draft Workshop] -- Coming soon
+
+
+### Deliverables & Due Dates
+* Resume draft reviewed by peers in week 5
+* Students complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) for CD team to assess support needs
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
