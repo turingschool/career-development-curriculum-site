@@ -4,7 +4,7 @@ title: Module 1 Professional Development
 ---
 
 ## Overview
-
+Our approach to Mod 1 is to assess students' needs in professional development and support students in defining their strengths, goals, and professional story for their career transition into software.
 
 Find more specifics here on [Mod 1 Key Learning Goals & Outcomes](/module_one/mod1_learning_goals)
 
