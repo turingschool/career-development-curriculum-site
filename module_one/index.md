@@ -23,7 +23,6 @@ By the end of week 6:
 
 * Students should have LinkedIn rough draft completed and get feedback from peers
 * Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
-* Portfolio review that includes self-evaluation
 
 ### Weekly Student Discussion & Community Collaboration
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
