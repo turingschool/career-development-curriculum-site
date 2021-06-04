@@ -18,7 +18,7 @@ Find more specifics here on [Mod 1 Key Learning Goals & Outcomes](/module_one/mo
     * Week 5: [LinkedIn Profile Workshop](/module_one/week_5_storytelling_linkedin_workshop)
 * Weekly student discussion groups (see below!)
 
-#### Deliverables & Due Dates
+### Deliverables & Due Dates
 By the end of week 6:
 
 * Students should have LinkedIn rough draft completed and get feedback from peers
