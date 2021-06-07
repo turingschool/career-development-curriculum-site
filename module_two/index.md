@@ -4,7 +4,7 @@ title: Module 2 Professional Development
 ---
 
 ## Overview
-Our approach to Mod 2 is 
+Our approach to Mod 2 is to build on the competencies covered in Mod 1 so that students can create a more specific networking plan and learn more about what software development looks like so that they can more clearly define their goals.
 
 Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mod2_learning_goals).
 
