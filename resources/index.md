@@ -16,6 +16,7 @@ Below are a list of additional resources to help you with your career developmen
 * [Resume Resources](/resources/resume_resources)
 * [Cover Letter Resources](/resources/cover_letter_resources)
 * [Terminal Portfolio Directions](/resources/terminal_directions)
+* [Resources for Writing ReadMes](/resources/readme_resources)
 
 ### Job Search Strategies
 * [Listing of tools to find jobs](/resources/finding_opportunities)
