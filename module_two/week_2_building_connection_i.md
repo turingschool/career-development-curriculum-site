@@ -76,4 +76,44 @@ When you're reaching out for a networking connection, make sure NOT to do the fo
 * Sending a LinkedIn request with no introduction
 * Sending a generic message that hasn't been customized
 
-###
+### How to Reach Out
+Again, use your tools!
+
+If you're reaching out to a Turing alum or someone else in the Turing community, try them on Slack first! You can also send a message on LinkedIn to a contact. If you don't hear back from the person you want to talk to on either of those platforms, try to find their email address. These tools can help you:
+
+* Start by searching the person's GitHub!
+* [Email Hunter](https://emailhunter.co/)
+* [Find That Lead](https://findthatlead.com/)
+* [Find That Email](https://findthat.email/)
+* [MatterMark](https://mattermark.com/)
+* [Skrapp.io](https://www.skrapp.io/)
+* [Quickmail.io](https://quickmail.io/)
+* [Snov.io](https://snov.io/)
+* [Go Pin Leads](https://www.gopinleads.com/)
+* [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
+* Check the person's GitHub profile or look for their personal website
+
+### You've Scheduled a Meeting. Now what?
+Once you've set up that phone call or meeting, how do you prepare? What do you want to talk about?
+
+Start by thinking about what you want to learn. What are you curious about? What do you need to know in order to move forward with your job search? Could you even see yourself at this company? And then also consider who your audience is. What can this particular contact help you to learn? 
+
+* Not sure where to start? Check out these resources:
+   * [Culture Queries Generator](https://www.keyvalues.com/culture-queries) -- this site not only allows you to search for companies according to values that you share, but in the culture queries generator, you can see specific questions to ask based on what you value. 
+   * [Research Converation Questions](/module_four/research_conversation_questions)
+   * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
+  
+Then, consider who your audience is. For those who are Turing grads and alumni, here are some suggested questions:
+
+* Do you like your job? Would you recommend the company to other Turing grads? Why?
+* What do you wish you had known after you graduated from Turing? 
+* What common mistakes do you think Turing grads make in their first job that I can prepare for now?
+
+For anyone:
+* What does the day to day of a developer look like at your company?
+* If they had a career prior to software - how did you transition into working in software?
+* How would you describe the culture and values of your company?
+
+Finally, it's always a good idea to end the conversation by asking, "who else from your network could you introduce me to?"
+
+For a refresher on any of this information, you can always find it on the Resources page [here](/resources/outreach_networking_resources).
