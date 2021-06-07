@@ -9,12 +9,17 @@ title: Resume Resources
 * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
 * [Use JobScan to upload your resume and a job posting to see how it compares](https://www.jobscan.co/)
 
-## How to Get Started
-Start with a Google Doc or Word doc to get all your information organized and use as your main copy. Then start to dive into the different templates below to think about how you could display this visually and create customized resumes for each job application. Note: it's best to display your information in 1 columns (rather than 2 columns) for ATS systems. 
+## Create an ATS-ready Resume
+An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
+
+* Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
+* Use a single column. 
+* Compare your resume to the job description and pull out key words to highlight in your skills and experience
+* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
 
 ## Resume Templates
+Note: not all of these are ATS-ready. You can use one of the templates below for a "stylized" resume that can go on your [Terminal portfolio](https://terminal.turing.edu) or to send individually, but make sure to have a plainer, ATS-ready copy made in Word or Google Docs. 
 
-* [Free Resume Templates from JobScan](https://www.jobscan.co/resume-templates)
 * [Enhancv](https://enhancv.com/)
 * [Resumake](https://resumake.io/)
 * [VisualCV](https://www.visualcv.com/resume-builder/)
@@ -26,6 +31,7 @@ Start with a Google Doc or Word doc to get all your information organized and us
 * Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 ## Resume Checklist
+When creating your resume, check out this checklist to make sure you've included the right information:
 
 ### Order of Content
 - [ ] Heading/Contact, Summary, Skills, Projects, Experience/Education
@@ -78,7 +84,7 @@ Start with a Google Doc or Word doc to get all your information organized and us
 ### Layout
 - [ ] Clean, easy-to-follow
 - [ ] If color is used, it is easy to read and distinguish all parts of the resume 
-- [ ] Printable version
+- [ ] Printable or ATS-ready version
 - [ ] No photo
-- [ ] No extraneous details/sections
+- [ ] No extraneous details/sections (no personal interests, "looking for" sections, etc.)
 - [ ] Resume is only one page
