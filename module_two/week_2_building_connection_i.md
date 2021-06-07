@@ -8,10 +8,71 @@ title: Building Connection Part I
 * Utilize tools and strategies for successful outreach
 * Create and execute a plan for your own outreach and networking this week  
 
-### Why Outreach?
+### Why Network?
 You'll hear us talk about networking as an essential component to the job search, but it can feel uncomfortable for many. You might think to yourself: "I don't want to bother them" or "How do I talk to them without coming across like I'm asking for a job?" Instead of thinking about networking as being transactional, think about it like any other relationship -- it's about connection. 
 
-Furthermore, networking have different purposes. In this session, we're going to focus on how networking can be a form of research. Think to yourself: what do I want to learn? Who is best to answer these questions? 
+Furthermore, networking have different purposes. In this session, we're going to focus on how networking can be a form of research. Think to yourself: what do I want to learn? Who is best to answer these questions? Consider how networking right now in the program is part of your **experiential learning** for your new career in software.
 
 ### What Does This Look Like?
+When you think about outreach, you can think about both **warm** and **cold** outreach. 
+
+In short, warm outreach means reaching out to people who are already in your community and include people you know personally. Warm outreach includes:
+
+* Friends & family
+* Classmates & instructors (previous and current)
+* Your mentor 
+* Alumni
+* Student circles
+* Guest Speakers
+* Employer Partners who participate in activities at Turing
+
+Cold outreach refers to reaching out people in the software industry *who you haven't met yet.*
+
+Networking looks like:
+
+* Coffee meetings or phone calls
+* Meetups/Events
+* Job Shadows
+* Student Circle meetings
+* Social Media
+* Contributing to open source projects
+
+### Utilize Your Tools
+**[LinkedIn](https://www.linkedin.com)** is both a space to market yourself and connect with others. It's a space to conduct your networking research. Here's how:
+
+* **Search for Turing alumni.**
+   * Search for Turing and select the "alumni" section. You'll be able to search by location, company, or individual alumni profiles. 
+* **Search by companies.** 
+   * Select "follow" to see updates and job postings show up in your feed.
+   * In the "people" section, you can see location or school for employees. You can also search for "software developer" or "engineer" to find the company's software developers. It will probably be most helpful to reach out to someone who is in a management or hiring position so that you can ask them about what they're looking for in junior developers, but if you reach out to junior, you can also ask more specifics about what they do day-to-day.
+* **Search for other software developers.**
+   * Search by skillset; you can enter Ruby or JavaScript (or any other technical language or skill) and see which profiles come up. How do you decide which developers' profiles to connect with? Consider interests or companies that you might have in common.
+
+**[BuiltIn](https://builtin.com/)** is also a great site to use for company research and connecting with other developers as it provides lots of details about companies located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle. Check out their company directory as an additional starting point. 
+
+Be sure to browse [these resources](/resources/finding_opportunities) for more insight into finding companies, connections, and opportunities. 
+
+### What to Say
+When you're reaching out to someone, be sure to follow these steps:
+
+* Introduction: who are you?
+* Purpose: why are you reaching out?
+* Specifics to the contact: what do you know about them? How does this knowledge connect to your purpose?
+* Call to Action: what are the next steps here?
+
+So your message might look something like this: 
+
+*Hi Joanne,
+
+*My name is Allison, and I'm a student in the Back End Engineering program at Turing School of Software & Design. I'm reaching out because I'm really interested in the work that your company is doing and would love to ask a few questions about what it's like working there. I also saw that you and I have a shared background in environmental science, and I would love to pick your brain about what the transition to software was like for you. Would you be available for a 30-min Zoom call in the next week? I'm available any weekday after 4pm MT. 
+
+*Thanks so much and hope to hear from you soon!
+*Allison*
+
+When you're reaching out for a networking connection, make sure NOT to do the following: 
+
+* Asking for a job referral before you've taken the time to establish a relationship with the person you're talking to
+* Asking for a job
+* Sending a LinkedIn request with no introduction
+* Sending a generic message that hasn't been customized
 
