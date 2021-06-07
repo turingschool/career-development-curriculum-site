@@ -12,7 +12,7 @@ Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mo
 
 * Sessions:
     * Week 1: [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap)
-    * Week 2: [Building Connection: Part I] -- Coming soon
+    * Week 2: [Building Connection: Part I](/module_two/week_2_building_connection_i)
     * Week 3: [Interview Prep](/module_two/week_3_interview_prep)
     * Week 4: [Career Roadmap: Part II] -- Coming soon
 * Activities:
