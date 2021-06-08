@@ -10,7 +10,7 @@ title: Resume Resources
 * [Use JobScan to upload your resume and a job posting to see how it compares](https://www.jobscan.co/)
 
 ## Create an ATS-ready Resume
-An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
+An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different and **it's important to always follow the directions for that specific company**, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
 
 * Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
 * Use a single column. 
@@ -18,7 +18,7 @@ An ATS, or applicant tracking system, is used by most companies to screen resume
 * Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
 
 ## Resume Templates
-Note: not all of these are ATS-ready. You can use one of the templates below for a "stylized" resume that can go on your [Terminal portfolio](https://terminal.turing.edu) or to send individually, but make sure to have a plainer, ATS-ready copy made in Word or Google Docs. 
+Note: not all of these are ATS-ready. You can use one of the templates below for a "stylized" resume that can go on your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, but make sure to have a plainer, ATS-ready copy made in Word or Google Docs. 
 
 * [Enhancv](https://enhancv.com/)
 * [Resumake](https://resumake.io/)
