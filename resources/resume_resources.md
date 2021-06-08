@@ -15,7 +15,7 @@ An ATS, or applicant tracking system, is used by most companies to screen resume
 * Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
 * Use a single column. 
 * Compare your resume to the job description and pull out key words to highlight in your skills and experience
-* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
+* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates) or [from Job Hunt](https://www.job-hunt.org/resume-samples/sample-resumes.shtml)
 
 ## Resume Templates
 Note: not all of these are ATS-ready. You can use one of the templates below for a "stylized" resume that can go on your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, but make sure to have a plainer, ATS-ready copy made in Word or Google Docs. 
