@@ -17,7 +17,7 @@ Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mo
     * Week 4: [Career Roadmap: Part II] -- Coming soon
 * Activities:
     * Week 4: [What's a Dev?](/module_two/whats_a_dev)
-    * Week 5: [Resume Draft Workshop] -- Coming soon
+    * Week 5: [Resume Draft Workshop](/module_two/week_5_resume_workshop)
 
 
 ### Deliverables & Due Dates
