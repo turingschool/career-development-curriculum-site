@@ -21,6 +21,7 @@ Below you can find lots of resources to help you prepare for both components.
   * [Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 * [Step-by-Step Guide to Answering a Technical Question in a Coding Interview](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2)
 * Check out one of Ian's [Google Hangout sessions on interviewing](https://www.youtube.com/watch?v=aXohtMcPT6I)
+* Watch [this recording between Ian Douglas & Aline Lerner from interviewing.io](https://vimeo.com/535068814/6809689362)
 
 ### Practice
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer. Use the promo code at [https://www.pramp.com/promo/iandouglas](https://www.pramp.com/promo/iandouglas) to get unlimited mock interview credits
