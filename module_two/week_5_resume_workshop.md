@@ -28,7 +28,7 @@ This workshop takes place during Week 5 Homeroom.
 2. Status check (5 mins)
    * What work have you done on your resume already? What do you feel good about? 
    * What do you want to have completed by the end of today's working session?
-3. Spend 30 minutes working on your ATS-ready resume draft. Again, [use these resources here](/resources/resume_resources))
+3. Spend 30 minutes working on your ATS-ready resume draft. Again, [use these resources here](/resources/resume_resources)
 4. Use the remaining 20 minutes for feedback. Each person gets a chance to share their resume draft for about 5-7 minutes and each person should provide feedback that is specific, actionable, and kind.
 
 ### Next Steps
