@@ -48,34 +48,27 @@ One tool we'll be using for your professional development at Turing is the [Pair
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
-Choose one of the following to complete. 
+Networking is about building relationships. To get started with networking while at Turing, choose one of the following to complete:
 
-* If you have never worked professionally and/or haven't participated in any professional networking, please [complete this activity](/module-1-prework/networking_level_i).
+* **Level I:** If you have never worked professionally and/or haven't participated in any professional networking, please [complete this activity](/module-1-prework/networking_level_i).
 
-* If you have some work experience and s
+* **Level II:** If you have professional work experience and feel comfortable reaching out to the professional network you already have, please [complete this activity](/module-1-prework/networking_level_ii).
 
-* If you have a professional network
-
-**Networking Action Items to Complete:**
+* **Level III:** If you have built networking skills previously and want to dive into building a tech industry network through cold outreach, please [complete this activity](
 
 ### Interviewing
 
-**Interviewing Action Items to Complete:**
 
 ### Materials
 
-**Materials Action Items to Complete:**
 
 ### Job Search Strategies
 
-**Job Search Strategies Action Items to Complete:**
 
 ### Negotiations
 
-**Negotiations Action Items to Complete:**
 
 ## Part IV: Submit Your Career Development Prework (15 mins) <a name="submission"></a>
 Fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
 
 If you have any questions about the prework, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
-
