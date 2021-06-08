@@ -73,5 +73,5 @@ Skip down to:
 4. Take a 5-min pom before Mix It Up! 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-
+This week's Homeroom Group is a working session to finalize your Mod 4 action items -- [find the guidelines here!](/module_four/week5_working_group)
 
