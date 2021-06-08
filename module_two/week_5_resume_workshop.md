@@ -19,7 +19,7 @@ What should a working draft of your resume look like? The minimum requirements a
 
 A summary is optional but highly recommended to give some insight into your career change and goals.
 
-For all the details on how to build an effective resume, check out the guidelines [here](/resources/resume_resources)
+For all the details on how to build an effective resume, check out the guidelines [here](/resources/resume_resources) or [refer back to the lesson](/module_two/week_1_career_roadmap).
 
 ### Workshop Guidelines
 This workshop takes place during Week 5 Homeroom.
