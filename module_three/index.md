@@ -12,7 +12,7 @@ Core Competencies of Module 3:
 
 ### Lessons
 * Week 1: [Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
-* Week 2: [Building Connection: Part II] -- Coming soon
+* Week 2: [Building Connection: Part II](/module_three/week_2_building_connection_ii)
 * Week 3: [The Application Process](/module_three/week_3_application_process_session)
 
 ### Deliverables & Due Dates
