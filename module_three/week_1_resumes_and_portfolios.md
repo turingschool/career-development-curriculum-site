@@ -51,6 +51,16 @@ Again, your projects can be used to your advantage to tell a specific story to t
 
 And lastly, highlight your most relevant transferable skills -- both technical and professional -- that relate to this particular company.
 
+#### Creating an ATS-ready Resume
+An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different and **it's important to always follow the directions for that specific company**, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
+
+* Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
+* Use a single column. 
+* Compare your resume to the job description and pull out key words to highlight in your skills and experience
+* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
+
+For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+
 #### Other Important Reminders
 When building your resume, make sure to keep this checklist handy as well:
 
@@ -61,7 +71,6 @@ When building your resume, make sure to keep this checklist handy as well:
 * Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
 * Your resume should only be 1 page. Employers will not read past that 1 page.
 * There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
-* Using a [template like those listed here](/resources/resume_resources) will ensure your resume passes an ATS system (applicant tracking system)
 * Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
 
 ### What to Do
