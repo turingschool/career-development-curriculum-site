@@ -54,7 +54,7 @@ Networking is about building relationships. To get started with networking while
 
 * **Level II:** If you have professional work experience and feel comfortable reaching out to the professional network you already have, please [complete this activity](/module-1-prework/networking_level_ii).
 
-* **Level III:** If you have built networking skills previously and want to dive into building a tech industry network through cold outreach, please [complete this activity](
+* **Level III:** If you have built networking skills previously and want to dive into building a tech industry network through cold outreach, please [complete this activity](/module-1-prework/networking_level_iii). 
 
 ### Interviewing
 
