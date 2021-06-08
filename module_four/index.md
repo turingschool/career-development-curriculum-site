@@ -12,7 +12,7 @@ In accordance with our mission, our objective is for all Turing students to have
 * Job Search Strategies: A student’s understanding of their own goals and creating a set of steps to achieve them
 * Negotiations: Understanding software industry market rates for compensation and the resources needed to negotiate for competitive rates
 
-All of these will be addressed in Module 3 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
+All of these will be addressed in Module 4 through a [scaffolded approach](https://www.edglossary.org/scaffolding/#:~:text=In%20education%2C%20scaffolding%20refers%20to,independence%20in%20the%20learning%20process.). 
 
 ### Key Learning Goals
 Core Competencies of Module 4:
@@ -59,10 +59,11 @@ By the end of Module 4, we aim for students to achieve [Level III readiness](/st
 * SIAT create their own strategy for approaching negotiations in their job offers based on their values, identity, and needs
 * SIAT analyze job offers and utilize negotiating strategies for approaching them
 
-#### Deliverables to be completed by end of Module 4
-* At least one meeting with a Career Specialist to review final materials and finalize job search strategy
-* Students complete end of mod self-evaluation survey for CD team to assess support needs
-* Portfolio review that includes self-evaluation
+#### Deliverables & Due Dates
+By the end of week 5:
+
+* Terminal portfolio updated and published
+* Apply to at least 1 job opportunity using the 5 Step Job Search Process
 
 ### Sessions
 There will be weekly PD sessions in weeks 1-4. Since this module is focused on refinement of professional development, sessions are customized each module according to what the cohort needs. Some potential topics include:
