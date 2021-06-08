@@ -82,5 +82,5 @@ Skip down to:
   * How can you support each other with these goals? How will you hold each other accountable to the strategy steps?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-This week's homeroom group is a working session on your resumes. 
+This week's homeroom group is a working session on your resumes -- [find the guidelines here!](/module_two/week_5_resume_workshop)
 
