@@ -11,8 +11,7 @@ Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/m
 ### Lessons
 There will be weekly PD sessions in weeks 1-4. Since this module is focused on refinement of professional development, sessions are customized each module according to what the cohort needs. Some potential topics include:
 
-* [Negotiations] -- coming soon
-* [Finalizing Your Career Roadmap] -- coming soon
+* [Negotiations](/module_four/negotiations)
 
 There will also be at least one guest speaker or panel on one of the following topics:
 * Recent alumni experiences
