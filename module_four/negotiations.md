@@ -4,43 +4,10 @@ title: Negotiations
 subheading: How to Ask for What You Want
 ---
 
-### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Ian will facilitate the section on equity specifically. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
-
-[Slides for this session](https://docs.google.com/presentation/d/1UBHC5M0KQ712bUN8aeCfqKI7ti-Q_FajxSSJB5_5sDo/edit?usp=sharing)
-
-### Session Structure
-Time: 60 mins
-
-**Facilitator #1:** Using slides #3-7, go through the following:
-
-**Slide #3:**
-
-* Opening: objectives, turn & talk (5 mins)
-* Ins & Outs of Negotiations (20 mins)
-* Offer Discussion & Demo (5 mins)
-* Other Parts of the Offer (15 mins)
-* You Do: Group Discussions (10 mins)
-* Debrief & Closing (5 mins)
-
-**Slide #4:**
-
-### Objectives
-
+### Learning Goals
 * Build understanding of and confidence towards negotiations
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
-
-**Slide #5:**
-
-### Opening
-#### Turn & Talk
-
-* Have you negotiated in the past?
-* If so, what was your experience?
-* If you haven’t negotiated, why not?
-
-**Slides #6-7:**
 
 ### The Why
 For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
@@ -51,24 +18,16 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
 
-**Facilitator #2:** Using slides #9-20, go through the following:
-
-**Slide #9:**
-
 ### Ins & Outs of Negotiations
 **Let's say you're asked the question: "What are your salary expectations?"**
 
-How would you answer that question? **Note to Facilitator #2:** Call on 2-3 people to respond.
-
-**Slide #10:**
+How would you answer that question? 
 
 Here's how we would recommend you respond:
 
 * **First, do not put a number on the table.** Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
   	* During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered.
   	* If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be).
-
-**Slide #11:**
 
 * If you're pushed to give a number, use the average Turing grad starting salary, which is $75k. **AND you should also take that opportunity to sell yourself to explain why you deserve more.**
 	* What traits can you describe yourself with to create leverage? Examples:
@@ -78,8 +37,6 @@ Here's how we would recommend you respond:
 
 * Again, if you're pushed to give a number, provide that Turing grad starting salary **AND create a way for the company to decide what your worth is.** Example:
 	* "I'd prefer if your company determine through the interview process what my skills are worth to you as a developer given my background. My classmates are currently getting offers in the $75k to $80k range right now but I'm open to discussion about compensation as we get to know each other."
-
-**Slide #12:**
 
 #### Navigating the Conversation
 Once you've asked for more context and you're given an offer, take these next steps:
@@ -97,15 +54,11 @@ Once you've asked for more context and you're given an offer, take these next st
   		* Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
   		* You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
 
-**Slides #13-14:**
-
 * **Create Leverage:** Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
 	* *"I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you."* This lets the company know that you're interested but also letting them know that you're pursuing the other company.
   	* This puts the ball in their court and tells the company that you a person who is sought after, which increase their interest
 	* When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
-
-**Slides #15-16:**
-
+	
 * **Negotiating the Offer:** Once you have all the facts and can make a decision, go back to the company:
 	* Professional communication: Negotiating in person or on the phone allows you to show how genuine you are in the interaction; however, email chains are helpful to have everything in writing. In either scenario, you want to be generous and respectful and watch out for any blind spots in your tone/language.
 	* Be honest and transparent
@@ -128,11 +81,7 @@ Once you've asked for more context and you're given an offer, take these next st
 			* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
 		* "If you can do this, then I'm on board."
 
-**Slides #17-18:**
-
 #### Alumni Examples
-**Note to Facilitator #2:** Call on 2-3 students to ask "what do you notice about these examples?" and talk through what the person did to make these changes in salary happen.
-
 Here are a few examples of how alumni have approached the negotiations conversation -- remember, you can reach out to Turing staff for coaching when it comes to negotiating an offer:
 
 * One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
@@ -156,8 +105,6 @@ Here is what they sent to the employer:
 
 They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
 
- **Slides #19-20:**  
-
 ### Negotiation Email Chain Demo
 Read the following chain and think about the professional communication skills at play:
 
@@ -175,22 +122,11 @@ Brittany`
 
 Outcome: Joe emailed back with an updated offer of $100k.
 
-**Note to Facilitator #2:**
-Call on 2-3 students to answer the following:
-
-* What did you notice about the way Joe's initial email was worded?
-* What do you notice about Brittany's response?
-* What strategies did she use to negotiate to the salary she wanted?
-
 **Breaking down the example: Further Talking Points**
 * Companies will often send you an offer letter and their language will be a little presumptious that you're already accepting the position. That might make you feel like you don't have an opportunity to negotiate, and that you have to stick with the offer they gave you, but you don't! *They do this on purpose.*
 * Respond to them right away at least to confirm receipt of the email. This will buy you some time so you can review the offer/ask for advice or guidance on it. It also gives them a hint that you might want to negotiate something.
 * After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO?
 * Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer).
-
-**Facilitator #1:** Using slides #21-27, go through the following:
-
-**Slide #21:**
 
 ### Other Parts of the Offer to Consider
 #### Equity
@@ -201,8 +137,6 @@ Learn the lingo:
 * Exercise: To “exercise” an option is to make a choice to buy the shares (or not). The “exercise period” is a window of time you have to make this decision.
 * Vesting: How often your stock options become available for purchase.
 
-**Slide #22:**
-
 What does this look like? Most Common:
 * Options will vest over 4 years
 * 1 year cliff to buy first 25%
@@ -210,14 +144,10 @@ What does this look like? Most Common:
 * 10 year exercise period
 * 90 day exercise period upon termination
 
-**Slide #23:**
-
 Consider:
 * How many stock options? It will end up being a small fraction of ownership.
 * What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
 * What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
-
-**Slides #24-26:**
 
 Case Study:
 * Given 1,000 stock options, assume $1 strike price per share
@@ -244,13 +174,7 @@ Year 5: $92,007				  Year 5: $81,182
 
 That $9k is a bonus paycheck from the company should they succeed. This is not a guarantee.
 
-**Slide #27:**
-
 **Bottom Line:** Don’t accept more equity over salary.
-
-**Facilitator #2:** Using slides #28-35, go through the following:
-
-**Slide #28:**
 
 #### Additional Parts of the Offer
 * PTO/Sick days/Mental Health days
@@ -264,8 +188,6 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
    * Travel reimbursements
    * Lunch
    * Cell phone
-
-**Slide #29:**
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
@@ -282,8 +204,6 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
   * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take. Ask about the tax write-off and get a list of what's reimburasable.
   	* "Will you reimburse IRS-approved relocation expenses?"
 
-**Slide #30:**
-
 **Keep in Mind:**
 
   * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
@@ -292,15 +212,9 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
     * You should be somewhere you want to be and where you’re valued
     * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
 
-**Slide #31:**
+**Bottom Line: Negotiating is Always Important.** It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
 
-**Bottom Line: Negotiating is Always Important**
-
-  * **It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
-
-**Slide #33:**
-
-### You Do: Group Discussion
+### Practice
 You receive this offer:
 
 In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that?
@@ -319,13 +233,6 @@ In your small groups, discuss:
 * What might you negotiate for?
 * How can you ask for just a little bit more in one area?
 * What will you say to sell yourself to get what you deserve?
-
-**Note to Facilitator #2:** Call on 1-2 groups to share out what they discussed about the offer.
-
-**Slide #34:**
-Ask for a fist to five: how confident do you feel about negotiating your first offer?
-
-**Slide #35:**
 
 ### Resources for Follow-Up
 
