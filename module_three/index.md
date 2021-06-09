@@ -21,7 +21,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by EOD Monday of Week 6
 
 ### Additional Activites
-* Week 4: Job Shadow
+* Week 4: [Job Shadow Opportunity](/module_three/job_shadow_overview)
 * Week 4: Mock Interviews -- Coming soon
 
 ### Weekly Discussion Guidelines & Prompts
