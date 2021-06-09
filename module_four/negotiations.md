@@ -194,8 +194,7 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
 * Hiring managers love to use language that make it seem like you have already accepted the role
   * Thank them for the offer and let them know when you will get back to them
 
-**Bottom Line: Negotiating is Always Important.** It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
-
+**Bottom Line: Negotiating is Always Important.** It’s important for you to advocate for yourself because there's no guarantee that anyone else will.
 
 ### Alumni Examples
 Here are a few examples of how alumni have approached the negotiations conversation. Remember, you can reach out to the Career Development team for coaching when it comes to negotiating an offer.
@@ -263,34 +262,14 @@ Would you have some time for a quick phone call tomorrow? I'm so pleased with mu
 
 Outcome: Hiring Manager emailed back with an updated offer of $100k.
 
-### Practice
-You receive this offer:
+### Resources
+* [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
+* Turing Salary Data
+  * [Find latest Quarterly Salary Outcomes for Turing grads](https://turing.edu/outcomes/) and [more qualitative data on outcomes here](https://writing.turing.edu/tag/outcomes/)
+  * [Averages for Contracts/Hourly Work](https://docs.google.com/spreadsheets/d/19KidjxU_8ux-oEzTRmYVPxT-zsonbjLaQ3KAijfDuyw/edit?usp=sharing)
+  * Follow the #salaries channel on Slack
 
-In an area you're not excited about -- longer commute; they say they don't negotiate or it's non-negotiable, how might you handle that?
-
-	* $70k
-	* 2 weeks of PTO
-	* $500/yr for PD
-	* 401k with 1% employer match
-	* $10k in incentive stock options
-	* Full health & dental coverage
-
-In your small groups, discuss:
-
-* What are the pros and cons of this offer?
-* What is missing?
-* What might you negotiate for?
-* How can you ask for just a little bit more in one area?
-* What will you say to sell yourself to get what you deserve?
-
-### Resources for Follow-Up
-
-* Reach out to anyone on the Career Development team
-* Join the #salaries channel on Slack
-* Check out [this post](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) for more in-depth tips on what was discussed above
-* [Scenarios and discussion on negotiating as a woman](https://www.washingtonpost.com/graphics/business/womens-wages/salary-negotiation-guide-women/?utm_term=.cc721527f9ac)
-* [The Salary Chronicles](https://www.forbes.com/sites/ericagellerman/#5072a9a13ddd) from Forbes magazine also focuses specifically on negotiating strategies for women
-* Use [this tool](https://stackoverflow.com/jobs/salary) on Stack Overflow to get a sense of where you might want to start with your negotiations
+**Find more resources [here](/resources/negotiations).
 
 ### FAQs
 
