@@ -5,6 +5,9 @@ title: Negotiations Resources
 
 ## A Non-Exhaustive List of Resources to Support with Negotiations
 
+### Start Here
+[Review the PD lesson on Negotiations](/module_four/negotiations)
+
 ### General Research on Salary
 
 * [Glassdoor](https://www.glassdoor.com/index.htm)
