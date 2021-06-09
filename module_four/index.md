@@ -8,10 +8,11 @@ Mod 4 is time to review content and strategies in order to refine and execute yo
 
 Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
 
-### Lessons
-There will be weekly PD sessions in weeks 1-4. Since this module is focused on refinement of professional development, sessions are customized each module according to what the cohort needs. Some potential topics include:
+### Sessions & Activities
+Sessions and activities are customized each module according to what the cohort needs. Here are a few you can expect:
 
 * [Negotiations](/module_four/negotiations)
+* [Employer Mock Interviews](/module_four/mod4_mock_interviews)
 
 There will also be at least one guest speaker or panel on one of the following topics:
 * Recent alumni experiences
