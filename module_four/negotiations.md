@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Negotiations
-subheading: How to Ask for What You Want
+subheading: How to Ask for What You Deserve
 ---
 
 ### Learning Goals
@@ -18,8 +18,8 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
 
-**Information for Colorado students:**
-The [Equal Pay For Equal Work Act](https://www.natlawreview.com/article/what-employers-need-to-know-about-colorado-s-new-equal-pay-act) was enacted on January 1st, 2021 to address pay disparities affecting women and minorities, and it includes several provisions aimed at preventing wage discrimination, such as:
+**Information for Colorado-based students:**
+The [Equal Pay For Equal Work Act](https://www.natlawreview.com/article/what-employers-need-to-know-about-colorado-s-new-equal-pay-act) was enacted on January 1st, 2021 in Colorado to address pay disparities affecting women and minorities, and it includes several provisions aimed at preventing wage discrimination, such as:
 
 * Prohibiting employers from seeking prospective employees’ wage rate histories;
 * Allowing employees subject to wage discrimination to file a civil action; and
@@ -57,96 +57,69 @@ Here's how we recommend you respond:
 ### Negotiations Strategies
 Once you've asked for more context and you're given an offer, take these next steps:
 
-* **Take at least 24 hours:** When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. 
-	* Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
-	* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
-	* Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
-    	* What do *you* care about?
-    	* What's missing from the offer? What didn't they talk about?
-	* Talk to someone you trust to get some feedback (your staff coach, mentors, etc.)
+#### Take at least 24 hours
+When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Acknowledge receipt of the offer. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
 
- 	* **What If:** You're given a short timeline
-    	* In this case, create a pro and con list -- to decide which offer you’ll take
-  		* It’s not a red flag that they need you to hurry necessarily. Maybe they just got a bigger workload and need to make a decision quickly
-  		* Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
-  		* You can still talk to your other companies -- *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
+Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary? Additional parts of the offer to consider:
 
-* **Create Leverage:** Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
-	* *"I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you."* This lets the company know that you're interested but also letting them know that you're pursuing the other company.
-  	* This puts the ball in their court and tells the company that you a person who is sought after, which increase their interest
-	* When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
+* PTO/Sick days/Mental Health days
+   * How does the company approach PTO and health?
+* Professional Development stipends:
+   * Conferences
+   * Classes/Tuition reimbursement
+   * Tutorials
+* Family leave
+* Other perks:
+   * Travel reimbursements
+   * Lunch
+   * Cell phone
+   * WFH setup
+
+What do *you* care about? What's missing from the offer? What didn't they talk about?
+
+Make sure to talk to someone you trust to get some feedback (your staff coach, mentors, etc.)
+
+**If you're given a short timeline:**
+In this case, create a pro and con list -- to decide which offer you’ll take. It’s not a red flag that they need you to hurry necessarily. Maybe they just got a bigger workload and need to make a decision quickly.
+ 
+ Think about it as a whole -- what were your interactions like? What are the relationships with the team members?
+ 
+ You can still talk to other companies you are in the process with. *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
+
+#### Create Leverage
+Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
+
+*"I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you."* This lets the company know that you're interested but also letting them know that you're pursuing the other company.
+
+This puts the ball in their court and tells the company that you a person who is sought after, which increases their interest. When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
 	
-* **Negotiating the Offer:** Once you have all the facts and can make a decision, go back to the company:
-	* Professional communication: Negotiating in person or on the phone allows you to show how genuine you are in the interaction; however, email chains are helpful to have everything in writing. In either scenario, you want to be generous and respectful and watch out for any blind spots in your tone/language.
-	* Be honest and transparent
-	* Get all of the facts -- are there other potential opportunities not on the table yet? What are your priorities that you need to discuss?
-		* Family leave -- even if you don't currently have kids or unsure if you want kids, you need to know what the plan is for maternity and paternity leave. It's much harder to negotiate later. This is the same with healthcare and 401k match
-		* Don't forget about mentorship -- you can get that written into your contract
-		* As a general rule of thumb, when it comes to equity, don't trade salary for it. Companies include equity in their offers as a way to keep you invested in the company. But you shouldn't put too much weight on stock options; if it's an Incentive Stock Option, assume you'll never get money out of it. Restricted Stock Options (RSUs) might be worth negotiating as they're publicly traded. You can negotiate using these stock options, but you'll want to be careful about it. Don’t negotiate it all away because you want to sound like you have skin in the game and that you're not a flight risk.
-			* “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?”
-	* When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
-	* If you have doubts about taking the position, what would it take to make you feel ok taking the position? What would remove the doubt from taking the job?
-	* Template:
-  		* "I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?"
-    		* Using "we" shows that this is a joint effort
-   		* Not an aggressive move -- "close the gap" instead of "I need this"
-    		* Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
-		* You should give reasons. If you ask for something without a reason, you come across as greedy or needy. Depending on what's important to you, it will affect how you talk about it. Give more details about what you value. If you're going to negotiate beyond salary, trade for something.
-			* If you want more benefits, give an idea why or trade something for it. If you want extra time off, what could you give back in exchange?
-			*"I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"*
-			* If PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it.
-			* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
-		* "If you can do this, then I'm on board."
+#### Negotiating the Offer
+Once you have all the facts and can make a decision, go back to the company:
 
-#### Alumni Examples
-Here are a few examples of how alumni have approached the negotiations conversation -- remember, you can reach out to Turing staff for coaching when it comes to negotiating an offer:
+* Consider how you want to communicate: Negotiating in person or on the phone allows you to show how genuine you are in the interaction; however, email chains are helpful to have everything in writing. In either scenario, you want to be generous and respectful and watch out for any blind spots in your tone/language.
+* Be honest and transparent
+* Get all of the facts -- are there other potential opportunities not on the table yet? What are your priorities that you need to discuss?
+* Don't forget about mentorship -- you can get that written into your contract
+* As a general rule of thumb, when it comes to equity, don't trade salary for it. Companies include equity in their offers as a way to keep you invested in the company. But you shouldn't put too much weight on stock options; if it's an Incentive Stock Option, assume you'll never get money out of it. Restricted Stock Options (RSUs) might be worth negotiating as they're publicly traded. You can negotiate using these stock options, but you'll want to be careful about it. Don’t negotiate it all away because you want to sound like you have skin in the game and that you're not a flight risk.
+   * “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?”
+* When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
+* If you have doubts about taking the position, what would it take to make you feel ok taking the position? What would remove the doubt from taking the job?
 
-* One alum received an offer for $60k, 100%-paid benefits package, 401K, 20 PTO days (4 weeks). This student was worried that the offer was quite low and discussed it with Ian. The perception was that the company was unaware of market rates for entry-level devs. So, the student worked with Ian and sent this to them at 3pm that day:
+#### Try Out This Template
+*"I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?"*
+ 
+* Using "we" shows that this is a joint effort
+* Not an aggressive move -- "close the gap" instead of "I need this"
+* Don't mention another company or their offer -- that becomes aggressive. Tech industry is small, and companies talk. Don't give them a bad impression; plus, you don't know what's happening behind the scenes
+* You should give reasons. If you ask for something without a reason, you come across as greedy or needy. Depending on what's important to you, it will affect how you talk about it. Give more details about what you value. If you're going to negotiate beyond salary, trade for something.
+* If you want more benefits, give an idea why or trade something for it. If you want extra time off, what could you give back in exchange?
+*"I want to continue growing and learning while I'm there, would you consider giving a professional development stipend?"*
+* If PTO is important, you need to be able to explain why personal rest time is important without sounding "lazy" or that work is a burden; you can emphasize travel/family/what you would trade for it.
+* If working remotely is important, find out if that something that's part of the company culture. If they allow for it, how much will they allow? Will they reimburse internet at home? Will they reimburse a co-working space? You could mention working with clients, other teammates, for a selling point
 
-`Thanks, (manager name removed).
-I really appreciate this offer, thank you for sending it over. (company) is by far my first choice of companies to 	   work at. The other company that I have interviewed with has offered me $85k. My classmates at Turing are getting 	    offers in the $75k-$80k range.  Would it be possible for (company) to come closer to the $75k-$80k range? I'm open  	to discussion on it!
-Thank you much,
-(student)`
+"If you can do this, then I'm on board."
 
-The manager called her back at 5pm with an updated offer: `(manager from company) Just called, 75k!!!!`
-
-* Another alum negotiated a $5k signing bonus to pay for healthcare out of their own pocket for their first 90 days.
-
-* Another student got an offer at $55k + some normal benefits (health insurance, conference budget, sick/vacation days, computer gear). We coached them to approach the conversation like this:
-
-`I appreciate everyone's time and effort to work through the interview process, and thanks very much for the offer of employment. Is there some flexibility on the starting salary or perhaps plans to increase the salary closer to market rates in the near term? Other graduates from Turing are seeing offers in the $75k-$80k range, but I know that's a significant increase from your offer, and I'd like to discuss possibilities in this regard.`
-
-Here is what they sent to the employer:
-
-`I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.`
-
-They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
-
-### Negotiation Email Chain Demo
-Read the following chain and think about the professional communication skills at play:
-
-`Hi Brittany -
-Attached you'll find your offer letter to begin work with us on May 1st, 2014 at $90,000/year. Also included are some additional forms to fill out and sign. Please bring these with you on your first day of work along with two forms of ID. Looking forward to having you on board!
-Joe
-HR Manager`
-
-`Thanks for sending all of this over! I will take a look through all of these documents in a bit and let you know if I have any questions.
-Brittany`
-
-`Hi Joe -
-Would you have some time for a quick phone call tomorrow? I'm so pleased with much of the offer, but I was hoping to be just a bit closer to 100K in salary. I think my relevant experience working in newsrooms and under tight deadlines will ensure I can contribute quality work as soon as I'm on board. I'm happy to provide you with references that can speak to my abilities in that area. Let me know if there's anything we can do to close this gap. Thanks again! Talk to you soon.
-Brittany`
-
-Outcome: Joe emailed back with an updated offer of $100k.
-
-**Breaking down the example: Further Talking Points**
-* Companies will often send you an offer letter and their language will be a little presumptious that you're already accepting the position. That might make you feel like you don't have an opportunity to negotiate, and that you have to stick with the offer they gave you, but you don't! *They do this on purpose.*
-* Respond to them right away at least to confirm receipt of the email. This will buy you some time so you can review the offer/ask for advice or guidance on it. It also gives them a hint that you might want to negotiate something.
-* After you've reviewed it, you're free to negotiate directly in the email but offer up a chance for a phone conversation. Explain what you're happy with and what you'd like to negotiate. Don't just ask for more money, explain why you're worth it. What differentiates you from the competition that makes you worth that extra money or PTO?
-* Sometimes they will respond right away with a new offer letter just giving you what you asked for. Sometimes they'll call you back and tell you what they can do (maybe give you a counter offer).
-
-### Other Parts of the Offer to Consider
-#### Equity
+### Other Parts of the Offer to Consider: Equity
 Learn the lingo:
 * Stock Option: Contract given by the company which allows you to purchase shares in the company at a later date, and allows you to sell those shares for profit.
 * Strike Price: The price per share at the last valuation when your stock options were granted.
@@ -193,19 +166,6 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
 
 **Bottom Line:** Don’t accept more equity over salary.
 
-#### Additional Parts of the Offer
-* PTO/Sick days/Mental Health days
-   * How does the company approach PTO and health?
-* Professional Development stipends:
-   * Conferences
-   * Classes/Tuition reimbursement
-   * Tutorials
-* Family leave
-* Other perks:
-   * Travel reimbursements
-   * Lunch
-   * Cell phone
-
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
 
@@ -221,15 +181,87 @@ That $9k is a bonus paycheck from the company should they succeed. This is not a
   * You could also negotiate moving costs, but be aware that this is a reimbursement, not something you can take. Ask about the tax write-off and get a list of what's reimburasable.
   	* "Will you reimburse IRS-approved relocation expenses?"
 
-**Keep in Mind:**
+### Keep in Mind
+* Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
+* There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
+  * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
+  * You should be somewhere you want to be and where you’re valued
+  * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
 
-  * Negotiating just an extra $1000 or two isn't worth it -- it doesn’t even out to a lot of money. It could make you look petty. You don't want to ruin a relationship over it
-  * There’s always a (small) chance that someone can rescind an offer, but it's very unlikely -- it’s costly to the company to take that back.  
-    * If a company rescinds simply because you brought up the conversation while you were respectful, that was probably a red flag and you dodged a bullet
-    * You should be somewhere you want to be and where you’re valued
-    * If they rescind the offer because you were disrespectful, that’s different. *But we don't expect you to be disrespectful*
+* Firm language and demeanor is a tactic from hiring managers:
+  * Stay positive and confident
+  * Continue to use language like “us” and “we” 
+* Hiring managers love to use language that make it seem like you have already accepted the role
+  * Thank them for the offer and let them know when you will get back to them
 
 **Bottom Line: Negotiating is Always Important.** It’s important for you to advocate for yourself because there's no guarantee that anyone else will**
+
+
+### Alumni Examples
+Here are a few examples of how alumni have approached the negotiations conversation. Remember, you can reach out to the Career Development team for coaching when it comes to negotiating an offer.
+
+#### Example #1: Educate Employers
+Initial offer: $55k + some common benefits (health insurance, conference budget, sick/vacation days, computer gear). 
+
+Advice given: Discuss the market value of Turing grads and how to sell themselves.
+
+Here is what they sent to the employer:
+
+*I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.*
+
+Outcome: They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
+
+#### Example #2: Using Leverage
+Student received 3 offers:
+* $97k (full benefits + equity)
+* $110k (full benefits + equity)
+* #120k (full benefits + equity)
+
+Our advice was to inform each company of the offers that have been presented and any changes. 
+
+Negotiation: Student informed all employers that they were working with multiple offers. Student set up phone calls with all employers. Offer 1 didn’t budge, Offer 2 increased the offer to 135K after 90 days of employment. Offer 3 didn’t budge. Alumni, was leaning towards offer 2 but called offer 3 to inform them of the jump that offer 2 made.
+
+Outcome: Offer #3 was boosted to $130k and doubled equity, and this student accepted the offer. 
+
+#### Example #3: Always Ask for More
+Initial Offer: 2 Turing Graduates who received the same offer at the same company of $70K + Full Benefits
+
+Background: 
+* Student #1 had full stack experience relevant to position
+* Student #2 had limited experience with tech stack; however, they had previous industry experience
+
+Negotiation: 
+* Student #1 decided against negotiation
+* Student #2 requested bump up to $80k based on background
+
+Outcome: Student #1 received and signed an offer at $75K. Student #2 received $80k. 
+
+#### Example #4: Why Research Matters
+Initial Offer: $115,000, 
+
+Advice: Should I even negotiate? YES. 
+
+Background: Student focused on her education, professional experience, and technical skills. 
+
+Negotiation: Student researched market value and made a counter offer of 15% over the base salary of 115K and $11.54K more than offered in equity.  
+
+Outcome: Company agreed to the salary increase to $125K but not the stocks.
+
+#### Example #5: Provide Context
+Read the following chain and think about the professional communication skills at play:
+
+*Hi [Name] -
+Attached you'll find your offer letter to begin work with us on [Date] at $90,000/year. Also included are some additional forms to fill out and sign. Please bring these with you on your first day of work along with two forms of ID. Looking forward to having you on board!
+HR Manager*
+
+*Thanks for sending all of this over! I will take a look through all of these documents and let you know if I have any questions.
+[Name]*
+
+*Hi Hiring Manager -
+Would you have some time for a quick phone call tomorrow? I'm so pleased with much of the offer, but I was hoping to be just a bit closer to 100K in salary. I think my relevant experience working in [specific experience] and under tight deadlines will ensure I can contribute quality work as soon as I'm on board. I'm happy to provide you with references that can speak to my abilities in that area. Let me know if there's anything we can do to close this gap. Thanks again! Talk to you soon.
+[Name]*
+
+Outcome: Hiring Manager emailed back with an updated offer of $100k.
 
 ### Practice
 You receive this offer:
