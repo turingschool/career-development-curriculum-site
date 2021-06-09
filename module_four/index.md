@@ -13,12 +13,15 @@ Sessions and activities are customized each module according to what the cohort 
 
 * [Negotiations](/module_four/negotiations)
 * [Employer Mock Interviews](/module_four/mod4_mock_interviews)
+* Regular office hours
 
 There will also be at least one guest speaker or panel on one of the following topics:
 * Recent alumni experiences
 * Networking
 * Working with Recruiters
-* Non-traditional careers in software
+* Career exploration
+
+You'll also start to learn about [Mod 5](/module-5/index) which is our post-graduate job search support. 
 
 #### Deliverables & Due Dates
 By the end of week 5:
