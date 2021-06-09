@@ -39,6 +39,7 @@ What needs to be included in order for your portfolio to be published? Here is w
 - [ ] **Polished draft of resume**
 - [ ] **Preferred Locations**
 - [ ] **Previous Industries**
+   - [ ] Limit to 5 previous industries. If you are concerned about this, please reach out to your Career Specialists.  
 - [ ] **Skills**
 - [ ] At least **2 projects** 
    - [ ] Show variety: paired, team, individual 
