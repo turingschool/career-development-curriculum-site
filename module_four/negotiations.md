@@ -269,7 +269,7 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
   * [Averages for Contracts/Hourly Work](https://docs.google.com/spreadsheets/d/19KidjxU_8ux-oEzTRmYVPxT-zsonbjLaQ3KAijfDuyw/edit?usp=sharing)
   * Follow the #salaries channel on Slack
 
-**Find more resources [here](/resources/negotiations).
+**Find more resources [here](/resources/negotiations).**
 
 ### FAQs
 
