@@ -122,6 +122,7 @@ Once you have all the facts and can make a decision, go back to the company:
 ### Other Parts of the Offer to Consider: Equity
 Learn the lingo:
 * Stock Option: Contract given by the company which allows you to purchase shares in the company at a later date, and allows you to sell those shares for profit.
+  * Options are granted on your hire date. After your first year, you can exercise 25% of your options. Starting your second year, you will vest about 21 more options every month. Hopefully the company's value is increasing during this time, and in your fourth year, you are fully vested and can buy all of your options.
 * Strike Price: The price per share at the last valuation when your stock options were granted.
 * Cliff: A time period usually imposed before your options begin to vest.
 * Exercise: To “exercise” an option is to make a choice to buy the shares (or not). The “exercise period” is a window of time you have to make this decision.
@@ -138,31 +139,6 @@ Consider:
 * How many stock options? It will end up being a small fraction of ownership.
 * What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
 * What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
-
-Case Study:
-* Given 1,000 stock options, assume $1 strike price per share
-* ...someday you get to pay the company $1,000 to own 1,000 shares in the company
-* Assume company sells for $10/share
-* The value of your shares is now $10,000
-* You just made $9,000 ...right?
-
-Options are granted on your hire date. After your first year, you can exercise 25% of your options. Starting your second year, you will vest about 21 more options every month. Hopefully the company's value is increasing during this time, and in your fourth year, you are fully vested and can buy all of your options.
-
-So if you were hired in October 2019, your options would not be fully vested until October 2023.
-
-Looking back at the example, you could make an extra $9,000 after 4 years with a breakdown of $2,250 per year.
-
-Compare these 2 scenarios:
-Option #1                                 Option #2
-$85K, no equity, 2% COL increase          $75k, 1k @ $1, 2% COL increase, $10 IPO year 5
-Year 1: $85,000				  Year 1: $75,000
-Year 2: $86,700				  Year 2: $76,500
-Year 3: $88,434 			  Year 3: $78,030
-Year 4: $90,203				  Year 4: $79,591
-Year 5: $92,007				  Year 5: $81,182
-					  $9,000 - STCG = $5,400
-
-That $9k is a bonus paycheck from the company should they succeed. This is not a guarantee.
 
 **Bottom Line:** Don’t accept more equity over salary.
 
