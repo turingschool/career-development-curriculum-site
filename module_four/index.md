@@ -28,7 +28,6 @@ By the end of week 5:
 
 * Have a document review with your Career Specialists
 * Terminal portfolio updated and published
-* Apply to at least 1 job opportunity using the 5 Step Job Search Process
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
