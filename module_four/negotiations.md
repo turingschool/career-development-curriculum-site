@@ -9,7 +9,7 @@ subheading: How to Ask for What You Want
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
 
-### The Why
+### Why Does Negotiating Matter?
 For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
 
 * As our mission states, we aim to unlock human potential by training a diverse, inclusive student body to **succeed in high-fulfillment technical careers.** As part of that high-fulfillment piece, we aim to provide you with the tools to navigate offer negotiations. It's up to you to use these tools, but keep in mind that companies will low-ball you with their first offer because they *expect you to negotiate.*
@@ -18,30 +18,47 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
 
-### Ins & Outs of Negotiations
-**Let's say you're asked the question: "What are your salary expectations?"**
+**Information for Colorado students:**
+The [Equal Pay For Equal Work Act](https://www.natlawreview.com/article/what-employers-need-to-know-about-colorado-s-new-equal-pay-act) was enacted on January 1st, 2021 to address pay disparities affecting women and minorities, and it includes several provisions aimed at preventing wage discrimination, such as:
 
-How would you answer that question? 
+* Prohibiting employers from seeking prospective employees’ wage rate histories;
+* Allowing employees subject to wage discrimination to file a civil action; and
+* Providing for economic damages in the event of a violation, including liquidated damages.
 
-Here's how we would recommend you respond:
+The Act also contains several broader obligations and prohibitions intended to increase pay transparency, including:
+
+* Requiring employers to announce opportunities for promotion or advancement;
+* Requiring employers to disclose hourly or salary compensation and benefits for each posting or job opening; and
+* Requiring employers to keep records of job descriptions and wage rate history for its employees.
+
+### Getting Started
+What is your bottom line for any of the following:
+
+* Your dream job
+* Contract roles that pay hourly but don't include benefits
+* Not so dreamy jobs but you'd still be willing to consider them if the compensation is right
+
+And when you're asked this question: **"What are your salary expectations?"** what would you say?
+
+Here's how we recommend you respond:
 
 * **First, do not put a number on the table.** Instead, say: *"I would love to hear what you're offering for this position so I can have more context for the conversation."*
   	* During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered.
   	* If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be).
 
-* If you're pushed to give a number, use the average Turing grad starting salary, which is $75k. **AND you should also take that opportunity to sell yourself to explain why you deserve more.**
+* If you're pushed to give a number, use the median Turing grad starting salary, which is $75,750. **AND you should also take that opportunity to sell yourself to explain why you deserve more.**
 	* What traits can you describe yourself with to create leverage? Examples:
-		* “I’m at the top of my class"
 		* "I can provide references”
 		* "I have these applicable skills from my previous experience..."
 
 * Again, if you're pushed to give a number, provide that Turing grad starting salary **AND create a way for the company to decide what your worth is.** Example:
-	* "I'd prefer if your company determine through the interview process what my skills are worth to you as a developer given my background. My classmates are currently getting offers in the $75k to $80k range right now but I'm open to discussion about compensation as we get to know each other."
+	* "I'd prefer if your company determine through the interview process what my skills are worth to you as a developer given my background. My classmates are currently getting offers in the $75k to $80k range right now, but I'm open to discussion about compensation as we get to know each other."
 
-#### Navigating the Conversation
+### Negotiations Strategies
 Once you've asked for more context and you're given an offer, take these next steps:
 
-* **Take at least 24 hours:** When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
+* **Take at least 24 hours:** When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. 
+	* Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"*
 	* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
 	* Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary?
     	* What do *you* care about?
