@@ -49,13 +49,13 @@ Again, your projects can be used to your advantage to tell a specific story to t
 
 And lastly, highlight your most relevant transferable skills -- both technical and professional -- that relate to this particular company.
 
-#### Creating an ATS-ready Resume
-An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different and **it's important to always follow the directions for that specific company**, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
+#### Create an ATS-ready Resume
+An ATS, or applicant tracking system, is used by most companies to screen resumes. Each ATS system is different -- when creating your resume, think about your audience, both in terms of content and the process of submitting the resume. **It's always important to follow the directions for that specific company**, but here are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
 
 * Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
 * Use a single column. 
-* Compare your resume to the job description and pull out key words to highlight in your skills and experience
-* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
+* Compare your resume to the job description and pull out key words to highlight in your skills and experience. **An ATS system will not assume you have a skill unless you list it. If it's in the job description, add it to your skills.** [Learn more about how to approach ATS systems here](https://www.jobscan.co/applicant-tracking-systems).
+* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates) or [from Job Hunt](https://www.job-hunt.org/resume-samples/sample-resumes.shtml)
 
 For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
 
@@ -74,7 +74,7 @@ When building your resume, make sure to keep this checklist handy as well:
 ### What to Do
 This week is focused on building your working resume.
 
-* Build your resume using [these templates and checklist](/resources/resume_resources)
+* Build your resume using [these resources](/resources/resume_resources)
 * Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides).
 * Update your resume using that feedback
 
