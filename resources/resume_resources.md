@@ -97,5 +97,4 @@ We strongly recommend using a summary if you do not have a lot of previous work 
 - [ ] Remove any first person pronouns (I, me)
 
 ## Submitting Your Resume
-
-An ATS system will not 
+If submitting through an ATS system, submit a word doc. If submitting a resume through an email, attach a PDF. Again, every company is different. If you're unsure of how to approach an application, reach out to your Career Specialist. 
