@@ -23,7 +23,7 @@ There will also be at least one guest speaker or panel on one of the following t
 
 You'll also start to learn about [Mod 5](/module-5/index) which is our post-graduate job search support. 
 
-#### Deliverables & Due Dates
+### Deliverables & Due Dates
 **Deliverable #1:** Update and complete your branding materials by end of Week 5:
 
 * Targeted Resume
