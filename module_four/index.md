@@ -24,7 +24,7 @@ There will also be at least one guest speaker or panel on one of the following t
 You'll also start to learn about [Mod 5](/module-5/index) which is our post-graduate job search support. 
 
 #### Deliverables & Due Dates
-Update and complete your branding materials and [submit them here by the end of week 5]( ):
+Update and complete your branding materials and [submit them here by the end of week 5](https://airtable.com/shrsS9pDedt4Jvnkd):
 
 * Targeted Resume
 * LinkedIn optimized for job searching
