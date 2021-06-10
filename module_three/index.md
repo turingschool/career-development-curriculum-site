@@ -22,7 +22,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 ### Additional Activites
 * Week 4: [Job Shadow Opportunity](/module_three/job_shadow_overview)
-* Week 4: Mock Interviews -- Coming soon
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
