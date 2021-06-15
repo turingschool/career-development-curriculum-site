@@ -48,27 +48,37 @@ One tool we'll be using for your professional development at Turing is the [Pair
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
-The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create.
+The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create. You'll also respond to these questions in the submission survey:
+
+1. Please rate on a scale of 1-4 how easy the networking activity was for you.
+2. As you start at Turing, what are your biggest questions or concerns about networking? 
 
 ### Interviewing
-Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please write out responses to these questions to submit in the prework survey:
+Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to submit in the prework survey:
 
 1. Tell us about yourself. What is your background? Why are you pursuing a career in software development?
 2. What are your goals for this career?
-3. 
+3. As you start at Turing, what are your biggest questions or concerns about interviewing? 
 
 ### Materials
-Have you ever built a resume before?
+Please choose 1 of the activities below to complete:
+
+* 
+
+How comfortable are you with writing a cover letter for a position? 
 Do you have a LinkedIn profile? How frequently have you used it?
 
 ### Job Search Strategies
+Please prepare responses to these questions to submit in the prework survey:
 
-* If you do not have much experience applying to professional positions, please complete this activity
-
-* If you 
+1. Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn't effective for you?
+2. When you think about job searching for a software developer position, what are your biggest questions or concerns?
 
 ### Negotiations
+Please prepare responses to these questions to submit in the prework survey:
 
+1. 
+2. When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
 ## Part IV: Submit Your Career Development Prework (15 mins) <a name="submission"></a>
 Fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
