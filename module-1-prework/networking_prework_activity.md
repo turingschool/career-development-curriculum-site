@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Networking Level I Prework Activity
+title: Networking Prework Activity
 subheading: Career Development Prework
 ---
-
-**Standards covered in this activity:** [Networking Level I](/standards_and_rubric/index)
 
 ## Mapping Your Network
 You may not have much experience with networking, but you do have a network. This activity will help you assess who is currently in your network and how you can strengthen your relationships with them to help you in your new career. 
