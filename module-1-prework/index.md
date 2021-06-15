@@ -51,13 +51,21 @@ As you begin this new chapter of your career, the Career Development team is her
 The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create.
 
 ### Interviewing
+Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please write out responses to these questions to submit in the prework survey:
 
+1. Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+2. What are your goals for this career?
+3. 
 
 ### Materials
-
+Have you ever built a resume before?
+Do you have a LinkedIn profile? How frequently have you used it?
 
 ### Job Search Strategies
 
+* If you do not have much experience applying to professional positions, please complete this activity
+
+* If you 
 
 ### Negotiations
 
