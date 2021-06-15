@@ -41,7 +41,7 @@ We will also be asking you to create and use a career journal during your time a
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ### Part Two: Career Journal
-Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/tree/master/module-1-prework) to create your journal and answer the Mod 0 questions. 
+Follow the directions on the [career journal template page here](https://github.com/turingschool/career-development-curriculum-site/blob/master/module-1-prework/career_journal_template.md) to create your journal and answer the Mod 0 questions. 
 
 ### Career Development Mod 1 Prework Submission Directions
 Fill out this survey to answer some questions for the Career Development team and submit the links to both of your documents from Parts I and II **[here](https://forms.gle/8GXA5kHhZ156jdd16)**
