@@ -23,12 +23,8 @@ You can find all information on the curriculum and job search support on the [Ca
     * The [Resources section](/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
     * The [Homeroom Groups](/student_discussion_groups/index) and [Mix It Up](/mixed_groups/index) information. Within your cohort, you'll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you'll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
     * The [Module 5 section](/module-5/index), which covers what job search support looks like once you've graduated from Turing.
-3. [Watch this video that outlines our expectations and FAQs about Career Development](
-    * I have no prior professional experience. What should I be doing?
-    * I have many years of professional experience. What should I be doing?
-    * How should I manage my time while at Turing?
-    * What if I just want to learn to code? Can I put off PD until I graduate?
-5. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
+2. [Watch this video that outlines our expectations and FAQs about Career Development](
+3. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
    * How do you feel about the expectations of the professional development curriculum? What are you excited about when it comes to professional development? What are your questions or concerns about these expectations?
 
 ## Part II: Pairin Survey (15-20 mins)
@@ -52,7 +48,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
-We will discuss networking a lot, and as you start at Turing, it's important to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create.
+The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create.
 
 ### Interviewing
 
