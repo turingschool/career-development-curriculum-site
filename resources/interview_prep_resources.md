@@ -145,22 +145,6 @@ Below you can find lots of resources to help you prepare for both components.
 * Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
 * Tell me about the first job you’ve ever had. What did you do to learn the ropes?
 
-**Personal Growth & Self-Awareness Questions:**
-* What is an area of growth for you?
-* Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
-* What’s hard about programming?
-* How do you deal with change?
-* What are some of your best professional/soft skills?
-* Describe your strengths. How have you seen these in practice as a developer?
-* Tell me about a time you failed. How did you deal with the situation?
-* What is your biggest weakness?
-* What is your greatest professional achievement so far? Why?
-* Where do you see yourself in 5 years?
-* How would your former boss/current classmates/instructors describe you?
-* When have you taken accountability for something even when it could have proven detrimental for you?
-* Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
-* Tell me about the first job you’ve ever had. What did you do to learn the ropes?
-
 ### Practice
 
 * Schedule a mock behavioral interview with one of the following people:
