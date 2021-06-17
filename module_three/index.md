@@ -17,7 +17,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 * Resume updated and ready to be added to Terminal Portfolio by end of Week 5 
 * Cover letter draft ready to be reviewed in Week 5's Homeroom 
-* Career Roadmap updated by end of Week 5
+* [Career Roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) updated by end of Week 5
 * Terminal portfolio created and requested review by EOD Monday of Week 6 using these [directions](/resources/terminal_directions)
 * Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by EOD Monday of Week 6
 
