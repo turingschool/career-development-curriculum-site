@@ -23,6 +23,7 @@ You can find all information on the curriculum and job search support on the [Ca
     * The [Resources section](/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
     * The [Homeroom Groups](/student_discussion_groups/index) and [Mix It Up](/mixed_groups/index) information. Within your cohort, you'll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you'll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
     * The [Module 5 section](/module-5/index), which covers what job search support looks like once you've graduated from Turing.
+
 2. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
    * How do you feel about the expectations of the professional development curriculum? What are you excited about when it comes to professional development? What are your questions or concerns about these expectations?
 
@@ -43,7 +44,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [How the Pairin Survey compares to other assessments](/files/Survey%20Comparisons.pdf)
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
-## Part III: Complete 1 activity for Each Competency (60-75 mins)
+## Part III: Complete Each Activity Below for Each Competency (60-75 mins)
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
@@ -60,12 +61,11 @@ Whatever your comfort level with interviewing, an effective interview comes down
 3. As you start at Turing, what are your biggest questions or concerns about interviewing? 
 
 ### Materials
-Please choose 1 of the activities below to complete:
+It's important for the team to know about each student's level of experience with job search-related materials. Please prepare responses to these questions to submit in the prework survey:
 
-* 
-
-How comfortable are you with writing a cover letter for a position? 
-Do you have a LinkedIn profile? How frequently have you used it?
+1. Do you have a LinkedIn profile? If so, how do you currently use it? How frequently do you use it?
+2. Have you created a resume before? If so, how confident have you felt about your resume's effectiveness previously? What questions or concerns do you have about writing a technical resume?
+3. Have you written a cover letter for a job posting before? If so, how confident have you felt about your cover letters' effectiveness previously? What questions or concerns do you have about writing cover letters?
 
 ### Job Search Strategies
 Please prepare responses to these questions to submit in the prework survey:
@@ -76,10 +76,10 @@ Please prepare responses to these questions to submit in the prework survey:
 ### Negotiations
 Please prepare responses to these questions to submit in the prework survey:
 
-1. 
+1. Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 2. When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
 ## Part IV: Submit Your Career Development Prework (15 mins) <a name="submission"></a>
-Fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
+Please fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
 
 If you have any questions about the prework, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
