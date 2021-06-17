@@ -23,8 +23,7 @@ You can find all information on the curriculum and job search support on the [Ca
     * The [Resources section](/resources/index). Here you can find links, videos, and documents to help you with specific areas of support in the job search.
     * The [Homeroom Groups](/student_discussion_groups/index) and [Mix It Up](/mixed_groups/index) information. Within your cohort, you'll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you'll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
     * The [Module 5 section](/module-5/index), which covers what job search support looks like once you've graduated from Turing.
-2. [Watch this video that outlines our expectations and FAQs about Career Development](
-3. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
+2. Reflect on the following questions in the survey you'll submit for this section of prework (see [submission directions here](#submission)):
    * How do you feel about the expectations of the professional development curriculum? What are you excited about when it comes to professional development? What are your questions or concerns about these expectations?
 
 ## Part II: Pairin Survey (15-20 mins)
