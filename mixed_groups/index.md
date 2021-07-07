@@ -4,7 +4,7 @@ title: Mix It Up
 ---
 
 ## Overview
-In addition to the Homeroom Groups with your cohortmates, you also have an opportunity to meet with and collaborate with students across modules and across programs -- we call this Mix It Up! On Wednesdays in Weeks 2 and 4, you'll first meet with your Homeroom Groups for 30 minutes and then transition to your Mix It Up group for the second 30 minutes. 
+In addition to the Homeroom Groups with your cohortmates, you also have an opportunity to meet with and collaborate with students across modules and across programs -- we call this Mix It Up! On Wednesdays in Weeks 2 and 4, you'll be assigned a group of students across the Turing program to meet with.
 
 ### Why do this?
 Our data shows that student collaboration and connection is a strong indicator of a quick and satisfactory job search. Meeting others within Turing allows you to strengthen your bonds to the community and network in a low-stress environment. 
