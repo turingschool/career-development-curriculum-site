@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mix It Up Week 2
-subheading: Meeting You Right Now: Balancing PD and the Job Search during Turing
+subheading: Balancing PD and the Job Search during Turing
 ---
 
 ## Structuring the Conversation
