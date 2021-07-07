@@ -23,8 +23,8 @@ The student lead chooses 1-2 of the following questions to respond to and share 
 * What has been challenging for you in this area? How are you working to overcome these challenges?
 * What advice do you have for others at Turing when it comes to preparing your materials?
 
-### Group Discussion: Creating Interview Prep Documents & Practicing (15 mins)
-There are several components of interviewing that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed below:**
+### Group Discussion: Creating Materials (15 mins)
+There are several components of materials that could be helpful to discuss as a group today. **From the following topics, choose 1 as a group and try out the activities listed below:**
 
 1. **Resumes.** Mod 3 or 4 student shares their resume with the group. The group provides feedback on:
 
