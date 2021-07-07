@@ -11,9 +11,8 @@ Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mo
 ### Lessons & Activities
 
 * Sessions:
-    * Week 1: [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap)
-    * Week 2: [Building Connection: Part I](/module_two/week_2_building_connection_i)
-    * Week 3: [Interview Prep](/module_two/week_3_interview_prep)
+    * Week 2: [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap)
+    * Week 3: [Building Connection: Part I](/module_two/week_2_building_connection_i)
     * Week 4: [Career Roadmap: Part II](/module_two/week_4_career_roadmap_ii)
 * Activities:
     * Week 4: [What's a Dev?](/module_two/whats_a_dev)
