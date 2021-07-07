@@ -18,6 +18,7 @@ Skip down to:
 
 ### Week 1 Prompts & Structure (60 mins)
 1. Revisit norms for how your group wants to work together (15 mins):
+   
    * What was helpful last mod?
    * What do you want to keep doing?
    * What do you want to stop doing?
@@ -26,12 +27,17 @@ Skip down to:
 2. Review your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and take 10 mins to update it.
 
 3. As a group discuss (10-15 mins):
+  
    * Based on what you filled out in the roadmap so far, what kinds of industries/jobs will you be targeting? What do you already know about those industries? What do you still want to learn?
    * How could you use your resume to show that these are the jobs you’re both qualified for and seeking?  
    * What questions or concerns do you have about building your resume? 
+
 4. Research time (10 mins):
+   
    * Using these [resources](/resources/finding_opportunities) + your roadmap, find a job you would like to apply to.
+
 5. Share what you found and discuss why it’s a good fit for you (10 mins):
+  
    * Why are you interested in this job? 
    * What else do you need to learn to know if it’s a good job for you to apply to?
      * Examples: learn about the company’s culture 
@@ -47,7 +53,6 @@ Skip down to:
   * What are some ways that you have been networking currently? 
   * What parts of your personal network have you not yet explored? 
   * What are your networking goals for the remainder of this inning?  
-3. 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
