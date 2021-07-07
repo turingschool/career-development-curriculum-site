@@ -18,26 +18,25 @@ Skip down to:
 
 ### Week 1 Prompts & Structure (60 mins)
 1. Revisit norms for how your group wants to work together (15 mins):
+   * What was helpful last mod?
+   * What do you want to keep doing?
+   * What do you want to stop doing?
+   * What new ways do you want to collaborate with each other?
 
-  * What was helpful last mod?
-  * What do you want to keep doing?
-  * What do you want to stop doing?
-  * What new ways do you want to collaborate with each other?
 2. Review your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and take 10 mins to update it.
-3. As a group discuss (10-15 mins):
 
-  * Based on what you filled out in the roadmap so far, what kinds of industries/jobs will you be targeting? What do you already know about those industries? What do you still want to learn?
-  * How could you use your resume to show that these are the jobs you’re both qualified for and seeking?  
-  * What questions or concerns do you have about building your resume? 
+3. As a group discuss (10-15 mins):
+   * Based on what you filled out in the roadmap so far, what kinds of industries/jobs will you be targeting? What do you already know about those industries? What do you still want to learn?
+   * How could you use your resume to show that these are the jobs you’re both qualified for and seeking?  
+   * What questions or concerns do you have about building your resume? 
 4. Research time (10 mins):
-  
-  * Using these [resources](/resources/finding_opportunities) + your roadmap, find a job you would like to apply to.
+   * Using these [resources](/resources/finding_opportunities) + your roadmap, find a job you would like to apply to.
 5. Share what you found and discuss why it’s a good fit for you (10 mins):
-  * Why are you interested in this job? 
-  * What else do you need to learn to know if it’s a good job for you to apply to?
+   * Why are you interested in this job? 
+   * What else do you need to learn to know if it’s a good job for you to apply to?
      * Examples: learn about the company’s culture 
      * The best way to do that is through networking; how will you approach networking for this position?
-  * Identify one next step you will take for this job:
+   * Identify one next step you will take for this job:
      * Add this job to Huntr
      * Reach out to someone at the company
      * Update your resume for this position
