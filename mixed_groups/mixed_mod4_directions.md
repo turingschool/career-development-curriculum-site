@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Mix It Up
-subheading: Mod 4 Leader Directions
+subheading: Mod 4 Student Directions
 ---
 
-## Your Role as a Leader
+## Your Role
 As Mod 4 students, you are now the most experienced students in the Turing community. You have learned so much over the last several months from how to code to how to communicate better. You have completed all PD sessions and activities for the 5 PD competencies, and you have put together the pieces for your job search. Because of this experience, students in lower modules will benefit greatly from talking to you. 
 
 ## Before the Discussions
