@@ -11,24 +11,40 @@ Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/m
 ### Sessions & Activities
 Sessions and activities are customized each module according to what the cohort needs. Here are a few you can expect:
 
-* [Negotiations](/module_four/negotiations)
-* [Employer Mock Interviews](/module_four/mod4_mock_interviews)
-* Regular office hours
+* Week 1: [Negotiations](/module_four/negotiations)
+* Week 3: Panel
+* Week 4:[Employer Mock Interviews](/module_four/mod4_mock_interviews)
+* Week 5: Career Exploration
+* Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
+* Weekly office hours and PD focus times with suggested action items
 
-There will also be at least one guest speaker or panel on one of the following topics:
+**Note:** Try to schedule interviews and coffee chats during PD work time NOT during PD sessions
+
+The week 3 panel or guest speaker will be on one of the following topics:
 * Recent alumni experiences
 * Networking
 * Working with Recruiters
 * Career exploration
 
-You'll also start to learn about [Mod 5](/module-5/index) which is our post-graduate job search support. 
+### Career Specialist Support
+Tracey and Ryan are your career supports during Mod 4 and are available Monday-Friday 9am-5pm MST. You can reach out to either of them to set up 1:1 using the links in their Slack bios. Coaching Meetings are scheduled for 30 minutes and can cover any of the following:
+
+* Terminal profiles, resume & cover letter assistance
+* Job search strategy sessions 
+* Mock interviews
+* Pairin Reports
+* Time management
+* Job offers
+* Any other supports you may need 
+
+*Please note that you should only book with one of them at a time each week*
 
 ### Deliverables & Due Dates
 **Deliverable #1:** Update and complete your branding materials by end of Week 5:
 
 * Targeted Resume
 * LinkedIn optimized for job searching
-* Terminal portfolio reviewed and published
+* Terminal portfolio reviewed and published (note: you must request review on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it)
 
 **Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the end of week 6. 
 
