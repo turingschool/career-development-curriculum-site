@@ -25,13 +25,16 @@ Skip down to:
   * What do you want to keep doing?
   * What do you want to stop doing?
   * What new ways do you want to collaborate with each other?
+
 2. This week's session was on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
 
   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
   * **Do you feel unprepared to negotiate your next job offer?** 
     * If yes, start by reframing some of your thoughts that could be holding you back. Consider thinking about negotiation as a process towards developing a better employment relationship and communication with your boss/company. **What are your thoughts about this statement?** 
   * It's important to set a collaborative tone when negotiating versus sounding demanding or feeling defensive. **What are some ways you can help set this tone?** Keep in mind it's a “we” and “us” problem to solve. 
+
 3. List out and then discuss areas of negotiation that are important to you outside of salary. Is PTO important to you? Stock options? Or is how your potential employer handles the negotiation process important to you? (15 mins)
+
 4. Prepare for your next offer by having your counter offer email or conversation ready. Write out the top 3 skills and or achievements that make up your reasons for asking for 10-15% more than the base salary offer. You can put your reasons on this worksheet. Download and make a copy to fill in your answers using the [Negotiation Worksheet](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit) (15 mins)
 
 ### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
