@@ -13,8 +13,8 @@ If you haven't realized it by now, one of the most essential components of a suc
 
 1. Prioritize tasks:
 
-  * Brain dump all of your tasks. Write down all the things you need to do for your job search, i.e., list companies you want to research, organize the job postings you've found, schedule a call with a networking contact, update your resume, etc.
-  * Next, assign numbers to each task in order of priority. What needs to get done first? What is something that needs to be done before you can do something else?
-  * Complete your tasks in the order you've given them. Resist the urge to skip around. If you find yourself needing to change priorities, make sure to reorder everything so nothing gets lost in the shuffle. 
+   * Brain dump all of your tasks. Write down all the things you need to do for your job search, i.e., list companies you want to research, organize the job postings you've found, schedule a call with a networking contact, update your resume, etc.
+   * Next, assign numbers to each task in order of priority. What needs to get done first? What is something that needs to be done before you can do something else?
+   * Complete your tasks in the order you've given them. Resist the urge to skip around. If you find yourself needing to change priorities, make sure to reorder everything so nothing gets lost in the shuffle. 
 
 2. 
