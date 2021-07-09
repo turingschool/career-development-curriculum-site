@@ -16,29 +16,17 @@ Our data shows that student collaboration and connection is a strong indicator o
     * Resiliency in the face of rejection
     * Self-care
 
-* [Week 4]( will focus on Looking Ahead: Identifying Goals and Working towards a Successful Job Search. 
+* [Week 4](/mixed_groups/mixed_week4_prompts) will focus on Looking Ahead: Identifying Goals & Working Towards a Successful Job Search. Your group will discuss things like:
+    * Mod 4 students' experiences with PD and advice they have for lower mods
+    * Reflecting on wins for time management and progress in your PD this mod
+    * Creating feasible goals to work towards for the rest of the module
+    * Discuss challenges to be aware of, resources you can share with each other, and first steps to take
 
 In both conversations, you'll spend time getting to know each other and setting basic norms. The norms that the Career Development Team urge you to adopt are:
 
 * **Make space.** Everyone should be given a chance to share.
 * **Be present.** Take a break from your projects and show up to this conversation.
-* **Make this time valuable.** What intention can you set for your time today? How can you demonstrate that you value the other students in your group? How can they let yuo know that they value you?
+* **Make this time valuable.** What intention can you set for your time today? How can you demonstrate that you value the other students in your group? How can they let you know that they value you?
 
-
-
-Prior to weeks 2 and 4, every student will be able to fill out a survey with their top preference for discussion topics. These topics will be chosen from the 5 PD competencies (Networking, Interviewing, Materials, Job Search Strategies, and Negotiations), industry or technical area of interest, or specific identity or affinity groups.
-
-Module 4 students (and occasionally Module 3 students) will take the lead in the Mix It Up groups, sharing their experiences so far approaching different topics, providing advice for other students, and sharing resources. [See more specific directions for Mod 4 leaders here](/mixed_groups/mixed_mod4_directions). Everyone will have a chance to participate though!
-
-Here are some potential topics:
-
-* [Networking](/mixed_groups/mixed_networking_prompts)
-* [Interviewing](/mixed_groups/mixed_interviewing_prompts)
-* [Materials](/mixed_groups/mixed_materials_prompts)
-* [Job Search Strategies](/mixed_groups/mixed_jss_prompts)
-* [Negotiations](/mixed_groups/mixed_negotiations_prompts)
-* [Specific industry interest](/mixed_groups/mixed_industry_interest_prompts)
-* [Identifying as someone less represented in tech](/mixed_groups/mixed_less_represented_prompts)
-
-### How will we come together?
-You'll be put into a Slack group with your other Mix It Up group members, and you will join a breakout room from the Mod 4 SLC zoom account. Check that Slack group for those specific details.
+### How will you meet?
+The Career Dev team will send out a spreadsheet listing everyone's groups and their group number. We will use the Mod 4 SLC zoom account, and you will go to the breakout room that corresponds with your group number. 
