@@ -20,7 +20,7 @@ Here are some suggested norms to start with:
 
 * **Make space.** Everyone should be given a chance to share.
 * **Be present.** Take a break from your projects and show up to this conversation.
-* **Make this time valuable.** What intention can you set for your time today? How can you demonstrate that you value the other students in your group? How can they let yuo know that they value you?
+* **Make this time valuable.** What intention can you set for your time today? How can you demonstrate that you value the other students in your group? How can they let you know that they value you?
 
 Please discuss any additional norms you would like to set as a group!
 
