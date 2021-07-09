@@ -26,7 +26,7 @@ The week 3 panel or guest speaker will be on one of the following topics:
 * Working with Recruiters
 * Career exploration
 
-### Career Specialist Support
+### Career Specialist Support, Communication, & Expectations
 Tracey and Ryan are your career supports during Mod 4 and are available Monday-Friday 9am-5pm MST. You can reach out to either of them to set up 1:1 using the links in their Slack bios. Coaching Meetings are scheduled for 30 minutes and can cover any of the following:
 
 * Terminal profiles, resume & cover letter assistance
@@ -38,6 +38,16 @@ Tracey and Ryan are your career supports during Mod 4 and are available Monday-F
 * Any other supports you may need 
 
 *Please note that you should only book with one of them at a time each week*
+
+Communication:
+
+* Questions that you have that are relevant for the whole group, ask in the Cohort Combined Slack channel and tag both Tracey and Ryan
+* DM both Tracey and Ryan directly:
+  * If you will not be able to attend PD
+  * When you get an offer
+  * Interview updates and questions 
+  * Time-sensitive application questions
+  * Any other questions or concerns 
 
 ### Deliverables & Due Dates
 **Deliverable #1:** Update and complete your branding materials by end of Week 5:
