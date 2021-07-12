@@ -38,6 +38,9 @@ Below are both resources and outlined steps for taking on outreach and networkin
    * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
    * End the conversation by asking, "who else from your network could you introduce me to?"
 
+### Try it out at Turing
+* Check out the #lets_grab_donuts channel on Slack to network with other students and Turing community members
+
 ### Join Communities
 * [Here's a list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
 
