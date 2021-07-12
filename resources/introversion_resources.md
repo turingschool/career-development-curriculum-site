@@ -9,7 +9,9 @@ title: Introversion Resources
 
 * [How Being an Introvert Helped Me in My First Job](https://www.quietrev.com/how-being-an-introvert-helped-me-in-my-first-job/)
 
-### Networking Through Social Media
+### Networking as an Introvert
+
+* Check out [LunchClub](https://lunchclub.com/)
 
 
 
