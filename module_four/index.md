@@ -11,7 +11,9 @@ Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/m
 ### Sessions & Activities
 Sessions and activities are customized each module according to what the cohort needs. Here are a few you can expect:
 
-* Week 1: [Negotiations](/module_four/negotiations)
+* Week 1: 
+  * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
+  * [Negotiations](/module_four/negotiations)
 * Week 3: Panel
 * Week 4:[Employer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: Career Exploration
