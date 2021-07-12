@@ -31,6 +31,6 @@ If you haven't realized it by now, one of the most essential components of a suc
 
 Here's an example of how you could block out specific time to work on your resume for a position during a typical week in Mod 4:
 
-![image]
+![Resume Time Blocking Chart](/images/Resume%20Time%20Blocking%20Example.png)
 
 
