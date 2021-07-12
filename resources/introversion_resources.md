@@ -11,7 +11,7 @@ title: Introversion Resources
 
 ### Networking as an Introvert
 
-* Check out [LunchClub](https://lunchclub.com/)
+* Check out [LunchClub](https://lunchclub.com/), which is a social networking platform that uses artificial intelligence and machine learning to connect users with common interests and objectives.
 
 
 
