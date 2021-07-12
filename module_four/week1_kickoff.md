@@ -33,4 +33,5 @@ Here's an example of how you could block out specific time to work on your resum
 
 ![Resume Time Blocking Chart](/images/Resume%20Time%20Blocking%20Example.png)
 
+## Project Manage Your Job Search
 
