@@ -15,7 +15,7 @@ Sessions and activities are customized each module according to what the cohort 
   * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
   * [Negotiations](/module_four/negotiations)
 * Week 3: Panel
-* Week 4:[Employer Mock Interviews](/module_four/mod4_mock_interviews)
+* Week 4: [Employer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: Career Exploration
 * Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
 * Weekly office hours and PD focus times with suggested action items
