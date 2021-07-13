@@ -24,7 +24,7 @@ Here are some suggested norms to start with:
 
 Please discuss any additional norms you would like to set as a group!
 
-### Group Discussion(40 mins)
+### Group Discussion (35 mins)
 In the last 40 minutes of the discussion time, please plan to discuss the following topics:
 
 1. **Learning Goals:**
