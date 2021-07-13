@@ -36,7 +36,7 @@ In the last 40 minutes of the discussion time, please plan to discuss the follow
    * What is your current approach to managing your time at Turing? What tools do you use? What's effective or not effective for you? What tips could you share with each other?
    * When it comes to making time for PD, how do you approach that? What are the biggest challenges here? 
    * If you were to tweak how you spend your time to build a little more time for something PD-related (networking, working on your LinkedIn or resume, researching companies, going through the resources on this site, etc.), what steps could you take? What support do you need for that?   
-  * **Action Step:** Take 5 minutes to set up different systems (time blocking on your calendar, making a to-do task list, etc.)
+   * **Action Step:** Take 5 minutes to set up different systems (time blocking on your calendar, making a to-do task list, etc.)
 
 3. **Resiliency.** A key component to the job search is developing a high sense of resiliency in order to bounce back from rejections and use your strengths to help you persevere. Talking about strategies here will not only help you with your storytelling skills, it will also help you recognize what you're doing well and how you could contribute to the group.
 
