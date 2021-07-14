@@ -17,7 +17,7 @@ By the end of Mod 1, you should have completed:
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
 
-* [Week 1]
+* [Week 1](/module_one/mod1_week1)
 * [Week 2]
 * [Week 3]
 * [Week 4]
