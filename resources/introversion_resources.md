@@ -3,7 +3,7 @@ layout: page
 title: Introversion Resources
 ---
 
-## Overview
+Check back here often for updated resources for supporting job seekers who are higher on the introversion spectrum. 
 
 ### Job Searching as an Introvert
 
