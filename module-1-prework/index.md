@@ -48,7 +48,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
 As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please choose 1 activity for each competency to complete at the level in which you feel most comfortable. You'll end up with 5 activities to jump start your career development as you start at Turing, and you'll submit them in the prework survey submission (see [submission directions here](#submission)). Each one should take about 10-15 minutes to complete. 
 
 ### Networking
-The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create. You'll also respond to these questions in the submission survey:
+The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You'll also respond to these questions in the submission survey:
 
 1. Please rate on a scale of 1-4 how easy the networking activity was for you.
 2. As you start at Turing, what are your biggest questions or concerns about networking? 
