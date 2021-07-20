@@ -38,11 +38,16 @@ Skip down to:
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
-2. Discuss (20 mins):
-  * What are some questions you might have for a developer?
-  * Draft some networking messages and share them with each other for feedback
-  * Send your messages! 
-  * Brainstorm on other ways to connect with alumni and developers
+2. Discuss (15 mins):
+  * What are some ways that you have already been networking while at Turing?
+  * What are some questions you would ask (or have asked) a software developer?
+  * Who from the Turing community or your own networks could you reach out to get some of those questions answered? 
+3. Work on the 2nd tab of [this tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing) to outline who is already in your network (15 mins).
+4. Share with each other (10 mins):
+  * What did you learn about your personal network during this activity?
+  * Who would be a good person for you to reach out from your tracker? What next steps will you take for this?
+  * How can this group help hold you accountable to doing this outreach?
+5. Draft an outreach message and share with each other for feedback. Consider sending it on Slack, LinkedIn, or via email -- then hit send! (15 mins)
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's homeroom group is a working session on your resumes -- [find the guidelines here!](/module_two/week_5_resume_workshop)
