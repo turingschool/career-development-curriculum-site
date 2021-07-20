@@ -50,18 +50,18 @@ Skip down to:
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
 2. Discuss (20 mins):
-  * What are some ways that you have been networking currently? 
-  * What parts of your personal network have you not yet explored? 
-  * What are your networking goals for the remainder of this inning? 
+      * What are some ways that you have been networking currently? 
+      * What parts of your personal network have you not yet explored? 
+      * What are your networking goals for the remainder of this inning? 
 3. Take one of the networking goals you mentioned and create an action plan (15 mins):
-  * Decide on 1 person to reach out to from a company you are interested in.
-  * Use the 3rd tab on [this tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing) to track information on the details for outreach 
-  * Draft a message to send. Use [this document](https://docs.google.com/spreadsheets/d/1LeI2exD3jqzdgz5eFs6PLyaSspLCWvnds9VoxVbCFeQ/edit?usp=sharing) of outreach message templates to help you and use the [resources here for finding email addresses](/resources/outreach_networking_resources). You can also consider using LinkedIn or reaching out over Twitter.  
+      * Decide on 1 person to reach out to from a company you are interested in.
+      * Use the 3rd tab on [this tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing) to track information on the details for outreach 
+      * Draft a message to send. Use [this document](https://docs.google.com/spreadsheets/d/1LeI2exD3jqzdgz5eFs6PLyaSspLCWvnds9VoxVbCFeQ/edit?usp=sharing) of outreach message templates to help you and use the [resources here for finding email addresses](/resources/outreach_networking_resources). You can also consider using LinkedIn or reaching out over Twitter.  
 4. Share with your group (10 mins):
-  * Who are you reaching out to and why?
-  * What are you going to talk about in your message?
-  * What questions do you want to ask when you talk to this person?
-  * What help could you use from the group to hold you accountable to following through with this outreach?
+      * Who are you reaching out to and why?
+      * What are you going to talk about in your message?
+      * What questions do you want to ask when you talk to this person?
+      * What help could you use from the group to hold you accountable to following through with this outreach?
 5. Get final feedback on the messages and send them! (5 mins)
  
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
