@@ -8,6 +8,8 @@ Mod 1 professional development is delivered through a combination of live whole 
 
 Our approach to Mod 1 is to assess students' needs in professional development and support students in defining their strengths, goals, and professional story for their career transition into software.
 
+Learning Goals of Mod 1...
+
 By the end of Mod 1, you should have completed:
 
 * 1 networking activity
