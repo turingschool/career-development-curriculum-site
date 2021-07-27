@@ -5,7 +5,7 @@ subheading: Identifying Goals & Working Towards a Successful Job Search
 ---
 
 ## Structuring the Conversation
-You are meeting with your mixed group for an hour today....
+You are meeting with your mixed group for an hour today to collaborate on goals and strategies for a successful job search. Below is an outline for how we encourage you to use this time, but we also encourage you as a group to think about what you'd like to accomplish together.
 
 ### Introductions (10 mins)
 You're in a mixed group of people across modules and programs. Start by getting to know each other and make space for everyone to share:
@@ -13,7 +13,7 @@ You're in a mixed group of people across modules and programs. Start by getting 
 * Names
 * Pronouns
 * Program & Cohort
-* 
+* What brought you to Turing? OR What do you want your career to look like as a software developer?
 
 ### Establishing Group Norms (8-10 mins)
 Here are some suggested norms to start with:
@@ -24,13 +24,34 @@ Here are some suggested norms to start with:
 
 Please discuss any additional norms you would like to set as a group!
 
-### Group Discussion(40 mins)
+### Group Discussion (35 mins)
 
-1. Mod 4 experiences and advice
-2. Reflecting on wins and progress
-3. Creating feasible goals to work towards for the rest of the module based on where you are
-4. Discuss challenges to be aware of, resources you can share with each other, and first steps to take
+1. **Learning Goals:**
+
+   * Individually, write down one thing you'd like to get out of today's discussion around the topics of job search goals and strategies. If you feel comfortable, please share this intention with the group as you get started. 
+
+2. **Mod 4 experiences and advice.** Mod 4 students -- please spend a few minutes sharing your experiences working on your job search. 
+
+   * What have you been working on during PD recently? What strategies have been successful for you?
+   * What advice do you have for students in earlier modules?    
+  
+3. **Reflecting on wins and progress.**
+
+   * What wins have you had for your PD and job search so far? What are you proud of? 
+   * What progress have you made since you started this career transition?
+   * How often do you reflect on your wins? How could you do this more intentionally? 
+
+4. **Creating feasible goals to work towards for the rest of the module.**
+
+   * Based on where you are in your PD and job search journey, what is a goal you'd like to work on for the rest of this module? Why is this goal important for you?
+   * What actionable steps could you take for this goal? How will you measure progress?
+   * Who or what could hold you accountable?
+   * **Action Step:** Take 5 minutes to write down these answers and add anything relevant to your calendar and to-do list.
+
+5. **Discuss challenges to be aware of, resources you can share with each other, and first steps to take.**
+
+   * Based on the goal(s) you shared with the group, what challenges should you be aware of in reaching this goal? What advice or resources does the group have to help you with this challenge?
+   * Are there other resources or support within the Turing community that could help you with this challenge? 
 
 ### Close Out & Next Steps (5 mins)
-How can you check in with each other again and hold each other accountable? 
-
+Review the learning goals you set out to achieve today. Did you make progress? What are you proud of? What wins can you take away from this conversation today? Finally, how could you continue building these relationships outside of today's conversation? 
