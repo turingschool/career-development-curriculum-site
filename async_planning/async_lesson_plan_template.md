@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module # Week #
+title: Module X Week X
 ---
 
 ## Overview
