@@ -13,9 +13,7 @@ To start off Mod 4, we recommend revisiting norms with your group. These could i
 * If and how you will communicate outside of Wednesday group time. We encourage groups to form Slack channels if they would like!
 
 Skip down to:
-* [Week 2](#week-2)
 * [Week 3](#week-3)
-* [Week 4](#week-4)
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
@@ -37,13 +35,6 @@ Skip down to:
 
 4. Prepare for your next offer by having your counter offer email or conversation ready. Write out the top 3 skills and or achievements that make up your reasons for asking for 10-15% more than the base salary offer. You can put your reasons on this worksheet. Download and make a copy to fill in your answers using the [Negotiation Worksheet](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit) (15 mins)
 
-### Week 2 Prompts & Structure (30 mins) <a name="week-2"></a>
-1. Revisit norms (5 mins)
-2. Discuss (20 mins):
-  * Share a Stretch or Achievable goal you've been working on. What progress have you made?
-  * If progress was not made, share what challenges you had and what steps you can take to move the needle forward. 
-3. Take a 5-min pom before Mix It Up!
-
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins) 
 2. Discuss the following discussion questions (20 mins):
@@ -60,18 +51,6 @@ Skip down to:
   * How will you hold yourself accountable to your goals?
 5. Share plans with each other (10 mins):
   * How can you hold each other accountable to these plans?
-
-### Week 4 Prompts & Structure (30 mins) <a name="week-4"></a>
-1. Revisit your norms (5 mins)
-2. Share updates on your [SMART goals](https://docs.google.com/spreadsheets/d/1OZ2Ulwy_VbaN92B_O6ciKJfEqmBzM9tnorVDB6lzPxw/edit#gid=1405820824) (10 mins):
-  * Why did you choose this goal? Why is it important to you?
-  * What steps have you taken towards it? What successes have you had? What challenges have you had?
-  * What have you learned so far?
-  * How will this goal add to your overall job search strategy?
-3. Prepare for the Mix It Up groups (15 mins):
-  * Depending on what group you’re in, your focus is different. What are the prompts you’re feeling good about contributing to today? What are you feeling unsure about?
-  * Share with each other ways that you could approach the questions and providing advice to the other students in your Mix It Up group. What have you learned over the last few weeks pertaining to these topics? What would the greater Turing community benefit from learning too?
-4. Take a 5-min pom before Mix It Up! 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's Homeroom Group is a working session to finalize your Mod 4 action items -- [find the guidelines here!](/module_four/week5_working_group)
