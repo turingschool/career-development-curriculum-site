@@ -71,23 +71,23 @@ Breaking down strengths in this way can be easier when we already know what the 
 
 1. Use the SIGN method:
 
-* **Success:** Using your strengths makes you feel successful
-* **Instinct:** Activities you are naturally drawn to
-* **Growth:** Where you learn the most, come up with new ideas, and have the best insights
-* **Needs:** Where you feel the need to spend the most time
+ * **Success:** Using your strengths makes you feel successful
+ * **Instinct:** Activities you are naturally drawn to
+ * **Growth:** Where you learn the most, come up with new ideas, and have the best insights
+ * **Needs:** Where you feel the need to spend the most time
 
 2. Use others to find your strengths:
 
-* What do others ask for your help with?
-* What do others want you to teach them?
-* What do you receive compliments for?
+ * What do others ask for your help with?
+ * What do others want you to teach them?
+ * What do you receive compliments for?
 
 3. Identify three shining moments in your work life or career(s) that have really stood out as shining moments.
 
-* Was it something you have learned to do well (list a skill)?
-* Something you know about (list some knowledge/expertise you have)?
-* Was it something you have a natural ability to do well (list a talent)?
-* How do those combine to create a specific strength?
+ * Was it something you have learned to do well (list a skill)?
+ * Something you know about (list some knowledge/expertise you have)?
+ * Was it something you have a natural ability to do well (list a talent)?
+ * How do those combine to create a specific strength?
  
 ## Application: Using the Pairin Survey
 If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
