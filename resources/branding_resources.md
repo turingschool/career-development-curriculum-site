@@ -2,7 +2,14 @@
 layout: page
 title: Resources for Building Your Brand as a Software Developer
 ---
-### LinkedIn
+## Overview
+The following guidelines are specific to how you can approach your personal branding on the 3 most used branding sites for your job search:
+
+* [LinkedIn](#linkedin): make it easy for employers to find you and get to know your story
+* [GitHub](#github): add your personality to your profile
+* [Twitter](#twitter): show your brand through your engagement and discussion
+
+### LinkedIn <a name="linkedin"></a>
 LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/).
 
 #### Dissecting the Profile
@@ -90,26 +97,37 @@ Your network & their relevance to the job you want DO matter -- start connecting
 * [Bekah Lundy](https://www.linkedin.com/in/bekah-lundy/)
 * [Matt Kaufman](https://www.linkedin.com/in/matthew-leo-kaufman/)
 
-### GitHub Overview
+### GitHub Overview <a name="github"></a>
 You already have a GitHub profile -- make sure it looks good!
 
-- Add a headshot photo rather than using the avatar to look more professional
-- Complete your GitHub profile with:
+#### Profile
+Here are some tips to keep in mind:
+
+* Add a headshot photo rather than using the avatar to look more professional. It's also helpful for it to be the *same* photo you use on your LinkedIn or other branding sites to show continuity of your story and let employers know they're finding the same person. 
+
+* Complete your GitHub profile with:
 	- Your name (especially if it's different from your username)
 	- Location
 	- Link to personal site once you have one
 	- Twitter handle
 	* Include your email address so that anyone who sees your profile can immediately reach out to you
+
+* Create a ReadMe for your profile so that other developers can get to know you
+	* [Check out the overview here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+	* [Here's an easy tool to get you started](https://profilinator.rishav.dev/)
+
 * Pin your best projects to your profile page and keep it up-to-date
 * File issues on all your repos for things that need fixing up
 
-Other resources to make your GitHub as effective as possible:
-* [How to Write a Great ReadMe](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
-* [ReadMe Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [How to Write a Killer ReadMe](https://www.giacomodebidda.com/how-to-write-a-killer-readme/)
-* [Follow the steps suggested here for auditing your projects](http://backend.turing.io/module4/lessons/project_polish)
+#### Projects
+Make sure that all of your projects have a ReadMe. Think about the ReadMe as encompassing a few things:
 
-### Twitter Overview
+* It's an advertisement of your work. How can you highlight important accomplishments and challenges?
+* It's documentation. If someone else were going to use your project, what do they need to know?
+
+[Here are resources for writing excellent ReadMes](/resources/readme_resources)
+
+### Twitter Overview <a name="twitter"></a>
 You don't *have* to have a Twitter account. But a lot of software developers (aka the people you want to connect with) are using Twitter, so we would highly recommend that you create a profile if you don't have one already!
 
 Twitter allows you to:
