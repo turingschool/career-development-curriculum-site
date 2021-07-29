@@ -8,6 +8,7 @@ The following guidelines are specific to how you can approach your personal bran
 * [LinkedIn](#linkedin): make it easy for employers to find you and get to know your story
 * [GitHub](#github): add your personality to your profile
 * [Twitter](#twitter): show your brand through your engagement and discussion
+* [Miscellaneous](#misc): consider blog posts, open source contributions, or speaking at a meetup as a way to add to your brand
 
 ### LinkedIn <a name="linkedin"></a>
 LinkedIn is specifically set up to utilize algorithms and context to help employers find potential candidates and vice versa. As we look at LinkedIn today, we'll talk about how you can passively use it for your job search -- how do people find you? How do they know who you are? It all has to do with how you tell your stories and the particular keywords that you're using. If you don't already have a LinkedIn profile, now is time to set one up [here](https://www.linkedin.com/).
@@ -174,7 +175,7 @@ From this post [15 Twitter Accounts Every Web Developer Should Follow](https://b
 * Free Code Camp (@freecodecamp)
 * The Practical Dev (@ThePracticalDev)
 
-### Miscellaneous <a name="miscellaneous"></a>
+### Miscellaneous <a name="misc"></a>
 * [Tips for Writing Technical Blog Posts](/module_four/blogging_tips)
 * [Open Source Guide](https://opensource.guide/)
 * [Tips for Speaking at a Meetup](/module_four/meetup_involvement_guidelines)
