@@ -34,4 +34,17 @@ Here's an example of how you could block out specific time to work on your resum
 ![Resume Time Blocking Chart](/images/Resume%20Time%20Blocking%20Example.png)
 
 ## Project Manage Your Job Search
+It's helpful to think of your job search as something similar to any of your projects: there is a larger goal, tasks that need to be broken down into smaller steps, and tracking your progress will help you see your work pay off and what you can continue to improve upon. Here are 4 tips to approach this:
+
+1. **Manage your time.** Create time blocks to work on your job search activities that include:
+    * Outreach 
+    * Company research
+    * Job applications, including updating your resume and writing tailored cover letters
+
+2. **Build out a calendar** to host these time blocks. It can also be helpful to color code the different job search activities you're working on!
+
+3. **Use a tracker.** Whether you use your Turing-provided account on [Huntr](https://huntr.co/) or a spreadsheet, it's important to keep track of all of the tasks you've completed or still need to complete. 
+
+4. **Seek support.** Use your mentors, instructors, and peers to help you through this process. Job searching is a team sport, and the more you collaborate, the more you can accomplish!
+
 
