@@ -13,15 +13,16 @@ Below you can find lots of resources to help you prepare for both components.
 ## Technical Interview Prep Resources
 
 ### Start Here
-* [Ian Douglas' Guide to Technical Interview Prep](https://techinterview.guide)
-* Join Ian Douglas' mailing list at [his site](https://iandouglas.com/interview-prep/) for interview prep emails
+* [Former instructor Ian Douglas' Guide to Technical Interview Prep](https://techinterview.guide)
+  * Ian also hosts live streams on Twitch [here](https://techinterview.guide/streaming/#live-on-twitchtv-httpstwitchtviandouglas736) on Thursdays and Sundays at 7pm MT to answer questions on interview prep
+  * View his [pre-recorded interview guide videos here](https://www.youtube.com/c/iandouglas)
+  * Join his mailing list at [his site](https://techinterview.guide/daily-email-series/) for interview prep emails
+  * Watch [this recording between Ian & Aline Lerner from interviewing.io](https://vimeo.com/535068814/6809689362)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) by Yangshun Tay and Louie Tan
   * [Preparing for a Coding Interview](https://yangshun.github.io/tech-interview-handbook/coding-round-overview/#!)
   * [Interview Cheat Sheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/)
   * [Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 * [Step-by-Step Guide to Answering a Technical Question in a Coding Interview](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2)
-* Check out one of Ian's [Google Hangout sessions on interviewing](https://www.youtube.com/watch?v=aXohtMcPT6I)
-* Watch [this recording between Ian Douglas & Aline Lerner from interviewing.io](https://vimeo.com/535068814/6809689362)
 
 ### Practice
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer. Use the promo code at [https://www.pramp.com/promo/iandouglas](https://www.pramp.com/promo/iandouglas) to get unlimited mock interview credits
