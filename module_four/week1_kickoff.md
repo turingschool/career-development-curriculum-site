@@ -47,4 +47,12 @@ It's helpful to think of your job search as something similar to any of your pro
 
 4. **Seek support.** Use your mentors, instructors, and peers to help you through this process. Job searching is a team sport, and the more you collaborate, the more you can accomplish!
 
+5. **Retro your job search.** At the end of each week, reflect on the progress you're making. Here are some questions to ask yourself:
+
+    * How many people did you reach out to this week?
+    * How many new leads or contacts did you get?
+    * How many jobs did you apply to? 
+    * How many interviews did you have?
+    * How many hours did it take you to do all this?
+    * What adjustments should you make to the upcoming week based on these reflections? 
 
