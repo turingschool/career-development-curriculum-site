@@ -8,6 +8,8 @@ This week has two activities:
 
 * [Kickoff to Mod 1]() (live on Zoom) provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module.
 * Complete the lesson below
+   * [Lecture]
+   * [Action Items]
 
 ## Learning Goals
 By the end of this lesson, you should have accomplished these learning goals:
