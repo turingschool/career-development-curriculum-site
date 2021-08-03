@@ -30,6 +30,10 @@ Allow yourself about 20-30 mins to complete the following:
 ### Lesson Plan (10 mins) <a name="lecture"></a>
 Please [watch this video lecture](https://youtu.be/XG4xDO2DVL8) first. You'll complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
 
+<figure class="video_container">
+  <iframe src="https://youtu.be/XG4xDO2DVL8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Section 1: Introduction
 For our first lesson in Mod 1, let's talk about why we're starting with discussing strengths. The core of developing yourself professionally is *understanding yourself* and *being able to speak to to that understanding.* You have to understand yourself in order to know what you're striving towards professionally as well as how to advocate for what you want.
 
