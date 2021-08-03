@@ -6,8 +6,8 @@ title: Module 1 Week 1
 ## Overview
 This week has two activities:
 
-* [Kickoff to Mod 1]() (live on Zoom) provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module.
-* Complete the lesson below
+* Kickoff to Mod 1 provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can review [this video]() as a refresher on the content. 
+* Complete the lesson below:
    * [Lecture](#lecture)
    * [Action Items](#action)
 
@@ -27,7 +27,7 @@ By the end of this lesson, you should have accomplished these learning goals:
 Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
-### Lesson Plan (10 mins)
+### Lesson Plan (10 mins) <a name="lecture"></a>
 Please [watch this video lecture]()
 
 ### Introduction
@@ -112,7 +112,7 @@ Breaking down strengths in this way can be easier when we already know what the 
 ### Using the Pairin Survey
 
 ## Action Items (10-15 mins) 
-1. Read through your Pairin Top 4 results
+1. Read through your Pairin Top 4 results <a name="action"></a>
     * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
     * Use this [Pairin Overview handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) to learn more about the specific qualities.
 
