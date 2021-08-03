@@ -9,9 +9,9 @@ This week has two activities:
 * Kickoff to Mod 1 provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can review [this video]() as a refresher on the content. 
 * Complete the lesson below:
    * [Lecture](#lecture)
-   * [Action Items](#action)
+   * [Check for Understanding Action Items](#cfu)
 
-## Learning Goals
+### Learning Goals
 By the end of this lesson, you should have accomplished these learning goals:
 
 * Understand what a strength is and what it can look like in practice
@@ -28,9 +28,9 @@ Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
 ### Lesson Plan (10 mins) <a name="lecture"></a>
-Please [watch this video lecture]() and you can follow along with the [slides here](https://docs.google.com/presentation/d/1dd1YKxrW8vmw26MtX3wka87mqypOmBy0p3aNZpqTk-g/edit?usp=sharing).
+Please [watch this video lecture]() and you can follow along with the [slides here](https://docs.google.com/presentation/d/1dd1YKxrW8vmw26MtX3wka87mqypOmBy0p3aNZpqTk-g/edit?usp=sharing). You'll complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
 
-### Introduction
+### Section 1: Introduction
 For our first lesson in Mod 1, let's talk about why we're starting with discussing strengths. The core of developing yourself professionally is *understanding yourself* and *being able to speak to to that understanding.* You have to understand yourself in order to know what you're striving towards professionally as well as how to advocate for what you want.
 
 These abilities will not only help you at Turing and serve as the foundation for your job search by helping you:
@@ -51,7 +51,7 @@ How can we activate our strengths in order to use them for these purposes? Use t
 
 We'll utilize this framework to build an understanding of your strengths today to serve as a foundation for all of your professional development at Turing.
 
-### Defining Your Strengths & Assessing Your Skills
+### Section 2: Defining Your Strengths & Assessing Your Skills
 It can be easier said than done to identify what our strengths are. So, to help us break them down, we can think about them about our strengths as a combination of:
 
 * Skills
@@ -109,7 +109,7 @@ Breaking down strengths in this way can be easier when we already know what the 
   * What do others want you to teach them?
   * What do you receive compliments for?
 
-### Using the Pairin Survey
+### Section 3: Using the Pairin Survey
 If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
 
 Your results show you top 4 qualities:
@@ -130,8 +130,8 @@ What is professional coaching? Sometimes referred to as "career therapy," coachi
 * Career transition guidance
 * Using your Pairin data for growth
 
-## Action Items (10-15 mins) 
-1. Read through your Pairin Top 4 results <a name="action"></a>
+## Check for Understanding (10-15 mins) 
+1. Read through your Pairin Top 4 results <a name="cfu"></a>
     * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
     * Use this [Pairin Overview handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) to learn more about the specific qualities.
 
