@@ -18,11 +18,17 @@ By the end of this lesson, you should have accomplished these learning goals:
 * Plan for how to discuss strengths and working preferences
 * Analyze opportunities for professional growth
 
-## Lesson 
-Allow yourself XX mins to complete the following:
+## This Week's Lesson 
+### Prior to the Session
+* Log back into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com) to access your Pairin results
+* Download and save your results as a PDF to have your results more handy
+
+Allow yourself about 20-30 mins to complete the following:
 
 ### Section 1 (7-8 mins)
 Please [watch this video lecture]()
+
+### Lesson Plan
 
 ### Section 2 (10-15 mins)
 1. Read through your Pairin Top 4 results
