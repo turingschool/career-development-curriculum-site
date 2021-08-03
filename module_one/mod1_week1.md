@@ -9,6 +9,8 @@ This week has two activities:
 * Kickoff to Mod 1 provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can review [this video]() as a refresher on the content. 
 * Complete the lesson below:
    * [Lecture](#lecture)
+      * Handout #1: [Reflection Template](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing)
+      * Handout #2: [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf)
    * [Check for Understanding Action Items](#cfu)
 
 ### Learning Goals
@@ -28,7 +30,7 @@ Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
 ### Lesson Plan (10 mins) <a name="lecture"></a>
-Please [watch this video lecture](https://youtu.be/XG4xDO2DVL8) first. You'll complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
+Please watch the video lecture below and complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XG4xDO2DVL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
