@@ -25,7 +25,7 @@ By the end of week 6:
 * Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
 
 ### Weekly Student Discussion & Community Collaboration
-Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
+Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1, 3, and 5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
 
 * [Mod 1 Homeroom Group Information](/student_discussion_groups/mod1_homeroom_discussion_prompts)
 * [Mix It Up Information](/mixed_groups)
