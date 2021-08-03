@@ -27,7 +27,7 @@ By the end of this lesson, you should have accomplished these learning goals:
 Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
-### Lesson Plan (10 mins) <a name="lecture"></a>
+### Lesson Plan (10-15 mins) <a name="lecture"></a>
 Please watch the video lecture below and complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XG4xDO2DVL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
