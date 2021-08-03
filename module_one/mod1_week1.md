@@ -28,7 +28,7 @@ Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
 ### Lesson Plan (10 mins) <a name="lecture"></a>
-Please [watch this video lecture]()
+Please [watch this video lecture]() and you can follow along with the [slides here](https://docs.google.com/presentation/d/1dd1YKxrW8vmw26MtX3wka87mqypOmBy0p3aNZpqTk-g/edit?usp=sharing).
 
 ### Introduction
 For our first lesson in Mod 1, let's talk about why we're starting with discussing strengths. The core of developing yourself professionally is *understanding yourself* and *being able to speak to to that understanding.* You have to understand yourself in order to know what you're striving towards professionally as well as how to advocate for what you want.
@@ -110,6 +110,18 @@ Breaking down strengths in this way can be easier when we already know what the 
  * What do you receive compliments for?
 
 ### Using the Pairin Survey
+If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
+
+Your results show you top 4 qualities:
+
+1. Top Thinking Style
+2. Most Intense Driver
+3. Highest EQ Competency
+4. Leading Virtue Class
+
+Check out the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
+
+If you would like more information on your Pairin results, please reach out to Allison on Slack: @allison_reu_singer 
 
 ## Action Items (10-15 mins) 
 1. Read through your Pairin Top 4 results <a name="action"></a>
