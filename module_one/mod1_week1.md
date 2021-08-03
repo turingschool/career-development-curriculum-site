@@ -9,8 +9,6 @@ This week has two activities:
 * Kickoff to Mod 1 provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can review [this video]() as a refresher on the content. 
 * Complete the lesson below:
    * [Lecture](#lecture)
-      * Handout #1: [Reflection Template](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing)
-      * Handout #2: [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf)
    * [Check for Understanding Action Items](#cfu)
 
 ### Learning Goals
