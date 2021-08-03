@@ -138,9 +138,11 @@ What is professional coaching? Sometimes referred to as "career therapy," coachi
 2. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing)
 
 ## Application
-On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
+1. On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
 
-On Friday, you'll see a Slack message in your cohort channel asking for final reflections from the week. Please make sure to respond there, and if you have any questions, reach out to Allison. 
+2. On Friday, you'll see a Slack message in your cohort channel asking you this question:
+  
+    * After reflecting on your strengths this week, practice replying to this interview question: *how do you see yourself using your strengths as a developer?* Keep in mind: this is not an easy question to answer on the first try! It’s ok if you feel a little shaky in your response, but the point is to practice. This is how you get better!
 
 ## Reminders
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
