@@ -56,7 +56,7 @@ We'll utilize this framework to build an understanding of your strengths today t
 
 ### Section 2: Defining Your Strengths & Assessing Your Skills
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P5StPnQLlm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It can be easier said than done to identify what our strengths are. So, to help us break them down, we can think about them about our strengths as a combination of:
 
@@ -119,6 +119,9 @@ Breaking down strengths in this way can be easier when we already know what the 
     * What do you receive compliments for?
 
 ### Section 3: Using the Pairin Survey
+
+
+
 If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
 
 Your results show you top 4 qualities:
