@@ -66,12 +66,15 @@ It can be easier said than done to identify what our strengths are. So, to help 
 
 **Skills** are something you have *learned* to do well
   * A way to articulate this is by using a statement starting with "I can..."
+  * Some examples: "I can help customers with their problems" or "I can operate specialized equipment" or "I can manage a team."
 
 **Knowledge** is something you know or have expertise in from years of study and practice
   * A way to articulate this is by using a statement starting with "I know..."
+  * Some examples: "I know how to speak another language" or "I know how to solve complex math equations" or "I know how to fix a car engine."
 
 **Talent** refers to something that you have a *natural ability* to do well. Another way to think about it is something you were born with and have a natural preference towards.
   * A way to articulate this is by using a statement starting with "I am..."
+  * Some examples: "I am a problem-solver" or "I am a leader" or "I am a relationship-builder."
 
 Seems easy enough, right?
 
