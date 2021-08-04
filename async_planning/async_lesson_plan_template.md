@@ -15,20 +15,26 @@ This session will cover:
 * Etc.
 
 ## Lesson 
-Allow yourself X mins to complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template and/or other engagement tool].
-
-[Embed Video Here]
+Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 ### Section 1: Introduction 
+[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+
 [Include introductory information for the lesson here]
 
 ### Section 2: [TITLE]
+[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+
 [Second section of your lesson]
 
 ### Section 3: [TITLE]
+[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+
 [Second section of your lesson]
 
 ### Section 4: [TITLE]
+[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+
 [Second section of your lesson]
 
 *[Add additional sections as needed]* 
