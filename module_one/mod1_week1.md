@@ -120,7 +120,7 @@ Breaking down strengths in this way can be easier when we already know what the 
 
 ### Section 3: Using the Pairin Survey
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbwffqVNxo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
 
