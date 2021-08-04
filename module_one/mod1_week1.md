@@ -28,11 +28,12 @@ Allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
 ### Lesson Plan (10-15 mins) <a name="lesson"></a>
-Please watch the video lecture below and complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) after viewing.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XG4xDO2DVL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please read through the lesson plan and watch the video lectures below and complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing) as you go.
 
 ### Section 1: Introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8edzNNxCMuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For our first lesson in Mod 1, let's talk about why we're starting with discussing strengths. The core of developing yourself professionally is *understanding yourself* and *being able to speak to to that understanding.* You have to understand yourself in order to know what you're striving towards professionally as well as how to advocate for what you want.
 
 These abilities will not only help you at Turing and serve as the foundation for your job search by helping you:
@@ -54,6 +55,9 @@ How can we activate our strengths in order to use them for these purposes? Use t
 We'll utilize this framework to build an understanding of your strengths today to serve as a foundation for all of your professional development at Turing.
 
 ### Section 2: Defining Your Strengths & Assessing Your Skills
+
+
+
 It can be easier said than done to identify what our strengths are. So, to help us break them down, we can think about them about our strengths as a combination of:
 
 * Skills
