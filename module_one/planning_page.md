@@ -34,7 +34,7 @@ You will also participate in weekly student discussion groups on Wednesdays to c
 ## Supplemental Activities
 
 * [Networking Activities]
-* [Interviewing Actvities]
+* [Interviewing Activities]
 * [Resume Building]
 * [Cover Letters]
 * [Job Search Strategies Activities]
