@@ -137,15 +137,6 @@ Your results show you top 4 qualities:
 
 Read the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
 
-If you would like more information on your Pairin results, you can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) to schedule a coaching session this module. All coaching sessions are completely confidential.
-
-What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-* Stress management
-* Organization and time management
-* Career transition guidance
-* Using your Pairin data for growth
-
 ## Check for Understanding (10-15 mins) 
 1. Read through your Pairin Top 4 results <a name="cfu"></a>
     * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
@@ -170,5 +161,3 @@ What is professional coaching? Sometimes referred to as "career therapy," coachi
       * Using your Pairin data for growth
     
     * All coaching sessions are completely confidential.
-
-
