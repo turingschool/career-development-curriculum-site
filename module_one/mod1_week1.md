@@ -127,9 +127,13 @@ If you're having trouble identifying your strengths, your Pairin survey results 
 Your results show you top 4 qualities:
 
 1. Top Thinking Style
+      * What this means: your top thinking style describes *how* you think -- how you generally process information and organize tasks.
 2. Most Intense Driver
+      * What this means: your most intense driver describes your biggest motivator. This will generally fall into 1 of 3 categories: love, work, and growth
 3. Highest EQ Competency
+      * What this means: what you prioritize most as you approach recognizing, understanding, and managing your own emotions or influencing the emotions of others
 4. Leading Virtue Class
+      * What this means: what you value most in your own life and attitude towards society at large
 
 Check out the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
 
