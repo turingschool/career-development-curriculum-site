@@ -135,7 +135,7 @@ Your results show you top 4 qualities:
 4. Leading Virtue Class
       * What this means: what you value most in your own life and attitude towards society at large
 
-Check out the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
+Read the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
 
 If you would like more information on your Pairin results, you can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) to schedule a coaching session this module. All coaching sessions are completely confidential.
 
