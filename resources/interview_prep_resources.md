@@ -5,8 +5,8 @@ title: Interview Prep Resources
 
 Your interview process with tech companies will comprise of two main components:
 
-* The Technical Interview(#technical)
-* The Behavioral Interview(#behavioral)
+* [The Technical Interview](#technical)
+* [The Behavioral Interview](#behavioral)
 
 Below you can find lots of resources to help you prepare for both components.
 
