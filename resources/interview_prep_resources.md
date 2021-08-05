@@ -5,14 +5,14 @@ title: Interview Prep Resources
 
 Your interview process with tech companies will comprise of two main components:
 
-* The Technical Interview
-* The Behavioral Interview
+* The Technical Interview (#technical)
+* The Behavioral Interview (#behavioral)
 
 Below you can find lots of resources to help you prepare for both components.
 
 ## Technical Interview Prep Resources
 
-### Start Here
+### Start Here <a name="technical"></a>
 * [Former instructor Ian Douglas' Guide to Technical Interview Prep](https://techinterview.guide)
   * Ian also hosts live streams on Twitch [here](https://techinterview.guide/streaming/#live-on-twitchtv-httpstwitchtviandouglas736) on Thursdays and Sundays at 7pm MT to answer questions on interview prep
   * View his [pre-recorded interview guide videos here](https://www.youtube.com/c/iandouglas)
@@ -66,7 +66,7 @@ Below you can find lots of resources to help you prepare for both components.
 
 ## Behavioral Interview Prep Resources
 
-### Start Here
+### Start Here <a name="behavioral"></a>
 * [Behavioral Interview Formats and Questions to Review](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
 * [How to Ace Your Behavioral Interview](https://docs.google.com/document/d/1puRi85xZkeTIXSgCsMYdGVi0GXJ1ANUXEvgnnhVH9Cc/edit?usp=sharing)
@@ -148,10 +148,7 @@ Below you can find lots of resources to help you prepare for both components.
 
 ### Practice
 
-* Schedule a mock behavioral interview with one of the following people:
-  * Allison Reu Singer: @allison_reu_singer
-  * Tracey Monteiro: @Tracey Monteiro
-  * Ryan Frank: @Ryan Frank
+Reach out to a member of the Career Development Team if you'd like to set up a mock interview.
 
 ### Questions to Ask the Interview & Other Resources
 * [Questions to Ask the Interviewer](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/)
