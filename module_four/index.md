@@ -58,7 +58,7 @@ Communication:
 * LinkedIn optimized for job searching
 * Terminal portfolio reviewed and published (note: you must request review on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it)
 
-**Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the end of week 6. 
+**Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the end of week 5. 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
