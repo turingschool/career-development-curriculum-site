@@ -9,7 +9,7 @@ We recognize that everyone starts their Turing journey at a different point in t
 Core Competencies of Module 1:
 * Build self-awareness around strengths and goals
 * Build community through professional development
-* Incorporate your mentor into job search support
+* Engage in networking at the Turing community level
 * Establish sense of ownership over your professional development and job search
 
 ### Module 1 Outcomes
