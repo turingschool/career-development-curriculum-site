@@ -29,6 +29,7 @@ By the end of Mod 1, you should have completed:
      * Updated headline statement
      * Summary statement using your professional story
      * Turing added to Experience and Education sections
+* Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR)
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
