@@ -4,17 +4,30 @@ title: Module 1 Professional Development
 ---
 
 ## Overview
-Mod 1 professional development is delivered through a combination of live whole group and small group instruction, 
+Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. 
 
-Our approach to Mod 1 is to assess students' needs in professional development and support students in defining their strengths, goals, and professional story for their career transition into software.
+Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
 
-Learning Goals of Mod 1...
+### Key Learning Goals
+The following are covered in the Mod 1 curriculum from our 5 core competencies:
 
+* **Networking:**
+    * Understand and describe your goals in networking
+    * 
+* **Interviewing:**
+    * Build self-awareness around strengths and goals in order to describe them to others
+    * 
+* Build self-awareness around strengths and goals
+* Build community through professional development
+* Incorporate your mentor into job search support
+* Establish sense of ownership over your professional development and job search
+* 
+
+### Deliverables
 By the end of Mod 1, you should have completed:
 
 * 1 networking activity
 * LinkedIn rough draft
-* 
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
