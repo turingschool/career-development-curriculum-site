@@ -18,7 +18,7 @@ The following are covered in the Mod 1 curriculum from our 5 core competencies:
 * **Materials:**
     * Utilize your understanding of your story to create a strong LinkedIn profile
 
-See more about these learning goals [here]. 
+See more about these learning goals [here](/module_one/mod1_learning_goals). 
 
 ### Deliverables
 By the end of Mod 1, you should have completed:
