@@ -4,40 +4,41 @@ title: Module 1 Professional Development
 ---
 
 ## Overview
-Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. 
-
-Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
+Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
 
 ### Key Learning Goals
 The following are covered in the Mod 1 curriculum from our 5 core competencies:
 
 * **Networking:**
-    * Understand and describe your goals in networking
-    * 
+    * Create and describe your goals in networking
+    * Understand how you want to grow your network and identify the next steps to take
+    * Build connections in the Turing community through Homeroom groups, Mix It Up, and your mentor relationship
 * **Interviewing:**
-    * Build self-awareness around strengths and goals in order to describe them to others
-    * 
-* Build self-awareness around strengths and goals
-* Build community through professional development
-* Incorporate your mentor into job search support
-* Establish sense of ownership over your professional development and job search
-* 
+    * Build self-awareness around your background, strengths, values, and goals in order to describe them to others
+* **Materials:**
+    * Utilize your understanding of your story to create a strong LinkedIn profile
+
+See more about these learning goals [here]. 
 
 ### Deliverables
 By the end of Mod 1, you should have completed:
 
 * 1 networking activity
-* LinkedIn rough draft
+* LinkedIn rough draft that includes:
+     * Professional-looking headshot
+     * Updated headline statement
+     * Summary statement using your professional story
+     * Turing added to Experience and Education sections
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
 
 * [Week 1](/module_one/mod1_week1)
-* [Week 2]
-* [Week 3]
-* [Week 4]
-* [Week 5]
-* [Week 6]
+* [Week 2](/module_one/mod1_week2)
+* [Week 3](/module_one/mod1_week3)
+* [Week 4](/module_one/mod1_week4)
+* [Week 5](/module_one/mod1_week5)
+* [Week 6](/module_one/mod1_week6)
 
 You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
 
