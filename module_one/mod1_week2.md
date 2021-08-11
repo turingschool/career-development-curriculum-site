@@ -9,10 +9,10 @@ title: Module 1 Week 2
 ### Learning Goals
 This session will cover:
 
-* [Item 1]
-* [Item 2]
-* [Item 3]
-* Etc.
+* Describe your own needs and comfort level around networking
+* Formulate specific questions about the tech industry related to your experience and career goals
+* Understand how to get started with networking at Turing
+* Create a strategy for getting started with networking
 
 ## Lesson 
 Allow yourself X mins to complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template and/or other engagement tool].
