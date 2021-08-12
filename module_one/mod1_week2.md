@@ -4,7 +4,9 @@ title: Module 1 Week 2
 ---
 
 ## Overview
-[Provide context for the focus of the week and lesson]
+This week's lesson focuses on networking.... Jump to the sections below to get started:
+  * [Lesson Plan](#lesson)
+  * [Check for Understanding Action Items](#cfu)
 
 ### Learning Goals
 This session will cover:
@@ -14,15 +16,16 @@ This session will cover:
 * Understand how to get started with networking at Turing
 * Create a strategy for getting started with networking
 
-## Lesson 
+## Introduction to Networking
+### Lesson Plan <a name="lesson"></a>
 Allow yourself X mins to complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 [Embed Video Here]
 
-### Section 1: Introduction 
+### Section 1: Introduction & assessing your needs in networking
 [Include introductory information for the lesson here]
 
-### Section 2: [TITLE]
+### Section 2: Assessing your comfort level in networking
 [Second section of your lesson]
 
 ### Section 3: [TITLE]
@@ -31,10 +34,16 @@ Allow yourself X mins to complete the following lesson. Start by viewing the vid
 ### Section 4: [TITLE]
 [Second section of your lesson]
 
-*[Add additional sections as needed]* 
-
 ## Check for Understanding
-[What students should complete as a CFU or deliverable to demonstrate their knowledge or progress]
+1. Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) <a name="cfu"></a>
+
+
+## Application
+1. You'll meet in your first Mix It Up group this week with students in different cohorts, and the conversation will be focused on networking. Please be prepared to .... 
+
+2. On Friday, you'll see a Slack message in your cohort channel asking you this  question:
+
+    * What did you learn about your networking style this week? What steps will you take towards networking during the rest of the module?
 
 ## Due Dates & Reminders
-[List due dates and reminders about what the students should engage with that week, i.e., homeroom group discussions on this topic, responding to threads or polls in Slack, etc. as well as any deliverables that should completed by the end of the module]
+One of your deliverables by Monday of Week 6 is to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
