@@ -1,5 +1,4 @@
 
-### Connecting Your Personal Branding: ATS Friendly Resume 
 
 ### Learning Goals
 * Introduce career mapping to help set up best strategies for job search success
