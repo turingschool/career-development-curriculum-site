@@ -63,20 +63,4 @@ When building your resume, make sure to keep this checklist handy as well:
 * There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
 * Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.put them on your LinkedIn profile.
 
-### What to Do
-This week is focused on building your working resume.
 
-* Build your resume using [these resources](/resources/resume_resources)
-* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides).
-* Update your resume using that feedback
-
-#### Resume Review Practice
-To see what different technical resumes can look like, you'll act as a hiring committee for a junior engineering position at your company. Search through 2-3 resumes from the [Terminal portfolio site](https://terminal.turing.edu). For the sake of this activity, the position is language agnostic. 
-
-Consider:
-
-* What is your first impression of this candidate?
-* What do you know about this candidate's technical abilities?
-* What questions do you have about this candidate?
-* Would you choose to interview this person based on their resume? Why or why not?
-* If you decide to interview them, what follow-up questions would you ask?
