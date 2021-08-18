@@ -12,7 +12,7 @@ Today as you start on this, consider these questions:
 * What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
 * What questions or concerns do you have about building your tech resume? 
 
-### Connecting your Personal Branding to your Resume
+### Connecting your Personal Brand to build your Resume
 As you start to think about your resume, your professional career story and personal brand will serve as a foundation. You can't build an effective resume until you know what story you want it to tell. And we'll start here by addressing a common misconception that resumes should be one-size-fits-all. Not only should you customize your resume for each job you apply to, but your resume should also be a **direct reflection of your job search strategy.** 
 
 #### Technical Resumes Lead with Projects
@@ -21,7 +21,6 @@ Since you are a software developer now, your software projects are an essential 
 * Turing projects
 * Side projects
 * Open Source projects
-* Etc.
 
 You should include links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
