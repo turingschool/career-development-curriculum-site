@@ -3,7 +3,7 @@ title: Module 2 Week 1
 ---
 
 ## Overview
-The Kickoff to Mod 2 provides the overview of what you'll work on this module. The session takes place live on Zoom, followed by a video workshop and action items . Provide context for the focus of the week and lesson
+The Kickoff to Mod 2 provides the overview of what you'll work on this module. The session takes place live on Zoom, followed by a video workshop and action items to assist you in creating a technically focused ATS Friendly resume.  
 
 ### Learning Goals
 This session will cover:
