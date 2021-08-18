@@ -1,13 +1,14 @@
-
+### Connecting Your Personal Brand: ATS Friendly Resume
 
 ### Learning Goals
-* Introduce career mapping to help set up best strategies for job search success
-* Utilize your job search strategy to customize your resume
-
+* Connect elements of Professional Storytelling and Branding to develop a technically focused resume
+* Understand the Applicant Tracking System in selecting resume formats
+* Analyze resume for what’s working and what’s not to make final updates
+ 
 
 Today as you start on this, consider these questions:
 
-* Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
+* What kinds of jobs will you be targeting?
 * What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
 * What questions or concerns do you have about building your tech resume? 
 
