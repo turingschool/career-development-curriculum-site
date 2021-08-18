@@ -3,18 +3,18 @@ title: Module 2 Week 1
 ---
 
 ## Overview
-[Provide context for the focus of the week and lesson]
+[The Kickoff to Mod 2 provides the overview of what you'll work on this module. The session takes place live on Zoom, followed by a video workshop and action items . Provide context for the focus of the week and lesson]
 
 ### Learning Goals
 This session will cover:
 
-* [Item 1]
-* [Item 2]
-* [Item 3]
-* Etc.
+* [Build on your professional story by focusing on "what's next"
+* [Summarize professional accomplishments and technical skills for a resume rough draft ]
+* Learn how to generate an ATS Friendly Resume]
+
 
 ## Lesson 
-Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
+Allow yourself x mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 ### Section 1: Introduction 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
