@@ -46,8 +46,20 @@ Applicant Tracking Systems or ATS, are hiring tools that help medium to large co
 
 Lets walk through what to not include on your resume and a few key reminders. 
 
-## Check for Understanding
-[What students should complete as a CFU or deliverable to demonstrate their knowledge or progress]
+## Check for Understanding (15-30 mins)
+
+Now that we have covered why, and how to build an ATS friendly resume that highlights your technical skills and projects. 
+
+1. Take a few minutes to see what we mean, take some time to look at current student and alumni resumes on Terminal, our portfolio site.
+2. Find 3 peer profiles to review. Find their resume by clicking on “open resume” on the left side of the portfolio. 
+3. As you look through these resumes, take note of the following:
+******* What do I like about this resume?
+******* What stands out the most?
+******* What would I do differently on my resume?
+******* What should you keep in mind as you build your new resume?
+
+## Application
+1. On Wednesday, you'll have your [Homeroom Group](https://careerdev.turing.edu/student_discussion_groups/mod2_homeroom_discussion_prompts. Please be prepared to discuss your reflections from the lesson today.
 
 ## Due Dates & Reminders
 [List due dates and reminders about what the students should engage with that week, i.e., homeroom group discussions on this topic, responding to threads or polls in Slack, etc. as well as any deliverables that should completed by the end of the module]
