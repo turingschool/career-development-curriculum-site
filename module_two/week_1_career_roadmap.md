@@ -3,8 +3,7 @@
 ### Learning Goals
 * Connect elements of Professional Storytelling and Branding to develop a technically focused resume
 * Understand the Applicant Tracking System in selecting resume formats
-* Analyze resume for what’s working and what’s not to make final updates
- 
+* Generate a resume that reflect your skills and your professional story 
 
 Today as you start on this, consider these questions:
 
