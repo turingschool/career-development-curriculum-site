@@ -1,4 +1,4 @@
-# 
+
 
 ### Learning Goals
 * Connect elements of Professional Storytelling and Branding to develop a technically focused resume
