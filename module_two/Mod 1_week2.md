@@ -66,7 +66,7 @@ On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss y
 
 2. If you are needing help organizing your resume content use this Free Worksheet Makes It Easy to Create (or Update) Your Resume. 
 
-## Next:Build your resume
+## Next: Build your resume
 1. Pick a template and checklist listed here
 2. Develop a Resume Rough Draft
 3. Upload your resume to CV Compiler: ATS system we partner with that provides feedback
