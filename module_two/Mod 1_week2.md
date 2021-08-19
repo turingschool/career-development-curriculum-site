@@ -62,10 +62,11 @@ On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss y
 
 ## Application
 
-First:  review the following articles that offer great advice and tools on building your technical resume. 
-If you are needing help organizing your resume content use this Free Worksheet Makes It Easy to Create (or Update) Your Resume. 
+1. After reflecting on how to create a ATS friendly resume, we suggest that you take a few minutes to review the following articles that offer great advice and tools that further support how to building a compelling technical resume. 
 
-Next:Build your resume
+2. If you are needing help organizing your resume content use this Free Worksheet Makes It Easy to Create (or Update) Your Resume. 
+
+# Next:Build your resume
 1. Pick a template and checklist listed here
 2. Develop a Resume Rough Draft
 3. Upload your resume to CV Compiler: ATS system we partner with that provides feedback
