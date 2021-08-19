@@ -53,13 +53,37 @@ Now that we have covered why, and how to build an ATS friendly resume that highl
 1. Take a few minutes to see what we mean, take some time to look at current student and alumni resumes on Terminal, our portfolio site.
 2. Find 3 peer profiles to review. Find their resume by clicking on “open resume” on the left side of the portfolio. 
 3. As you look through these resumes, take note of the following:
-******* What do I like about this resume?
-******* What stands out the most?
-******* What would I do differently on my resume?
-******* What should you keep in mind as you build your new resume?
+What do I like about this resume?
+What stands out the most?
+What would I do differently on my resume?
+What should you keep in mind as you build your new resume?
+
+On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss your reflections from the lesson today.
 
 ## Application
-1. On Wednesday, you'll have your [Homeroom Group](https://careerdev.turing.edu/student_discussion_groups/mod2_homeroom_discussion_prompts. Please be prepared to discuss your reflections from the lesson today.
+
+First:  review the following articles that offer great advice and tools on building your technical resume. 
+If you are needing help organizing your resume content use this Free Worksheet Makes It Easy to Create (or Update) Your Resume. 
+
+Next:Build your resume
+1. Pick a template and checklist listed here
+2. Develop a Resume Rough Draft
+3. Upload your resume to CV Compiler: ATS system we partner with that provides feedback
+4. Go to https://cvcompiler.com/students/turingschool
+5. Click on “Improve Your Student Resume”
+6. Authorize it with either LinkedIn or GitHub
+7. Fill out the fields with your Name and Email and the promo code Turing2105
+8. Upload your resume
+8. Update your resume according to feedback
+
 
 ## Due Dates & Reminders
-[List due dates and reminders about what the students should engage with that week, i.e., homeroom group discussions on this topic, responding to threads or polls in Slack, etc. as well as any deliverables that should completed by the end of the module]
+
+1. Resume should be uploaded CV Compiler using the promo code Turing2105, by Monday of Week 4 
+2. After you receive feedback on the resume, make any necessary changes to your resume
+3. You can submit your rough draft to a career specialist only after you have implemented the CV Compiler changes
+
+## End of Mod Deliverables & Due Dates
+Resume draft reviewed by peers in week 5
+Students complete end of mod self-evaluation survey for CD team to assess support needs
+
