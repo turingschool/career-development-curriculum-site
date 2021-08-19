@@ -13,7 +13,7 @@ This session will cover:
 * Learn how to generate an ATS Friendly Resume
  
 
-## Lesson 
+## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS Friendly Resume
 Allow yourself x mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 ### Section 1: Introduction 
@@ -50,13 +50,13 @@ Lets walk through what to not include on your resume and a few key reminders.
 
 Now that we have covered why, and how to build an ATS friendly resume that highlights your technical skills and projects. 
 
-1. Take a few minutes to see what we mean, take some time to look at current student and alumni resumes on Terminal, our portfolio site.
-2. Find 3 peer profiles to review. Find their resume by clicking on “open resume” on the left side of the portfolio. 
-3. As you look through these resumes, take note of the following:
-What do I like about this resume?
-What stands out the most?
-What would I do differently on my resume?
-What should you keep in mind as you build your new resume?
+1. **Take a few minutes to see what we mean, take some time to look at current student and alumni resumes on Terminal, our portfolio site.
+2. **Find 3 peer profiles to review. Find their resume by clicking on “open resume” on the left side of the portfolio. 
+3. **As you look through these resumes, take note of the following:
+     * What do I like about this resume?
+     * What stands out the most?
+     * What would I do differently on my resume?
+     * What should you keep in mind as you build your new resume?
 
 On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss your reflections from the lesson today.
 
