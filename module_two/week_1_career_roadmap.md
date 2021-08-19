@@ -1,4 +1,4 @@
-# Connect Your Career Story and Brand: ATS Friendly Resume
+# 
 
 ### Learning Goals
 * Connect elements of Professional Storytelling and Branding to develop a technically focused resume
