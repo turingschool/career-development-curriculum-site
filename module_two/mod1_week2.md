@@ -1,3 +1,4 @@
+---
 layout: page
 title: Module 2 Week 1
 ---
@@ -12,7 +13,6 @@ This session will cover:
 * Summarize professional accomplishments and technical skills for a resume rough draft 
 * Learn how to generate an ATS Friendly Resume
  
-
 ## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS Friendly Resume
 Allow yourself x mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
