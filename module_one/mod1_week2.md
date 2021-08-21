@@ -22,17 +22,18 @@ Allow yourself X mins to complete the following lesson. Start by viewing the vid
 
 [Embed Video Here]
 
-### Section 1: Introduction & assessing your needs in networking
-[Include introductory information for the lesson here]
+### Section 1: Introduction & Assessing your Needs in Networking
 
-### Section 2: Assessing your comfort level in networking
-[Second section of your lesson]
+Provide examples/extra information
 
-### Section 3: [TITLE]
-[Second section of your lesson]
+### Section 2: Assessing your Comfort Level in Networking
 
-### Section 4: [TITLE]
-[Second section of your lesson]
+
+Provide examples/extra information
+
+### Section 3: Create Networking Goals
+
+Provide examples/extra information
 
 ## Check for Understanding
 1. Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) <a name="cfu"></a>
