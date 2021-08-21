@@ -26,14 +26,22 @@ Allow yourself X mins to complete the following lesson. Start by viewing the vid
 
 Provide examples/extra information
 
+Add in additional links for articles and other things that will help with this step
+
 ### Section 2: Assessing your Comfort Level in Networking
 
 
 Provide examples/extra information
 
+Add in additional links for articles and other things that will help with this step
+
+
 ### Section 3: Create Networking Goals
 
 Provide examples/extra information
+
+Add in additional links for articles and other things that will help with this step
+
 
 ## Check for Understanding
 1. Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) <a name="cfu"></a>
