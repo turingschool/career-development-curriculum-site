@@ -31,7 +31,7 @@ The primary goals of this lesson are for you all to:
 ### Section 2:  Why is building connection important? 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVkxIuQbvIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Did you know that we see upwards of 30-45% of students get jobs via connecting with the turing community? Check out our [jobs reports]( https://turing.edu/outcomes/) see the data. 
+Did you know that we see upwards of 30-45% of students get jobs via connecting with the Turing community? Check out our [jobs reports]( https://turing.edu/outcomes/) see the data. 
 
 Generally speaking, when we start to talk about networking most folks tend to think about it as a very transactional process in which you are asking for something from someone. This can be true and a form of networking, however, the reframe here is that networking is more based on asking for directions from people who have had similar experiences. 
 
@@ -48,7 +48,7 @@ Note: neither of these is about asking for a job it’s more about preparing for
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbrRxU8ckEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### What Does This Look Like?
+##What Does This Look Like?
 When you think about outreach, you can think about both **warm** and **cold** outreach. 
 
 In short, warm outreach means reaching out to people who are already in your community and include people you know personally. Warm outreach includes:
@@ -97,7 +97,7 @@ This should populate a list of alumni that currently or previously worked at tha
 
 Be sure to browse [these resources](/resources/finding_opportunities) for more insight into finding companies, connections, and opportunities. 
 
-### What to Say
+## What to Say
 When you're reaching out to someone, be sure to follow these steps:
 
 * Introduction: who are you?
@@ -121,7 +121,7 @@ When you're reaching out for a networking connection, make sure NOT to do the fo
 * Sending a LinkedIn request with no introduction
 * Sending a generic message that hasn't been customized
 
-### How to Reach Out
+## How to Reach Out
 Again, use your tools!
 
 If you're reaching out to a Turing alum or someone else in the Turing community, try them on Slack first! You can also send a message on LinkedIn to a contact. If you don't hear back from the person you want to talk to on either of those platforms, try to find their email address. These tools can help you:
@@ -138,7 +138,7 @@ If you're reaching out to a Turing alum or someone else in the Turing community,
 * [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
 * Check the person's GitHub profile or look for their personal website
 
-### You've Scheduled a Meeting. Now what?
+## You've Scheduled a Meeting. Now what?
 Once you've set up that phone call or meeting, how do you prepare? What do you want to talk about?
 
 Start by thinking about what you want to learn. What are you curious about? What do you need to know in order to move forward with your job search? Could you even see yourself at this company? And then also consider who your audience is. What can this particular contact help you to learn? 
