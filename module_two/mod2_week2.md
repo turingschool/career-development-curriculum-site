@@ -13,7 +13,7 @@ Please complete the lesson plan as well as all check for understanding action it
 * Create and execute a plan to start expanding your network 
 
 ## Week 2 Lesson - Building Connection Part I
-Allow yourself 30-40 mins to complete the following lesson. Start by viewing the videos below.
+Allow yourself 30-40 minutes to complete the following lesson. Start by viewing the videos below.
 
 ### Section 1: Introduction 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DnhNLpyTAJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
