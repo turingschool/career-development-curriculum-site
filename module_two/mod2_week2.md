@@ -97,7 +97,7 @@ This should populate a list of alumni that currently or previously worked at tha
 
 Be sure to browse [these resources](/resources/finding_opportunities) for more insight into finding companies, connections, and opportunities. 
 
-## What to Say
+What to Say
 When you're reaching out to someone, be sure to follow these steps:
 
 * Introduction: who are you?
@@ -121,7 +121,7 @@ When you're reaching out for a networking connection, make sure NOT to do the fo
 * Sending a LinkedIn request with no introduction
 * Sending a generic message that hasn't been customized
 
-## How to Reach Out
+How to Reach Out
 Again, use your tools!
 
 If you're reaching out to a Turing alum or someone else in the Turing community, try them on Slack first! You can also send a message on LinkedIn to a contact. If you don't hear back from the person you want to talk to on either of those platforms, try to find their email address. These tools can help you:
@@ -138,7 +138,7 @@ If you're reaching out to a Turing alum or someone else in the Turing community,
 * [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
 * Check the person's GitHub profile or look for their personal website
 
-## You've Scheduled a Meeting. Now what?
+You've Scheduled a Meeting. Now what?
 Once you've set up that phone call or meeting, how do you prepare? What do you want to talk about?
 
 Start by thinking about what you want to learn. What are you curious about? What do you need to know in order to move forward with your job search? Could you even see yourself at this company? And then also consider who your audience is. What can this particular contact help you to learn? 
