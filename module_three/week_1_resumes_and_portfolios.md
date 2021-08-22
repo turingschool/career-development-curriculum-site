@@ -5,23 +5,12 @@ subheading: Resumes & Portfolios
 ---
 
 ### Learning Goals
-* Introduce career mapping to help set up best strategies for job search success
+* Review and refine your career vision and job search strategy
 * Utilize your job search strategy to customize your resume
 * Utilize your job search strategy to customize your alumni portfolio
 
-### What is a Career Roadmap?
-A career roadmap is a tool to help you navigate your job search by helping you to explore and reflect on the past, present and future as it relates to your career. Outlining your ideas for your career in this way helps provide context for all competencies related to job search such as, interviewing, resume building, negotiation, networking, and job search strategies.
-
-Start by making a copy of the [career roadmap template](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit) and filling it out to the best of your ability. It's okay if you don't know all the answers to the prompts yet. This is something that you'll continue to update over time as your understanding of your job search grows. 
-
-Today as you start on this, consider these questions:
-
-* Based on what you filled out in the roadmap so far, what kinds of jobs will you be targeting?
-* What should your resume include to show that these are the jobs you’re both qualified for and seeking?  
-* What questions or concerns do you have about building your tech resume? 
-
-### Connecting your Roadmap to your Resume
-As you start to think about your resume, your career roadmap will serve as a foundation. You can't build an effective resume until you know what story you want it to tell. And we'll start here by addressing a common misconception that resumes should be one-size-fits-all. Not only should you customize your resume for each job you apply to, but your resume should also be a **direct reflection of your job search strategy.** 
+### Connecting your Career Vision and Professional brand to your Resume
+As you start to think about your resume, your career vision will serve as a foundation. You can't build an effective resume until you know what story you want it to tell. And we'll start here by addressing a common misconception that resumes should be one-size-fits-all. Not only should you customize your resume for each job you apply to, but your resume should also be a **direct reflection of your job search strategy.** 
 
 #### Technical Resumes Lead with Projects
 Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
