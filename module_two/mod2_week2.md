@@ -31,7 +31,7 @@ The primary goals of this lesson are for you all to:
 ### Section 2:  Why is building connection important? 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVkxIuQbvIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Did you know that we see upwards of 30-45% of students get jobs via connecting with the Turing community? Check out our [jobs reports]( https://turing.edu/outcomes/) see the data. 
+Did you know that we see upwards of 30-45% of students get jobs via connecting with the Turing community? Check out our [job reports]( https://turing.edu/outcomes/) see the data. 
 
 Generally speaking, when we start to talk about networking most folks tend to think about it as a very transactional process in which you are asking for something from someone. This can be true and a form of networking, however, the reframe here is that networking is more based on asking for directions from people who have had similar experiences. 
 
