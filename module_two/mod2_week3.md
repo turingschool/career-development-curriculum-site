@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Module 2 Week 5
+title: Module 2 Week 3
 ---
 
 ## Overview
-This week has one lesson focused on starting to navigate the job search and begin the stages of developing a strategy behind your job search. You will complete the lesson below and all check for understanding activities. 
+This week's lesson focuses on starting to navigate the job search and begin the stages of developing a strategy behind your job search. Please watch the videos below, read through the lesson plan, and complete the following check for understanding activities. 
 
 Learning Goals:
 * Devise a step-by-step strategy for a job application including self-reflection, research, outreach, and follow-up
 * Create and effectively use a job search tracker for your job search with Huntr
 * Understand resources available to you to support your job search process 
 
-## Week 5 Lesson - Job Search Strategies
+## Week 3 Lesson - Job Search Strategies
 
 Prior to Lesson:
 Please be sure to have completed [all previous lesson plans](/module_two/index) for Module 2 before completing this lesson. 
