@@ -33,33 +33,52 @@ Section 3: [TITLE]
 
 
 
-Application
-The following tools can be used to build resume content. Review this resume worksheet to help organize and select relevant experience and skills to include.
+## Application
+The following tools can be used to build resume content:
 
-Next, decide if you want to use your LinkedIn Profile PDF to help build your resume template with the following steps: 
- Go to homepage of LinkedIn profile
- On left side of page, click on resume builder
- Select a title of role you are interested in
+* Review this [resume worksheet] (https://docs.google.com/document/d/1EGkDTLYCZgHijgfGnKi-BoEOLNHtprd16rnUJmqBS6M/edit) to help organize and select relevant experience and skills to include.
 
-Submit your Resume Rough Draft:
+* Next, decide if you want to use your LinkedIn Profile PDF to help build your resume template with the following steps: 
+ ** Go to homepage of LinkedIn profile
+ ** On left side of page, click on resume builder
+ ** Select a title of role you are interested in
+ ** Download the PDF to cut and paste into a template/google doc
+
+## Submit your Resume Rough Draft:
  1. Upload your resume to CV Compiler [here] (https://cvcompiler.com/students/turingschool) 
- 2. 2. Click on "Improve Your Student Resume"
+ 2. Click on "Improve Your Student Resume"
  3. Authorize it with either LinkedIn or GitHub
  4. Fill out the fields with your Name
- and Email and the promo code Turing2108
+    and Email and the promo code Turing2108 (or other cohort promo code provided to you during PD)
  5. Upload your resume
 
 Update your resume according to feedback. These updates must be done first before submitting your resume to the Career team for review. 
 
-Set up Terminal Portfolio:
+## Set up Terminal Portfolio:
 Take a look on how to set up your profile! Watch this Terminal profiles walkthrough with Tanner! 
-About me section:
-Write out a rough draft of your professional story considering using this framework:
-  What is your career story- that shares who you are as a developer, what prior experiences are relevant and transferrabe to tech, and what impact you want to have in software development. What kind of company and culture are you passionate about adding value for?
-Answer the following questions:
-  
-What students should complete as a CFU or deliverable to demonstrate their knowledge or progress]
 
-Due Dates & Reminders
-[List due dates and reminders about what the students should engage with that week, i.e., homeroom group discussions on this topic, responding to threads or polls in Slack, etc. as well as any deliverables that should completed by the end of the module]
+## About me section:
+Write out a rough draft of your professional story considering using this framework:
+
+* What is your career story about your past, present, and future that you want to share with employers? 
+* What prior experiences are relevant and transferrabe to the tech industry?
+* What impact you want to have in software development?
+* What kind of company and culture are you passionate about adding value for?
+
+## Answer the following questions:
+* Who am I? 
+* Why am I in this field? 
+* What's next for me? 
+
+Show readers who you are by telling a story of your journey into tech. Share enough for them to want to hear and learn more!
+ 
+## Due Dates & Reminders
+Items to be completed by end of Module 3
+
+## Career Materials:
+* Resume draft completed and uploaded to terminal profile by end of week 5
+* Terminal portfolio drafted  by EOD Monday of Week 6
+* Cover letter draft reviewed by peers in week 5 homeroom groups
+* Complete end of mod self-evaluation survey by Monday of week 6
+* Provide portfolio and resume link as final deliverables
 
