@@ -17,10 +17,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 ## Expectations for Repeating the Module
 
 ### Sessions
-You are **not** required to attend any of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
-
-* Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
-* Week 3: [Professional Storytelling & Branding](/module_one/week_3_professional_storytelling_branding)
+You can access any of the previous sessions and rewatch videos from each session on the [Mod 2 main page](/module_one/index).
 
 ### Homeroom Groups
 You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
