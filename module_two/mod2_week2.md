@@ -44,11 +44,9 @@ Why would you start to network/build connections so early in the program?
 
 Note: neither of these is about asking for a job it’s more about preparing for the process! 
 
-### Section 3: What does it look like in Mod 2? 
+### Section 3: What Does This Look Like in Mod 2? 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbrRxU8ckEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-##What Does This Look Like?
 When you think about outreach, you can think about both **warm** and **cold** outreach. 
 
 In short, warm outreach means reaching out to people who are already in your community and include people you know personally. Warm outreach includes:
@@ -97,7 +95,7 @@ This should populate a list of alumni that currently or previously worked at tha
 
 Be sure to browse [these resources](/resources/finding_opportunities) for more insight into finding companies, connections, and opportunities. 
 
-What to Say
+#### What to Say
 When you're reaching out to someone, be sure to follow these steps:
 
 * Introduction: who are you?
@@ -107,11 +105,11 @@ When you're reaching out to someone, be sure to follow these steps:
 
 So your message might look something like this: 
 
-*Hi Joanne,
+*Hi Joanne,*
 
-*My name is Allison, and I'm a student in the Back End Engineering program at Turing School of Software & Design. I'm reaching out because I'm really interested in the work that your company is doing and would love to ask a few questions about what it's like working there. I also saw that you and I have a shared background in environmental science, and I would love to pick your brain about what the transition to software was like for you. Would you be available for a 30-min Zoom call in the next week? I'm available any weekday after 4pm MT. 
+*My name is Allison, and I'm a student in the Back End Engineering program at Turing School of Software & Design. I'm reaching out because I'm really interested in the work that your company is doing and would love to ask a few questions about what it's like working there. I also saw that you and I have a shared background in environmental science, and I would love to pick your brain about what the transition to software was like for you. Would you be available for a 30-min Zoom call in the next week? I'm available any weekday after 4pm MT.* 
 
-*Thanks so much and hope to hear from you soon!
+*Thanks so much and hope to hear from you soon!*
 *Allison*
 
 When you're reaching out for a networking connection, make sure NOT to do the following: 
