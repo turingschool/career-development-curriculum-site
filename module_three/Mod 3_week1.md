@@ -7,13 +7,13 @@ The intro to mod 3 provides an overview of what you work on this module. This se
 
 ### Learning Goals
 
-## This session will cover:
+### This session will cover:
 
 * Review and refine professional story & brand to build a technically focused resume
 * Apply unique career vision and job search strategy to customize resume
 * Employ personal brand to create Terminal portfolio that showcases projects 
 
-## Week 1 Lesson
+### Week 1 Lesson
 Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 Section 1: Introduction of Resume Review 
@@ -44,7 +44,7 @@ The following tools can be used to build resume content:
  ** Select a title of role you are interested in
  ** Download the PDF to cut and paste into a template/google doc
 
-## Submit your Resume Rough Draft:
+### Submit your Resume Rough Draft:
  1. Upload your resume to CV Compiler [here] (https://cvcompiler.com/students/turingschool) 
  2. Click on "Improve Your Student Resume"
  3. Authorize it with either LinkedIn or GitHub
@@ -54,11 +54,11 @@ The following tools can be used to build resume content:
 
 Update your resume according to feedback. These updates must be done first before submitting your resume to the Career team for review. 
 
-## Set up Terminal Portfolio:
+### Set up Terminal Portfolio:
 Take a look on how to set up your profile!
 Watch this [video] (https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-## About me section for Terminal Portfolio:
+###  About me section for Terminal Portfolio:
 Write out a rough draft of your professional story considering using this framework:
 
 * What is your career story about your past, present, and future that you want to share with employers? 
@@ -66,7 +66,7 @@ Write out a rough draft of your professional story considering using this framew
 * What impact you want to have in software development?
 * What kind of company and culture are you passionate about adding value for?
 
-## Answer the following questions:
+### Answer the following questions:
 * Who am I? 
 * Why am I in this field? 
 * What's next for me? 
@@ -75,10 +75,10 @@ Show readers who you are by telling a story of your journey into tech. Share eno
 
 Your terminal about me, LinkedIN summary, and resume summary (if you chose to use one) should all be slightly different. 
 * First, you want the reader to learn something new with each profile
-* Second, each summary has a different purpose- think about the audience
+* Second, each summary has a different purpose; think about the audience
   * Resume summaries should tell why you are the best candidate for the role relevant to the job description. 
  *  LinkedIn summaries allows you to add a personal touch in addition to relevant skills and experiences that will attract recruiters and hiring managers.
-* Terminal is similiar to LinkedIn audience and employers want to know your backsstory, and whats next for you as a developer. 
+* Terminal is similiar to the LinkedIn audience; employers want to know your backstory, your value proposition and what's next for you as a developer. 
  
 ## Due Dates & Reminders
 Items to be completed by end of Module 3
