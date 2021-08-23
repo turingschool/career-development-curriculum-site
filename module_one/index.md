@@ -4,31 +4,47 @@ title: Module 1 Professional Development
 ---
 
 ## Overview
-Our approach to Mod 1 is to assess students' needs in professional development and support students in defining their strengths, goals, and professional story for their career transition into software.
+Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
 
-Find more specifics here on [Mod 1 Key Learning Goals & Outcomes](/module_one/mod1_learning_goals)
+### Key Learning Goals
+The following are covered in the Mod 1 curriculum from our 5 core competencies:
 
-### Lessons & Activities
-* Sessions:
-    * Week 1: [Understanding Your Developer Identity](/module_one/week_1_understanding_your_strengths)
-    * Week 3: [Professional Storytelling & Branding](/module_one/week_3_professional_storytelling_branding)
-* Activities:
-    * Week 2: [Choose a Networking Activity to Complete](/module_one/week_2_networking_activity)
-    * Week 4: [Complete a Follow-Up Networking Activity](/module_one/week_4_networking_activity)
-    * Week 5: [LinkedIn Profile Workshop](/module_one/week_5_storytelling_linkedin_workshop)
-* Weekly student discussion groups (see below!)
+* **Networking:**
+    * Create and describe your goals in networking
+    * Understand how you want to grow your network and identify the next steps to take
+    * Build connections in the Turing community through Homeroom groups, Mix It Up, and your mentor relationship
+* **Interviewing:**
+    * Build self-awareness around your background, strengths, values, and goals in order to describe them to others
+* **Materials:**
+    * Utilize your understanding of your story to create a strong LinkedIn profile
 
-### Deliverables & Due Dates
-By the end of week 6:
+See more about these learning goals [here](/module_one/mod1_learning_goals). 
 
-* Students should have LinkedIn rough draft completed and get feedback from peers
-* Students complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) for CD team to assess support needs
+### Deliverables
+By the end of Mod 1, you should have completed:
 
-### Weekly Student Discussion & Community Collaboration
-Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1, 3, and 5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
+* 1 networking activity
+* LinkedIn rough draft that includes:
+     * Professional-looking headshot
+     * Updated headline statement
+     * Summary statement using your professional story
+     * Turing added to Experience and Education sections
+* Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR)
 
-* [Mod 1 Homeroom Group Information](/student_discussion_groups/mod1_homeroom_discussion_prompts)
-* [Mix It Up Information](/mixed_groups)
+## Weekly Breakdown
+To find your weekly activities and deadlines, please check out each week below:
 
-### Repeating the Module
+* [Week 1](/module_one/mod1_week1)
+* [Week 2](/module_one/mod1_week2)
+* [Week 3](/module_one/mod1_week3)
+* [Week 4](/module_one/mod1_week4)
+* [Week 5](/module_one/mod1_week5)
+* [Week 6](/module_one/mod1_week6)
+
+You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
+
+* Weeks 1, 3, & 5: [Homeroom Groups](/student_discussion_groups/index)
+* Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
+
+## Repeating the Module
 For students repeating Module 1, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_one/m1_PD_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
