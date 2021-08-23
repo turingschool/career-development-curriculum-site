@@ -17,7 +17,7 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 ## Expectations for Repeating the Module
 
 ### Sessions
-You can access any of the previous sessions and rewatch videos from each session on the [Mod 2 main page](/module_one/index).
+You can access any of the previous sessions and rewatch videos from each session on the [Mod 1 main page](/module_one/index).
 
 ### Homeroom Groups
 You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
