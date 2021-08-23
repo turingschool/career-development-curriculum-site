@@ -34,25 +34,13 @@ Section 3: [TITLE]
 
 
 ## Application
-The following tools can be used to build resume content:
+Solo Activity
+Look at a few different resumes on Terminal but think about
+* How are they telling their story through their resume?
+* How are they describing their projects? What would you do similarly or differently?
+* What makes them stand out as a candidate compared to others?
 
-* Review this [resume worksheet] (https://docs.google.com/document/d/1EGkDTLYCZgHijgfGnKi-BoEOLNHtprd16rnUJmqBS6M/edit) to help organize and select relevant experience and skills to include.
-
-* Next, decide if you want to use your LinkedIn Profile PDF to help build your resume template with the following steps: 
- * Go to homepage of LinkedIn profile
- * On left side of page, click on resume builder
- * Select a title of role you are interested in
- * Download the PDF to cut and paste into a template/google doc
-
-### Submit your Resume Rough Draft:
- 1. Upload your resume to CV Compiler [here] (https://cvcompiler.com/students/turingschool) 
- 2. Click on "Improve Your Student Resume"
- 3. Authorize it with either LinkedIn or GitHub
- 4. Fill out the fields with your Name
-    and Email and the promo code Turing2108 (or other cohort promo code provided to you during PD)
- 5. Upload your resume
-
-Update your resume according to feedback. These updates must be done first before submitting your resume to the Career team for review. 
+What do you want your profile to say about you?
 
 ### Set up Terminal Portfolio:
 Take a look on how to set up your profile!
