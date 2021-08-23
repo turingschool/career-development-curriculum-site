@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Follow-up Workshop on Storytelling & LinkedIn - Week 5
+title: Module 1 Week 5
 ---
 
+## Workshop on Storytelling & LinkedIn
 ### Overview
-This is your final PD activity during this module. By the end of today, there are 2 goals for you to achieve:
+This is your final PD activity during this module, which you'll complete during your Week 5 Homeroom Groups. By the end of that hour, there are 2 goals for you to achieve:
 
 * A working version of your professional story
 * A working draft of your LinkedIn profile
