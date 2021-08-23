@@ -29,7 +29,7 @@ Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 ### What You'll Work On
 For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
 
-1. Goal #1: Build a professional skill(s) that will contribute to your success at Turing.
+#### Goal #1: Build a professional skill(s) that will contribute to your success at Turing.
 
 Here are some examples:
   * Organization & time management
@@ -38,8 +38,7 @@ Here are some examples:
   * Stress management
   * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assisting SLC reps in facilitating cohort retros, organizing a non-coding social activity, etc.
 
-
-2. Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
+#### Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
 
 Here are some examples:
   * Networking:
