@@ -18,7 +18,6 @@ Find more specifics here on [Mod 2 Key Learning Goals & Outcomes](/module_two/mo
     * Week 4: [What's a Dev?](/module_two/whats_a_dev)
     * Week 5: [Resume Draft Workshop](/module_two/week_5_resume_workshop)
 
-
 ### Deliverables & Due Dates
 * Resume draft reviewed by peers in week 5
 * Students complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) for CD team to assess support needs
