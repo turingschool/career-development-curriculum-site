@@ -87,5 +87,5 @@ Career Materials:
 * Resume draft completed and uploaded to terminal profile by end of week 5
 * Terminal portfolio drafted  by EOD Monday of Week 6
 * Cover letter draft reviewed by peers in week 5 homeroom groups
+* Provide portfolio linke with uploaded resume draft by Monday of week 6
 * Complete end of mod self-evaluation survey by Monday of week 6
-* Provide portfolio and resume link as final deliverables
