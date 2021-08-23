@@ -39,10 +39,10 @@ The following tools can be used to build resume content:
 * Review this [resume worksheet] (https://docs.google.com/document/d/1EGkDTLYCZgHijgfGnKi-BoEOLNHtprd16rnUJmqBS6M/edit) to help organize and select relevant experience and skills to include.
 
 * Next, decide if you want to use your LinkedIn Profile PDF to help build your resume template with the following steps: 
- ** Go to homepage of LinkedIn profile
- ** On left side of page, click on resume builder
- ** Select a title of role you are interested in
- ** Download the PDF to cut and paste into a template/google doc
+ * Go to homepage of LinkedIn profile
+ * On left side of page, click on resume builder
+ * Select a title of role you are interested in
+ * Download the PDF to cut and paste into a template/google doc
 
 ### Submit your Resume Rough Draft:
  1. Upload your resume to CV Compiler [here] (https://cvcompiler.com/students/turingschool) 
@@ -77,13 +77,13 @@ Your terminal about me, LinkedIN summary, and resume summary (if you chose to us
 * First, you want the reader to learn something new with each profile
 * Second, each summary has a different purpose; think about the audience
   * Resume summaries should tell why you are the best candidate for the role relevant to the job description. 
- *  LinkedIn summaries allows you to add a personal touch in addition to relevant skills and experiences that will attract recruiters and hiring managers.
-* Terminal is similiar to the LinkedIn audience; employers want to know your backstory, your value proposition and what's next for you as a developer. 
+  * LinkedIn summaries allows you to add a personal touch in addition to relevant skills and experiences that will attract recruiters and hiring managers.
+  * Terminal is similiar to the LinkedIn audience; employers want to know your backstory, your value proposition and what's next for you as a developer. 
  
 ## Due Dates & Reminders
 Items to be completed by end of Module 3
 
-## Career Materials:
+Career Materials:
 * Resume draft completed and uploaded to terminal profile by end of week 5
 * Terminal portfolio drafted  by EOD Monday of Week 6
 * Cover letter draft reviewed by peers in week 5 homeroom groups
