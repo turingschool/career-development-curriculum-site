@@ -34,7 +34,7 @@ Our outcomes and objectives will be:
 * Create and effectively use a job search tracker for your job search with Huntr
 * Understand resources available to you to support your job search process 
 
-### Section 2:The Application Process 
+### Section 2: The Application Process 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPlNroJc5ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
