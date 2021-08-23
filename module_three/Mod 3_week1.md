@@ -3,7 +3,7 @@ page
 Module 3 Week 1
 
 ## Overview
-The intro to mod 3 provices an overview of what you work on this module. This session takes place live on Zoom, followed by video microlectures.
+The intro to mod 3 provides an overview of what you work on this module. This session takes place live on Zoom, followed by video microlectures and async actitivies that will help you generate an ATS Friendly resume and build a portfolio to showcase your technical projects.
 
 ### Learning Goals
 
