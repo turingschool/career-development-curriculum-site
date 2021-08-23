@@ -72,8 +72,6 @@ When building your resume, make sure to keep this checklist handy as well:
 * Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
 
 ### Section 2: Set up your Terminal Portofolio
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
 #### How to Set It Up
