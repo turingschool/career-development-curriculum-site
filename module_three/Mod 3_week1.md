@@ -1,10 +1,12 @@
 layout	title
-page
+page 
 Module 3 Week 1
+
 Overview
 The intro to mod 3 provices an overview of what you work on this module. This session takes place live n Zoom, followed by video microlectures.
 
 Learning Goals
+
 This session will cover:
 
 Review and refine professional story & brand to build a technically focused resume
@@ -14,12 +16,12 @@ Employ personal brand to create Terminal portfolio that showcases projects
 Lesson
 Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
-Section 1: Introduction
+Section 1: Introduction of Resume Review 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 [Include introductory information for the lesson here]
 
-Section 2: [TITLE]
+Section 2: Set up your Terminal Portofolio
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 [Second section of your lesson]
@@ -35,18 +37,17 @@ Application
 The following tools can be used to build resume content. Review this resume worksheet to help organize and select relevant experience and skills to include.
 
 Next, decide if you want to use your LinkedIn Profile PDF to help build your resume template with the following steps: 
-Go to homepage of LinkedIn profile
-On left side of page, click on resume builder
-Select a title of role you are interested in
+ Go to homepage of LinkedIn profile
+ On left side of page, click on resume builder
+ Select a title of role you are interested in
 
 Submit your Resume Rough Draft:
-Upload your resume to CV Compiler:
-1. Go here
-2. Click on "Improve Your Student Resume"
-3. Authorize it with either LinkedIn or GitHub
-4. Fill out the fields with your Name
+ 1. Upload your resume to CV Compiler [here] (https://cvcompiler.com/students/turingschool) 
+ 2. 2. Click on "Improve Your Student Resume"
+ 3. Authorize it with either LinkedIn or GitHub
+ 4. Fill out the fields with your Name
  and Email and the promo code Turing2108
-5. Upload your resume
+ 5. Upload your resume
 
 Update your resume according to feedback. These updates must be done first before submitting your resume to the Career team for review. 
 
