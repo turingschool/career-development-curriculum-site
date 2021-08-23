@@ -8,10 +8,12 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
-### Lessons
+### Lessons & Activities
 * Week 1: [Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
 * Week 2: [Building Connection: Part II](/module_three/week_2_building_connection_ii)
 * Week 3: [The Application Process](/module_three/week_3_application_process_session)
+* Week 4: [Job Shadow](/module_three/job_shadow_overview)
+* Week 5: [Interview Prep](/module_three/mod3_week5)
 
 ### Deliverables & Due Dates
 
@@ -19,9 +21,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Cover letter draft ready to be reviewed in Week 5's Homeroom 
 * Terminal portfolio created and requested review by EOD Monday of Week 6 using these [directions](/resources/terminal_directions)
 * Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by EOD Monday of Week 6
-
-### Additional Activites
-* Week 4: [Job Shadow Opportunity](/module_three/job_shadow_overview)
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
