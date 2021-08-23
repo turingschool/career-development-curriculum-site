@@ -69,6 +69,7 @@ Go back to your contact/the company
 Now, keep in mind that all of these categories can take place at different times in the process because not every company operates on similar timelines. You may have been in a networking conversation and never submitted any documents at all, or the opportunity may have found you and you had to do the research after. Just know that if you continue to work on all of these steps you will have a better chance of success. 
 
 Articles from the slides: 
+
 As little at 20-30% of job listings are [posted online](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking)
 
 Referral candidates are 3-4 times more likely to be hired than [non-referral candidates](https://www.recruiter.com/i/10-employee-referral-program-fast-facts/)
@@ -82,6 +83,7 @@ Referral candidates are 3-4 times more likely to be hired than [non-referral can
 Finding a job is easier when you have some directions. Compiling a list of some of your interests, strengths, and weaknesses is a great way of informing your direction as it relates to your job search. We have 3 different methods for you to pic from to start this process
 
 #1 The career road map
+
 [Worksheet](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit)
 
 This document prompts you to examine your background, your current Turing experience, and your interests via prompting questions. It is designed to help you reflect on what you do/don’t like, create starting points based on your interests, and map out where to start as you discover opportunities, industries, or people to connect with. 
@@ -89,6 +91,7 @@ This document prompts you to examine your background, your current Turing experi
 #2 Flower Exercise
 
 [Worksheet #1](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit)
+
 [Worksheet #2](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit)
 
 The Flower Exercise is designed to help you move through 3 stages:
@@ -104,7 +107,7 @@ This is broken down on these worksheets via seven “petals” that navigate thr
 Using a combination of these exercises and/or others you may know, create a map of your own. Do you already know what industry you are targeting? Is there a company you have in mind? Are you looking for a specific codebase or work culture? Keep track of this and pay attention to how it changes. Having some guiding points for the job search process keeps you more engaged and that shows through in your interviews and networking conversations. 
 
 
-### Section 4:Structuring your job search 
+### Section 4: Structuring your job search 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ox_pRf2CBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -115,7 +118,7 @@ Start by reading through this guide to using Huntr [here](https://blog.huntr.co/
 Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to add a job posting right from its source
 Start customizing your board!
 
-### Section 5:Utilizing tools and Resources 
+### Section 5: Utilizing tools and Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_g9F9Y899E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The information from this video can be found on our career development resources page [here](https://careerdev.turing.edu/resources/finding_opportunities).
@@ -130,7 +133,7 @@ Remember, there are A LOT of resources available online for job search. We recom
 
 Pick a strategy! Whether you are going to use the flower exercise, a career map , or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
 
-Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/)to explore the platform.
+Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
 
 Spend 5-10 minutes exploring the [resources](https://careerdev.turing.edu/resources/finding_opportunities) listed in the session. Which ones do you like and why? 
 
@@ -140,7 +143,11 @@ Professional Coaching: You can reach out to Allison (@allison_reu_singer on Slac
 What is professional coaching? Sometimes referred to as “career therapy,” coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
 Stress management
+
 Organization and time management
+
 Career transition guidance
+
 Job search strategies 
+
 All coaching sessions are completely confidential.
