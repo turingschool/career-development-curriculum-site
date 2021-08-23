@@ -9,7 +9,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
 ### Lessons & Activities
-* Week 1: [Resumes & Portfolios](/module_three/week_1_resumes_and_portfolios)
+* Week 1: [Resumes & Portfolios](/module_three/mod3_week1)
 * Week 2: [Building Connection: Part II](/module_three/week_2_building_connection_ii)
 * Week 3: [The Application Process](/module_three/week_3_application_process_session)
 * Week 4: [Job Shadow](/module_three/job_shadow_overview)
