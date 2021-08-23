@@ -44,4 +44,4 @@ Skip down to:
 5. Update your LinkedIn based on that feedback (10-15 mins)
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-This week's homeroom is a storytelling & LinkedIn workshop -- [find the guidelines here!](/module_one/week_5_storytelling_linkedin_workshop)
+This week's homeroom is a storytelling & LinkedIn workshop -- [find the guidelines here!](/module_one/mod1_week5)
