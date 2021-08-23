@@ -18,7 +18,6 @@ Please be sure to have completed all lessons plans for module 2 before completin
 
 Please allow yourself 30-40  minutes to complete this lesson plan
 
-
 ### Section 1: Introduction 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EU0ASfLKH_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -82,13 +81,13 @@ Referral candidates are 3-4 times more likely to be hired than [non-referral can
 
 Finding a job is easier when you have some directions. Compiling a list of some of your interests, strengths, and weaknesses is a great way of informing your direction as it relates to your job search. We have 3 different methods for you to pic from to start this process
 
-#1 The career road map
+#1 The career roadmap <a name="roadmap"></a>
 
 [Worksheet](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit)
 
 This document prompts you to examine your background, your current Turing experience, and your interests via prompting questions. It is designed to help you reflect on what you do/don’t like, create starting points based on your interests, and map out where to start as you discover opportunities, industries, or people to connect with. 
 
-#2 Flower Exercise
+#2 Flower Exercise <a name="flower"></a>
 
 [Worksheet #1](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit)
 
@@ -131,7 +130,7 @@ Remember, there are A LOT of resources available online for job search. We recom
 
 ## Check for Understanding
 
-Pick a strategy! Whether you are going to use the flower exercise, a career map , or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
+Pick a strategy! Whether you are going to use the [flower exercise](#flower), a [career roadmap](#roadmap), or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
 
 Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
 
