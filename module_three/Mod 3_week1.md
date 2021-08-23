@@ -89,4 +89,3 @@ Career Materials:
 * Cover letter draft reviewed by peers in week 5 homeroom groups
 * Complete end of mod self-evaluation survey by Monday of week 6
 * Provide portfolio and resume link as final deliverables
-
