@@ -3,6 +3,8 @@ layout: page
 title: Resume Workshop - Week 5
 ---
 
+[Update with prompts around job search strategies, using the resources on CD site, and how to project manage your job search.] 
+
 ### Overview
 This is your final PD activity during this module. By the end of today, the goal is for you to achieve:
 
