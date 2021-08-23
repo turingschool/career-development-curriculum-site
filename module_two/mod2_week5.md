@@ -14,9 +14,9 @@ Learning Goals:
 ## Week 5 Lesson - Job Search Strategies
 
 Prior to Lesson:
-Please be sure to have completed all lessons plans for module 2 before completing this lesson. 
+Please be sure to have completed [all previous lesson plans](/module_two/index) for Module 2 before completing this lesson. 
 
-Please allow yourself 30-40  minutes to complete this lesson plan
+Please allow yourself 30-40  minutes to complete this lesson plan.
 
 ### Section 1: Introduction 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EU0ASfLKH_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,45 +34,40 @@ Our outcomes and objectives will be:
 * Create and effectively use a job search tracker for your job search with Huntr
 * Understand resources available to you to support your job search process 
 
-
 ### Section 2:The Application Process 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPlNroJc5ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 What does looking for a job look like? When looking at an application alone we have broken the process down into five categories.
 
-Find a job opportunity
-* Use your tools like BuiltIn and LinkedIn to find companies of interest
+#### Find a job opportunity
+* Use your tools like [BuiltIn](https://www.builtin.com/) and [LinkedIn](https://www.linkedin.com/) to find companies of interest along with other [resources listed here](/resources/finding_opportunities).
 
-Conduct research
+#### Conduct Research
 * Go to the company's site and find out about their mission, product, customer base, blog posts. 
 * Look at their [Glassdoor](https://www.glassdoor.com/) reviews or the LinkedIn pages of other developers on the team
 * Conduct a Google search on articles or other information about the company
 * If the company has any open source projects on GitHub, check them out
 
-Do some cold outreach to someone at the company
+#### Do some cold outreach to someone at the company
 * Who do you reach out to?
   * Developers: Both juniors and seniors will be helpful to talk to and find out information about the company, what it's like to work there, and what to expect in the interview process
   * Recruiters are always a great starting point for connection and information 
 * Ask questions! Gather information to use in your cover letter and resume
 
-Complete the Application
+#### Complete the Application
 * Customize your resume and cover letter for the position based on your research
 * Mention the contact you met (be sure to ask your contact if you can mention them)
 
-Go back to your contact/the company
+#### Go back to your contact/the company
 * Let them know you've applied, get some eyes on your application! 
-
 
 Now, keep in mind that all of these categories can take place at different times in the process because not every company operates on similar timelines. You may have been in a networking conversation and never submitted any documents at all, or the opportunity may have found you and you had to do the research after. Just know that if you continue to work on all of these steps you will have a better chance of success. 
 
 Articles from the slides: 
 
-As little at 20-30% of job listings are [posted online](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking)
-
-Referral candidates are 3-4 times more likely to be hired than [non-referral candidates](https://www.recruiter.com/i/10-employee-referral-program-fast-facts/)
-
+* As little at 20-30% of job listings are [posted online](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking)
+* Referral candidates are 3-4 times more likely to be hired than [non-referral candidates](https://www.recruiter.com/i/10-employee-referral-program-fast-facts/)
 
 ### Section 3: Creating a strategy
 
@@ -81,13 +76,13 @@ Referral candidates are 3-4 times more likely to be hired than [non-referral can
 
 Finding a job is easier when you have some directions. Compiling a list of some of your interests, strengths, and weaknesses is a great way of informing your direction as it relates to your job search. We have 3 different methods for you to pic from to start this process
 
-#1 The career roadmap <a name="roadmap"></a>
+#### #1 The Career Roadmap <a name="roadmap"></a>
 
 [Worksheet](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit)
 
 This document prompts you to examine your background, your current Turing experience, and your interests via prompting questions. It is designed to help you reflect on what you do/don’t like, create starting points based on your interests, and map out where to start as you discover opportunities, industries, or people to connect with. 
 
-#2 Flower Exercise <a name="flower"></a>
+#### #2 Flower Exercise <a name="flower"></a>
 
 [Worksheet #1](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit)
 
@@ -101,14 +96,11 @@ The Flower Exercise is designed to help you move through 3 stages:
 
 This is broken down on these worksheets via seven “petals” that navigate through different categories such as: people, skills, culture, etc.
 
-#3 A DTR or map of your own
-
+#### #3 A DTR or map of your own
 Using a combination of these exercises and/or others you may know, create a map of your own. Do you already know what industry you are targeting? Is there a company you have in mind? Are you looking for a specific codebase or work culture? Keep track of this and pay attention to how it changes. Having some guiding points for the job search process keeps you more engaged and that shows through in your interviews and networking conversations. 
-
 
 ### Section 4: Structuring your job search 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ox_pRf2CBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. As a resource to you Turing offers Huntr as a tool for you to manage this process. 
 
@@ -126,15 +118,12 @@ Bookmark the tools of interest to you so you will have them to come back to late
 
 Remember, there are A LOT of resources available online for job search. We recommend sticking to a few that you like to ensure that you are not overwhelming yourself (and your inbox) with everything that is available. 
 
-
-
 ## Check for Understanding
+1. Pick a strategy! Whether you are going to use the [flower exercise](#flower), a [career roadmap](#roadmap), or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
 
-Pick a strategy! Whether you are going to use the [flower exercise](#flower), a [career roadmap](#roadmap), or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
+2. Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
 
-Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
-
-Spend 5-10 minutes exploring the [resources](https://careerdev.turing.edu/resources/finding_opportunities) listed in the session. Which ones do you like and why? 
+3. Spend 5-10 minutes exploring the [resources](https://careerdev.turing.edu/resources/finding_opportunities) listed in the session. Which ones do you like and why? 
 
 ## Reminders
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
