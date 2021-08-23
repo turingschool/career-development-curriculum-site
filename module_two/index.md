@@ -43,4 +43,4 @@ You will also participate in weekly student discussion groups on Wednesdays to c
 * Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
 
 ## Repeating the Module
-For students repeating Module 2, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_two/m2_PD_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+For students repeating Module 2, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_two/m2_pd_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
