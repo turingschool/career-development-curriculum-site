@@ -17,11 +17,7 @@ By the end of Module 2, we aim for students to achieve [Levels I and II readines
 ## Expectations for Repeating the Module
 
 ### Sessions
-During the 2105 inning, you are required to Week 1's session [Introduction to Your Career Roadmap](/module_two/week_1_career_roadmap), but you are **not** required to attend the rest of the professional development sessions you have attended previously. If you choose to attend any sessions, please plan to fully participate in activities, including breakout group discussions. Reminder of the weekly sessions:
-
-* Week 2: [Building Connection: Part I](/module_two/week_2_building_connection_i)
-* Week 3: [Interview Prep](/module_two/week_3_interview_prep)
-* Week 4: [Your Career Roadmap Part II](/module_two/week_4_career_roadmap_ii)
+You can access any of the previous sessions and rewatch videos from each session on the [Mod 2 main page](/module_two/index).
 
 ### Homeroom Groups
 You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
