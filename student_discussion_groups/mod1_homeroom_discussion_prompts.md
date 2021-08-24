@@ -21,16 +21,16 @@ Skip down to:
 
 2. Choose from the following discussion questions on strengths that the group would like to discuss. Choose several or just a few and share your thoughts (20-30 mins):
 
-   * **Challenges with strengths**  
+    * **Challenges with strengths**  
       * What can make it challenging to recognize your strengths? How can you work through those challenges?
       * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
 
-  * **Strengths in action** 
+    * **Strengths in action** 
       * Describe how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?)
       * Why would it be important to talk about this with your project teammates? Your mentor? Your instructors? What could it look like to have that kind of open communication in your cohort? 
       * What would you need to be aware of when working with people who have different strengths from you?
 
-  * **Continued growth**
+    * **Continued growth**
       * Is there any particular strength you'd like to sharpen while you're at Turing? Any area you consider a weakness that you'd like to strengthen?
       * What are some steps you could take here?
       * How could you be aware of the progress you're making?
