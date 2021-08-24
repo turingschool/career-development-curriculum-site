@@ -165,12 +165,10 @@ For a refresher on any of this information, you can always find it on the Resour
 Who are you going to build connection with to navigate your career in software development?
 
 Goal setting: 
-Find 4 people you would like to know better? (very warm contacts)
+* Find 4 people you would like to know better (very warm contacts)
+* Find 4 people you don’t know but would like to know better (less warm contacts)
 
-Find 4 people you don’t know but would like to know better (less warm contacts)
-
-You can keep track using [this document](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0)
-Create an outreach message for the people on your goal list. 
+You can keep track using [your networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0). Create an outreach message for the people on your goal list. 
 
 Test it out! Send the message!
 
