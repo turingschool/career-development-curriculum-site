@@ -66,7 +66,7 @@ Here are a few other key reminders:
 
 ### Section 3: Formatting and the ATS system
 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HTpanrEw2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Applicant Tracking Systems, or ATS, are hiring tools that help medium to large companies sort and screen thousands of resumes. If you've heard of the "resume black hole," then you are already familiar with the concept of how the ATS works. Resumes that are not optimized for an ATS system will not make it through the system to be read by an actual hiring manager.
 
