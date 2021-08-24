@@ -40,7 +40,7 @@ And lastly, highlight your most relevant transferable skills -- both technical a
 ### Section 2: Rebuilding Your Resume
 Reorganize your resume to lead with technical skills and projects.
 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCKGDthFYXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
 
