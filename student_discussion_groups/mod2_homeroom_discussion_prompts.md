@@ -29,12 +29,12 @@ Skip down to:
   * What would I do differently on my resume?
   * What should we keep in mind as we build our new resumes?
 
-3. Think about the resume you'll be creating. As a group, discuss how you could describe the current project you're working on in your resume (15 mins) 
+3. To help you work on your own resume, let's talk about project descriptions. As a group, discuss how you could describe the current project you're working on in your resume (15 mins) 
   * Sum up the project in 2-3 sentences. What is the objective? What value does it create for users? If someone wasn't familiar with Turing projects, what would they need to know about this to understand it?
   * Sum up the top learning goals and skills you are building in the project. How does building this project make you more valuable as a developer?
   * Think about your own role in the project. How are you contributing?
 
-4. You'll hear more information about building your resume in next week's [session](/module_two/week_1_career_roadmap), and with remaining time, you can get a start on your resume draft using these [resources](/resources/resume_resources).
+4. With any remaining time, work on your resume draft using these [resources](/resources/resume_resources).
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
