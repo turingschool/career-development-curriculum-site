@@ -38,17 +38,26 @@ Again, your projects can be used to your advantage to tell a specific story to t
 And lastly, highlight your most relevant transferable skills -- both technical and professional -- that relate to this particular company.
 
 ### Section 2: Rebuilding Your Resume
-
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
 Reorganize your resume to lead with technical skills and projects.
 
-### Section 3: Building  a technically-focused resume
+[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+
+Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
+
+* Turing projects
+* Side projects
+* Open Source projects
+* Etc.
+
+You should include links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
+
+Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
+
+### Section 3: Building a technically-focused resume
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-Lets walk through your entire resume and review customization to make you stand out and get seen by hiring managers, recruiters and industry profiles. We cant forget the important role the Applicant Tracking or ATS plays in this. We will review how to increase your chances of getting passed it. 
-
+Lets walk through your entire resume and review customization to make you stand out and get seen by hiring managers, recruiters and industry profiles. We can't forget the important role the Applicant Tracking or ATS plays in this. We will review how to increase your chances of getting past it. 
 
 ### Section 4: Formatting and the ATS system
 
