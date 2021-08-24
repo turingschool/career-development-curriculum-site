@@ -96,7 +96,12 @@ Look at a few different resumes on [Terminal](https://terminal.turing.edu) and c
 
 Now, work on your resume draft that you started last mod:
 * Build your resume using [these templates and checklist](/resources/resume_resources)
-* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides)
+* Upload your resume to [CV Compiler](https://cvcompiler.com/students/turingschool), an ATS system we partner with that provides feedback
+* Click on “Improve Your Student Resume”
+* Authorize it with either LinkedIn or GitHub
+* Fill out the fields with your Name and Email and the promo code Turing2103
+* Upload your resume
+* Update your resume according to feedback
 * Update your resume using that feedback. You may request a resume review from Tracey or Ryan **after** you've updated your resume with CV Compiler feedback
 
 ### Set up you Terminal Portfolio Draft
