@@ -78,7 +78,7 @@ The following articlesoffer great advice and tools that further support how to b
 
 * 
 
-If you need help organizing your resume content, use this [Free Worksheet]().
+If you need help organizing your resume content, use this [Free Worksheet] .
 
 ## Due Dates & Reminders
 
