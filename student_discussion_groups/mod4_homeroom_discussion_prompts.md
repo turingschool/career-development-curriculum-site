@@ -24,7 +24,7 @@ Skip down to:
   * What do you want to stop doing?
   * What new ways do you want to collaborate with each other?
 
-2. This week's session was on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
+2. This week's session is on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
 
   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
   * **Do you feel unprepared to negotiate your next job offer?** 
