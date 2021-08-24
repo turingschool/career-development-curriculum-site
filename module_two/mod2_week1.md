@@ -79,21 +79,20 @@ Each ATS system is different and **it's important to always follow the direction
 
 For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
 
+#### Next Steps
+Take a few minutes to review and read the following articles that may provide even more clarity on generating your ATS-friendly Resume: 
+
+* [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
+* [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+
 ## Check for Understanding (15-30 mins)
 Now that you've gained an understanding of how to approach rebuilding your resume, spend some time creating your first draft! Here are some tools to help you:
 
 * Pick a template and use the [checklist here](/resources/resume_resources) to develop a rough draft of your resume
    * Start with a Word or [Google doc](https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them) or use a [Job Scan Template](https://www.jobscan.co/resume-templates)
+* Download your LinkedIn profile summary with the resume builder tool and cut and paste the summary into an ATS-friendly resume template or use this section by section [resume worksheet](https://docs.google.com/document/d/1EGkDTLYCZgHijgfGnKi-BoEOLNHtprd16rnUJmqBS6M/edit) to organize your resume content 
 
 On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
-
-### Need More Help?
-
-The following articles offer great advice and tools that further support how to building a compelling technical resume:
-
-* 
-
-If you need help organizing your resume content, use this [Free Worksheet] .
 
 ## Due Dates & Reminders
 
