@@ -53,7 +53,18 @@ You should include links to your repos and deployed apps. For group projects tha
 
 Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
 
-### Section 4: Formatting and the ATS system
+Here are a few other key reminders:
+
+* Double check your spelling, grammar, and readability. How? Read it out loud to yourself to hear how it sounds AND ask a peer or mentor to read it also. As with coding, it never hurts to get a second set of eyes on something.
+* Do not lie. This is important. Expect to be asked about **anything** that is listed on your resume. If your resume does not accurately represent you, you will not get this job, and it will hurt your chances at that company in the future.
+* List work and education in chronological order. If you're concerned about gaps in your employment, list the length of time at a position rather than the dates.
+* Include your contact information. Email is absolutely needed, but you can also include your LinkedIn and GitHub profiles. There are differing opinions on phone numbers, but you can decide at your own discretion.
+* Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
+* Your resume should only be 1 page. Employers will not read past that 1 page.
+* There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
+* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
+
+### Section 3: Formatting and the ATS system
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
@@ -68,32 +79,17 @@ Each ATS system is different and **it's important to always follow the direction
 
 For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
 
-### Section 5: What not to include and important resume reminders
-
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
-When building your resume, here are a few key reminders:
-
-* Double check your spelling, grammar, and readability. How? Read it out loud to yourself to hear how it sounds AND ask a peer or mentor to read it also. As with coding, it never hurts to get a second set of eyes on something.
-* Do not lie. This is important. Expect to be asked about **anything** that is listed on your resume. If your resume does not accurately represent you, you will not get this job, and it will hurt your chances at that company in the future.
-* List work and education in chronological order. If you're concerned about gaps in your employment, list the length of time at a position rather than the dates.
-* Include your contact information. Email is absolutely needed, but you can also include your LinkedIn and GitHub profiles. There are differing opinions on phone numbers, but you can decide at your own discretion.
-* Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
-* Your resume should only be 1 page. Employers will not read past that 1 page.
-* There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
-* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
-
 ## Check for Understanding (15-30 mins)
 Now that you've gained an understanding of how to approach rebuilding your resume, spend some time creating your first draft! Here are some tools to help you:
 
 * Pick a template and use the [checklist here](/resources/resume_resources) to develop a rough draft of your resume
-   * Start with a Word or Google doc or use a [Job Scan Template](https://www.jobscan.co/resume-templates)
+   * Start with a Word or [Google doc](https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them) or use a [Job Scan Template](https://www.jobscan.co/resume-templates)
 
 On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
 
 ### Need More Help?
 
-The following articlesoffer great advice and tools that further support how to building a compelling technical resume:
+The following articles offer great advice and tools that further support how to building a compelling technical resume:
 
 * 
 
