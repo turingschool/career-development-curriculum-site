@@ -96,8 +96,8 @@ Look at a few different resumes on [Terminal](https://terminal.turing.edu) and c
 
 Now, work on your resume draft that you started last mod:
 * Build your resume using [these templates and checklist](/resources/resume_resources)
-* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides).
-* Update your resume using that feedback
+* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides)
+* Update your resume using that feedback. You may request a resume review from Tracey or Ryan **after** you've updated your resume with CV Compiler feedback
 
 ### Set up you Terminal Portfolio Draft
 Reminder to check out this [video](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
@@ -130,8 +130,7 @@ Your Terminal about me section, LinkedIn summary, and resume summary (if you cho
 Items to be completed by end of Module 3
 
 Career Materials:
-* Resume draft completed and uploaded to terminal profile by end of week 5
+* Resume draft completed and uploaded to Terminal profile by end of week 5
 * Terminal portfolio drafted  by EOD Monday of Week 6
 * Cover letter draft reviewed by peers in week 5 homeroom groups
-* Provide portfolio linke with uploaded resume draft by Monday of week 6
 * Complete end of mod self-evaluation survey by Monday of week 6
