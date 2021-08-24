@@ -80,11 +80,14 @@ On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss y
 
 ## Due Dates & Reminders
 
-1. Resume should be uploaded CV Compiler using the promo code Turing2105, by Monday of Week 4 
-2. After you receive feedback on the resume, make any necessary changes to your resume
-3. You can submit your rough draft to a career specialist only after you have implemented the CV Compiler changes
+* Make sure to have your resume draft ready to be reviewed by your Homeroom Group in week 5
+* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
+    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
-## End of Mod Deliverables & Due Dates
-Resume draft reviewed by peers in week 5
-Students complete end of mod self-evaluation survey for CD team to assess support needs
+      * Stress management
+      * Organization and time management
+      * Career transition guidance
+      * Using your Pairin data for growth
+    
+    * All coaching sessions are completely confidential.
 
