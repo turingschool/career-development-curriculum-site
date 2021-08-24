@@ -16,7 +16,7 @@ The Kickoff to Mod 2 provides the overview of what you'll work on this module. T
 Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 ### Section 1: Introduction 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CyaqXSxwqiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This workshop will focus on building a technically focused resume that connects your personal brand and career story. 
 As a new software developer, what kind of story do you want your resume to tell about you?
