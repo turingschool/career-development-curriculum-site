@@ -53,12 +53,6 @@ You should include links to your repos and deployed apps. For group projects tha
 
 Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
 
-### Section 3: Building a technically-focused resume
-
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
-Lets walk through your entire resume and review customization to make you stand out and get seen by hiring managers, recruiters and industry profiles. We can't forget the important role the Applicant Tracking or ATS plays in this. We will review how to increase your chances of getting past it. 
-
 ### Section 4: Formatting and the ATS system
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
