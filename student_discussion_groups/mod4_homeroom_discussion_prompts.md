@@ -29,7 +29,7 @@ Skip down to:
   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
   * **What would make you feel prepared to negotiate your next job offer?** 
 
-3. Take a look some different salary websites such as [Glassdoor](glassdoor.com), [Salary.com](salary.com), [BuiltIn Salaries](https://builtin.com/salaries)and [Payscale](payscale.com) and start looking at ranges. Pay attention to skill level and location. What is most surprising to you? 
+3. Take a look some different salary websites such as [Glassdoor](https://glassdoor.com), [Salary.com](salary.com), [BuiltIn Salaries](https://builtin.com/salaries) and [Payscale](payscale.com) and start looking at ranges. Pay attention to skill level and location. What is most surprising to you? 
 
 4. What is a range that you will be looking for based on your research? Things to consider: What if you got a low offer for your dream job? What if you got a high offer for your not so dreamy job? How would this impact what you might be seeking in salary? Are there other benefits that might get you to accept a different salary? 
 
