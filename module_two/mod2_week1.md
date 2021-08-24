@@ -4,17 +4,16 @@ title: Module 2 Week 1
 ---
 
 ## Overview
-The Kickoff to Mod 2 provides the overview of what you'll work on this module. The session takes place live on Zoom, followed by a video workshop and action items to assist you in creating a technically focused ATS Friendly resume.  
+The Kickoff to Mod 2 provides the overview of what you'll work on this module. The 15-minute kickoff takes place live on Zoom, followed by a video workshop and action items to assist you in creating a technically focused ATS-friendly resume.  
 
 ### Learning Goals
-This session will cover:
 
 * Build on your professional story by focusing on "what's next"
 * Summarize professional accomplishments and technical skills for a resume rough draft 
-* Learn how to generate an ATS Friendly Resume
+* Learn how to generate an ATS-friendly Resume
  
-## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS Friendly Resume
-Allow yourself x mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
+## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS-friendly Resume
+Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
 ### Section 1: Introduction 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
@@ -28,7 +27,7 @@ As a new software developer, what kind of story do you want your resume to tell 
 
 Reorganize your resume to lead with technical skills and projects.
 
-### Section 3: Building  a technically focused resume
+### Section 3: Building  a technically-focused resume
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
@@ -39,44 +38,47 @@ Lets walk through your entire resume and review customization to make you stand 
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-Applicant Tracking Systems or ATS, are hiring tools that help medium to large companies sort and screen thousands of resumes. If you've heard of the "resume black hole," then you are already familiar with the concept of how the ATS works.  If your resume isnt optimized to beat it you will face this intitial gatekeeper or electronic screen. 
+Applicant Tracking Systems, or ATS, are hiring tools that help medium to large companies sort and screen thousands of resumes. If you've heard of the "resume black hole," then you are already familiar with the concept of how the ATS works. Resumes that are not optimized for an ATS system will not make it through the system to be read by an actual hiring manager.
+
+Each ATS system is different and **it's important to always follow the directions for that specific company**, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
+
+* Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
+* Use a single column. 
+* Compare your resume to the job description and pull out key words to highlight in your skills and experience
+* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
+
+For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+
 ### Section 5: What not to include and important resume reminders
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-Lets walk through what to not include on your resume and a few key reminders. 
+When building your resume, here are a few key reminders:
+
+* Double check your spelling, grammar, and readability. How? Read it out loud to yourself to hear how it sounds AND ask a peer or mentor to read it also. As with coding, it never hurts to get a second set of eyes on something.
+* Do not lie. This is important. Expect to be asked about **anything** that is listed on your resume. If your resume does not accurately represent you, you will not get this job, and it will hurt your chances at that company in the future.
+* List work and education in chronological order. If you're concerned about gaps in your employment, list the length of time at a position rather than the dates.
+* Include your contact information. Email is absolutely needed, but you can also include your LinkedIn and GitHub profiles. There are differing opinions on phone numbers, but you can decide at your own discretion.
+* Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
+* Your resume should only be 1 page. Employers will not read past that 1 page.
+* There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
+* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
 
 ## Check for Understanding (15-30 mins)
+Now that you've gained an understanding of how to approach rebuilding your resume, spend some time creating your first draft! Here are some tools to help you:
 
-Now that we have covered why, and how to build an ATS friendly resume that highlights your technical skills and projects. 
+* Pick a template and use the [checklist here](/resources/resume_resources) to develop a rough draft of your resume
+   * Start with a Word or Google doc or use a [Job Scan Template](https://www.jobscan.co/resume-templates)
 
-1. **Take a few minutes to see what we mean, take some time to look at current student and alumni resumes on Terminal, our portfolio site.
-2. **Find 3 peer profiles to review. Find their resume by clicking on “open resume” on the left side of the portfolio. 
-3. **As you look through these resumes, take note of the following:
-     * What do I like about this resume?
-     * What stands out the most?
-     * What would I do differently on my resume?
-     * What should you keep in mind as you build your new resume?
+On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
 
-On Wednesday, you'll have your [Homeroom Group]. Please be prepared to discuss your reflections from the lesson today.
+### Need More Help?
 
-## Application
+The following articlesoffer great advice and tools that further support how to building a compelling technical resume:
 
-1. After reflecting on how to create a ATS friendly resume, we suggest that you take a few minutes to review the following articles that offer great advice and tools that further support how to building a compelling technical resume. 
+* 
 
-2. If you are needing help organizing your resume content use this Free Worksheet Makes It Easy to Create (or Update) Your Resume. 
-
-## Next: Build your resume
-1. Pick a template and checklist listed here
-2. Develop a Resume Rough Draft
-3. Upload your resume to CV Compiler: ATS system we partner with that provides feedback
-4. Go to https://cvcompiler.com/students/turingschool
-5. Click on “Improve Your Student Resume”
-6. Authorize it with either LinkedIn or GitHub
-7. Fill out the fields with your Name and Email and the promo code Turing2105
-8. Upload your resume
-8. Update your resume according to feedback
-
+If you need help organizing your resume content, use this [Free Worksheet]().
 
 ## Due Dates & Reminders
 
