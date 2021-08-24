@@ -27,13 +27,11 @@ Skip down to:
 2. This week's session is on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
 
   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
-  * **Do you feel unprepared to negotiate your next job offer?** 
-    * If yes, start by reframing some of your thoughts that could be holding you back. Consider thinking about negotiation as a process towards developing a better employment relationship and communication with your boss/company. **What are your thoughts about this statement?** 
-  * It's important to set a collaborative tone when negotiating versus sounding demanding or feeling defensive. **What are some ways you can help set this tone?** Keep in mind it's a “we” and “us” problem to solve. 
+  * **What would make you feel prepared to negotiate your next job offer?** 
 
-3. List out and then discuss areas of negotiation that are important to you outside of salary. Is PTO important to you? Stock options? Or is how your potential employer handles the negotiation process important to you? (15 mins)
+3. Take a look some different salary websites such as [Glassdoor](glassdoor.com), [Salary.com](salary.com), [BuiltIn Salaries](https://builtin.com/salaries)and [Payscale](payscale.com) and start looking at ranges. Pay attention to skill level and location. What is most surprising to you? 
 
-4. Prepare for your next offer by having your counter offer email or conversation ready. Write out the top 3 skills and or achievements that make up your reasons for asking for 10-15% more than the base salary offer. You can put your reasons on this worksheet. Download and make a copy to fill in your answers using the [Negotiation Worksheet](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit) (15 mins)
+4. What is a range that you will be looking for based on your research? Things to consider: What if you got a low offer for your dream job? What if you got a high offer for your not so dreamy job? How would this impact what you might be seeking in salary? Are there other benefits that might get you to accept a different salary? 
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins) 
