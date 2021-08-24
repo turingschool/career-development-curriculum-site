@@ -107,7 +107,7 @@ Now, work on your resume draft that you started last mod:
 ### Set up you Terminal Portfolio Draft
 Reminder to check out this [video](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-###  About me section for Terminal Portfolio:
+###  About Me section for Terminal Portfolio:
 What do you want your profile to say about you? Write out a rough draft of your professional story considering using this framework:
 
 * What is your career story about your past, present, and future that you want to share with employers? 
