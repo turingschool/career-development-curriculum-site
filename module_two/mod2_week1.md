@@ -13,7 +13,7 @@ The Kickoff to Mod 2 provides the overview of what you'll work on this module. T
 * Learn how to generate an ATS-friendly Resume
  
 ## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS-friendly Resume
-Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
+Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, we recommend taking notes.
 
 ### Section 1: Introduction 
 This workshop will focus on building a technically focused resume that connects your personal brand and career story. 
