@@ -21,10 +21,21 @@ As a new software developer, what kind of story do you want your resume to tell 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyaqXSxwqiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Customizing your resume is about telling your story. How can you do that? 
-* Use a summary statement to provide information about your career transition
-* Showcase specific projects that demonstrate what kind of developer you are
-* Highlight your transferable skills from previous experiences
+#### Customizing Your Resume is About Telling Your Story
+Reminder that you should **always** customize your resume to the position for which you're applying. To make sure your resume is customized, pay attention to 3 things:
+
+1. Telling your story through a summary statement
+2. Showcasing specific projects
+3. Highlight transferable skills
+
+We recommend using a summary statement on your new resume so that you can:
+
+1. Describe why you've made a career change
+2. Make a connection between the company you're applying to and the work you do/want to do
+
+Again, your projects can be used to your advantage to tell a specific story to this company as well. Showcase the projects that use the same tech stack, relate to a similar product, demonstrate your interest in their work, or showcase teamwork that is similar to the company you're applying to. A great idea is to build a project using a company's tech stack -- you'll discuss this more in-depth with Ian in his workshop.
+
+And lastly, highlight your most relevant transferable skills -- both technical and professional -- that relate to this particular company.
 
 ### Section 2: Rebuilding Your Resume
 
