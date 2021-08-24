@@ -21,13 +21,19 @@ Skip down to:
 
 2. Choose from the following discussion questions on strengths that the group would like to discuss. Choose several or just a few and share your thoughts (20-30 mins):
 
-   * What would it take for you to build more awareness of your strengths?
-   * What would you like to focus on in your professional development at Turing?
-   * What can make it challenging to recognize your strengths? How can you work through those challenges?
-   * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
-   * What can make it challenging to recognize your strengths? How can you work through those challenges?
-   * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
-   * Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?
+   * **Challenges with strengths**  
+      * What can make it challenging to recognize your strengths? How can you work through those challenges?
+      * Do you ever see yourself overusing certain strengths? In what circumstances would you want to use them less and amplify other strengths? How could you adjust your approach in those instances?
+
+  * **Strengths in action** 
+      * Describe how you like to work (i.e., Do you pre-plan? Do you talk through your ideas first? Do you work better with deadlines? How do you stay organized?)
+      * Why would it be important to talk about this with your project teammates? Your mentor? Your instructors? What could it look like to have that kind of open communication in your cohort? 
+      * What would you need to be aware of when working with people who have different strengths from you?
+
+  * **Continued growth**
+      * Is there any particular strength you'd like to sharpen while you're at Turing? Any area you consider a weakness that you'd like to strengthen?
+      * What are some steps you could take here?
+      * How could you be aware of the progress you're making?
 
 3. Write out action steps you can take to develop awareness of your strengths and any challenges. How could you be aware of the progress you are making? If you are repeating the module, reflect on how you used your strengths last module. What changes do you want to make to your approach for this module? (10-15 mins)
 
