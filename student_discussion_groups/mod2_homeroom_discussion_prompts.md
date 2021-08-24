@@ -23,7 +23,7 @@ Skip down to:
   * What do you want to stop doing?
   * What new ways do you want to collaborate with each other?
 
-2. We're going to start looking at resumes this module. While you have probably written a resume before, you'll now focus on highlighting your technical skills and projects. To see what we mean, take some time to look at current student and alumni resumes on [Terminal](https://terminal.turing.edu), our portfolio site. Find 3-5 peer profiles to review. Find their resume by clicking on "open resume" on the left side of the portfolio. As you look through these resumes, discuss (15 mins):
+2. This week we're talking about building a technical resume. Start by looking at current student and alumni resumes on [Terminal](https://terminal.turing.edu), our portfolio site. Find 3-5 peer profiles to review. Find their resume by clicking on "open resume" on the left side of the portfolio. As you look through these resumes, discuss (15 mins):
   * What do I like about this resume?
   * What stands out the most?
   * What would I do differently on my resume?
