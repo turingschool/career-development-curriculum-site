@@ -120,6 +120,12 @@ Here are some tips to keep in mind:
 * Pin your best projects to your profile page and keep it up-to-date
 * File issues on all your repos for things that need fixing up
 
+Here are some other resources to help you:
+
+* [Martin Heinz's Build a Stunning ReadMe for your GitHub profile](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7). Note: be careful with the emojis. His are very subtle and tasteful. If you’re not 100% positive yours are as well, better to leave them out.
+* [Gapur Kasim's How to Create an Awesome GitHub Profile ReadMe](https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645). Note: some other interesting widgets that you could stretch for. Don’t go overboard, and if they don’t highlight what you want, tell the story you’d like, better to leave them out.
+* [Andres Villegas's Creating a Standout GitHub Profile ReadMe](https://medium.com/bigcommerce-developer-blog/creating-a-standout-github-profile-readme-ee87f4320585). Note: again, be careful with the custom images. Ask someone you trust to tell you if they look professional/add to the experience.
+
 #### Projects
 Make sure that all of your projects have a ReadMe. Think about the ReadMe as encompassing a few things:
 
