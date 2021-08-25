@@ -17,35 +17,22 @@ Skip down to:
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. Revisit norms for how your group wants to work together (15 mins):
+1. Revisit norms for how your group wants to work together (10 mins):
    
    * What was helpful last mod?
    * What do you want to keep doing?
    * What do you want to stop doing?
    * What new ways do you want to collaborate with each other?
 
-2. Review your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and take 10 mins to update it.
+2. This week's lesson is all about updating your branding materials through revising your resume, creating your Terminal portfolio, and  Read through [this document](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) on tips for effective personal and project descriptions and discuss as a group (15 mins):
 
-3. As a group discuss (10-15 mins):
-  
-   * Based on what you filled out in the roadmap so far, what kinds of industries/jobs will you be targeting? What do you already know about those industries? What do you still want to learn?
-   * How could you use your resume to show that these are the jobs you’re both qualified for and seeking?  
-   * What questions or concerns do you have about building your resume? 
+   * How does this information about how to tailor your descriptions to different audiences make you think differently about the descriptions you've been writing? 
+   * What are the main takeaways you'll keep in mind as you refine your personal and project descriptions moving forward?
+   * What is challenging about writing these? How could you help each other to overcome those challenges and make your descriptions even better?
 
-4. Research time (10 mins):
-   
-   * Using these [resources](/resources/finding_opportunities) + your roadmap, find a job you would like to apply to.
+3. Pick 1 area to focus on today from the document (GitHub project ReadMe, GitHub profiile ReadMe, Terminal About Me summary, or Terminal project description), and using its tips, create an updated version. (20 mins)
 
-5. Share what you found and discuss why it’s a good fit for you (10 mins):
-  
-   * Why are you interested in this job? 
-   * What else do you need to learn to know if it’s a good job for you to apply to?
-     * Examples: learn about the company’s culture 
-     * The best way to do that is through networking; how will you approach networking for this position?
-   * Identify one next step you will take for this job:
-     * Add this job to Huntr
-     * Reach out to someone at the company
-     * Update your resume for this position
+4. Share what you worked on with each other and provide feedback that is specific, actionable, and kind. Make sure to use this feedback to update your materials. (15 mins)
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
