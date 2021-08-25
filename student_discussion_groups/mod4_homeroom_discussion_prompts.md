@@ -19,15 +19,15 @@ Skip down to:
 ### Week 1 Prompts & Structure (60 mins)
 1. Establish norms for how your group wants to work together (15 mins):
 
-  * What was helpful last mod?
-  * What do you want to keep doing?
-  * What do you want to stop doing?
-  * What new ways do you want to collaborate with each other?
+   * What was helpful last mod?
+   * What do you want to keep doing?
+   * What do you want to stop doing?
+   * What new ways do you want to collaborate with each other?
 
 2. This week's session is on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
 
-  * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
-  * **What would make you feel prepared to negotiate your next job offer?** 
+   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
+   * **What would make you feel prepared to negotiate your next job offer?** 
 
 3. Take a look some different salary websites such as [Glassdoor](https://glassdoor.com), [Salary.com](https://salary.com), [BuiltIn Salaries](https://builtin.com/salaries) and [Payscale](https://payscale.com) and start looking at ranges. Pay attention to skill level and location. What is most surprising to you? 
 
