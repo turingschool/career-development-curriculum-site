@@ -42,6 +42,23 @@ It can be helpful to start by assessing where you fall on the introversion-extro
 
 ### Section 3: Create Networking Goals
 
+
+It's important to remember while comfort zones are nice, you can't make progress in your professional development if you stay in them. How to move forward without trying something that is too out-of-the-box for you? Create a compromise that allows you to strategically use your comfort zone and take a step outside of it. 
+
+Here are some examples:
+
+#### 
+
+If you appreciate 1:1 time but wouldn’t normally reach out to someone you don’t know, try:
+ * #lets_grab_donuts on Slack
+ * [LunchClub](https://lunchclub.com/), which is a social networking platform that uses artificial intelligence and machine learning to connect users with common interests and objectives.
+
+If you appreciate larger groups but haven’t connected with people in the tech industry yet, try:
+
+ * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
+ * [Check out this list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
+
+
 #### Suggested Goal #1: Networking with your Mentor
 At this point, you should have already reached out to your mentor to introduce yourself and have a DTR. You may have already met a few times, but it's likely that those conversations were focused on your technical learning. But you can utilize your mentor for so much more! They have been in your shoes and know what it's like to be new to the industry. They are a wealth of knowledge and can provide you with ample advice. To network with your mentor, take the following steps:
 
@@ -81,7 +98,7 @@ Depending on who you meet with, your questions may look different, but regardles
 * What are you excited about contributing to in the tech industry?
 * What do you like to do in your free time outside of programming/work?
 
-#### Suggested Goal #3: Network with a Contact You Already Know
+#### Suggested Goal #3: Network with a Contact You Already Know Outside of Turing
 Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Someone in the tech industry (not necessarily a developer), someone who has changed careers before, or someone you trust for career advice. Take the following steps to reach out:
 
 * Send a message to this person and explain why you'd like to connect. Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
