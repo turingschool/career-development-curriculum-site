@@ -3,10 +3,10 @@ layout: page
 title: Terminal Portfolio Directions
 ---
 
-### Your Alumni Portfolio
+## Overview
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
-#### How to Set It Up
+### How to Set It Up
 You will receive an email invitation from the Career Dev team at the beginning of Mod 3. 
 
 To set up your profile: 
@@ -19,7 +19,7 @@ To set up your profile:
 
 Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
-####  About Me Section
+### About Me Section
 What do you want your profile to say about you? Write out a rough draft of your professional story considering using this framework:
 
 * What is your career story about your past, present, and future that you want to share with employers? 
@@ -43,7 +43,18 @@ Your Terminal about me section, LinkedIn summary, and resume summary (if you cho
   * LinkedIn summaries allows you to add a personal touch in addition to relevant skills and experiences that will attract recruiters and hiring managers.
   * Terminal is similiar to the LinkedIn audience; employers want to know your backstory, your value proposition and what's next for you as a developer. 
 
-#### What Should Be Included in the Profile
+### Project Descriptions
+The main recommendation here is to remember that you are speaking to potential employers, not investors. These project descriptions should briefly describe the project, and then quickly pivot to describing your primary contributions and the things you learned. This is an advertisement for you, not the project.
+Be consistent in your project descriptions. Too often students use different formats and headings for each of their project descriptions. It can help your audience of potential employers to quickly digest this information if you are even consistent between projects in the order in which you provide information.
+
+For example:
+
+* **First sentence:** name of project, number of collaborators, primary technologies used, what it does.
+* **Second sentence:** main learning goals of the project/the things you were doing for the first time in this project (if you don’t know, ask your instructors).
+* **Third sentence:** any stretch goals you were able to achieve.
+* **Fourth sentence:** anything you specifically focused on in the project.
+
+### Getting Your Portfolio Published
 What needs to be included in order for your portfolio to be published? Here is what the team is looking for:
 
 - [ ] **Title**
