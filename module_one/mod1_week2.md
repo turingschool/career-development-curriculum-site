@@ -22,18 +22,12 @@ Allow yourself X mins to complete the following lesson. Start by viewing the vid
 
 ### Section 1: Introduction & Assessing your Needs in Networking
 
-Video Link
-
-Provide examples/extra information
 
 When assessing your needs, consider who is best to connect with to help you.
 
-your ["weak ties"](https://towardsdatascience.com/the-power-of-weak-ties-f1049c93f3a3) or ["dormant ties"](https://foundr.com/why-dormant-connections-may-be-the-most-powerful-network-you-have) aka people who are not necessarily the folks you talk to every day, which is the point -- these are people whose knowledge and networks will be relatively new to you! These are people you may have worked with previously, people you know through friends/family/co-workers, or simply people you haven't connected with in a while. They may or may not have a direct connection to the tech industry, but they may know someone who is in the tech industry or at a company you're interested in or they may have professional advice that will be helpful for you. You won't know until you map this out and understand the connections you do already have.
 
 ### Section 2: Assessing your Comfort Level in Networking
 
-
-Provide examples/extra information
 
 It can be helpful to start by assessing where you fall on the introversion-extroversion spectrum to know what types of interactions energize you and what drain you. Often we think that introverts are shy and extroverts are outgoing. But in reality, everyone exists on the spectrum of introversion and extroversion, and our place on that spectrum can change depending on our current circumstances. Check out some of these helpful articles and tools:
 
@@ -47,17 +41,19 @@ It's important to remember while comfort zones are nice, you can't make progress
 
 Here are some examples:
 
-#### 
+1. If you appreciate 1:1 time but wouldn’t normally reach out to someone you don’t know, try:
 
-If you appreciate 1:1 time but wouldn’t normally reach out to someone you don’t know, try:
- * #lets_grab_donuts on Slack
- * [LunchClub](https://lunchclub.com/), which is a social networking platform that uses artificial intelligence and machine learning to connect users with common interests and objectives.
+   * #lets_grab_donuts on Slack
+   * [LunchClub](https://lunchclub.com/), which is a social networking platform that uses artificial intelligence and machine learning to connect users with common interests and objectives.
 
-If you appreciate larger groups but haven’t connected with people in the tech industry yet, try:
+2. If you appreciate larger groups but haven’t connected with people in the tech industry yet, try:
 
- * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
- * [Check out this list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
+   * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
+   * [Check out this list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
 
+Don't forget to incorporate your needs. What do you need right now? To 
+
+With these ideas in mind, here are some suggested goals but feel free to come up with your own:
 
 #### Suggested Goal #1: Networking with your Mentor
 At this point, you should have already reached out to your mentor to introduce yourself and have a DTR. You may have already met a few times, but it's likely that those conversations were focused on your technical learning. But you can utilize your mentor for so much more! They have been in your shoes and know what it's like to be new to the industry. They are a wealth of knowledge and can provide you with ample advice. To network with your mentor, take the following steps:
@@ -99,7 +95,7 @@ Depending on who you meet with, your questions may look different, but regardles
 * What do you like to do in your free time outside of programming/work?
 
 #### Suggested Goal #3: Network with a Contact You Already Know Outside of Turing
-Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Someone in the tech industry (not necessarily a developer), someone who has changed careers before, or someone you trust for career advice. Take the following steps to reach out:
+Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Consider reaching out to someone you don't talk to day-to-day. It would be beneficial to reach out to your ["weak ties"](https://towardsdatascience.com/the-power-of-weak-ties-f1049c93f3a3) or ["dormant ties"](https://foundr.com/why-dormant-connections-may-be-the-most-powerful-network-you-have) aka people whose knowledge and networks will be relatively new to you! These are people you may have worked with previously, people you know through friends/family/co-workers, or simply people you haven't connected with in a while. They may or may not have a direct connection to the tech industry, but they may know someone who is in the tech industry or at a company you're interested in or they may have professional advice that will be helpful for you. Take the following steps to reach out:
 
 * Send a message to this person and explain why you'd like to connect. Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
