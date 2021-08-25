@@ -26,7 +26,9 @@ Video Link
 
 Provide examples/extra information
 
+When assessing your needs, consider who is best to connect with to help you.
 
+your ["weak ties"](https://towardsdatascience.com/the-power-of-weak-ties-f1049c93f3a3) or ["dormant ties"](https://foundr.com/why-dormant-connections-may-be-the-most-powerful-network-you-have) aka people who are not necessarily the folks you talk to every day, which is the point -- these are people whose knowledge and networks will be relatively new to you! These are people you may have worked with previously, people you know through friends/family/co-workers, or simply people you haven't connected with in a while. They may or may not have a direct connection to the tech industry, but they may know someone who is in the tech industry or at a company you're interested in or they may have professional advice that will be helpful for you. You won't know until you map this out and understand the connections you do already have.
 
 ### Section 2: Assessing your Comfort Level in Networking
 
@@ -63,16 +65,21 @@ Suggested questions/discussion prompts:
 **Note:** your mentor may also be job searching, perhaps for their first tech job. They are still a great person to network with! They can share all of the strategies they have been trying already so that you can learn from their experience. 
 
 #### Suggested Goal #2: Meet Someone New at Turing
-Whether you join a student circle or the #lets_grab_donuts channel on Slack, commit to meeting someone new within the Turing community. 
-
-This could also be another person in the Turing network but who isn't your mentor -- an alum who is in the same Student Circle as you, for example.
-
-Take the following steps to reach out:
+Whether you join a student circle or the #lets_grab_donuts channel on Slack, commit to meeting someone new within the Turing community. The #lets_grab_donuts channel will automatically set you up with a partner, so you don't need to send a message to connect. For anyone else though, here are some suggested steps for reaching out:
 
 * Send a message to this person. If you don't know them personally, take the time to introduce yourself and explain very clearly both what you want to talk to them about and *why* you specifically want to talk to them about this (as opposed to someone else). Why are they the right person for your questions? Provide them with a couple of options for times to talk. 
 * Come up with some questions to ask them during the call. It can be helpful to send them the questions ahead of time so they can prepare for the conversation.
 * Take notes during the conversation and consider adding them to your [networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing).
 * Decide on one takeaway from the conversation that you can follow up on. This might mean doing a little research into something they mention or asking for an introduction to someone from their network.
+
+Depending on who you meet with, your questions may look different, but regardless, focus on asking questions that help you get to know each other:
+
+* What brought you to Turing?
+* What do you appreciate about the Turing community?
+* What advice do you have/what has been helpful for you in managing Turing life?
+* What are you working on that you're excited about?
+* What are you excited about contributing to in the tech industry?
+* What do you like to do in your free time outside of programming/work?
 
 #### Suggested Goal #3: Network with a Contact You Already Know
 Reach out to a contact from your existing network and ask to set up a call to discuss career advice. Who would be an ideal person for you to reach out? Someone in the tech industry (not necessarily a developer), someone who has changed careers before, or someone you trust for career advice. Take the following steps to reach out:
@@ -91,6 +98,14 @@ Depending on who you choose to reach out to, your questions will look different.
 * I know I'm interested in ______ kind of work. Do you have any advice on how I could learn more about that?
 * How did you figure out where you wanted to start with your first job? How has that influenced your career?
 * Is there anyone you would recommend I talk to at your company or in the tech industry at large? Would you be able to make an introduction for me?  
+
+#### FAQs & Things to Keep in Mind
+
+
+* What constitutes networking? Do I have to talk to someone in person/on a call? A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
+* How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
+* What if my contact is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to network with them once they are free. And in the meantime, try to reach out to a second person to network with (the more people you talk to over the course of your time at Turing, the better!). 
+* Is this the only networking activity we'll be doing? A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
 
 ## Check for Understanding
 Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) by creating your networking goal. **This is a deliverable for Mod 1.** <a name="cfu"></a>
