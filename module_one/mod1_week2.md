@@ -22,6 +22,7 @@ Allow yourself 45-60 minutes complete the following lesson. Start by viewing the
 
 ### Section 1: Introduction & Assessing your Needs in Networking
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcuAUf2fqHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Networking is another word for building relationships. When you're networking, you're actively getting to know someone and they're getting to know you. As you get to know each other, you're finding ways to mutually benefit each other, which is something you do in all relationships. For example, mutual benefits in friendships often revolve around support, common interests, and social interaction. 
 
