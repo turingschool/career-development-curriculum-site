@@ -18,9 +18,10 @@ This session will cover:
 
 ## Introduction to Networking
 ### Lesson Plan <a name="lesson"></a>
-Allow yourself X mins to complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing).
+Allow yourself 45-60 minutes complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing).
 
 ### Section 1: Introduction & Assessing your Needs in Networking
+
 
 Networking is another word for building relationships. When you're networking, you're actively getting to know someone and they're getting to know you. As you get to know each other, you're finding ways to mutually benefit each other, which is something you do in all relationships. For example, mutual benefits in friendships often revolve around support, common interests, and social interaction. 
 
@@ -40,7 +41,35 @@ On your [reflection sheet](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmA
 
 It can also be helpful to understand what types of interactions energize you and what drain you. Often we think that introverts are shy and extroverts are outgoing. But in reality, everyone exists on the spectrum of introversion and extroversion, and our place on that spectrum can change depending on our current circumstances. 
 
-Check out some additional reading on this topic:
+There are many ways to connect with people in networking situations. Which interactions listed here would energize you and which would drain you?
+
+* Online communication
+* Meeting people in person
+* 1:1 interactions
+* Casual group conversations
+* Seeking people out on your own
+* Getting introduced by someone else or having an event to attend to bring us together
+
+Once you are able to identify what energizes you, lean into it! Find ways to capitalize on this energy. Here are some examples:
+
+#### Example #1: Networking through social media
+If you feel energized by engaging in social networking over Twitter or LinkedIn, here are some tips to maximize the impact of the interactions:
+
+* Build a robust profile to allow others to get to know you. Note: you'll learn more about this next week, but here are some [resources for personal branding](/resources/branding_resources).
+* Seek out people who share your interests. Interested in artificial intelligence? Block chain? Diversity, equity, and inclusion in tech? Find your people. Check out hashtags, influential people or companies in your field, and other current conversation threads to join in.
+* Don’t leave one-off comments or “likes." Take time to engage in conversation, listen to others, share helpful resources -- just like you would in any conversation.
+
+#### Example #2: Networking at organized events
+If you feel energized by meeting new people with shared interests at an event that brings you together, here are some tips to maximize the impact of the interactions:
+
+* Circulate the room. Make sure you don't only talk to people you already know. Find people you haven't met yet and introduce yourself.
+* Share your story. This will be covered in next week's session, but having a concise pitch to describe who you are and what your goals are in this new career will be a helpful way to connect with others right away.
+* Ask questions and practice active listening. When you are able to get someone talking about something they are excited about, it can lead to deeper connections.
+* Follow up. Make sure to get contact information to have another conversation and reference what you talked about when you met. 
+
+Even though you'll lean into your comfort zone, you can also prepare for what to do when you leave them. If you were to engage in a networking activity that drains you, how could you recover? Take time to plan an activity beforehand and afterwards that works with your energy. If you're an introvert, this might mean preparing for a large group networking event by having some alone time before and after the event, such as reading a book or taking a walk. Taking the time to prepare for this energy drain will help you be more fully yourself in the activity.
+ 
+Here is some additional reading on how to use your place on the introversion-extroversion spectrum to your advantage:
 
 * [Are you an Introvert or an Extrovert? What it Means for Your Career](https://www.fastcompany.com/3016031/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career)
 * [How Being an Introvert Helped Me in My First Job](https://www.quietrev.com/how-being-an-introvert-helped-me-in-my-first-job/)
@@ -52,12 +81,14 @@ It's important to remember while comfort zones are nice, you can't make progress
 
 Here are some examples:
 
-1. If you appreciate 1:1 time but wouldn’t normally reach out to someone you don’t know, try:
+#### Example #1
+If you appreciate 1:1 time but wouldn’t normally reach out to someone you don’t know, try:
 
    * #lets_grab_donuts on Slack
    * [LunchClub](https://lunchclub.com/), which is a social networking platform that uses artificial intelligence and machine learning to connect users with common interests and objectives.
 
-2. If you appreciate larger groups but haven’t connected with people in the tech industry yet, try:
+#### Example #2
+If you appreciate larger groups but haven’t connected with people in the tech industry yet, try:
 
    * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
    * [Check out this list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
@@ -124,7 +155,7 @@ Depending on who you choose to reach out to, your questions will look different.
 * Is there anyone you would recommend I talk to at your company or in the tech industry at large? Would you be able to make an introduction for me?  
 
 #### FAQs & Things to Keep in Mind
-As you get started with networking at Turing, keep in mind 
+As you get started with networking at Turing, here are a couple of frequently asked questions and answers that might be helpful:
 
 * *What constitutes networking? Do I have to talk to someone in person/on a call?* A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
 * *How do I go about contacting someone if I don't have their email?* A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses.  
