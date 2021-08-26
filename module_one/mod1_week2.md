@@ -22,14 +22,25 @@ Allow yourself X mins to complete the following lesson. Start by viewing the vid
 
 ### Section 1: Introduction & Assessing your Needs in Networking
 
+Networking is another word for building relationships. When you're networking, you're actively getting to know someone and they're getting to know you. As you get to know each other, you're finding ways to mutually benefit each other, which is something you do in all relationships. For example, mutual benefits in friendships often revolve around support, common interests, and social interaction. 
 
-When assessing your needs, consider who is best to connect with to help you.
+It’s important to recognize what you could gain through networking interactions while at Turing -- these might include support and advice as well as reconnecting with those in your existing network. Every relationship has a giving and receiving quality to it, and networking is a little more blatant about it. While you’re receiving support and advice, you can benefit the relationship by spending time really getting to know the other person and their goals so that you can return the favor at a later time. 
 
+On your [reflection sheet](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing), take time to assess what you need from networking right now. Some examples might be:
+
+* A support system. 
+  * Who could you get that benefit from? Your mentor and other Turing students.
+* Advice on getting started in this career.
+  * Who could you get that benefit from? Again, your mentor as well as other Turing alumni
+* Outside perspectives on the job market and job searching.
+  * Who could you get that benefit from? Your existing network.
 
 ### Section 2: Assessing your Comfort Level in Networking
 
 
-It can be helpful to start by assessing where you fall on the introversion-extroversion spectrum to know what types of interactions energize you and what drain you. Often we think that introverts are shy and extroverts are outgoing. But in reality, everyone exists on the spectrum of introversion and extroversion, and our place on that spectrum can change depending on our current circumstances. Check out some of these helpful articles and tools:
+It can also be helpful to understand what types of interactions energize you and what drain you. Often we think that introverts are shy and extroverts are outgoing. But in reality, everyone exists on the spectrum of introversion and extroversion, and our place on that spectrum can change depending on our current circumstances. 
+
+Check out some additional reading on this topic:
 
 * [Are you an Introvert or an Extrovert? What it Means for Your Career](https://www.fastcompany.com/3016031/are-you-an-introvert-or-an-extrovert-and-what-it-means-for-your-career)
 * [How Being an Introvert Helped Me in My First Job](https://www.quietrev.com/how-being-an-introvert-helped-me-in-my-first-job/)
@@ -113,12 +124,11 @@ Depending on who you choose to reach out to, your questions will look different.
 * Is there anyone you would recommend I talk to at your company or in the tech industry at large? Would you be able to make an introduction for me?  
 
 #### FAQs & Things to Keep in Mind
+As you get started with networking at Turing, keep in mind 
 
-
-* What constitutes networking? Do I have to talk to someone in person/on a call? A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
-* How do I go about contacting someone if I don't have their email? A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses. 
-* What if my contact is busy this week and we can't connect to do this activity? A: That is totally fine. Things happen. But you should still set up a time with them to network with them once they are free. And in the meantime, try to reach out to a second person to network with (the more people you talk to over the course of your time at Turing, the better!). 
-* Is this the only networking activity we'll be doing? A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
+* *What constitutes networking? Do I have to talk to someone in person/on a call?* A: Networking is building a relationship. To do that, it involves having a conversation. The way that conversation takes place -- on a call, through email or Slack messages, DMs on Twitter -- is entirely up to you. 
+* *How do I go about contacting someone if I don't have their email?* A: There are [several sites listed here](/resources/outreach_networking_resources) that can help you find people's email addresses.  
+* *Is this the only networking activity we'll be doing?* A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
 
 ## Check for Understanding
 Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) by creating your networking goal. **This is a deliverable for Mod 1.** <a name="cfu"></a>
