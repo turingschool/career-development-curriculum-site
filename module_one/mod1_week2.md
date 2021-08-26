@@ -39,6 +39,7 @@ On your [reflection sheet](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmA
 
 ### Section 2: Assessing your Comfort Level in Networking
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQPlSJR8aM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It can also be helpful to understand what types of interactions energize you and what drain you. Often we think that introverts are shy and extroverts are outgoing. But in reality, everyone exists on the spectrum of introversion and extroversion, and our place on that spectrum can change depending on our current circumstances. 
 
