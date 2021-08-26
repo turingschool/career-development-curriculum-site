@@ -78,6 +78,7 @@ Here is some additional reading on how to use your place on the introversion-ext
 
 ### Section 3: Create Networking Goals
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QtUjZUVE-Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's important to remember while comfort zones are nice, you can't make progress in your professional development if you stay in them. How to move forward without trying something that is too out-of-the-box for you? Create a compromise that allows you to strategically use your comfort zone and take a step outside of it. 
 
