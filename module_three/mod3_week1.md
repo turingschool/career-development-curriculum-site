@@ -57,7 +57,7 @@ An ATS, or applicant tracking system, is used by most companies to screen resume
 * Compare your resume to the job description and pull out key words to highlight in your skills and experience
 * Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
 
-For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu/profiles) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
 
 #### Other Important Reminders
 When building your resume, make sure to keep this checklist handy as well:
@@ -84,11 +84,11 @@ Turing provides a space for professional portfolios on [our website](https://ter
 * Staff member will review your profile and approve for publishing or request additional changes
 * For more info on how to set this up, [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
+Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu/profiles](https://terminal.turing.edu/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
 ## Application
 ### Resume Review Activity
-Look at a few different resumes on [Terminal](https://terminal.turing.edu) and consider:
+Look at a few different resumes on [Terminal](https://terminal.turing.edu/profiles) and consider:
 
 * How are they telling their story through their resume?
 * How are they describing their projects? What would you do similarly or differently?
