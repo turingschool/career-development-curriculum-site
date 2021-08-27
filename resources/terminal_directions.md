@@ -4,7 +4,7 @@ title: Terminal Portfolio Directions
 ---
 
 ## Overview
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu/profiles). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
 ### How to Set It Up
 You will receive an email invitation from the Career Dev team at the beginning of Mod 3. 
@@ -17,7 +17,7 @@ To set up your profile:
 * Staff member will review your profile and approve for publishing or request additional changes
 * For more info on how to set this up, [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu](https://terminal.turing.edu) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
+Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu/profiles](https://terminal.turing.edu/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
 ### About Me Section
 What do you want your profile to say about you? Write out a rough draft of your professional story considering using this framework:
