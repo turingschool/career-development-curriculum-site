@@ -28,6 +28,7 @@ title: Negotiations Resources
 * [A list to build strategy from before, during, and after salary discussions](https://www.themuse.com/advice/how-to-negotiate-salary-37-tips-you-need-to-know)
 
 ### Tips
+* [Fearless Salary Negotiations](https://fearlesssalarynegotiation.com/) provides tips and strategies for negotiating software offers.
 * [Tips from Recruiters](https://zapier.com/blog/how-to-negotiate-salary/)
 * [Tips for Negotiating as a Woman](https://www.washingtonpost.com/graphics/business/womens-wages/salary-negotiation-guide-women/?utm_term=.cc721527f9ac)
 * [Tips for Negotiating as a Black Woman](https://www.cnbc.com/2020/03/31/what-its-like-to-negotiate-salary-as-a-black-woman-equal-pay-day.html)
