@@ -50,5 +50,5 @@ Skip down to:
 5. Draft an outreach message and share with each other for feedback. Consider sending it on Slack, LinkedIn, or via email -- then hit send! (15 mins)
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-This week's homeroom group is a working session on your resumes -- [find the guidelines here!](/module_two/week_5_resume_workshop)
+This week's homeroom group is a working session on your resumes -- [find the guidelines here!](/module_two/mod2_week5)
 
