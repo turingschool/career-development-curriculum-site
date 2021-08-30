@@ -1,15 +1,16 @@
 ---
 layout: page
-title: What's a Dev?
+title: Module 2 Week 4
 ---
 
 ## Overview
-What's a Dev is an event held in Week 4 of Mod 2 that brings together developers from Turing employer partners to meet with students.
+This week, instead of a session, you have a live event called **What's a Dev.** What's a Dev is an event that brings together developers from Turing employer partners to meet with students.
 
-We started this event to help Mod 2 students gain an understanding of what a developer actually does. The What’s A Dev? experience provides you with the opportunity to understand the culture of a tech company, experience a glimpse into a day in the life of a developer, and gain exposure to the amazing work that companies are doing on a daily basis. 
+We started this event to help Mod 2 students gain an understanding of what a developer actually does. The What’s A Dev experience provides you with the opportunity to understand the culture of a tech company, experience a glimpse into a day in the life of a developer, and gain exposure to the amazing work that companies are doing on a daily basis. 
 
+## What's a Dev Event
 ### How to Prepare
-Someone from the Career Dev team will post information on the companies and contacts who will be attending in your cohort channel by Monday of week 4. You will also be put into a Slack channel for your breakout small group "shadow." You can ask any follow-up questions in that channel. 
+A member of the Career Dev team will post information on the companies and contacts who will be attending in your cohort channel by Monday of week 4. You will also be put into a Slack channel for your breakout small group "shadow." You can ask any follow-up questions in that channel. 
 
 Spend some time before the event researching the company website and your contact on LinkedIn. Think of 1-3 questions that you want to ask, both in the panel discusison and in your small group. 
 
