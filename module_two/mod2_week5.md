@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume Workshop - Week 5
+title: Mod 2 Week 5
 ---
 
 [Update with prompts around job search strategies, using the resources on CD site, and how to project manage your job search.] 
