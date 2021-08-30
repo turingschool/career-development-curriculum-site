@@ -40,5 +40,6 @@ This workshop takes place during Week 5 Homeroom:
    * What could be improved? Examples: it's not clear yet why you changed careers to become a software developer; it's not clear what kind of software developer you are; it's not clear what kinds of jobs you are looking for.
 5. Use the last 10 minutes to make updates based on the feedback you received. 
 
-### Next Steps
-Next module, you'll start to focus on your resume. Please make it a priority for your LinkedIn to be in good shape before the next module starts. If you have any questions on this, please reach out to Allison.
+### Reminders
+* Next module, you'll start to focus on your resume. **Please make it a priority for your LinkedIn to be in good shape before the Mod 2 starts.** If you have any questions on this, please reach out to Allison.
+* Complete this [end of mod 1 self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by EOD Monday of Week 6.
