@@ -34,7 +34,7 @@ Please plan to discuss the following topics:
 
 2. **Lessons Learned.** As a group, take turns sharing:
 
-   * How are you currently networking? Examples: #lets_grab_donuts, 
+   * How are you currently networking? Examples: #lets_grab_donuts, rock and pebble connections, mentor meetings, and this Mix It Up group right now!
    * What has worked well for you?
    * What have you learned? What's the best piece of advice you've gotten?
 
@@ -42,10 +42,11 @@ Please plan to discuss the following topics:
 
    * As a group, work together to brainstorm a list of all the ways you could approach networking using a [jamboard](https://jamboard.google.com/) or a [gist](https://gist.github.com/). Think about both how you can network within the Turing commmunity and in the wider industry. If you feel comfortable, please post this list in the #on-campus channel on Slack to share with the community!
    * What types of networking approaches are easiest for you and why? What does this tell you about how you like to connect with others? How could you lean into this more to realize your networking goals?
-   * What types of networking approaches are most challenging for you and why? How could you use your strengths to make this a little easier for you to try?
+   * What types of networking approaches are most challenging for you and why? How could you use your strengths to make this a little easier for you to try? As a group, see if you can come up with some ways to support each other in moving out of your comfort zone a little bit when it comes to networking approaches.
 
 4. **Put it into Practice:*
 
+    * Decide on something you could do to further your networking goals this week. 
     * Pick a networking contact from your [networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing) to send a message to. For Mod 1 students, think about the networking goal you started on yesterday. 
     * Practice writing out your message to your contact. Consider:
         * How would you 
