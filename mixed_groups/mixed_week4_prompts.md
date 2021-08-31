@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Mix It Up Week 4
-subheading: Identifying Goals & Working Towards a Successful Job Search
+subheading: Interviewing Strategies
 ---
+
+* A lesson where students read questions and consider: What is the underlying question here? For example, "Name a time where you worked on a team and a conflict occurred" is really asking "Are you empathetic?"
+* Time for students to prepare 5-10 stories that hit the big umbrella question themes.
+* A lesson where students think of what they want to know about a company and then write questions to getting to those answers. For example, if you want to know if you'll be supported/listened to, ask "What does the feedback cycle look like? How often will I get feedback from my manager? How will I be able to give feedback to my manager?" OR if you want to know a company's true values, ask someone who has been at the company for 2+ years, "What has changed about the company since you started? What has stayed the same?"
+* Add in time to write their specific stories/examples and practicing their professional story; Add this to Mix It Up group prompts in week 4 to focus interview prep on building your stories + practice their professional stories
+
 
 ## Structuring the Conversation
 You are meeting with your mixed group for an hour today to collaborate on goals and strategies for a successful job search. Below is an outline for how we encourage you to use this time, but we also encourage you as a group to think about what you'd like to accomplish together.
@@ -54,4 +60,4 @@ Please discuss any additional norms you would like to set as a group!
    * Are there other resources or support within the Turing community that could help you with this challenge? 
 
 ### Close Out & Next Steps (5 mins)
-Review the learning goals you set out to achieve today. Did you make progress? What are you proud of? What wins can you take away from this conversation today? Finally, how could you continue building these relationships outside of today's conversation? 
+Review the learning goals you set out to achieve today. Did you make progress? What are you proud of? What wins can you take away from this conversation today? Finally, how could you continue building relationships with your Mix It Up group outside of today's conversation? 
