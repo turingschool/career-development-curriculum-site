@@ -4,12 +4,6 @@ title: Mix It Up Week 4
 subheading: Interviewing Strategies
 ---
 
-* A lesson where students read questions and consider: What is the underlying question here? For example, "Name a time where you worked on a team and a conflict occurred" is really asking "Are you empathetic?"
-* Time for students to prepare 5-10 stories that hit the big umbrella question themes.
-* A lesson where students think of what they want to know about a company and then write questions to getting to those answers. For example, if you want to know if you'll be supported/listened to, ask "What does the feedback cycle look like? How often will I get feedback from my manager? How will I be able to give feedback to my manager?" OR if you want to know a company's true values, ask someone who has been at the company for 2+ years, "What has changed about the company since you started? What has stayed the same?"
-* Add in time to write their specific stories/examples and practicing their professional story; Add this to Mix It Up group prompts in week 4 to focus interview prep on building your stories + practice their professional stories
-
-
 ## Structuring the Conversation
 You are meeting with your mixed group for an hour today to collaborate on goals and strategies for a successful job search. Below is an outline for how we encourage you to use this time, but we also encourage you as a group to think about what you'd like to accomplish together.
 
@@ -34,12 +28,19 @@ Please discuss any additional norms you would like to set as a group!
 
 1. **Learning Goals:**
 
-   * Individually, write down one thing you'd like to get out of today's discussion around the topics of job search goals and strategies. If you feel comfortable, please share this intention with the group as you get started. 
+   * Individually, write down one thing you'd like to get out of today's discussion on the topic of interviewing. If you feel comfortable, please share this intention with the group as you get started. 
 
-2. **Mod 4 experiences and advice.** Mod 4 students -- please spend a few minutes sharing your experiences working on your job search. 
+2. **Mod 4 experiences and advice.** Mod 4 students -- please spend a few minutes sharing your experiences working on interview prep. 
 
-   * What have you been working on during PD recently? What strategies have been successful for you?
-   * What advice do you have for students in earlier modules?    
+   * How have you been working on interview skills recently? What strategies have been successful for you?
+   * What advice do you have for students in earlier modules when it comes to interview skills?    
+  
+  
+  * A lesson where students read questions and consider: What is the underlying question here? For example, "Name a time where you worked on a team and a conflict occurred" is really asking "Are you empathetic?"
+* Time for students to prepare 5-10 stories that hit the big umbrella question themes.
+* A lesson where students think of what they want to know about a company and then write questions to getting to those answers. For example, if you want to know if you'll be supported/listened to, ask "What does the feedback cycle look like? How often will I get feedback from my manager? How will I be able to give feedback to my manager?" OR if you want to know a company's true values, ask someone who has been at the company for 2+ years, "What has changed about the company since you started? What has stayed the same?"
+* Add in time to write their specific stories/examples and practicing their professional story; Add this to Mix It Up group prompts in week 4 to focus interview prep on building your stories + practice their professional stories
+
   
 3. **Reflecting on wins and progress.**
 
