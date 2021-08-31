@@ -1,6 +1,7 @@
-layout	title
-page
-Module 1 Week 2
+---
+layout: page
+title: Module 1 Week 3
+---
 
 ## Overview
 [Provide context for the focus of the week and lesson]
