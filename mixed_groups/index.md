@@ -11,16 +11,16 @@ Our data shows that student collaboration and connection is a strong indicator o
 
 ### What will you talk about?
 
-* [Week 2](/mixed_groups/mixed_week2_prompts) will focus on Meeting You Right Now: Balancing PD and the Job Search while in Mods 1-4. Your group will discuss things like:
-    * Time management and effective habits
-    * Resiliency in the face of rejection
-    * Self-care
+* [Week 2](/mixed_groups/mixed_week2_prompts) will focus on Networking. Your group will discuss things like:
+    * Networking strategies and tips
+    * Ways to add to your networking strategies
+    * Helping each other put networking strategies into practice
 
-* [Week 4](/mixed_groups/mixed_week4_prompts) will focus on Looking Ahead: Identifying Goals & Working Towards a Successful Job Search. Your group will discuss things like:
-    * Mod 4 students' experiences with PD and advice they have for lower mods
-    * Reflecting on wins for time management and progress in your PD this mod
-    * Creating feasible goals to work towards for the rest of the module
-    * Discuss challenges to be aware of, resources you can share with each other, and first steps to take
+* [Week 4](/mixed_groups/mixed_week4_prompts) will focus on Interview Prep. Your group will discuss things like:
+    * Mod 4 students' experiences with mock interviews and advice they have for lower mods
+    * Practicing your professional stories
+    * Preparing interview stories about your projects and experiences at Turing and in previous careers
+    * Helping each other to put interview strategies into practice
 
 In both conversations, you'll spend time getting to know each other and setting basic norms. The norms that the Career Development Team urge you to adopt are:
 
