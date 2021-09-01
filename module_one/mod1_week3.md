@@ -48,17 +48,17 @@ you’ve got to recognize it before you can use it.
 ## Section 2:  Elements of a Story
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
-# Act I (Set-Up)
+Act I (Set-Up)
 ** Introdution
 ** Inticing incident
 ** Turning point
 
-# Act II (Struggle)
+Act II (Struggle)
 ** Obstacle
 ** Midpoint
 ** Crisis
 
-# Act III (Finale)
+Act III (Finale)
 ** Climax
 ** Denouemnt
 ** Resolution
