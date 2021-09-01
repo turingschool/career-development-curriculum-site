@@ -8,10 +8,9 @@ title: Module 1 Week 3
 
 ## Learning Goals
 This session will cover:
-
-[Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
-[Create your personal brand as a software developer]
-[Tell your story effectively across multiple platforms]
+* Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
+* Create your personal brand as a software developer
+* Tell your story effectively across multiple platforms
 
 Lesson
 Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
@@ -46,27 +45,29 @@ you’ve got to recognize it before you can use it.
 
 [Include introductory information for the lesson here]
 
-Section 2: [ Elements of a Story]
+## Section 2:  Elements of a Story
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
-Act I (Set-Up)
+# Act I (Set-Up)
+** Introdution
+** Inticing incident
+** Turning point
 
-Call to adventure and accepts
-Rules of the world are established
-Inciting Incident
-Act II (Struggle)
+# Act II (Struggle)
+** Obstacle
+** Midpoint
+** Crisis
 
-Looking for ways to solve the problem
-Learning what it will take to actually solve problem
-Crisis/“Lowest of the low”
-Act III (Finale)
+# Act III (Finale)
+** Climax
+** Denouemnt
+** Resolution
 
-Show what’s been learned
-Protagonist is changed
-How to Apply these Elements to Your Story
+
+## How to Apply these Elements to Your Story
 These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
 
-There are 3 main questions to help us understand our own stories and our character arcs:
+## There are 3 main questions to help us understand our own stories and our character arcs:
 
 Who are you? (as a developer, a teammate, a worker, a career changer)
 Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
@@ -74,8 +75,7 @@ What's next? (Where do you see yourself going in this career?)
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-
-Section 3: [How to Tell Your Story]
+## Section 3:  How to Tell Your Story
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
 Your story is one of transition. These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
@@ -92,8 +92,7 @@ Stories that focus more on character motives, themes, and turning points -- the 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 
-Section 4: [Application: Telling Your Story Through Branding]
-
+## Section 4: Telling Your Story Through Branding
 
 Branding is a process of differentiating ourselves by identifying and articulating your unique value proposition and then leveraging it across platforms with a consistent message and image to achieve a specific goal. 
 
@@ -112,24 +111,29 @@ What will your brand say about you on social media?
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 
-[## Check for Understanding:]: 
-## Appliction:  
-1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an holistic view of your career successes and accomplishments. 2. 
+## Check for Understanding (10 min):  
+1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an     holistic view of your career successes and accomplishments. 2. 
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
 
 ##  Next,  Write your story, get clear on your path using this Career Story template:
 * Then write 1-2 paragraphs to answer who are you, why are you here, what's next?
+
 * Consider:
 ** Your motives and values
 ** The turning points that led to your career change
 ** What you envision for yourself going forward
-* Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. ** Gather as much feedback as you can:
+
+* Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
+
+** Gather as much feedback as you can:
 ** Is it clear why you're entering this career?
 ** How can you connect with others through your story?
 ** How does it feel to talk about yourself?
 ** What's missing that could make this story stronger?
 
-Due Dates & Reminders
-[  ]
+## Due Dates & Reminders
+By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
+
+ 
 
