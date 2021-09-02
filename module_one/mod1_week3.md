@@ -49,19 +49,19 @@ you’ve got to recognize it before you can use it.
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
 Act I (Set-Up)
-** Introdution
-** Inticing incident
-** Turning point
+Introdution
+Inticing incident
+Turning point
 
 Act II (Struggle)
-** Obstacle
-** Midpoint
-** Crisis
+Obstacle
+Midpoint
+Crisis
 
 Act III (Finale)
-** Climax
-** Denouemnt
-** Resolution
+Climax
+Denouemnt
+Resolution
 
 
 ## How to Apply these Elements to Your Story
