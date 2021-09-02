@@ -43,7 +43,6 @@ you’ve got to recognize it before you can use it.
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-[Include introductory information for the lesson here]
 
 ## Section 2:  Elements of a Story
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
