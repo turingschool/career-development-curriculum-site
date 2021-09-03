@@ -15,20 +15,12 @@ This session will cover:
 Lesson
 Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
 
-## Overview: Story vs. Brand
+## Overview: 
 We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to find the right match for your future career.
 
 From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.
 
 Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
-
-Why is this important? According to the online reputation management consultantcy, Brand Yourself:
-
-82% of business decision makers said that presence in search results was an influential factor when vetting people online.
-42% of US adults looked someone up before deciding to do business with them.
-27% have searched for someone they met in a professional setting, such as a networking event.
-23% of US adults have looked up a coworker.
-
 
 ## Professional Storytelling
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
@@ -43,19 +35,21 @@ you’ve got to recognize it before you can use it.
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-## Section 2: 
- To develop a solid career story you must first consider your audience and a  have a theme to craft a compelling narrative.
+## Section 2: Developing a career story
+ To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
  
- # To Know your Audience: Conduct research to figure out: 
- * What is happening with specific industries? 
+ ## To Know your Audience: 
+ Conduct research to figure out: 
+ * What is happening with specific industries that you are interested in? 
  * What is happening within specific companies?
- * What current challenges are important to them? 
+ * What current challenges are important to these businessess and teams? 
  
-# Have a theme that identifies the following:
- * Your top strenghts, accomplishments and values 
+ ## Have a theme:
+ It should that identify the following:
+ * Your top strenghts,values and accomplishments
  * What value will you bring to a company? 
  
-## Section 3:  Craft a narrative using the 3 Act Arc: 
+## Section 3: Craft a narrative using the 3 Act Arc: 
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
 Act I (Set-Up)
@@ -101,6 +95,14 @@ Essentially You are your brand which includes your image, your mission, your val
 
 As a career changer your Story= Your Brand = Your Rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
 
+Why is this important? According to the online reputation management consultantcy, Brand Yourself:
+
+82% of business decision makers said that presence in search results was an influential factor when vetting people online.
+42% of US adults looked someone up before deciding to do business with them.
+27% have searched for someone they met in a professional setting, such as a networking event.
+23% of US adults have looked up a coworker.
+
+
 ### Getting clear on these areas will help employers relate to your brand:
 ** What is your desired position in the industry? For example, a self taught developer turned Rubyist or a Front end developer with love for education. 
 ** What is your developer career story? How did you get here and why this field?
@@ -113,7 +115,7 @@ What will your brand say about you on social media?
 
 
 ## Check for Understanding (10 min):  
-1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an     holistic view of your career successes and accomplishments. 2. 
+1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an     holistic view of your career successes and accomplishments. 
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
 
