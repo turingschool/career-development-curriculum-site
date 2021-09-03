@@ -35,18 +35,18 @@ you’ve got to recognize it before you can use it.
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-## Section 2: Developing a career story
- To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
+## Section 2: Develop Your story
+To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
  
- ## To Know your Audience: 
+ ## Know your Audience: 
  Conduct research to figure out: 
  * What is happening with specific industries that you are interested in? 
  * What is happening within specific companies?
  * What current challenges are important to these businessess and teams? 
  
  ## Have a theme:
- It should that identify the following:
- * Your top strenghts,values and accomplishments
+ Identify your top professional qualitites and highlights:
+ * What are your top strengths,values and accomplishments?
  * What value will you bring to a company? 
  
 ## Section 3: Craft a narrative using the 3 Act Arc: 
