@@ -75,9 +75,9 @@ Resolution,
 
 ## There are 3 main questions to help us understand our own stories and our character arcs:
 
-* 1. Who are you? (as a developer, a teammate, a worker, a career changer)
-* 2. Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
-* 3. What's next? (Where do you see yourself going in this career?)
+1. Who are you? (as a developer, a teammate, a worker, a career changer)
+2. Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
+3. What's next? (Where do you see yourself going in this career?)
 
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
