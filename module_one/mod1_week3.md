@@ -114,7 +114,7 @@ What will your brand say about you on social media?
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 
-## Check for Understanding (10 min):  
+## Application (10 min):  
 1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an     holistic view of your career successes and accomplishments. 
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
