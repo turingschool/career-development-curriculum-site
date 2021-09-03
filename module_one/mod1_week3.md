@@ -104,10 +104,10 @@ Why is this important? According to the online reputation management consultantc
 
 
 ### Getting clear on these areas will help employers relate to your brand:
-** What is your desired position in the industry? For example, a self taught developer turned Rubyist or a Front end developer with love for education. 
-** What is your developer career story? How did you get here and why this field?
-** What are your values and what do you want to achieve with your brand? For example, You value accessible education, innovative web design, or customer centered problem solving. 
-** What technologies are you most passionate about? and Why? This answer will help you attract your audience. When your brand is clear and focused you will have indsutry professional seek you out. 
+* What is your desired position in the industry? For example, a self taught developer turned Rubyist or a Front end developer with love for education. 
+* What is your developer career story? How did you get here and why this field?
+* What are your values and what do you want to achieve with your brand? For example, You value accessible education, innovative web design, or customer centered problem solving. 
+* What technologies are you most passionate about? and Why? This answer will help you attract your audience. When your brand is clear and focused you will have indsutry professional seek you out. 
 
 What will your brand say about you on social media? 
 
