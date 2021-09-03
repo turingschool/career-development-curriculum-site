@@ -114,22 +114,22 @@ What will your brand say about you on social media?
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 
-## Application (10 min):  
-1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. The goal is to create an     holistic view of your career successes and accomplishments. 
+## Application (10 min):  The goal is to create a holistic view of your career successes and accomplishments. 
+
+1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. 
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
 
 ##  Next,  Write your story, get clear on your path using this Career Story template:
-* Then write 1-2 paragraphs to answer who are you, why are you here, what's next?
-
-* Consider:
-* You Your motives and values
-*The turning points that led to your career change
-*What you envision for yourself going forward
+Then write 1-2 paragraphs to answer who are you, why are you here, what's next?
+Consider:
+* Your motives and values
+* The turning points that led to your career change
+* What you envision for yourself going forward
 
 * Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
 
-*Gather as much feedback as you can:
+Gather as much feedback as you can:
 * Is it clear why you're entering this career?
 * How can you connect with others through your story?
 * How does it feel to talk about yourself?
