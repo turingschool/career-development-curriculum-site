@@ -22,7 +22,7 @@ From your professional story, we'll craft your resume, your Turing portfolio, up
 
 Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
 
-Why is this important? According to the online reputation management consultantcy, BrandYourself:
+Why is this important? According to the online reputation management consultantcy, Brand Yourself:
 
 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
 42% of US adults looked someone up before deciding to do business with them.
@@ -43,8 +43,19 @@ you’ve got to recognize it before you can use it.
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
-
-## Section 2:  Elements of a Story
+## Section 2: 
+ To develop a solid career story you must first consider your audience and a  have a theme to craft a compelling narrative.
+ 
+ # To Know your Audience: Conduct research to figure out: 
+ * What is happening with specific industries? 
+ * What is happening within specific companies?
+ * What current challenges are important to them? 
+ 
+# Have a theme that identifies the following:
+ * Your top strenghts, accomplishments and values 
+ * What value will you bring to a company? 
+ 
+## Section 3:  Craft a narrative using the 3 Act Arc: 
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
 Act I (Set-Up)
@@ -62,19 +73,12 @@ Climax,
 Denouemnt,
 Resolution,
 
-
-## How to Apply these Elements to Your Story
-These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
-
 ## There are 3 main questions to help us understand our own stories and our character arcs:
 
-Who are you? (as a developer, a teammate, a worker, a career changer)
-Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
-What's next? (Where do you see yourself going in this career?)
+* 1. Who are you? (as a developer, a teammate, a worker, a career changer)
+* 2. Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
+* 3. What's next? (Where do you see yourself going in this career?)
 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
-## Section 3:  How to Tell Your Story
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
 Your story is one of transition. These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
@@ -83,10 +87,8 @@ Disclaimer: When we say story, this is not something that has been made up or em
 
 During a networking event explored in this Harvard Business Review article, senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Here are some takeaways:
 
-Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
-Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
-
-
+* Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
+* Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
 
 [Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
