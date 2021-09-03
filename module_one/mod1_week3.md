@@ -123,17 +123,17 @@ What will your brand say about you on social media?
 * Then write 1-2 paragraphs to answer who are you, why are you here, what's next?
 
 * Consider:
-** Your motives and values
-** The turning points that led to your career change
-** What you envision for yourself going forward
+* You Your motives and values
+*The turning points that led to your career change
+*What you envision for yourself going forward
 
 * Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
 
-** Gather as much feedback as you can:
-** Is it clear why you're entering this career?
-** How can you connect with others through your story?
-** How does it feel to talk about yourself?
-** What's missing that could make this story stronger?
+*Gather as much feedback as you can:
+* Is it clear why you're entering this career?
+* How can you connect with others through your story?
+* How does it feel to talk about yourself?
+* What's missing that could make this story stronger?
 
 ## Due Dates & Reminders
 By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
