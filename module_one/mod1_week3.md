@@ -53,19 +53,19 @@ To develop a solid career story you must first consider your audience, then iden
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
 Act I (Set-Up)
-Introdution,
-Inticing incident,
-Turning point,
+Introdution
+Inticing incident
+Turning point
 
 Act II (Struggle)
-Obstacle,
-Midpoint,
-Crisis,
+Obstacle
+Midpoint
+Crisis
 
 Act III (Finale)
-Climax,
-Denouemnt,
-Resolution,
+Climax
+Denouemnt
+Resolution
 
 ## There are 3 main questions to help us understand our own stories and our character arcs:
 
