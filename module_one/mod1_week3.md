@@ -4,25 +4,28 @@ title: Module 1 Week 3
 ---
 
 ## Overview
-This weeks lesson introduces Professional Storytelling and Branding as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiendes and new career as well as describe your strengths, motivations and passions. 
+This week's lesson introduces Professional Storytelling and Branding as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiences and new career as well as describe your strengths, motivations, and passions. 
 
 ## Learning Goals
 This session will cover:
+
 * Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
-Lesson
-Allow yourself X mins to complete the following lesson. Start by viewing the videos below. As you follow along, [use this note-taking template and/or other engagement tool].
+Allow yourself 45-60 mins to complete the following:
 
-## Overview: 
+## Week 3 Lesson: Professional Storytelling & Branding
 We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to find the right match for your future career.
 
 From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.
 
 Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
 
-## Professional Storytelling
+### Section 1: Professional Storytelling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukapNsykMEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
 
 Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry?
@@ -31,9 +34,6 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 
 Pull apart the stories you like. What you like in them is a part of you;
 you’ve got to recognize it before you can use it.
-
-
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
 
 ## Section 2: Develop Your story
 To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
