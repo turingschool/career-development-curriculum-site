@@ -97,7 +97,7 @@ During a networking event explored in this Harvard Business Review article, seni
 
 ### Section 4: Telling Your Story Through Branding
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNyQ2EVZEpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Branding is a process of differentiating ourselves by identifying and articulating your unique value proposition and then leveraging it across platforms with a consistent message and image to achieve a specific goal. 
 
