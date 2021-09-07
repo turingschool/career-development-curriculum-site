@@ -31,7 +31,8 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 Consider:
 * What is a story that has inspired you in the past?
 * Why has that story stuck with you?
-### Knowing your Audience:
+
+### Know your Audience:
 As you prepare for a successfull new career its important to think about your new audience. Beginning with your audience in mind consider the following questions:
 1. What industry are you targeting? What would a enginnering company want to know about you? 
 2. Whats going on within that industry or company business related?
