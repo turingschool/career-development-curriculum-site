@@ -32,8 +32,7 @@ Storytelling is our first step in the job search at Turing. You are a member of 
 
 Let's start by thinking about stories. What do you love about stories? Emma Coats, a former story artist for Pixar, shared her [22 rules for storytelling here](https://www.washingtonpost.com/blogs/comic-riffs/post/pixar-tips-brave-artist-emma-coats-shares-her-storytelling-wit-and-wisdom-on-twitter%20followher/2012/06/25/gJQADaxd2V_blog.html), and we'll use some of them to apply them to our storytelling. We're going to start with rule #10:
 
-    Pull apart the stories you like. What you like in them is a part of you;
-    you’ve got to recognize it before you can use it.
+*Pull apart the stories you like. What you like in them is a part of you; you’ve got to recognize it before you can use it.*
 
 ### Section 2: Develop Your Story
 
