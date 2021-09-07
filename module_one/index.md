@@ -36,7 +36,7 @@ To find your weekly activities and deadlines, please check out each week below:
 
 * [Week 1](/module_one/mod1_week1)
 * [Week 2](/module_one/mod1_week2)
-* [Week 3](/module_one/mod1_week3) -- coming soon!
+* [Week 3](/module_one/mod1_week3)
 * [Week 4](/module_one/mod1_week4) -- coming soon! 
 * [Week 5](/module_one/mod1_week5)
 
