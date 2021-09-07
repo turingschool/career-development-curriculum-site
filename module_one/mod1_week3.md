@@ -35,21 +35,26 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 Pull apart the stories you like. What you like in them is a part of you;
 you’ve got to recognize it before you can use it.
 
-## Section 2: Develop Your story
+### Section 2: Develop Your Story
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MV8ngwta6So" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
  
- ## Know your Audience: 
- Conduct research to figure out: 
+#### Know your Audience: 
+Conduct research to figure out: 
+
  * What is happening with specific industries that you are interested in? 
  * What is happening within specific companies?
  * What current challenges are important to these businessess and teams? 
  
- ## Have a theme:
- Identify your top professional qualitites and highlights:
+#### Have a theme:
+Identify your top professional qualitites and highlights:
+
  * What are your top strengths,values and accomplishments?
  * What value will you bring to a company? 
  
-## Section 3: Craft a narrative using the 3 Act Arc: 
+### Section 3: Craft a narrative using the 3 Act Arc
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
 Act I (Set-Up)
