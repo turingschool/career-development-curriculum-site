@@ -70,20 +70,20 @@ Taking more lessons from Pixar as well as storytelling theory from Joseph Campbe
    * Show what’s been learned
    * Protagonist is changed
 
-### How to Apply these Elements to Your Story
 These elements are present in your story as well. You are the main character, the hero, undergoing challenges, experiencing a journey, and revealing the narrative thread through your own theme.
 
 There are 3 main questions to help us understand our own stories and our character arcs:
-# Act 1: Who are you? (as a developer, a teammate, a worker, a career changer)
+* Act 1: Who are you? (as a developer, a teammate, a worker, a career changer)
+*  * Whats your backstory, identity and values? 
 
-# Act 2: Why are you here? 
-* Why software development? 
-* Why now? Consider both your background but also what drives you to be in this field
+* Act 2: Why are you here? 
+ * Why software development? 
+ * Why now? Consider both your background but also what drives you to be in this field
 
-# Act 3: What's next? 
-* Where do you see yourself going in this career?
+* Act 3: What's next? 
+ * Where do you see yourself going in this career?
 
-Remeber, telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
+Remember, telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
 Your story is one of **transition.** These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
 
@@ -96,11 +96,9 @@ During a networking event explored in this [Harvard Business Review article](htt
 
 ### Telling your story through Branding
 Great brands dont just happen. They are nutured and shaped. LIke any company that develops an initial brand, over time and through changes they create a
-**REBRAND:** If creating your brand is new or if you are rebranding as you transition into software development it can be done succesfully. Now lets define branding. 
+**REBRAND:** If creating your brand is new or if you are rebranding as you transition into software development it can be done succesfully. First, lets define branding. 
 
-Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. Whats nice about rebranding is that you dont loose your DNA. Instead, you take the parts you want to shape and share as you move into your next career. The key is telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
-
-Crafting your unique career story and brand is fundamental before networking or creating or refreshing your LinkedIn profile. 
+Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. Whats nice about rebranding is that you dont loose your DNA. Instead, you take the parts you want to shape and share as you move into your next career. The key is telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more. The key to succesful branding combines knowledge of your target audience, having a unique theme that is memborable and sharing a well crafted professional story that shows (not just tells) who you are, what you bring to the table and HOW you want others to see you (your brand). 
 
 Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
 
@@ -108,7 +106,9 @@ Why is this important? According to the online reputation management consultantc
 * 42% of US adults looked someone up before deciding to do business with them.
 * 27% have searched for someone they met in a professional setting, such as a networking event.
 * 23% of US adults have looked up a coworker.
- 
+
+Crafting your unique career story and brand is fundamental before networking or creating or refreshing your LinkedIn profile.  
+
 ### Application: Self Reflection Activity
 Getting clear in the following areas that are within the career story template will help employers relate to your brand. When your brand and online presence is consisent, robust and clear, recruiters and hiring manager will seek you out. 
 
@@ -118,7 +118,7 @@ Getting clear in the following areas that are within the career story template w
 3.  Review and complete the Running list of accomplishments document
 As you reflect and document your experiences and top career highlights look for patterns and themes.
 
-# Ask yourself some questions:
+# Ask yourself these questions:
 * What challenges did you face in achieving these successes?
 * What skills did you bring to bear to overcome those challenges?
 * What did you most enjoy about that work?
