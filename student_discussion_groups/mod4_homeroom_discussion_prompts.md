@@ -36,9 +36,9 @@ Skip down to:
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins) 
 2. Discuss the following discussion questions (20 mins):
-  * What are some key takeaways from yesterday's session?
+  * What are some key takeaways from the alumni session?
   * What advice or tips can you utilize from the Alumni panelists that you can implement today? 
-  * Is there anything that was said yesterday that has changed your job search goals for the remainder of your time at Turing?
+  * Is there anything that was said in the session that has changed your job search goals for the remainder of your time at Turing?
   * What is the progress towards your stretch goals? Has anything changed?
 3. Plan out how to achieve your goals during the last 3 weeks of Mod 4 (20 mins):
   * What will get you to your goal? 
