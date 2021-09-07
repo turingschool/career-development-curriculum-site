@@ -47,7 +47,7 @@ Skip down to:
   * What would keep you from getting this done? 
   * How do you know you will complete this goal? What will you do to celebrate?
   * How will you hold yourself accountable to your goals?
-5. Share plans with each other (10 mins):
+4. Share plans with each other (10 mins):
   * How can you hold each other accountable to these plans?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
