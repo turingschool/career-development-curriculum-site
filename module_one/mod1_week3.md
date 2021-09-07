@@ -54,25 +54,31 @@ Identify your top professional qualitites and highlights:
  * What are your top strengths,values and accomplishments?
  * What value will you bring to a company? 
  
-### Section 3: Craft a narrative using the 3 Act Arc
+### Section 3: Craft a Narrative Using the 3 Act Arc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXq1D_vB91g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
 
-Act I (Set-Up)
-Introdution:
-Inticing incident,
-Turning point
+#### Act I (Set-Up)
 
-Act II (Struggle)
-Obstacle,
-Midpoint,
-Crisis
+* Introdution:
+* Inciting incident
+* Turning point
 
-Act III (Finale)
-Climax,
-Denouemnt,
-Resolution
+#### Act II (Struggle)
 
-## There are 3 main questions to help us understand our own stories and our character arcs:
+* Obstacle
+* Midpoint
+* Crisis
+
+#### Act III (Finale)
+
+* Climax
+* Denouement
+* Resolution
+
+#### Three main questions to help us understand our own stories and our character arcs:
 
 1. Who are you? (as a developer, a teammate, a worker, a career changer)
 2. Why are you here? (Why software development? Why now? Consider both your background but also what drives you to be in this field)
@@ -89,10 +95,9 @@ During a networking event explored in this Harvard Business Review article, seni
 * Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
+### Section 4: Telling Your Story Through Branding
 
 
-## Section 4: Telling Your Story Through Branding
 
 Branding is a process of differentiating ourselves by identifying and articulating your unique value proposition and then leveraging it across platforms with a consistent message and image to achieve a specific goal. 
 
@@ -100,7 +105,7 @@ Essentially You are your brand which includes your image, your mission, your val
 
 As a career changer your Story= Your Brand = Your Rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
 
-Why is this important? According to the online reputation management consultantcy, Brand Yourself:
+Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
 
 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
 42% of US adults looked someone up before deciding to do business with them.
@@ -116,23 +121,22 @@ Why is this important? According to the online reputation management consultantc
 
 What will your brand say about you on social media? 
 
-[Embed Video Here by pasting the embedded code from the YouTube video and remove these brackets]
-
-
 ## Application (10 min):  The goal is to create a holistic view of your career successes and accomplishments. 
 
 1. Review the following Professional Story and Branding document. The tabs are in order of how you should review and complete the work. 
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
 
-##  Next,  Write your story, get clear on your path using this Career Story template:
-Then write 1-2 paragraphs to answer who are you, why are you here, what's next?
+##  Check for Undersatnding
+Write your story! Get clear on your path using [this Career Story template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+
 Consider:
+
 * Your motives and values
 * The turning points that led to your career change
 * What you envision for yourself going forward
 
-* Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
+Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
 
 Gather as much feedback as you can:
 * Is it clear why you're entering this career?
@@ -141,7 +145,17 @@ Gather as much feedback as you can:
 * What's missing that could make this story stronger?
 
 ## Due Dates & Reminders
-By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
 
+* By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
+* Reminder to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
+* Reminder that you can reach out to Allison through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
+    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
+
+      * Stress management
+      * Organization and time management
+      * Career transition guidance
+      * Using your Pairin data for growth
+    
+    * All coaching sessions are completely confidential.
  
-
+* Check out upcoming PD office hours and bring your questions!
