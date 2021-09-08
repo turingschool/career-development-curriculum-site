@@ -105,10 +105,9 @@ Using a combination of these exercises and/or others you may know, create a map 
 
 The first step to a successful job search is to utilize a tracking system. Having a system to keep track of everything from companies you're interested in to notes from coffee meetings will be highly beneficial in staying organized in the job search. As a resource to you Turing offers Huntr as a tool for you to manage this process. 
 
-Huntr works similarly to Trello. You can create cards for specific companies and then move them to the different lists as you complete specific steps (applied, interview, offer, etc.)
-Start by reading through this guide to using Huntr [here](https://blog.huntr.co/huntr-quickstart-guide/)
-Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to add a job posting right from its source
-Start customizing your board!
+Huntr works similarly to Trello. You can create cards for specific companies and then move them to the different lists as you complete specific steps (applied, interview, offer, etc.). 
+
+Start by reading through this guide to using Huntr [here](https://blog.huntr.co/huntr-quickstart-guide/). Install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to add a job posting right from its source. Start customizing your board!
 
 ### Section 5: Utilizing tools and Resources 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_g9F9Y899E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
