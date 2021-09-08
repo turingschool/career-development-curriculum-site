@@ -41,13 +41,15 @@ Skip down to:
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
-2. Start off by discussing (10 mins)
+2. Start off by discussing: (10 mins)
    * How is your career story coming along? 
    * Are you stuck on any particular part that you would like to discuss? 
    * What parts do you feel really good about? 
-3. [Look through the guidelines for LinkedIn here](/resources/branding_resources) and update your profile (15-20 mins)
-4. Share your LinkedIn profiles with each other and provide feedback for one another (15-20 mins)
-5. Update your LinkedIn based on that feedback (10-15 mins)
+3. Work time: continue working on your professional story using [this Career Story template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing) or your paragraph version of your story answering who you are, why you are here, and what's next. Reminder to consider your motives and values, your turning points (what led to your decision to become a software developer?), and what you envision for yourself in this new career. (20 mins)
+4. Practice! Share your stories with each other. Provide 5-7 minutes per person to share their story and receive feedback from the group. Your feedback should be specific, actionable, and kind. When giving feedback, consider these questions:
+   * Is the story clear? Do you have a good understanding of this person's background and decision to go into software development?
+   * What makes you relate to this person? What details stood out to you?
+   * What do you still have questions about? What would you like to know more about?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's homeroom is a storytelling & LinkedIn workshop -- [find the guidelines here!](/module_one/mod1_week5)
