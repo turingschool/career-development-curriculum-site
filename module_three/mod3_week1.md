@@ -99,7 +99,7 @@ Now, work on your resume draft that you started last mod:
 * Upload your resume to [CV Compiler](https://cvcompiler.com/students/turingschool), an ATS system we partner with that provides feedback
 * Click on “Improve Your Student Resume”
 * Authorize it with either LinkedIn or GitHub
-* Fill out the fields with your Name and Email and the promo code TuringSchool
+* Fill out the fields with your Name and Email and the promo code **TuringSchool**
 * Upload your resume
 * Update your resume according to feedback
 * Update your resume using that feedback. You may request a resume review from Tracey or Ryan **after** you've updated your resume with CV Compiler feedback
