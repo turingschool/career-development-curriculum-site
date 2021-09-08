@@ -38,21 +38,6 @@ Skip down to:
 1. Revisit norms (5 mins)
 2. Discuss (10 mins):
 
-    * What takeaways did you have from the lesson on job search strategies? 
-    * How will your strategy be similar to job searches you've done in the past? 
-    * What will be different for you?
-    
-3. As a group, look through some of the resources on [this page](/resources/finding_opportunities) and discuss:
-
-    * What resources are helpful for you? How will you use them in your job search?
-    * How can you use these resources to research companies? How can you use them to network?
-  
-4. Spend 10 minutes using the resources on your own and find a job to add to your Huntr board. 
-5. To close your conversation today, share out:
-
-    * What job did you find and how did you find it?
-    * If you were to apply to this job, what other steps would you take? How could you find out more about this company?
-    * How can you continue building your job search strategy during the rest of this mod?
  
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
