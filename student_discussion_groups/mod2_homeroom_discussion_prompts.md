@@ -38,16 +38,23 @@ Skip down to:
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
-2. Discuss (15 mins):
-  * What are some ways that you have already been networking while at Turing?
-  * What are some questions you would ask (or have asked) a software developer?
-  * Who from the Turing community or your own networks could you reach out to get some of those questions answered? 
-3. Work on the 2nd tab of [this tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit?usp=sharing) to outline who is already in your network (15 mins).
-4. Share with each other (10 mins):
-  * What did you learn about your personal network during this activity?
-  * Who would be a good person for you to reach out from your tracker? What next steps will you take for this?
-  * How can this group help hold you accountable to doing this outreach?
-5. Draft an outreach message and share with each other for feedback. Consider sending it on Slack, LinkedIn, or via email -- then hit send! (15 mins)
+2. Discuss (10 mins):
+
+    * What takeaways did you have from the lesson on job search strategies? 
+    * How will your strategy be similar to job searches you've done in the past? 
+    * What will be different for you?
+    
+3. As a group, look through some of the resources on [this page](/resources/finding_opportunities) and discuss:
+
+    * What resources are helpful for you? How will you use them in your job search?
+    * How can you use these resources to research companies? How can you use them to network?
+  
+4. Spend 10 minutes using the resources on your own and find a job to add to your Huntr board. 
+5. To close your conversation today, share out:
+
+    * What job did you find and how did you find it?
+    * If you were to apply to this job, what other steps would you take? How could you find out more about this company?
+    * How can you continue building your job search strategy during the rest of this mod?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's homeroom group is a working session on your resumes -- [find the guidelines here!](/module_two/mod2_week5)
