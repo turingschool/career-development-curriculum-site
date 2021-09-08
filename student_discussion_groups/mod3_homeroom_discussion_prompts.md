@@ -36,9 +36,27 @@ Skip down to:
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Revisit norms (5 mins)
-2. Discuss (10 mins):
+2. Today we're going to use your LinkedIn more effectively to network. Start by reviewing your LinkedIn profiles with each other and discuss (10 mins):
+   
+   * What stands out about my profile? 
+   * What do you learn about me from reading my profile?
+   * Is there anything that isn't clear or is missing from my profile currently?
 
- 
+3. Use your LinkedIn to get started with networking by choosing 1 or more of the following to work on (20-30 mins):
+
+   * Find companies of interest on LinkedIn and start following them.
+   * For a company you're interested in, see who works there and find a developer (or two!) who you could reach out to. Look through their profile first to get a sense of who they are as you tailor your message to them.
+   * Look for professional software developer groups you can join to broaden your network. 
+   * Make updates to your profile as needed.
+   * Endorse each other or write recommendations for each other or others in your cohort. 
+
+4. Using what you have learned about networking, discuss (10-15 mins):
+
+   * How can you use LinkedIn to more effectively network with people who work at companies you're interested in?
+   * What next steps can you take with networking before the end of the mod?
+   * What challenges do you anticipate about networking? How can you help each other with these challenges?
+
+
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
 
