@@ -5,6 +5,11 @@ title: Outreach & Networking
 
 Below are both resources and outlined steps for taking on outreach and networking for your job search.
 
+### Using Networking in your Job Search
+Check out this video from Jeff - "Your Job Is Not Advertised"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqbfYxBEQyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Research Your Contacts
 * Start with LinkedIn
   * [Check out this write-up from Ian on asking for Turing staff introductions to LinkedIn connections](https://gist.github.com/iandouglas/40e5c634b259de8512446bf76d3199e7)
