@@ -100,4 +100,4 @@ Look through the cover letters of alumni listed here and consider:
 * What could be changed to make the letter more effective?
 
 ### Synthesis
-Work on a cover letter for a job you find that aligns with your [Career Roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing) and share it with your Homeroom group for feedbac. Here are [additional resources](/resources/cover_letter_resources) to help you. 
+Work on a cover letter for a job you are interested in based on a job description and share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
