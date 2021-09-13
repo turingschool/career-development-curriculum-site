@@ -35,7 +35,9 @@ Please discuss any additional norms you would like to set as a group!
     * Take 5 minutes to review your story and get your main talking points in your head. Hint: use the questions "who are you," "why are you here," and "What's next" to help you prepare.
     * Practice sharing your story with the rest of the group and keep it to about 2 minutes per person (shorter is even better!). Provide feedback for each other that is specific, actionable, and kind around how they could make the story more concise and clear.
 
-3. 
+3. **Practice talking about projects.**
+
+4. **Practice talking about specific experiences.** For each of the following common interview questions, 
   
   
   * A lesson where students read questions and consider: What is the underlying question here? For example, "Name a time where you worked on a team and a conflict occurred" is really asking "Are you empathetic?"
