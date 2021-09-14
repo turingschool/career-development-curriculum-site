@@ -17,7 +17,6 @@ Our data shows that student collaboration and connection is a strong indicator o
     * Helping each other put networking strategies into practice
 
 * [Week 4](/mixed_groups/mixed_week4_prompts) will focus on Interview Prep. Your group will discuss things like:
-    * Mod 4 students' experiences with mock interviews and advice they have for lower mods
     * Practicing your professional stories
     * Preparing interview stories about your projects and experiences at Turing and in previous careers
     * Helping each other to put interview strategies into practice
