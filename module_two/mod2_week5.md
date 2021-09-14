@@ -33,7 +33,7 @@ This workshop takes place during Week 5 Homeroom.
 
 ### Reminders
 * **Update your resume draft** using the feedback you got today.
-* **Continue building your job search strategy using the [resources from Week 3](/module_two/mod2_week3).** 
+* **Continue building your job search strategy** using the [resources from Week 3](/module_two/mod2_week3). 
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
