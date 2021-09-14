@@ -46,16 +46,11 @@ Please discuss any additional norms you would like to set as a group!
 
     * What is the underlying question here? Why is someone asking this? What do they want to learn about you? For example, "Name a time where you worked on a team and a conflict occurred" is really asking "Are you empathetic?"
     * What should you include in your answer to provide what they're looking for?
-    * 
+    * What should you be aware of *not* sharing? Another way to think about this: how can you spin a negative experience into something that shows your strengths or growth mindset?
 
     * Common interview question #1: Describe a time that you failed or made a mistake. What did you do? What was the outcome?
     * Common interview question #2: What is your approach to working on a team?
-    * Common interview question #3: 
-  
-  
-* Time for students to prepare 5-10 stories that hit the big umbrella question themes.
-* A lesson where students think of what they want to know about a company and then write questions to getting to those answers. For example, if you want to know if you'll be supported/listened to, ask "What does the feedback cycle look like? How often will I get feedback from my manager? How will I be able to give feedback to my manager?" OR if you want to know a company's true values, ask someone who has been at the company for 2+ years, "What has changed about the company since you started? What has stayed the same?"
-
+    * Common interview question #3: What are the steps you take to solve a problem?
 
 ### Close Out & Next Steps (5 mins)
 Review the learning goals you set out to achieve today. Did you make progress? What are you proud of? What wins can you take away from this conversation today? Finally, how could you continue building relationships and sharing advice this Mix It Up group outside of today's conversation? 
