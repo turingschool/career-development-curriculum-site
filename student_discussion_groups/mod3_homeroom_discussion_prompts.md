@@ -60,41 +60,26 @@ Skip down to:
 Today's discussion is focused on cover letters. 
 
 1. Revisit norms on how your group wants to work together (5 mins)
-2. Start by reading through the following cover letters:
+2. Start by reading through the following cover letters (15 mins):
 
    * [April Dagonese](/files/April%20Cover%20Letter.pdf)
    * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
    * [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
    * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
 
-Discuss:
+   Discuss:
 
    * What do you notice about these cover letters?
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Next, we're going to put some of these ideas into practice. Read through some of the [cover letter points from the lesson last week](/module_three/week_3_application_process_session).
-5. 
-6. Share a summary about the job you found yesterday and how it connects to your career goals. As a group, brainstorm how each person could approach writing a cover letter for that job
+3. Next, we're going to put some of these ideas into practice (30 mins). 
 
+   * Read through some of the [cover letter points from the lesson last week](/module_three/week_3_application_process_session) and [this resource guide](/resources/cover_letter_resources).
+   * Find a job you'd be interested in applying to. If you're not sure how to find a job for this exercise, check out recent postings in #job-hunt on Slack or use [one of the many resources here](/resources/finding_opportunities).
+   * Read through the posting and start on a cover letter for that position. Be ready to share a summary of what you're putting into this cover letter with the rest of the group.
 
-Debrief 
-Share out:
-What are your takeaways from the cover letters you looked at?
-What next steps will you take to work on the applications for the job you found?
+4. Share the posting you found and discuss how you're approaching the cover letter: what keywords are you pulling out of the job posting to highlight in the cover letter? How are you describing yourself as the right candidate for what they're looking for?  The group will give you feedback by responding to these questions (10 mins):
 
-This is the activity that would have done. Perhaps we can have them review the examples and if they have a cover letter they can share in it in the 2nd half of the hour?
-
-
-Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
-
-1. Revisit norms (5 mins) 
-
-2. Take turns sharing your cover letters with each other. When possible, share the job posting and provide context about the position and company. All group members should provide appreciation and coaching feedback. What is effective about this cover letter? What could make this cover letter more effective? Reminder about best practices for [cover letters from the session](/module_three/week_3_application_process_session) and from [this resource guide](/resources/cover_letter_resources). (40 mins)
-
-3. Assess the feedback you received and make a plan for revision (15 mins):
-
-  * What feedback did your partner give you?
-  * What next steps will you take to make your cover letter even stronger?
-  * If you were to apply to this position (and you should!), how will you customize your resume for it? 
-  * What other next steps would you need to take for this application? 
+   * What is effective about this person's approach with their cover letter?
+   * How could they make their cover letter more effective?
