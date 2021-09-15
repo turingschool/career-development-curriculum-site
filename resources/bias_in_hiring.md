@@ -18,6 +18,6 @@ Illegal interview questions
 
 If you believe that you have been discriminated against, first file a complaint with the company by following their policies and procedures and seek outside assistance with the EEOC or seek legal assistance: How to file a complaint
 
-### Conviction Friendly
+### Justice-Involved
 
 * [Fair Chance Toolkit](
