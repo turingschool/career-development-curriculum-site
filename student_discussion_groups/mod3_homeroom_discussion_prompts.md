@@ -56,8 +56,36 @@ Skip down to:
    * What next steps can you take with networking before the end of the mod?
    * What challenges do you anticipate about networking? How can you help each other with these challenges?
 
-
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
+Today's discussion is focused on cover letters. 
+
+1. Revisit norms on how your group wants to work together (5 mins)
+2. Start by reading through the following cover letters:
+
+   * [April Dagonese](/files/April%20Cover%20Letter.pdf)
+   * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+   * [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
+   * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
+
+Discuss:
+
+   * What do you notice about these cover letters?
+   * What is effective? What value could they bring to the company? How do you know?
+   * What could be changed to make the letter more effective?
+
+3. Next, we're going to put some of these ideas into practice. Read through some of the [cover letter points from the lesson last week](/module_three/week_3_application_process_session).
+5. 
+6. Share a summary about the job you found yesterday and how it connects to your career goals. As a group, brainstorm how each person could approach writing a cover letter for that job
+
+
+Debrief 
+Share out:
+What are your takeaways from the cover letters you looked at?
+What next steps will you take to work on the applications for the job you found?
+
+This is the activity that would have done. Perhaps we can have them review the examples and if they have a cover letter they can share in it in the 2nd half of the hour?
+
+
 Today's homeroom is a cover letter feedback workshop with your group. Please bring a cover letter that you're working on to the group. 
 
 1. Revisit norms (5 mins) 
