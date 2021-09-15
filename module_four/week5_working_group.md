@@ -25,5 +25,4 @@ Your homeroom today is a time to work on the above deliverables and get feedback
 * [LinkedIn Best Practices](/resources/branding_resources)
 * [Resume Resources](/resources/resume_resources)
 * [Cover Letter Resources](/resources/cover_letter_resources)
-* [Career Roadmap Template](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing)
 * [Terminal Portfolio Directions](/resources/terminal_directions)
