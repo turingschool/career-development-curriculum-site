@@ -19,7 +19,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 * Resume updated and ready to be added to Terminal Portfolio by end of Week 5 
 * Cover letter draft ready to be reviewed in Week 5's Homeroom 
-* Terminal portfolio created and at least in draft form with resume uploaded and most components completed (with the exception of the About Me section and projects) by EOD Monday of Week 6. Reminder to refer to these [directions](/resources/terminal_directions) when working on your portfolio. 
+* Terminal portfolio created and "requested review" with resume uploaded and most components completed, including contact information, picture, and at least 1 project by EOD Monday of Week 6. Reminder to refer to these [directions](/resources/terminal_directions) when working on your portfolio. 
 * Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by EOD Monday of Week 6
 
 ### Weekly Discussion Guidelines & Prompts
