@@ -20,10 +20,14 @@ Below are a list of additional resources to help you with your career developmen
 
 ### Job Search Strategies
 * [Listing of tools to find jobs](/resources/finding_opportunities)
-* [Tips from 1906 BE grad Mack Halliday on Contracting](https://docs.google.com/document/d/1uq7N9DsqIEabHe19RGhKQ17yciKuZdZ7QYtOsLMqJiI/edit?usp=sharing)
+* Recommended Reading:
+   * [What Color is Your Parachute?](https://bookshop.org/books/what-color-is-your-parachute-2020-a-practical-manual-for-job-hunters-and-career-changers-revised/9781984856562)
 
 ### Negotiations
 * [List of resources to help you with negotiating your job offers](/resources/negotiations)
+* [Tips from 1906 BE grad Mack Halliday on Contracting](https://docs.google.com/document/d/1uq7N9DsqIEabHe19RGhKQ17yciKuZdZ7QYtOsLMqJiI/edit?usp=sharing)
+* Recommended Reading:
+   * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801)
 
 #### Specific Industry Interest
 
@@ -53,7 +57,6 @@ Below are a list of additional resources to help you with your career developmen
 * [Grit: The Power of Passion and Perseverance](https://bookshop.org/books/grit-the-power-of-passion-and-perseverance/9781501111112)
 * [Mindset: The New Psychology of Success](https://bookshop.org/books/mindset-the-new-psychology-of-success/9780345472328)
 * [More Than Enough: Claiming Space for Who You Are (No Matter What They Say)](https://bookshop.org/books/more-than-enough-claiming-space-for-who-you-are-no-matter-what-they-say/9780525561583)
-* [Never Split the Difference: Negotiating as if Your Life Depended on It](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801)
 * [Presence: Bringing Your Boldest Self to Your Biggest Challenges](https://bookshop.org/books/presence-bringing-your-boldest-self-to-your-biggest-challenges/9780316256582)
 * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
 * [Refactoring: Improving the Design of Existing Code](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
@@ -62,4 +65,3 @@ Below are a list of additional resources to help you with your career developmen
 * [The Checklist Manifesto](https://bookshop.org/books/the-checklist-manifesto-how-to-get-things-right/9780312430009)
 * [The Little Black Book of Success: Laws of Leadership for Black Women](https://bookshop.org/books/the-little-black-book-of-success-laws-of-leadership-for-black-women/9780345518484)
 * [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://bookshop.org/books/the-one-thing-the-surprisingly-simple-truth-behind-extraordinary-results/9781885167774)
-* [What Color is Your Parachute?](https://bookshop.org/books/what-color-is-your-parachute-2020-a-practical-manual-for-job-hunters-and-career-changers-revised/9781984856562)
