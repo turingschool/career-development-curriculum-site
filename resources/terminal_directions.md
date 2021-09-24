@@ -54,6 +54,8 @@ For example:
 * **Third sentence:** any stretch goals you were able to achieve.
 * **Fourth sentence:** anything you specifically focused on in the project.
 
+[Find more specifics on how to approach your project descriptions here](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing).
+
 ### Getting Your Portfolio Published
 What needs to be included in order for your portfolio to be published? Here is what the team is looking for:
 
