@@ -50,6 +50,7 @@ Below are a list of additional resources to help you with your career developmen
 * [Directions on Open Source Contributions to DEV Community](https://github.com/forem/forem). DEV (Dev.to) is "a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community."
 * [Stackshare: Research Tech Stacks of Popular Companies](https://stackshare.io/stacks)
 * Contribute to Open Source projects using [this guide](https://opensource.guide/)
+* Check out courses on [Udemy](https://www.udemy.com/). You may also be able to get free access from your local library! 
 * Recommended Reading:
    * [Refactoring: Improving the Design of Existing Code](https://bookshop.org/books/refactoring-improving-the-design-of-existing-code/9780134757599)
    * [Radical Technologies: The Design of Everyday Life](https://www.versobooks.com/books/2742-radical-technologies)
@@ -58,6 +59,8 @@ Below are a list of additional resources to help you with your career developmen
 * [TEDx Talk from Carla Harris: How to Find the Person Who Will Help You Get Ahead at Work](https://www.leadingauthorities.com/speakers/video/carla-harris-how-find-person-who-will-help-you-get-ahead-work-tedx)
 
 ### Other Recommended Reading
+Note: you can use apps like [Libby](https://www.overdrive.com/apps/libby/) and [Hoopla](https://www.hoopladigital.com/) to listen to audiobooks for free. Also be sure to check out your local library look for other free options. 
+
 * [Atomic Habits](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 * [Go Put Your Strengths to Work: 6 Powerful Steps to Achieve Outstanding Performance](https://bookshop.org/books/go-put-your-strengths-to-work-6-powerful-steps-to-achieve-outstanding-performance/9780743261685)
 * [Grit: The Power of Passion and Perseverance](https://bookshop.org/books/grit-the-power-of-passion-and-perseverance/9781501111112)
