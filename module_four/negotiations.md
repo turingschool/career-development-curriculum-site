@@ -3,13 +3,25 @@ layout: page
 title: Negotiations
 subheading: How to Ask for What You Deserve
 ---
+## Overview
 
-### Learning Goals
+This lesson is aimed to provide students with all the information and tools needed for successful negotiation. 
+This lesson should take a total of 45 to 55 minutes to complete.
+
+## Section 1: Introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJjUoksEof0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Learning Goals
 * Build understanding of and confidence towards negotiations
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
 
-### Why Does Negotiating Matter?
+### Section 2: Why Does Negotiating Matter?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lERsXjsBq9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session, we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities -- and how you should negotiate for what you want.
 
 * As our mission states, we aim to unlock human potential by training a diverse, inclusive student body to **succeed in high-fulfillment technical careers.** As part of that high-fulfillment piece, we aim to provide you with the tools to navigate offer negotiations. It's up to you to use these tools, but keep in mind that companies will low-ball you with their first offer because they *expect you to negotiate.*
@@ -19,6 +31,10 @@ For some reason we live in a world that is afraid to talk openly about money. Th
 * Keep in mind that the [wage gap](http://www.latimes.com/business/technology/la-fi-tn-0323-pay-gap-20160323-story.html) in [tech](http://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) is very real. Creating transparency around salaries is an important step in closing that gap, and that transparency starts with negotiations. Do not let money stay on the table that could be yours.
 
 **Information for Colorado-based students:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOcZaO0Jge4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 The [Equal Pay For Equal Work Act](https://www.natlawreview.com/article/what-employers-need-to-know-about-colorado-s-new-equal-pay-act) was enacted on January 1st, 2021 in Colorado to address pay disparities affecting women and minorities, and it includes several provisions aimed at preventing wage discrimination, such as:
 
 * Prohibiting employers from seeking prospective employees’ wage rate histories;
@@ -31,7 +47,11 @@ The Act also contains several broader obligations and prohibitions intended to i
 * Requiring employers to disclose hourly or salary compensation and benefits for each posting or job opening; and
 * Requiring employers to keep records of job descriptions and wage rate history for its employees.
 
-### Getting Started
+### Section 3: Getting Started
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IHHPjwPfGSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 What is your bottom line for any of the following:
 
 * Your dream job
@@ -54,11 +74,19 @@ Here's how we recommend you respond:
 * Again, if you're pushed to give a number, provide that Turing grad starting salary **AND create a way for the company to decide what your worth is.** Example:
 	* "I'd prefer if your company determine through the interview process what my skills are worth to you as a developer given my background. My classmates are currently getting offers in the $75k to $80k range right now, but I'm open to discussion about compensation as we get to know each other."
 
-### Negotiations Strategies
+### Section 4: What to do when an offer is made?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_jGXhvwNkD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Once you've asked for more context and you're given an offer, take these next steps:
 
 #### Take at least 24 hours
 When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Acknowledge receipt of the offer. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
+
+
+### Section 5: What is Negotiable? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFOu1qvmZF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Consider all pieces of the offer and weigh the pros and cons; is there more value in negotiating another part of the offer than salary? Additional parts of the offer to consider:
 
@@ -86,14 +114,14 @@ In this case, create a pro and con list -- to decide which offer you’ll take. 
  
  You can still talk to other companies you are in the process with. *"I found out I need to let them know by this time, is there a way I could know about your hiring deadline by then? I’m still really interested."*
 
-#### Create Leverage
-Reach out to other companies that you're interviewing with and let them know that you've received another offer and that you're most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
 
-*"I have another offer, it's expiring within this time; I'm going to ask them for an extension because I want to keep working with you."* This lets the company know that you're interested but also letting them know that you're pursuing the other company.
-
-This puts the ball in their court and tells the company that you a person who is sought after, which increases their interest. When you find out timelines from the other companies you're interviewing with, let the offering company know that you're very thankful and excited for the opportunity, but you're also deep in the process with "x number" of companies, and it's too early into your career to burn any bridges; you'd like to honor the process. Could you give them an answer by "X" date?
 	
-#### Negotiating the Offer
+#### Section 6:  Negotiating the Offer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHMMHSVAhgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 Once you have all the facts and can make a decision, go back to the company:
 
 * Consider how you want to communicate: Negotiating in person or on the phone allows you to show how genuine you are in the interaction; however, email chains are helpful to have everything in writing. In either scenario, you want to be generous and respectful and watch out for any blind spots in your tone/language.
@@ -104,6 +132,13 @@ Once you have all the facts and can make a decision, go back to the company:
    * “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?”
 * When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
 * If you have doubts about taking the position, what would it take to make you feel ok taking the position? What would remove the doubt from taking the job?
+
+### Create Leverage
+Reach out to other companies that you’re interviewing with and let them know that you’ve received another offer and that you’re most interested in an opportunity with their company. Then ask about their hiring timeline for making a hiring decision as a way to leverage your offer.
+
+“I have another offer, it’s expiring within this time; I’m going to ask them for an extension because I want to keep working with you.” This lets the company know that you’re interested but also letting them know that you’re pursuing the other company.
+
+This puts the ball in their court and tells the company that you a person who is sought after, which increases their interest. When you find out timelines from the other companies you’re interviewing with, let the offering company know that you’re very thankful and excited for the opportunity, but you’re also deep in the process with “x number” of companies, and it’s too early into your career to burn any bridges; you’d like to honor the process. Could you give them an answer by “X” date?
 
 #### Try Out This Template
 *"I'm excited about this offer. I was hoping to make **X**. How can we close the gap on this?"*
