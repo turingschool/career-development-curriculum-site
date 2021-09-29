@@ -8,14 +8,21 @@ subheading: How to Ask for What You Deserve
 This lesson is aimed to provide students with all the information and tools needed for successful negotiation. 
 This lesson should take a total of 45 to 55 minutes to complete.
 
-## Section 1: Introduction
+### Section 1: Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJjUoksEof0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Learning Goals
+#### Learning Goals
 * Build understanding of and confidence towards negotiations
 * Evaluate offer packages in their entirety
+* Look at examples and discuss tactics for negotiating
+
+
+#### Objectives
+
+* Build understanding of and confidence towards negotiations 
+* Evaluate offer packages in their entirety, including looking at equity
 * Look at examples and discuss tactics for negotiating
 
 ### Section 2: Why Does Negotiating Matter?
@@ -116,7 +123,7 @@ In this case, create a pro and con list -- to decide which offer you’ll take. 
 
 
 	
-#### Section 6:  Negotiating the Offer
+### Section 6:  Negotiating the Offer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHMMHSVAhgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -154,28 +161,6 @@ This puts the ball in their court and tells the company that you a person who is
 
 "If you can do this, then I'm on board."
 
-### Other Parts of the Offer to Consider: Equity
-Learn the lingo:
-* Stock Option: Contract given by the company which allows you to purchase shares in the company at a later date, and allows you to sell those shares for profit.
-  * Options are granted on your hire date. After your first year, you can exercise 25% of your options. Starting your second year, you will vest about 21 more options every month. Hopefully the company's value is increasing during this time, and in your fourth year, you are fully vested and can buy all of your options.
-* Strike Price: The price per share at the last valuation when your stock options were granted.
-* Cliff: A time period usually imposed before your options begin to vest.
-* Exercise: To “exercise” an option is to make a choice to buy the shares (or not). The “exercise period” is a window of time you have to make this decision.
-* Vesting: How often your stock options become available for purchase.
-
-What does this look like? Most Common:
-* Options will vest over 4 years
-* 1 year cliff to buy first 25%
-* Monthly vesting
-* 10 year exercise period
-* 90 day exercise period upon termination
-
-Consider:
-* How many stock options? It will end up being a small fraction of ownership.
-* What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
-* What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
-
-**Bottom Line:** Don’t accept more equity over salary.
 
 ### What if a Company Can't Meet Your Counter?
 * If the company is unable to meet your counter offer, *this is okay.* **The worst thing they can say is "no."** It is good practice to always negotiate.
@@ -206,6 +191,33 @@ Consider:
   * Thank them for the offer and let them know when you will get back to them
 
 **Bottom Line: Negotiating is Always Important.** It’s important for you to advocate for yourself because there's no guarantee that anyone else will.
+
+### Other Parts of the Offer to Consider: Equity
+Learn the lingo:
+* Stock Option: Contract given by the company which allows you to purchase shares in the company at a later date, and allows you to sell those shares for profit.
+  * Options are granted on your hire date. After your first year, you can exercise 25% of your options. Starting your second year, you will vest about 21 more options every month. Hopefully the company's value is increasing during this time, and in your fourth year, you are fully vested and can buy all of your options.
+* Strike Price: The price per share at the last valuation when your stock options were granted.
+* Cliff: A time period usually imposed before your options begin to vest.
+* Exercise: To “exercise” an option is to make a choice to buy the shares (or not). The “exercise period” is a window of time you have to make this decision.
+* Vesting: How often your stock options become available for purchase.
+
+What does this look like? Most Common:
+* Options will vest over 4 years
+* 1 year cliff to buy first 25%
+* Monthly vesting
+* 10 year exercise period
+* 90 day exercise period upon termination
+
+Consider:
+* How many stock options? It will end up being a small fraction of ownership.
+* What's the strike price? The more rounds of funding the company has had, or the longer they’ve been around, the higher the strike price.
+* What's your exit plan? Whether the options are going to be worth anything some day depends on the exit plan.
+
+**Bottom Line:** Don’t accept more equity over salary.
+
+
+
+
 
 ### Alumni Examples
 Here are a few examples of how alumni have approached the negotiations conversation. Remember, you can reach out to the Career Development team for coaching when it comes to negotiating an offer.
@@ -295,3 +307,10 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * Otherwise, we would recommend to not ask for a visa during negotiations because that’s an indication that you’ll be leaving them
 * For a company with international ties, you could say you don’t have a visa right now, and do they sponsor visas? For big companies, it's more likely as visas can cost up to $10,000
 * You could consider taking a lesser salary to negotiate visa sponsorship
+
+
+## Check For Understanding 
+
+* Self Reflect:  What feelings come up for you when thinking about negotiating your next offer? What was something that you found helpful from this lesson in regards to negotiation? 
+* Evaluating the entirety of an offer is a best practice. What benefits are important to you? List a few in a negotiation document.
+* What parts of negotiating the offer raises questions for you? Make a list now and during week 1 a negotiation survey will be provided to capture those questions before the live session. 
