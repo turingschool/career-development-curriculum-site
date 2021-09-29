@@ -25,7 +25,7 @@ By the end of Mod 1, you should have completed:
 
 1. **1 networking activity:**
    * Create one networking goal from the [Week 2 lesson](/module_one/mod1_week2) to complete by the end of the module. 
-   * **Due date #1: EOD Friday of Week 4**, submitted through survey shared in your channel. You should submit information on the networking activity that you've already done and the results OR your plan to have it completed by the end of Week 5
+   * **Due date #1: EOD Friday of Week 4**, submitted through survey shared in your channel. You should submit information either on the networking that you've already done and the results OR your plan to have it completed by the end of Week 5
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 2. **LinkedIn rough draft** that includes:
    * Professional-looking headshot
