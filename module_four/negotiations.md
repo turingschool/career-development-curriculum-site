@@ -285,6 +285,15 @@ Would you have some time for a quick phone call tomorrow? I'm so pleased with mu
 
 Outcome: Hiring Manager emailed back with an updated offer of $100k.
 
+
+## Check For Understanding 
+
+* Self Reflect:  What feelings come up for you when thinking about negotiating your next offer? What was something that you found helpful from this lesson in regards to negotiation? 
+* Evaluating the entirety of an offer is a best practice. What benefits are important to you? List a few in a negotiation document.
+* What parts of negotiating the offer raises questions for you? 
+
+#### Make a list of these questions now and during Week 1 a survey will be provided to capture those questions before a live workshop session is held.  
+
 ### Resources
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
 * Turing Salary Data
@@ -308,11 +317,3 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * For a company with international ties, you could say you don’t have a visa right now, and do they sponsor visas? For big companies, it's more likely as visas can cost up to $10,000
 * You could consider taking a lesser salary to negotiate visa sponsorship
 
-
-## Check For Understanding 
-
-* Self Reflect:  What feelings come up for you when thinking about negotiating your next offer? What was something that you found helpful from this lesson in regards to negotiation? 
-* Evaluating the entirety of an offer is a best practice. What benefits are important to you? List a few in a negotiation document.
-* What parts of negotiating the offer raises questions for you? 
-
-#### Make a list of these questions now and during Week 1 a survey will be provided to capture those questions before a live workshop session is held.  
