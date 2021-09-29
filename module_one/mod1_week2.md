@@ -165,7 +165,7 @@ As you get started with networking at Turing, here are a couple of frequently as
 * *Is this the only networking activity we'll be doing?* A: No, we'll be exploring networking from multiple different angles and discuss how to approach it for both general research and for job applications. This activity is meant to get you started!
 
 ## Check for Understanding
-Complete the [final section of the refection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) by creating your networking goal. **This is a deliverable for Mod 1.** <a name="cfu"></a>
+Complete the [final section of the reflection sheet for this lesson](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing) by creating your networking goal. **This is a deliverable for Mod 1.** <a name="cfu"></a>
 
 ## Application
 1. You'll meet in your first Mix It Up group this week with students in different cohorts, and the conversation will be focused on networking. Please be prepared to share your ideas about your networking needs, comfort level, and goals.
