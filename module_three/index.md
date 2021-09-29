@@ -17,10 +17,20 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 ### Deliverables & Due Dates
 
-* Resume updated and ready to be added to Terminal Portfolio by end of Week 5 
-* Cover letter draft ready to be reviewed in Week 5's Homeroom 
-* Terminal portfolio created and "requested review" with resume uploaded and most components completed, including contact information, picture, and at least 1 project by EOD Monday of Week 6. Reminder to refer to these [directions](/resources/terminal_directions) when working on your portfolio. 
-* Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by EOD Monday of Week 6
+1. **LinkedIn updated:**
+   * Highlight your technical skills
+   * Add technical keywords to your About Me and make any necessary updates to your story
+   * Take student out of your headline if it's there
+   * We recommend using intermission to work on updates. **Due date:** **Friday of Week 2**, submitted through survey shared in your channel
+2. **Resume updated:**
+   * Your resume should be ATS-ready and formatted as a *technical* resume
+   * **Due date #1** Submit your resume to [CV Compiler](https://cvcompiler.com/students/turingschool) using promo code **TuringSchool** by **EOD Wednesday of Week 4**
+   * **Due date #2: EOD Friday of Week 5** through the end of mod survey (below)
+3. **Create a cover letter based on a job description:** 
+   * Directions listed [here]
+   * **Due date #1: Wednesday of Week 5** during homeroom
+   * **Due date #2: EOD Friday of Week 5** in end of mod survey (below)
+4. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
