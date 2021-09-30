@@ -52,13 +52,15 @@ Communication:
   * Any other questions or concerns 
 
 ### Deliverables & Due Dates
-**Deliverable #1:** Update and complete your branding materials by end of Week 5:
+**Deliverable #1:** Complete your Terminal portfolio. To complete this deliverable:
 
-* Targeted Resume
-* LinkedIn optimized for job searching
-* Terminal portfolio reviewed and published (note: you must request review on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it)
+  * Follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
+  * Upload your polished and targeted resume
+  * Include the link to your LinkedIn that is updated and optimized for the job search
+  * **Due date #1: Friday of Week 4.** Mkae sure to "request review" by this date. Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it
+  * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
-**Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the end of week 5. 
+**Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
