@@ -226,7 +226,7 @@ Advice given: Discuss the market value of Turing grads and how to sell themselve
 
 Here is what they sent to the employer:
 
-*I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities, teamspersonship, and capacity for growth, relatively to my peers. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.*
+*I've done a good amount of research and talked with my partner your offer, and I'd like to open a discussion about the base salary. The median starting salary for Turing graduates is $75,000, and my peers are seeing offers ranging from $70,000 to $80,000+. I'm confident my references would be happy to confirm my abilities to work effectively on a team, my capacity for growth, and how quickly I learn new concepts. This—plus the writing skills and professional experience I bring to the table—leads me to value my potential in the middle-to-upper part of that range. I know that's a significant increase from your offer, so I'd like to discuss the possibilities for closing that gap, and getting into that range in the near-term.*
 
 Outcome: They heard back 4 days later, and the salary was bumped from $55k to $65k with a bump to $70k after a 90-day period, contingent on a positive review at that time.
 
