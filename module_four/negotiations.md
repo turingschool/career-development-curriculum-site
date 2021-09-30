@@ -289,8 +289,8 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * Evaluating the entirety of an offer is a best practice. What benefits are important to you? List a few in your notes document.
 * What parts of negotiating the offer raises questions for you? 
 
-#### Make a list of these questions and add them to [this Negotions Questions Survey] (https://docs.google.com/forms/d/17RlQn3qFlnji7KHDhKooIdZLeGL5KLbd6kcN3KQb468/edit)
-We will incorporate all questions into the Live Negotiations session in Week 1.  
+#### Make a list of these questions and add them to the following survey: 
+*[this Negotiations Questions Survey] (https://docs.google.com/forms/d/17RlQn3qFlnji7KHDhKooIdZLeGL5KLbd6kcN3KQb468/edit). We will incorporate all questions into the Live Negotiations session in Week 1.  
 
 ### Resources
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
