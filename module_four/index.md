@@ -55,6 +55,7 @@ Communication:
 **Deliverable #1:** Complete your Terminal portfolio. To complete this deliverable:
 
   * Follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
+  * Add 3 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) to help you create the descriptions 
   * Upload your polished and targeted resume
   * Include the link to your LinkedIn that is updated and optimized for the job search
   * **Due date #1: Friday of Week 4.** Mkae sure to "request review" by this date. Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it
