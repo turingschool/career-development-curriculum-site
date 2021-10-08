@@ -135,7 +135,8 @@ Your Terminal about me section, LinkedIn summary, and resume summary (if you cho
 Items to be completed by end of Module 3
 
 Career Materials:
-* Resume draft completed and uploaded to Terminal profile by end of week 5
-* Terminal portfolio drafted  by EOD Monday of Week 6
+* Resume draft completed by end of week 5
+* LinkedIn is checked by end of week 2
 * Cover letter draft reviewed by peers in week 5 homeroom groups
+* Optional draft of terminal portfolio submitted
 * Complete end of mod self-evaluation survey by Monday of week 6
