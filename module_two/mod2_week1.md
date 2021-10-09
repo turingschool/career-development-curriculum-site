@@ -47,9 +47,6 @@ If your’re considering a summary statement:
 * Which transferable skills matter to this role? 
 * Whats your zone of zenius? Where do you gain energy in your work? What impact do you want to have in this role/company?
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cCKGDthFYXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Section 3: Skills and Keywords
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T1fAaHQxZLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
