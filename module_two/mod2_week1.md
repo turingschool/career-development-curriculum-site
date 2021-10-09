@@ -41,6 +41,8 @@ As a new software developer, what kind of story do you want your resume to tell 
 ### Section 2: Resume Summary (optional)
 The Summary section is completely optional however, it can be strategically used as a career changer to connect the dots for an employer explainig why you've made a career change and your value add to the company.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anX8TnplUlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If your’re considering a summary statement: 
 
 * Think about what relevant and novel information can you provide the employer. Aim to provide a highlevel overview of your past success, present abilities and     future results you can deliver.  
