@@ -15,10 +15,12 @@ The Kickoff to Mod 2 provides the overview of what you'll work on this module. T
 ## Week 1 Lesson - Creating a Techically Focused Resume
 Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, we recommend taking notes.
 
-### : Intro to Creating a Tech Resume 
+### Intro to Creating a Tech Resume 
 This PD lesson will focus oon how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
 
 As a new software developer, what kind of story do you want your resume to tell about you?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHdvmwvMwe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Section 1: Contents of a Technical Resume include: 
 1. Contact Information, title and headline (optional)
@@ -28,15 +30,17 @@ As a new software developer, what kind of story do you want your resume to tell 
 5. Work Experience
 6. Education and Training
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CyaqXSxwqiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHdvmwvMwe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Section 1: Contact Information,Title and Headline
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tS280IkDdLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Your desired job title is one of the most essential keywords for an employers’ applicant tracking system when screening through the resumes.
 * A headline is optional it takes the place of a title abd sums up who you are and where you've succeededn in a condensed one liner. 
    
    Headline Example: Developer and Project Manager with Leadership Experience
 
-### Section : Resume Summary (optional)
+### Section 2: Resume Summary (optional)
 The Summary section is completely optional however, it can be strategically used as a career changer to connect the dots for an employer explainig why you've made a career change and your value add to the company.
 
 If your’re considering a summary statement: 
@@ -48,13 +52,18 @@ If your’re considering a summary statement:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCKGDthFYXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Section 4: Skills and Keywords
+### Section 3: Skills and Keywords
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1fAaHQxZLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Job listings will have skills and keywords that the employer value. Tailor your resume with these skills to help your resume get pass the Applicant Tracking System (ATS). 
 *  A good rule of thumb is to only include skills you’re comfortable talking about in an interview.
 *  Soft or professional skills are considered by employers to be just as important as hard skills. However, they are harder to evaluate. Consider using them in the bullets points of the work experience section.  
 
-### Section 5: Technical Projects
+### Section 4: Technical Projects
 Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPcY1wrb2YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Turing projects
 * Side projects
@@ -68,23 +77,25 @@ Your descriptions for your projects should tell an employer what the project is 
 
 Consider reorganizing your resume to lead with technical skills and projects.
 
-### Section 6: Work Experience
+### Section 5: Work Experience
 * This section is ususally shorter than the project section. Highlight the most relevant prior experiene that will match the types of roles you will apply for.
   I did X and the result was Y; state the result or outcome. 
   
 * Quantify impact with a #, % or $ amount whenever possible. 
 *Think of your bullets points as Storytelling -Short, accomplishment stories. Aim to share how you added value in your roles vs telling what you did. 
 
-### Section 7: Education and Training
+### Section 6: Education and Training
 Creating an “Education and Training” section-will help showcase your developer training and highlight your transferable qualifications.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUG-cRtnG4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * List eductaion in reverse chronological order form the most recent to least recent.
 * Turing Education and Training should be listed first if its most recent. 
 * Including the Turing accreditiation is a great way to add credibitily, and stand out from the competition.
 
-### Section 8: Complying with the Applicant Tracking System (ATS)
+### Section 7: Complying with the Applicant Tracking System (ATS)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_HTpanrEw2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SiPaHa1RTEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Applicant Tracking Systems, or ATS, are hiring tools that help medium to large companies sort and screen thousands of resumes. If you've heard of the "resume black hole," then you are already familiar with the concept of how the ATS works. Resumes that are not optimized for an ATS system will not make it through the system to be read by an actual hiring manager.
 
