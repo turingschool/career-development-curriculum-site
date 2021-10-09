@@ -12,59 +12,77 @@ The Kickoff to Mod 2 provides the overview of what you'll work on this module. T
 * Summarize professional accomplishments and technical skills for a resume rough draft 
 * Learn how to generate an ATS-friendly Resume
  
-## Week 1 Lesson - Connecting Professional Storytelling and Branding: ATS-friendly Resume
+## Week 1 Lesson - Creating a Techically Focused Resume
 Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, we recommend taking notes.
 
-### Section 1: Introduction 
-This workshop will focus on building a technically focused resume that connects your personal brand and career story. 
+### : Intro to Creating a Tech Resume 
+This PD lesson will focus oon how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
+
 As a new software developer, what kind of story do you want your resume to tell about you?
+
+#### Section 1: Contents of a Technical Resume include: 
+1. Contact Information, title and headline (optional)
+2. Resume Summary (optional)
+3. Skils and Keywords
+4. Technical Projects
+5. Work Experience
+6. Education and Training
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyaqXSxwqiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Customizing Your Resume is About Telling Your Story
-Reminder that you should **always** customize your resume to the position for which you're applying. To make sure your resume is customized, pay attention to 3 things:
+#### Section 1: Contact Information,Title and Headline
+* Your desired job title is one of the most essential keywords for an employers’ applicant tracking system when screening through the resumes.
+* A headline is optional it takes the place of a title abd sums up who you are and where you've succeededn in a condensed one liner. 
+   
+   Headline Example: Developer and Project Manager with Leadership Experience
 
-1. Telling your story through a summary statement
-2. Showcasing specific projects
-3. Highlight transferable skills
+### Section : Resume Summary (optional)
+The Summary section is completely optional however, it can be strategically used as a career changer to connect the dots for an employer explainig why you've made a career change and your value add to the company.
 
-We recommend using a summary statement on your new resume so that you can:
+If your’re considering a summary statement: 
 
-1. Describe why you've made a career change
-2. Make a connection between the company you're applying to and the work you do/want to do
+* Think about what relevant and novel information can you provide the employer. Aim to provide a highlevel overview of your past success, present abilities and     future results you can deliver.  
+* Which transferable skills matter to this role? 
+* Whats your zone of zenius? Where do you gain energy in your work? What impact do you want to have in this role/company?
 
-Again, your projects can be used to your advantage to tell a specific story to this company as well. Showcase the projects that use the same tech stack, relate to a similar product, demonstrate your interest in their work, or showcase teamwork that is similar to the company you're applying to. A great idea is to build a project using a company's tech stack -- you'll discuss this more in-depth with Ian in his workshop.
-
-And lastly, highlight your most relevant transferable skills -- both technical and professional -- that relate to this particular company.
-
-### Section 2: Rebuilding Your Resume
-Reorganize your resume to lead with technical skills and projects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCKGDthFYXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Section 4: Skills and Keywords
+* Job listings will have skills and keywords that the employer value. Tailor your resume with these skills to help your resume get pass the Applicant Tracking System (ATS). 
+*  A good rule of thumb is to only include skills you’re comfortable talking about in an interview.
+*  Soft or professional skills are considered by employers to be just as important as hard skills. However, they are harder to evaluate. Consider using them in the bullets points of the work experience section.  
+
+### Section 5: Technical Projects
 Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
 
 * Turing projects
 * Side projects
 * Open Source projects
-* Etc.
 
 You should include links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
-Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?
+Your descriptions for your projects should tell an employer what the project is and what is does in as few words as possible. The rest of the description should be about accomplishments from that project and value added. What was your role in the project? What specific goals did you meet?  What was the result/impact of your project/work? 
 
-Here are a few other key reminders:
+**A pro tip:  Projects can be used to your advantage to tell a specific story to this company as well. Showcase the projects that use the same tech stack, relate to a similar product, demonstrate your interest in their work, or showcase teamwork that is similar to the company you're applying to. A great idea is to build a project using a company's tech stack. 
 
-* Double check your spelling, grammar, and readability. How? Read it out loud to yourself to hear how it sounds AND ask a peer or mentor to read it also. As with coding, it never hurts to get a second set of eyes on something.
-* Do not lie. This is important. Expect to be asked about **anything** that is listed on your resume. If your resume does not accurately represent you, you will not get this job, and it will hurt your chances at that company in the future.
-* List work and education in chronological order. If you're concerned about gaps in your employment, list the length of time at a position rather than the dates.
-* Include your contact information. Email is absolutely needed, but you can also include your LinkedIn and GitHub profiles. There are differing opinions on phone numbers, but you can decide at your own discretion.
-* Don't include a headshot -- it will take up valuable space and it's not a norm in this industry.
-* Your resume should only be 1 page. Employers will not read past that 1 page.
-* There are a lot of templates you can use, but be conservative with colors. Consider readability and printability.
-* Don't list your special interests or hobbies. They don't belong on a technical resume. Instead, you can put them on your LinkedIn profile.
+Consider reorganizing your resume to lead with technical skills and projects.
 
-### Section 3: Formatting and the ATS system
+### Section 6: Work Experience
+* This section is ususally shorter than the project section. Highlight the most relevant prior experiene that will match the types of roles you will apply for.
+  I did X and the result was Y; state the result or outcome. 
+  
+* Quantify impact with a #, % or $ amount whenever possible. 
+*Think of your bullets points as Storytelling -Short, accomplishment stories. Aim to share how you added value in your roles vs telling what you did. 
+
+### Section 7: Education and Training
+Creating an “Education and Training” section-will help showcase your developer training and highlight your transferable qualifications.
+
+* List eductaion in reverse chronological order form the most recent to least recent.
+* Turing Education and Training should be listed first if its most recent. 
+* Including the Turing accreditiation is a great way to add credibitily, and stand out from the competition.
+
+### Section 8: Complying with the Applicant Tracking System (ATS)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HTpanrEw2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,6 +96,8 @@ Each ATS system is different and **it's important to always follow the direction
 * Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
 
 For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+
+* Your resume should only be 1 page. Employers will not read past that 1 page.
 
 #### Next Steps
 Take a few minutes to review and read the following articles that may provide even more clarity on generating your ATS-friendly Resume: 
