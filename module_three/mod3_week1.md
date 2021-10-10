@@ -54,7 +54,7 @@ When your profile is complete:
 
 ### After developing your profile its time to get Your Portfolio Published
 * What needs to be included in order for your portfolio to be published? 
-[Here is what the team is looking for]:(https://careerdev.turing.edu/resources/terminal_directions)
+[Here is what the team is looking for](https://careerdev.turing.edu/resources/terminal_directions)
 
 ## Due Dates & Reminders
 Items to be completed by end of Module 3
