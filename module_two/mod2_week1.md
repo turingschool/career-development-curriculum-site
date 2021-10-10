@@ -112,7 +112,8 @@ Then, develop a rough draft of your resume.
 * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources)as you develop a draft.
 
 Lastly, If you do not have a resume.
-* Use this to organize your resume content[resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit) or Download your LinkedIn profile summary with the resume builder tool and cut and paste the summary into an ATS-friendly resume template or use this section by section.
+* Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
+* Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
 
 On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
 
