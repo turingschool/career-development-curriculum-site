@@ -42,12 +42,14 @@ As a new software developer, what kind of story do you want your resume to tell 
 #### Section 1: Contact Information,Title and Headline
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tS280IkDdLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Your desired job title is one of the most essential keywords applicant tracking system's when screening resumes.
 
 #### Section 2: Resume Summary (optional)
 The Summary section is completely optional however, it can be strategically used as a career changer to connect the dots for an employer explainig why you've made a career change and your value add to the company.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/anX8TnplUlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 If your’re considering a summary statement: 
 * Think about what relevant and novel information can you provide the employer.
@@ -66,6 +68,7 @@ Since you are a software developer now, your software projects are an essential 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KPcY1wrb2YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 * Projects overviews should also include accomplishments, outcomes and results:
 * What was your role in the project? 
 * What specific goals did you meet?  
@@ -83,6 +86,7 @@ Creating an “Education and Training” section-will help showcase your develop
 #### Section 7: Complying with the Applicant Tracking System (ATS)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SiPaHa1RTEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Resources
 * [Appliant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
