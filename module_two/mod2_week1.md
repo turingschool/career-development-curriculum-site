@@ -46,7 +46,8 @@ As a new software developer, what kind of story do you want your resume to tell 
 Your desired job title is one of the most essential keywords applicant tracking system's when screening resumes.
 
 #### Section 2: Resume Summary (optional)
-The Summary section is completely optional however, it can be strategically used as a career changer to connect the dots for an employer explainig why you've made a career change and your value add to the company.
+The Summary section is completely optional, however, it can be strategically used as a career changer to connect the dots for an employer to explan career change and the value you will bring to the company and role.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/anX8TnplUlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
