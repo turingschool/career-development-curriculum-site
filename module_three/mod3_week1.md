@@ -44,17 +44,17 @@ Next, following these step by step directions to sign in:
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
 
-### Getting Your Portfolio Published
 When your profile is complete:
 * Click “Request Review”
 * Staff member will review your profile and approve for publishing or request additional changes
-* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job. 
-
-### What needs to be included in order for your portfolio to be published?
-* Review the guidelines and checklist [here](https://careerdev.turing.edu/resources/resume_resources)
-
+* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job.
+ 
 ### Next, Create Your About Me and Project Descriptons for Terminal  
-* Follow this link [here](https://careerdev.turing.edu/resources/terminal_directions) to review a framework for drafting your About me and Technical Projects sections.   
+* Follow this link [here](https://careerdev.turing.edu/resources/terminal_directions) to review a framework for drafting your About me and Technical Projects sections.  
+
+### After developing your profile its tine to getting Your Portfolio Published
+* What needs to be included in order for your portfolio to be published? 
+[Here is what the team is looking for]:(https://careerdev.turing.edu/resources/terminal_directions)
 
 ## Due Dates & Reminders
 Items to be completed by end of Module 3
