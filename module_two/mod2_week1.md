@@ -110,7 +110,7 @@ Next, choose a resume template:
 * For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
  
 Then, develop a rough draft of your resume:
-* Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources)as you develop a draft.
+* Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development.
 
 Lastly, If you do not have a resume:
 * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
