@@ -61,11 +61,11 @@ If your’re considering a summary statement:
 A good rule of thumb is to only include skills you’re comfortable talking about in an interview.
 
 #### Section 4: Technical Projects
-Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume. You should include:
+Since you are a software developer now, your software projects are an essential -- arguably,the **most** essential -- part of your new resume.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KPcY1wrb2YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Projects overviews should include accomplishments, outcomes and results:
+* Projects overviews should also include accomplishments, outcomes and results:
 * What was your role in the project? 
 * What specific goals did you meet?  
 * What was the result/impact of your project/work? 
