@@ -58,6 +58,7 @@ If your’re considering a summary statement:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T1fAaHQxZLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 A good rule of thumb is to only include skills you’re comfortable talking about in an interview.
 
 #### Section 4: Technical Projects
