@@ -4,16 +4,29 @@ title: Module 2 Week 1
 ---
 
 ## Overview
-The Kickoff to Mod 2 provides the overview of what you'll work on this module. The 15-minute kickoff takes place live on Zoom, followed by a video workshop and action items to assist you in creating a technically focused ATS-friendly resume.  
+
+For this weeks lesson complete the following activites in this order: 
+* Watch the video overview of how to create a tech resume
+* Watch the final video on how to comply with the Applicant Tracking System
+* 
 
 ### Learning Goals
+* Start by viewing the videos below. 
+* Allow yourself about 30 mins (each video is between one and 3 minutes) to complete the following lesson. 
 
-* Build on your professional story by focusing on "what's next"
-* Summarize professional accomplishments and technical skills for a resume rough draft 
-* Learn how to generate an ATS-friendly Resume
+By the end of this lesson, you should have accomplished these learning goals:
+
+* Understand how to tell your professional story through your resume
+* Know how to build a working draft of your resume with these componenets: 
+   * Complete contact details, title and optional healine
+   * Optional Resume summary to connect the dots as a career changer
+   * Skills and Keywords that are industry specific
+   * Technical Projects that have consistent formats and show accompishments
+   * Education section that includes Turings Certificate of Completion
  
 ## Week 1 Lesson - Creating a Techically Focused Resume
-Allow yourself about 40 mins to complete the following lesson. Start by viewing the videos below. As you follow along, we recommend taking notes.
+*
+* As you follow along, we recommend taking notes.
 
 ### Intro to Creating a Tech Resume 
 This PD lesson will focus oon how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
@@ -94,37 +107,36 @@ Creating an “Education and Training” section-will help showcase your develop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SiPaHa1RTEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Applicant Tracking Systems, or ATS, are hiring tools that help medium to large companies sort and screen thousands of resumes. If you've heard of the "resume black hole," then you are already familiar with the concept of how the ATS works. Resumes that are not optimized for an ATS system will not make it through the system to be read by an actual hiring manager.
 
-Each ATS system is different and **it's important to always follow the directions for that specific company**, but there are a few key components to keep in mind when creating a resume that is optimized for ATS systems:
-
-* Use a Word doc or a Google Doc (which can be downloaded as a Word doc) to use as your main copy. Not all ATS systems can read PDFs.
-* Use a single column. 
-* Compare your resume to the job description and pull out key words to highlight in your skills and experience
-* Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates)
-
-For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
-
-* Your resume should only be 1 page. Employers will not read past that 1 page.
-
-#### Next Steps
-Take a few minutes to review and read the following articles that may provide even more clarity on generating your ATS-friendly Resume: 
-
+### Resources
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
 * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+* For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
 
-## Check for Understanding (15-30 mins)
-Now that you've gained an understanding of how to approach rebuilding your resume, spend some time creating your first draft! Here are some tools to help you:
+## Check for Understanding
+1. Plan the framework of your resume based on the lesson:
+ *  Decide if you opt for a summary
+ *  What relevant work experience will be used?
+ *  Which prior education and training will be added?
+ *  Which skills are most important right now to add?
+  
+2. Choose a resume template 
+  * Pick an ATS- friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates will             download as a word doc and cut and paste or upload to google doc.
+  * Check out this [ATS Friendly Template](https://docs.google.com/document/d/1PtIrf0YQ6vRizPfUZPueXDNAWUEE_VmxwuG6a8tZ-oo/edit)
+ 
+3. Develop a rough draft of your resume.
+  *  Use [this checklist to guide your resume draft](https://careerdev.turing.edu/resources/resume_resources)
 
-* Pick a template and use the [checklist here](/resources/resume_resources) to develop a rough draft of your resume
-   * Start with a Word or [Google doc](https://www.themuse.com/advice/top-google-docs-resume-templates-how-to-use-them) or use a [Job Scan Template](https://www.jobscan.co/resume-templates)
-* Download your LinkedIn profile summary with the resume builder tool and cut and paste the summary into an ATS-friendly resume template or use this section by section [resume worksheet](https://docs.google.com/document/d/1EGkDTLYCZgHijgfGnKi-BoEOLNHtprd16rnUJmqBS6M/edit) to organize your resume content 
+5. If you do not have a resume.
+  * Use this to organize your resume content[resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit) or Download your LinkedIn profile summary with the resume builder tool and cut and paste the summary into an ATS-friendly resume template or use this section by section
 
 On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
 
 ## Due Dates & Reminders
 
 * Make sure to have your resume draft ready to be reviewed by your Homeroom Group in week 5
+
+
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
