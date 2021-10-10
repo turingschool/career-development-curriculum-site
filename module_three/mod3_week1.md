@@ -69,7 +69,7 @@ Next, follow these step by step directions to sign in:
 * After setting up your portfolio review tips and guidelines for drafting your About me and Technical Projects sections: [here](https://careerdev.turing.edu/resources/terminal_directions) 
 
 
-### After developing your profile its time to get Your Portfolio Published
+### After Developing your profile its time to get Your Portfolio Published
 
 * Review what needs to be included in order for your portfolio to be published? 
 [Here is what the team is looking for](https://careerdev.turing.edu/resources/terminal_directions)
