@@ -52,7 +52,7 @@ When your profile is complete:
 ### Next, Create Your About Me and Project Descriptons for Terminal  
 * Follow this link [here](https://careerdev.turing.edu/resources/terminal_directions) to review a framework for drafting your About me and Technical Projects sections.  
 
-### After developing your profile its tine to getting Your Portfolio Published
+### After developing your profile its time to get Your Portfolio Published
 * What needs to be included in order for your portfolio to be published? 
 [Here is what the team is looking for]:(https://careerdev.turing.edu/resources/terminal_directions)
 
@@ -65,3 +65,5 @@ Career Materials:
 * Cover letter draft reviewed by peers in week 5 homeroom groups
 * Optional draft of terminal portfolio submitted
 * Complete end of mod self-evaluation survey by EOD Friday Week 5
+
+Checkout PD office hours or contact Tracey and Ryan for Career support!
