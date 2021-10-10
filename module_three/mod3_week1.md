@@ -39,7 +39,7 @@ Now, that you have reviewed the Video what do you want your profile to say about
 Review the following video on how to set up Terminal: 
 * [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-Next, following these step by step directions to sign in: 
+Next, follow these step by step directions to sign in: 
 * Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
