@@ -16,7 +16,7 @@ The Intro to Mod 3 provides an overview of what you work on this module. This se
 Read through the lesson plan and watch the video lectures below. 
 
 ### Section 1: Resume Review 
-A key delieverable for Mod 3 is to have a full resume draft that is technially focused and ATS-Friendly: 
+A key delieverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly: 
 * ATS- Friendly is: a single column format, uses standard section headings, uses standard bullet points,and
 avoid images,tables,headers,footers.
 * Technically Focused: has at least 2 projects, technical skills are listed, includes links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
