@@ -95,7 +95,7 @@ Creating an “Education and Training” section-will help showcase your develop
 * [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
 * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
 
-## Check for Understanding
+## Check for Understanding and Next Steps:
 
 First, plan the framework of your resume based on the lesson:
 * Will you use a resume summary? 
