@@ -36,7 +36,7 @@ Creating your unique portfolio is the perfect opportunity to showcase your skill
 Now, that you have reviewed the Video, what do you want your profile to say about you? Its time to set up your profile and draft the content for a great about me statement and technical projects!
 
 ### First Set Up your Terminal Profile
-Review the following video on how to set up Terminal: 
+Review the following video on how to set up your Terminal Porftolio: 
 * [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
 Next, follow these step by step directions to sign in: 
