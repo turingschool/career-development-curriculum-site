@@ -6,13 +6,13 @@ title: Module 3 Week 1
 ## Overview
 The Intro to Mod 3 provides an overview of what you work on this module. This session takes place live on Zoom, followed by a video microlecture and async activities that will help you generate an ATS-friendly resume and build a portfolio to showcase your technical projects.
 
-### Learning Goals
+### Learning Goals for Week 1 Lesson
 
 * Review and refine professional story & brand to build a technically focused resume
 * Apply unique career vision and job search strategy to customize resume
 * Employ personal brand to create Terminal portfolio that showcase technical projects 
 
-## Week 1 Lesson - Resume Review & Terminal Portfolio
+##  Resume Review & Terminal Portfolio
 Read through the lesson plan and watch the video lectures below. 
 
 ### Section 1: Resume Review 
@@ -25,8 +25,10 @@ avoid images,tables,headers,footers.
 * [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources)
 * Listen to [Mod 2 micro Resume and ATS videos](https://careerdev.turing.edu/module_two/mod2_week1) 
 
-##  Section 2: Overview on How to Build a Great Terminal Portfolio
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from. Creating your unique portfolio is the perfect opportunity to showcase your skills!
+###  Section 2: Overview on How to Build a Great Terminal Portfolio
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from. 
+
+Creating your unique portfolio is the perfect opportunity to showcase your skills!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXFJjGpeygg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
