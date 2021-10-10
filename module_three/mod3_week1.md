@@ -66,4 +66,4 @@ Career Materials:
 * Optional draft of terminal portfolio submitted
 * Complete end of mod self-evaluation survey by EOD Friday Week 5
 
-Checkout PD office hours or contact Tracey and Ryan for Career support!
+Checkout PD office hours or contact the Career team for questions and support!
