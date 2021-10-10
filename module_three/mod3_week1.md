@@ -33,7 +33,7 @@ Creating your unique portfolio is the perfect opportunity to showcase your skill
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXFJjGpeygg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Application:
-Now, that you have reviewed the Video what do you want your profile to say about you? Its time to set up your profile and draft the content for a great about me statement and technical projects!
+Now, that you have reviewed the Video, what do you want your profile to say about you? Its time to set up your profile and draft the content for a great about me statement and technical projects!
 
 ### First Set Up your Terminal Profile
 Review the following video on how to set up Terminal: 
