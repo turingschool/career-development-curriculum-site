@@ -6,8 +6,8 @@ title: Module 3 Week 1
 ## Overview
 For this weeks lesson complete the following activities:
 * If you are in the process of developing your resume draft check out the following resources: 
-* Listen to [Mod 2 micro Resume and ATS videos](https://careerdev.turing.edu/module_two/mod2_week1).Videos are 1-3 minutes in length. 
-* Or follow the [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources)
+* Listen to [Mod 2 micro Resume and ATS videos](https://careerdev.turing.edu/module_two/mod2_week1). Videos are 1-3 minutes in length. 
+* Or follow the [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources).
 
 
 ### Learning Goals 
