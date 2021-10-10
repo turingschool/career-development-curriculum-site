@@ -16,10 +16,10 @@ The Intro to Mod 3 provides an overview of what you work on this module. This se
 Read through the lesson plan and watch the video lectures below. 
 
 ### Section 1: Resume Review 
-A key delieverable for Mod 3 is to have a full resume draft that is technially focused and ATS-Friendl: 
-* ATS- Friendly is: a single column format, uses standard section headings, uses standard bullet points,
+A key delieverable for Mod 3 is to have a full resume draft that is technially focused and ATS-Friendly: 
+* ATS- Friendly is: a single column format, uses standard section headings, uses standard bullet points,and
 avoid images,tables,headers,footers.
-* Technically Focused: has at least 2 projected, technical skills are listed,should include links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
+* Technically Focused: has at least 2 projects, technical skills are listed, includes links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
 #### For a full review of how to create a technical resume that is ATS ready review these resources:
 * [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources)
@@ -42,17 +42,17 @@ Next, following these step by step directions to sign in:
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
 
-## Getting Your Portfolio Published
+### Getting Your Portfolio Published
 When your profile is complete:
 * Click “Request Review”
 * Staff member will review your profile and approve for publishing or request additional changes
 * After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job. 
 
 ## What needs to be included in order for your portfolio to be published?
-* Review the guidelines and checklist [here](/resources/terminal_directions)**
+* Review the guidelines and checklist [here](https://careerdev.turing.edu/resources/resume_resources)
 
 ### Next, Create Your About Me and Project Descriptons for Terminal  
-Follow this link [here](/resources/terminal_directions)** to review the framework for drafting your About me section and Technical Projects sections.   
+Follow this link [here](https://careerdev.turing.edu/resources/terminal_directions) to review a framework for drafting your About me and Technical Projects sections.   
 
 ## Due Dates & Reminders
 Items to be completed by end of Module 3
