@@ -75,7 +75,11 @@ Since you are a software developer now, your software projects are an essential 
 * What specific goals did you meet?  
 * What was the result/impact of your project/work? 
 
-#### Section 5: Work Experience  
+#### Section 5: Work Experience
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h4rEZgj7nJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * Think of your bullets points as Storytelling -Short, accomplishment stories.
 * Quantify impact with a #, % or $ amount whenever possible. I did X and the result was Y; state the result or outcome. 
 
