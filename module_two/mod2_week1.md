@@ -124,8 +124,7 @@ On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_
 
 ## Due Dates & Reminders
 
-* Make sure to have your resume draft ready to be reviewed by your Homeroom Group in week 5
-
+* You should have this resume draft started and ready to be reviewed by EOD Friday of Week 2
 
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
