@@ -14,19 +14,14 @@ Sessions and activities are customized each module according to what the cohort 
 * Week 1: 
   * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
   * [Negotiations](/module_four/negotiations)
-* Week 3: Panel
+* Week 2: Alumni Panel
+* Week 3: No PD Session
 * Week 4: [Employer Mock Interviews](/module_four/mod4_mock_interviews)
-* Week 5: Career Exploration
+* Week 5: Career Exploration Event
 * Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
-* Weekly office hours and PD focus times with suggested action items
 
-**Note:** Try to schedule interviews and coffee chats during PD work time NOT during PD sessions
+* Check the cohort calendar for Weekly office hours and PD focus times with suggested action items
 
-The week 3 panel or guest speaker will be on one of the following topics:
-* Recent alumni experiences
-* Networking
-* Working with Recruiters
-* Career exploration
 
 ### Career Specialist Support, Communication, & Expectations
 Tracey and Ryan are your career supports during Mod 4 and are available Monday-Friday 9am-5pm MST. You can reach out to either of them to set up 1:1 using the links in their Slack bios. Coaching Meetings are scheduled for 30 minutes and can cover any of the following:
@@ -40,6 +35,8 @@ Tracey and Ryan are your career supports during Mod 4 and are available Monday-F
 * Any other supports you may need 
 
 *Please note that you should only book with one of them at a time each week*
+
+**Note:** Try to schedule interviews and coffee chats during PD work time NOT during PD sessions
 
 Communication:
 
@@ -55,10 +52,10 @@ Communication:
 **Deliverable #1:** Complete your Terminal portfolio. To complete this deliverable:
 
   * Follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
-  * Add 3 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) to help you create the descriptions 
+  * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) to help you create the descriptions 
   * Upload your polished and targeted resume
   * Include the link to your LinkedIn that is updated and optimized for the job search
-  * **Due date #1: Friday of Week 4.** Mkae sure to "request review" by this date. Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it
+  * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date. Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it
   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
 **Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
