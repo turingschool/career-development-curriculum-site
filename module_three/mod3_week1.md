@@ -13,13 +13,18 @@ Upon completion of this review and lesson you wil be able to:
 * Write a resume draft showing your technical skills and experience, and merging your transferrable qualilfications.
 * Create a distint Terminal portfolio that showcase your technical work, achievements and personal brand.
 
-## Week 1 Lesson- Resume Review & Terminal Portfolio
+## Week 1 Lesson- Resume Review 
 
-### Section 1: Resume Review and Refresher Activities
+### Section 1: Introduction
+Please review the short video lecture followed by the resources to help guide your resume development. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGLVCEX4Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Action steps to guide your resume rough draft.
 
 A key delieverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly:
 
-* **ATS- Friendly**: a single column format, uses standard section headings, uses standard bullet points,and
+* **ATS-Friendly**: a single column format, uses standard section headings, uses standard bullet points,and
 avoid images,tables,headers,footers.
 * **Technically Focused**: has at least 2 projects, technical skills are listed, includes links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
