@@ -82,7 +82,7 @@ Since you are a software developer now, your software projects are an essential 
 #### Section 6: Education and Training
 Creating an “Education and Training” section-will help showcase your developer training and highlight your transferable qualifications.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUG-cRtnG4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8aid-yTpp_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Section 7: Complying with the Applicant Tracking System (ATS)
 
