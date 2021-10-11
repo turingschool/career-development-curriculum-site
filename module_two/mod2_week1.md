@@ -93,7 +93,6 @@ Creating an “Education and Training” section-will help showcase your develop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAGlqV3ZMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ### Resources
 * [Appliant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
