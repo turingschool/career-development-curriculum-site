@@ -50,7 +50,7 @@ Your desired job title is one of the most essential keywords applicant tracking 
 The Summary section is completely optional, however, it can be strategically used as a career changer to connect the dots for an employer to explan career change and the value you will bring to the company and role.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/anX8TnplUlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjH1-hV3RHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 If your’re considering a summary statement: 
