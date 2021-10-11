@@ -23,7 +23,8 @@ A key delieverable for Mod 3 is to have a full resume draft that is technically 
 avoid images,tables,headers,footers.
 * **Technically Focused**: has at least 2 projects, technical skills are listed, includes links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
 
-* If you are in the process of developing your resume draft and want a quick review of certain sections, check out the following resources: 
+* If you are in the process of developing your resume draft and want a quick review of certain sections, check out the following resources:
+* [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources)  
 * Listen to [Mod 2 micro Resume and ATS videos](https://careerdev.turing.edu/module_two/mod2_week1). 
 
 Videos are 1-3 minutes in length and cover the following sections of the Technical Resume:
@@ -34,10 +35,8 @@ Videos are 1-3 minutes in length and cover the following sections of the Technic
 4. Technical Projects
 5. Work Experience
 6. Education and Training
- 
-* If you have a resume draft completed you can review the following the [Resume checklist and resources](https://careerdev.turing.edu/resources/resume_resources) to review any sections you want clarification on.
 
-Next, use the CV Compiler to analyze and score your resume. It give recommendations on how it can be improved. This step must be done before submitting to a Career Specialist for review and feedback. 
+Once you have a draft use the CV Compiler to analyze and score your resume. It give recommendations on how it can be improved. This step must be done before submitting to a Career Specialist for review and feedback. 
 
 Follow these steps to upload your Resume Rough Draft to to the CV Compiler: 
 * Go [here](https://cvcompiler.com/students/turingschool)
@@ -58,9 +57,7 @@ Turing provides a space for professional portfolios on [our website](https://ter
 
 Creating your unique portfolio is the perfect opportunity to showcase your skills!
 
-### Check For Understanding and Next Steps:
-
-Set Up your Terminal Profile
+### Set Up your Terminal Profile (this is optional in Mod 3). 
 
 First, review the following video on how to set up your Terminal Porftolio: 
 
