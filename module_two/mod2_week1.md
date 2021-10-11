@@ -40,8 +40,7 @@ As a new software developer, what kind of story do you want your resume to tell 
 6. Education and Training
 
 #### Section 1: Contact Information,Title and Headline
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tS280IkDdLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88iJpfTwaHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Your desired job title is one of the most essential keywords applicant tracking system's when screening resumes.
 
