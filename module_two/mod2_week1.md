@@ -107,9 +107,7 @@ One of your deliverables for this module is to create your resume first draft. F
 * Which industry specifc skills are most important right now to add?
   
 2. Next, choose a resume template: 
-* Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc.
-* Check out this [ATS Friendly Template](https://docs.google.com/document/d/1PtIrf0YQ6vRizPfUZPueXDNAWUEE_VmxwuG6a8tZ-oo/edit)
-* For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu/profiles) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+* Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc or use this [ATS Friendly Template](https://docs.google.com/document/d/1PtIrf0YQ6vRizPfUZPueXDNAWUEE_VmxwuG6a8tZ-oo/edit)
  
 3. Then, develop a rough draft of your resume:
 * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
