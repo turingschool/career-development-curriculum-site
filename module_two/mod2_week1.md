@@ -4,16 +4,13 @@ title: Module 2 Week 1
 ---
 
 ## Overview
+For this week's lesson:
 
-For this weeks lesson complete the following activites in this order: 
-* Watch the video overview of how to create a tech resume
-* Watch the final video on how to comply with the Applicant Tracking System
-
-### Learning Goals
-* Start by viewing the videos below. As you follow along, we recommend taking notes. 
-* Allow yourself about 30 mins (each video is between one and 3 minutes) to complete the video portion of the following lesson.
+* Start by viewing the videos below that span from creating a tech resume to how to comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
+* Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
 * We recommend scheduling time on your calendar and using dedicated PD work time to complete the full lesson.
 
+### Learning Goals
 By the end of this lesson, you should have accomplished these learning goals:
 
 * Understand how to tell your professional story through your resume
@@ -101,22 +98,29 @@ Creating an “Education and Training” section-will help showcase your develop
 * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
 
 ## Check for Understanding and Next Steps:
+One of your deliverables for this module is to create your resume first draft. Follow these steps to get started:
 
-First, plan the framework of your resume based on the lesson:
+1. First, plan the framework of your resume based on the lesson:
 * Will you use a resume summary? 
 * What relevant work experience will be used?
 * Which prior education and training will be added?
 * Which industry specifc skills are most important right now to add?
   
-Next, choose a resume template: 
-* Pick an ATS- friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates will             download as a word doc and cut and paste or upload to google doc.
+2. Next, choose a resume template: 
+* Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc.
 * Check out this [ATS Friendly Template](https://docs.google.com/document/d/1PtIrf0YQ6vRizPfUZPueXDNAWUEE_VmxwuG6a8tZ-oo/edit)
-* For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
+* For a more "stylized" resume to use in your [Terminal portfolio](https://terminal.turing.edu/profiles) or to send via email as a PDF, [check out the templates listed here](/resources/resume_resources).
  
-Then, develop a rough draft of your resume:
-* Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development.
+3. Then, develop a rough draft of your resume:
+* Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
+  * Name of project
+  * Number of collaborators, primary technologies used, what it does.
+  * Main learning goals of the project (if you're not sure, ask your instructors)
+  * Any stretch goals you were able to achieve.
+  * Any specific contributions/roles that you had in the project
 
-Lastly, If you do not have a resume:
+If you're having trouble with organizing your content, try these tips:
+
 * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
 * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
 
@@ -124,7 +128,7 @@ On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_
 
 ## Due Dates & Reminders
 
-* You should have this resume draft started and ready to be reviewed by EOD Friday of Week 2
+* You should have this resume draft started and ready to be reviewed by **EOD Friday of Week 2.** 
 
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
