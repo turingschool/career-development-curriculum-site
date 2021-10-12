@@ -3,7 +3,7 @@ layout: page
 title: Module 2 Week 2
 ---
 ## Overview
-This lesson is called Building Connection Part I and is focused on building connections and networking and what it should look like in Mod 2 
+This lesson is called Building Connection and is focused on building connections and networking and what it should look like in Mod 2 
 
 Please complete the lesson plan as well as all check for understanding action items
 
@@ -12,7 +12,7 @@ Please complete the lesson plan as well as all check for understanding action it
 * Utilize tools and strategies for building connection
 * Create and execute a plan to start expanding your network 
 
-## Week 2 Lesson - Building Connection Part I
+## Week 2 Lesson - Building Connection
 Allow yourself 30-40 minutes to complete the following lesson. Start by viewing the videos below.
 
 ### Section 1: Introduction 
@@ -164,15 +164,21 @@ For a refresher on any of this information, you can always find it on the Resour
 ## Check for Understanding
 Who are you going to build connection with to navigate your career in software development?
 
-Goal setting: 
-* Find 4 people you would like to know better (very warm contacts)
-* Find 4 people you don’t know but would like to know better (less warm contacts)
+**Create networking goals this module by following the steps below *(this is your PD deliverable for networking due in week 3)*:**
 
-You can keep track using [your networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0). Create an outreach message for the people on your goal list. 
+**1. Build a list of 4 warm contacts (people to get to know better) and 4 cold contacts (someone in tech industry to reach out to)**
+**2. Outline 1 action step to take for networking during the mod (ex: attend an event, have a chat with someone, etc.)**
+
+Keep track of this list and action steps using [your networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0). Create an outreach message for the people on your goal list. 
 
 Test it out! Send the message!
 
-## Reminders
+## Due Dates & Reminders
+
+* Your ATS-ready (read: plain, straightforward information), 1-page resume draft that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
+
+* Your list of 4 warm contacts and 4 cold contacts and 1 action step that you'll take for networking is due as a survey submission on **Friday of Week 3**
+
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
