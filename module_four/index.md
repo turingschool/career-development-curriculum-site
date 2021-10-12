@@ -31,18 +31,18 @@ Tracey and Ryan are your career supports during Mod 4 and are available Monday-F
 * Week 5: Career Exploration Event
 * Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
 
-* Check the cohort calendar for Weekly office hours and PD focus times with suggested action items
+Check the cohort calendar for Weekly office hours and PD focus times with suggested action items
 
 ### Deliverables & Due Dates
 
-**Deliverable #1:** Complete your Terminal portfolio. 
+**Deliverable #1:** Complete Terminal portfolio. 
 
 To complete this deliverable:
 
   * Follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
   * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) to help you create the descriptions 
   * Upload your polished and targeted resume
-  * Include the link to your LinkedIn that is updated and optimized for the job search
+  * Include the link to your LinkedIn that is updated and optimized for job search
   
   * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
  
