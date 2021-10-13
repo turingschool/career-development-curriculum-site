@@ -46,7 +46,7 @@ To complete this deliverable:
   
   * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
  
- Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it
+ Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
   
   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
