@@ -32,7 +32,7 @@ By the end of Mod 1, you should have completed:
    * Updated headline statement
    * Summary statement using your professional story
    * Turing added to Experience and Education sections 
-   * **Due date #1:** Submit your LinkedIn URL through a survey sent to your channel by **EOD Friday of Week 4.** You will receive feeddback on your LinkedIn draft by mid-week Week 5
+   * **Due date #1:** Submit your LinkedIn URL through a survey sent to your channel by **EOD Friday of Week 4.** You will receive feedback on your LinkedIn draft by mid-week Week 5
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 3. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
 
