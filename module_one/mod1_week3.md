@@ -4,7 +4,7 @@ title: Module 1 Week 3
 ---
 
 ## Overview
-This week's lesson introduces Professional Storytelling and Branding as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiences and new career as well as describe your strengths, motivations, and passions. 
+This week's lesson introduces Professional Storytelling and Branding as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiences and new career, and describe your strengths, motivations, and passions. 
 
 ## Learning Goals
 This session will cover:
@@ -17,11 +17,11 @@ This session will cover:
 Allow yourself 45-60 mins to complete the following:
 
 ## Week 3 Lesson: Professional Storytelling & Branding
-We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to find the right match for your future career.
+We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to build connections for your future career.
 
-From your professional story, we'll craft your resume, your Turing portfolio, update your LinkedIn, inspire others through blog posts, personal websites, projects, and more.
+From your professional story, we'll craft your LinkedIn summary, your resume, and your Terminal portfolio. And this is how you can inspire others through blog posts, personal websites, projects, and more.
 
-Personal branding is all about telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
+Personal branding is the act of telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
 
 ### Section 1: Professional Storytelling
 
