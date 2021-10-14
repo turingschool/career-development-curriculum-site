@@ -10,6 +10,7 @@ This week's lesson introduces Professional Storytelling and Branding as key mark
 This session will cover:
 
 * Understand the value and purpose of storytelling in both professional and personal relationship-building contexts
+* Identify and list professional accomplishments, strengths, and/or interests to share with others
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
