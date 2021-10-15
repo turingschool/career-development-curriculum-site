@@ -67,7 +67,7 @@ For students that have signed a job offer and still want to receive a graduation
 * Attend and maintain above 80% attendance for the first 3 weeks of classes
 * Successfully complete the first project
 * Complete your alumni portfolio for terminal
-* Complete a 30/60/90 day plan outlining your professional development goals. This [article] https://www.themuse.com/advice/30-60-90-day-plan-instructions-template-example may be helpful as a guide. You can use a copy of this [template] https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit# for your submission.
+* Complete a 30/60/90 day plan outlining your professional development goals. This [article] https://www.themuse.com/advice/30-60-90-day-plan-instructions-template-example may be helpful as a guide. You can use a copy of this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#)  for your submission.
 
 ### Repeating the Module
 For students repeating Module 4, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 4, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
