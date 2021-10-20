@@ -14,7 +14,7 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
 
 **Exceptional**
 * Resume is clean, easy to read, includes all necessary information, and may have an element that makes it stand out from others
-* Projects section is built out and includes 3-4 projects; descriptions are detailed
+* Projects section is built out and includes 2-3 projects; descriptions are detailed
 * Experience section highlights transferable skills
 * Education section includes Turing (experience section only includes Turing if no other professional experience) 
 * If a summary is used, it’s concise (3 sentences max), provides info on background tied to new career and highlights transferable skills and/or personal values
