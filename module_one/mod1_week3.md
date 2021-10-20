@@ -40,20 +40,17 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 ### Section 2: Develop Your Professional Story
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc. Your story should too!
 
-#### Act I (Set-Up)
-
+**Act I (Set-Up)**
 * Introduction
 * Inciting incident
 * Turning point
 
-#### Act II (Struggle)
-
+**Act II (Struggle)**
 * Obstacle
 * Midpoint
 * Crisis
 
-#### Act III (Finale)
-
+**Act III (Finale)**
 * Climax
 * Denouement
 * Resolution
