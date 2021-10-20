@@ -14,7 +14,7 @@ This session will cover:
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
-Allow yourself 45-60 mins to complete the following:
+Allow yourself 45-60 mins to read through the lesson plan and watch the video lectures below. Complete [this reflection sheet](https://docs.google.com/document/d/11nji0XRnS1hGrlDD_PYJiOsF3ACpyNtMYkOGN1L9EPo/edit?usp=sharing) as you go (make a copy by going to File > Make a copy).
 
 ## Week 3 Lesson: Professional Storytelling & Branding
 We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to build connections for your future career.
@@ -35,34 +35,14 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 
 *Pull apart the stories you like. What you like in them is a part of you; you’ve got to recognize it before you can use it.*
 
-### Section 2: Develop Your Story
+**Action Item:** Take a few minutes before moving on to the next video to answer the questions on [this note-taking sheet](https://docs.google.com/document/d/11nji0XRnS1hGrlDD_PYJiOsF3ACpyNtMYkOGN1L9EPo/edit?usp=sharing) about a story that is meaningful to you and why you connect with it. Pulling apart this story will help you think about how you can connect with others through your own story.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MV8ngwta6So" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-To develop a solid career story you must first consider your audience, then identitfy a theme based on your prior professioanl and life experiences, that allows you to craft a compelling narrative.
- 
-#### Know your Audience: 
-Conduct research to figure out: 
-
- * What is happening with specific industries that you are interested in? 
- * What is happening within specific companies?
- * What current challenges are important to these businessess and teams? 
- 
-#### Have a theme:
-Identify your top professional qualitites and highlights:
-
- * What are your top strengths,values and accomplishments?
- * What value will you bring to a company? 
- 
-### Section 3: Craft a Narrative Using the 3 Act Arc
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vXq1D_vB91g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc:
+### Section 2: Develop Your Professional Story
+Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc. Your story should too!
 
 #### Act I (Set-Up)
 
-* Introdution
+* Introduction
 * Inciting incident
 * Turning point
 
@@ -78,22 +58,42 @@ Taking more lessons from Pixar as well as storytelling theory from Joseph Campbe
 * Denouement
 * Resolution
 
-#### Three main questions to help us understand our own stories and our character arcs:
+#### Create Your 3 Acts
+To understand your own story and character arc, use the following questions to help you create that act structure:
 
-1. **Who are you?** (as a developer, a teammate, a worker, a career changer)
-2. **Why are you here?** (Why software development? Why now? Consider both your background but also what drives you to be in this field)
-3. **What's next?** (Where do you see yourself going in this career?)
+1. **Act I: Who are you?** (as a developer, a teammate, a worker, a career changer)
+2. **Act II: Why are you here?** (Why software development? Why now? Consider both your background but also what drives you to be in this field)
+3. **Act III: What's next?** (Where do you see yourself going in this career?)
 
 Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
-Your story is one of transition. These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
+Your story is one of *transition*. These stories are inherently interesting as they have all the elements of a classic story, and most importantly, they have the important elements of change, conflict, and tension around the transition. Where are you going? What will happen next? It's so exciting for the listener! But it also depends on how you tell that story.
 
-Disclaimer: When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring.
+**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring.
+
+#### Examples
+
 
 During a networking event explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story), senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Here are some takeaways:
 
 * Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
+
+
+As you continue to refine your professional story, consider your audience and identify a theme that can connect your values and goals with the audience. 
+ 
+#### Know your Audience: 
+Conduct research to figure out: 
+
+ * What is happening with specific industries that you are interested in? 
+ * What is happening within specific companies?
+ * What current challenges are important to these businessess and teams? 
+ 
+#### Have a theme:
+Identify your top professional qualities and highlights:
+
+ * What are your top strengths, values, and accomplishments?
+ * What value will you bring to a company? 
 
 ### Section 4: Telling Your Story Through Branding
 
@@ -126,7 +126,7 @@ Why is this important? According to the online reputation management consultantc
 2. Review and complete the branding framework reflection questions
 3. Review and complete the Running list of accomplishments document
 
-##  Check for Undersatnding
+##  Check for Understanding
 1. Write your story! Get clear on your path using [this Career Story template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
 
 Consider:
