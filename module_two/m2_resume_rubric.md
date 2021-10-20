@@ -39,4 +39,4 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
 
 **No submission**
 
-If a student fails to submit a resume draft, they will receive 2 reminders from Career Dev team members. After those two reminders, if a student still does not submit a resume, they will be in jeopardy of repeating the module
+If a student fails to submit a resume draft, they will receive 2 reminders from Career Dev team members. After those two reminders, if a student still does not submit a resume, they will need to repeat the module.
