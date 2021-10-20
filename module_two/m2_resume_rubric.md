@@ -14,8 +14,8 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
 
 **Exceptional**
 * Resume is clean, easy to read, includes all necessary information, and may include more information (projects, skills, experience) than is required for an initial draft
-* Skills include anything that has been covered through Mod 2 AND may include some of the skills taught in Mod 3:
-    * BE: Ruby, Rails, SQL
+* Skills include anything that has been covered through Mod 2 AND may include some of the skills taught in Mod 3 or a list called “currently learning” to include skills not solidified yet:
+    * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML, React, React Router, Accessibility practices
     * Both: TDD (Mocha/Chai), Git, GitHub, Agile practices, APIs, Project management tools
 * Projects section is built out and includes 2-3 projects; descriptions provide explicit detail to understand the projects
@@ -27,7 +27,7 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
 **Meets Expectations**
 * Resume is clean, easy to read, includes all necessary information 
 * Skills include anything that has been covered through Mod 2:
-    * BE: Ruby, Rails, SQL
+    * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML
     * Both: TDD (Mocha/Chai), Git, GitHub, Agile practices
 * Projects section is built out and includes at least 2 projects
