@@ -46,14 +46,15 @@ Taking more lessons from Pixar as well as storytelling theory from Joseph Campbe
 * Turning point
 
 **Act II (Struggle)**
-* Obstacle
-* Midpoint
-* Crisis
+* Obstacles & Crisis
+* Looking for ways to solve the problem
+* Learning what it will take to actually solve problem
 
 **Act III (Finale)**
 * Climax
-* Denouement
-* Resolution
+* Denouement/Resolution
+* Show what’s been learned
+* Protagonist is changed
 
 #### Create Your 3 Acts
 To understand your own story and character arc, use the following questions to help you create that act structure:
@@ -69,11 +70,9 @@ Your story is one of *transition*. These stories are inherently interesting as t
 **Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring.
 
 #### Examples
-
-
 During a networking event explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story), senior managers who'd been downsized took turns telling what they had done before and what they were looking for next. Here are some takeaways:
 
-* Stories that only recap a list of a person's resume are not interesting to the listener ("First I did this, then I did this, then I did this...")
+* Stories that only recap a list of a person's resume are **not** interesting to the listener ("First I did this, then I did this, then I did this...")
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
 
 
@@ -86,8 +85,8 @@ Conduct research to figure out:
  * What is happening within specific companies?
  * What current challenges are important to these businessess and teams? 
  
-#### Have a theme:
-Identify your top professional qualities and highlights:
+#### Have a theme
+What is one theme you want employers to take away after talking with you or reading your LinkedIn profile or resume? 
 
  * What are your top strengths, values, and accomplishments?
  * What value will you bring to a company? 
