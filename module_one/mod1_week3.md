@@ -132,6 +132,7 @@ Consider:
 * The turning points that led to your career change
 * What you envision for yourself going forward
 
+**Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4. 
 
 ### Next Steps
 Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
@@ -144,7 +145,7 @@ Gather as much feedback as you can:
 
 ## Due Dates & Reminders
 
-* Reminder to complete your networking action step due end of Week 4. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
+* Reminder to complete your networking action step and be ready to provide an update on it in your end of Week 4 PD submission. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
 * Reminder that you can reach out to Allison through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
