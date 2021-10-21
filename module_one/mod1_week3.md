@@ -102,7 +102,7 @@ Consider your values and motivations: what is something that connects your caree
 
 ### Section 3: Telling Your Story Through Branding
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJM4okCLpns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Branding is telling a consistent story. You can also think about it as a process of differentiating yourself by identifying and articulating who you are with a consistent message used across platforms in order to reach a goal, such as furthering your career.
 
@@ -124,6 +124,8 @@ To help you think about what your public-facing story could include, create a ho
 * What are your values and what do you want to achieve with your brand? For example, you might value accessible education, innovative web design, or customer-centered problem solving. 
 * What technologies are you most passionate about? and Why? This answer will help you attract your audience. When your brand is clear and focused you will have indsutry professional seek you out. 
 * What will your brand say about you on social media? 
+
+Here are some [additional branding resources](/resources/branding_resources) for platforms like LinkedIn, GitHub, and Twitter. 
 
 ## Check for Understanding
 Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
