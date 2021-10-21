@@ -7,13 +7,13 @@ title: Module 2 Resume Draft Rubric
 Students submit a rough draft of their technical resume at the end of week 2 in Mod 2. This resume should follow these guidelines from the [lesson](/module_two/mod2_week1) and [resources](/resources/resume_resources) pages, including:
 
 * 1 page
-* .docx file or Google Doc
+* .docx file or PDF for submission
 * All sections clearly outlined (heading, skills, projects, experience, education, optional summary)
 
 ### Scores
 
 **Exceptional**
-* Resume is clean, easy to read, includes all necessary information, and may include more information (projects, skills, experience) than is required for an initial draft
+* Resume is clean, easy to read, includes all necessary information, is ATS-formatted, and may include more information (projects, skills, experience) than is required for an initial draft
 * Skills include anything that has been covered through Mod 2 AND may include some of the skills taught in Mod 3 or a list called “currently learning” to include skills not solidified yet:
     * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML, React, React Router, Accessibility practices
@@ -25,7 +25,7 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
 * Resume doesn’t need any feedback and could be used to apply to jobs as is
 
 **Meets Expectations**
-* Resume is clean, easy to read, includes all necessary information 
+* Resume is clean, easy to read, includes all necessary information, and is ATS-formatted
 * Skills include anything that has been covered through Mod 2:
     * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML
