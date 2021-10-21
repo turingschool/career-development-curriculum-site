@@ -25,8 +25,6 @@ Personal branding is the act of telling a consistent story about yourself, build
 
 ### Section 1: Professional Storytelling
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ukapNsykMEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
 
 Storytelling is our first step in the job search at Turing. You are a member of the software industry now, and as you start connecting with others in the industry, you need to be able to tell the story of your transition -- how did you get here? How do you uniquely make up a part of this industry?
@@ -75,29 +73,34 @@ During a networking event explored in this [Harvard Business Review article](htt
 * Stories that only recap a list of a person's resume are **not** interesting to the listener ("First I did this, then I did this, then I did this...")
 * Stories that focus more on character motives, themes, and turning points -- the moments that cause your listener to ask, "What happened next?" -- are compelling to a listener.
 
-
-As you continue to refine your professional story, consider your audience and identify a theme that can connect your values and goals with the audience. 
+As you continue to refine your professional story, consider your audience for different contexts and identify a theme that can connect your values and goals with the audience. 
  
-#### Know your Audience: 
-Conduct research to figure out: 
+#### Know your Audience 
+Depending on the context, your story will change a little. Think about each of these scenarios and how you might adjust your story depending on your audience:
+
+* Meet and greet networking event
+* 1:1 coffee chat
+* Formal interview
+
+When you're meeting with someone from a specific company, adjust your story to discuss how that company fits into it. Conduct research to figure out: 
 
  * What is happening with specific industries that you are interested in? 
  * What is happening within specific companies?
  * What current challenges are important to these businessess and teams? 
  
-#### Have a theme
-What is one theme you want employers to take away after talking with you or reading your LinkedIn profile or resume? 
+#### Decide on a Theme
+Consider your values and motivations: what is something that connects your career path together? What is one theme you want employers to take away after talking with you or reading your LinkedIn profile or resume? 
 
  * What are your top strengths, values, and accomplishments?
  * What value will you bring to a company? 
 
-### Section 4: Telling Your Story Through Branding
+### Section 3: Telling Your Story Through Branding
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yNyQ2EVZEpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Branding is a process of differentiating ourselves by identifying and articulating your unique value proposition and then leveraging it across platforms with a consistent message and image to achieve a specific goal. 
 
-Essentially You are your brand which includes your image, your mission, your values and your vision! Developing your brand is done by authentically marketing yourself and gaining visibiity on social media. 
+Branding is telling a consistent story. You can also think about it as a process of differentiating ourselves by identifying and articulating who you are with a consistent message used across platforms in order to communicate who you are.
+
+Essentially, you are your brand. This includes your image, your mission, your values, and your vision! Developing your brand is done by authentically marketing yourself and gaining visibiity on social media. 
 
 As a career changer your story = your brand = your rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
 
@@ -108,7 +111,7 @@ Why is this important? According to the online reputation management consultantc
 * 27% have searched for someone they met in a professional setting, such as a networking event.
 * 23% of US adults have looked up a coworker.
 
-#### Getting clear on these areas will help employers relate to your brand
+#### Getting Clear on Your Brand
 
 * What is your desired position in the industry? For example, a self taught developer turned Rubyist or a Front end developer with love for education. 
 * What is your developer career story? How did you get here and why this field?
@@ -116,7 +119,8 @@ Why is this important? According to the online reputation management consultantc
 * What technologies are you most passionate about? and Why? This answer will help you attract your audience. When your brand is clear and focused you will have indsutry professional seek you out. 
 * What will your brand say about you on social media? 
 
-## Application (10 min):  The goal is to create a holistic view of your career successes and accomplishments. 
+### Application (10 min)
+The goal is to create a holistic view of your career successes and accomplishments. 
 
 1. Review the following [Professional Story and Branding document](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). The tabs are in order of how you should review and complete the work. 
 2. Review and complete the branding framework reflection questions
