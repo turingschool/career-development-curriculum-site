@@ -18,8 +18,6 @@ Allow yourself 45-60 mins to read through the lesson plan and watch the video le
 
 ## Week 3 Lesson: Professional Storytelling & Branding
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BZ2CzB6hm_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to build connections for your future career.
 
 From your professional story, we'll craft your LinkedIn summary, your resume, and your Terminal portfolio. And this is how you can inspire others through blog posts, personal websites, projects, and more.
@@ -27,6 +25,8 @@ From your professional story, we'll craft your LinkedIn summary, your resume, an
 Personal branding is the act of telling a consistent story about yourself, building out the details of this story with each profile. As you start this new career, telling your story as a new member of the software industry in as many consistent ways as possible will help you stand out and embrace that identity even more.
 
 ### Section 1: Professional Storytelling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZ2CzB6hm_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We are all inherent storytellers. Stories are how we connect with each other. From fairy tales to novels to movies to podcasts, stories provide a way for people to share their experiences with others, building empathy and awareness of our universal experiences.
 
