@@ -104,7 +104,7 @@ Essentially, you are your brand. This includes your image, your mission, your va
 
 As a career changer, your story = your brand = your rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
 
-Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
+Why is this important? According to the online reputation management consultancy, [BrandYourself](https://brandyourself.com/):
 
 * 82% of business decision makers said that presence in search results was an influential factor when vetting people online.
 * 42% of US adults looked someone up before deciding to do business with them.
@@ -120,7 +120,7 @@ To help you think about what your public-facing story could include, create a ho
 * What will your brand say about you on social media? 
 
 ## Check for Understanding
-Now, take some time to build out your professional story and your personal brand framework using this [Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). 
+Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
 
 1. Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
 2. Review and complete the branding framework reflection questions.
