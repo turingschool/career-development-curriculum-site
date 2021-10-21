@@ -17,6 +17,9 @@ This session will cover:
 Allow yourself 45-60 mins to read through the lesson plan and watch the video lectures below. Complete [this reflection sheet](https://docs.google.com/document/d/11nji0XRnS1hGrlDD_PYJiOsF3ACpyNtMYkOGN1L9EPo/edit?usp=sharing) as you go (make a copy by going to File > Make a copy).
 
 ## Week 3 Lesson: Professional Storytelling & Branding
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZ2CzB6hm_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We've been focusing on your strengths and how you work, both at Turing and in previous experiences. In this lesson, we'll build off of those conversations to craft a compelling story that describes who you are, how you came to this industry, and where you see yourself going. This is a story that you'll tell employers, colleagues at networking events, and even your Turing community in order to build connections for your future career.
 
 From your professional story, we'll craft your LinkedIn summary, your resume, and your Terminal portfolio. And this is how you can inspire others through blog posts, personal websites, projects, and more.
