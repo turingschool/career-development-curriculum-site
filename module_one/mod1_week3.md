@@ -39,6 +39,9 @@ Let's start by thinking about stories. What do you love about stories? Emma Coat
 **Action Item:** Take a few minutes before moving on to the next video to answer the questions on [this note-taking sheet](https://docs.google.com/document/d/11nji0XRnS1hGrlDD_PYJiOsF3ACpyNtMYkOGN1L9EPo/edit?usp=sharing) about a story that is meaningful to you and why you connect with it. Pulling apart this story will help you think about how you can connect with others through your own story.  
 
 ### Section 2: Develop Your Professional Story
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kF3F5KVY7ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Taking more lessons from Pixar as well as storytelling theory from Joseph Campbell, most stories (in the western tradition at least) follow the 3-Act Arc. Your story should too!
 
 **Act I (Set-Up)**
