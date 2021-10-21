@@ -98,11 +98,11 @@ Consider your values and motivations: what is something that connects your caree
 
 
 
-Branding is telling a consistent story. You can also think about it as a process of differentiating ourselves by identifying and articulating who you are with a consistent message used across platforms in order to communicate who you are.
+Branding is telling a consistent story. You can also think about it as a process of differentiating yourself by identifying and articulating who you are with a consistent message used across platforms in order to reach a goal, such as furthering your career.
 
 Essentially, you are your brand. This includes your image, your mission, your values, and your vision! Developing your brand is done by authentically marketing yourself and gaining visibiity on social media. 
 
-As a career changer your story = your brand = your rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
+As a career changer, your story = your brand = your rebrand! Your goal is to stay true and authentic to who you are and lead with your strengths and values.  What impression or story about yourself do want to create as you get rooted in the tech industry?
 
 Why is this important? According to the online reputation management consultantcy, [BrandYourself](https://brandyourself.com/):
 
@@ -112,22 +112,19 @@ Why is this important? According to the online reputation management consultantc
 * 23% of US adults have looked up a coworker.
 
 #### Getting Clear on Your Brand
+To help you think about what your public-facing story could include, create a holistic view of your career successes and accomplishments. Here are some additional questions to consider:
 
-* What is your desired position in the industry? For example, a self taught developer turned Rubyist or a Front end developer with love for education. 
-* What is your developer career story? How did you get here and why this field?
-* What are your values and what do you want to achieve with your brand? For example, You value accessible education, innovative web design, or customer centered problem solving. 
+* What is your desired position in the industry? For example, a self-taught developer turned Rubyist or a Front-end developer with love for education. 
+* What are your values and what do you want to achieve with your brand? For example, you might value accessible education, innovative web design, or customer-centered problem solving. 
 * What technologies are you most passionate about? and Why? This answer will help you attract your audience. When your brand is clear and focused you will have indsutry professional seek you out. 
 * What will your brand say about you on social media? 
 
-### Application (10 min)
-The goal is to create a holistic view of your career successes and accomplishments. 
+## Check for Understanding
+Now, take some time to build out your professional story and your personal brand framework using this [Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). 
 
-1. Review the following [Professional Story and Branding document](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). The tabs are in order of how you should review and complete the work. 
-2. Review and complete the branding framework reflection questions
-3. Review and complete the Running list of accomplishments document
-
-##  Check for Understanding
-1. Write your story! Get clear on your path using [this Career Story template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing). Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+1. Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+2. Review and complete the branding framework reflection questions.
+3. Review and complete the running list of accomplishments tab.
 
 Consider:
 
@@ -135,7 +132,9 @@ Consider:
 * The turning points that led to your career change
 * What you envision for yourself going forward
 
-2. Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
+
+### Next Steps
+Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
 
 Gather as much feedback as you can:
 * Is it clear why you're entering this career?
@@ -145,8 +144,7 @@ Gather as much feedback as you can:
 
 ## Due Dates & Reminders
 
-* By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
-* Reminder to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
+* Reminder to complete your networking action step due end of Week 4. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
 * Reminder that you can reach out to Allison through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
