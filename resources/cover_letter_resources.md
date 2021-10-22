@@ -8,7 +8,7 @@ If we were to sum up the cover letter and how it compares to your resume in one 
 
 ### Templates to Get You Started
 If you're having trouble getting started, check out some of the below templates, but make sure to *customize* your cover letter each time you write one:
-* [JobScan General Cover Letter](https://drive.google.com/file/d/0ByjaebCKc6FneUVmOExtOXpKd28/view?usp=sharing)
+* [JobScan General Cover Letter](https://docs.google.com/document/d/1_UhzVQAWHdLruR8zaxpy92mafX8phDwo2lOjuXpHL-w/edit#)
 * [JobScan General Cover Letter ](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)
 
 ### General Advice
