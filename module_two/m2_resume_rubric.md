@@ -18,7 +18,7 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
     * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML, React, React Router, Accessibility practices
     * Both: TDD (Mocha/Chai), Git, GitHub, Agile practices, APIs, Project management tools
-* Projects section is built out and includes 2-3 projects; descriptions provide explicit detail to understand the projects
+* Projects section is built out and includes 2-3 projects; descriptions provide explicit detail to understand the projects. Links to project repos and links to the deployed version (if applicable) are included
 * Experience section highlights transferable skills
 * Education section includes Turing (experience section only includes Turing if no other professional experience) 
 * If a summary is used, it’s concise (3 sentences max), provides info on background tied to new career and highlights transferable skills and/or personal values
@@ -30,7 +30,7 @@ Students submit a rough draft of their technical resume at the end of week 2 in 
     * BE: Ruby, Rails, SQL, ActiveRecord
     * FE: JavaScript, CSS, HTML
     * Both: TDD (Mocha/Chai), Git, GitHub, Agile practices
-* Projects section is built out and includes at least 2 projects
+* Projects section is built out and includes at least 2 projects; language may be more of a placeholder but still has space for all details. Links to project repos are included.
 * Experience section highlights transferable skills
 * Education section includes Turing (experience section only includes Turing if no other professional experience) 
 * If a summary is used, it’s concise (3 sentences max), provides info on background tied to new career
