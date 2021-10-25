@@ -34,6 +34,10 @@ Each week, you'll have the opportunity to participate in a variety of small grou
 
 There will also be regular working sessions and self-care-focused sessions.
 
+## Resources to Help You with Your Job Search
+
+Are you sending out a lot of resumes but not getting a response? Review the ATS information and watch the [video here](/module-5/ats_async)
+
 ### Mental Health Support
 Reminder that job seekers in good standing continue to have access to Turing's mental health counselor Jun Akiyama. If you are located in Colorado, you can sign up directly for a 1:1 session with Jun. If you are not located in Colorado, you can still join the lunch groups that Jun hosts every week. Find out more in #announcements on Slack or [here](https://sites.google.com/casimircreative.com/counseling). 
 
