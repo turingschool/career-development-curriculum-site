@@ -67,6 +67,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Tech Ladies](https://www.hiretechladies.com/) is a community for women and non-binary folks. You have to apply to join, but once accepted, you'll have access to jobs from partnering companies.
 * [Black Career Network](https://www.blackcareernetwork.com/) connects Black professionals with job opportunities. 
 * [Chezie](https://www.chezie.co/) is a diversity career platform that allows you to search by both companies that value DEI and view job postings. 
+* [Elpha](https://elpha.com/talent-pool) is a community for women to discover career opportunities in tech and network with other women in the field. 
 
 ### Search by...job listings
 * Turing's Terminal Job Board postings in #job-hunt on Slack
