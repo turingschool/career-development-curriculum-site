@@ -62,8 +62,8 @@ As you list your past experiences, your accompanying description should not be b
 * Instead of listing tasks, discuss value of your past work.
    * What value did you bring to this company?
 * Link to the name of the company
-   * List Turing under experience but clearly state that you're a student
-   * Edit your title to "Software Developer Student," "Back End Engineering Student," or "Front End Engineering Student"
+   * List Turing under experience but clearly state that you're a student in the description of the experience. 
+   * Avoid using the word "student" in any titles
    * Describe your experience while at Turing; list technologies and value you’ve created through your project work
 
 **Education:**
