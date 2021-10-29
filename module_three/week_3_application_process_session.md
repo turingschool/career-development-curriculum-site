@@ -128,6 +128,12 @@ If you find yourself with:
 * Grammar and spelling errors, try [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/). Reading cover letters aloud or having a peer proofread will also help you catch a lot of those mistakes.
 
 
+
+## Check for Understanding
+
+Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
+
+
 ## Due Dates & Reminders
 
 1. **Resume updated:**
@@ -138,8 +144,3 @@ If you find yourself with:
    * **Due date #1: Wednesday of Week 5** during homeroom
    * **Final due date: EOD Friday of Week 5** in end of mod survey 
 
-
-
-
-### Synthesis
-Work on a cover letter for a job you are interested in based on a job description and share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
