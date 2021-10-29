@@ -57,29 +57,19 @@ Skip down to:
    * What challenges do you anticipate about networking? How can you help each other with these challenges?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-Today's discussion is focused on cover letters. 
+Today's discussion is focused on the cover letters you should have completed after the week 4 lesson.
 
 1. Revisit norms on how your group wants to work together (5 mins)
-2. Start by reading through the following cover letters (15 mins):
-
-   * [April Dagonese](/files/April%20Cover%20Letter.pdf)
-   * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-   * [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
-   * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
+2. Start by reading through your cover letters (30 mins). Feel free to either read them aloud or pass them around for peer feedback.
 
    Discuss:
 
-   * What do you notice about these cover letters?
+   * What do you notice about the cover letters?
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Next, we're going to put some of these ideas into practice (30 mins). 
 
-   * Read through some of the [cover letter points from the lesson last week](/module_three/week_3_application_process_session) and [this resource guide](/resources/cover_letter_resources).
-   * Find a job you'd be interested in applying to. If you're not sure how to find a job for this exercise, check out recent postings in #job-hunt on Slack or use [one of the many resources here](/resources/finding_opportunities).
-   * Read through the posting and start on a cover letter for that position. Be ready to share a summary of what you're putting into this cover letter with the rest of the group.
-
-4. Share the posting you found and discuss how you're approaching the cover letter: what keywords are you pulling out of the job posting to highlight in the cover letter? How are you describing yourself as the right candidate for what they're looking for?  The group will give you feedback by responding to these questions (10 mins):
+3. Share the job posting you used for your cover letter and discuss how your approach; what keywords are you pulling out of the job posting to highlight in the cover letter? How are you describing yourself as the right candidate for what they're looking for?  The group will give you feedback by responding to these questions (10 mins):
 
    * What is effective about this person's approach with their cover letter?
    * How could they make their cover letter more effective?
