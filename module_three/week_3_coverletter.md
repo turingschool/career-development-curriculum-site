@@ -131,7 +131,20 @@ If you find yourself with:
 
 ## Check for Understanding
 
-Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
+Start by reading through the following cover letters (15 mins):
+
+   * [April Dagonese](/files/April%20Cover%20Letter.pdf)
+   * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
+   * [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
+   * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
+
+   Make note:
+
+   * What do you notice about these cover letters?
+   * What is effective? What value could they bring to the company? How do you know?
+   * What could be changed to make the letter more effective?
+
+#### Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
 
 
 ## Due Dates & Reminders
