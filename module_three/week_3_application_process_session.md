@@ -9,6 +9,19 @@ This lesson is a review of the application process and a starting point with cov
 
 Please complete the lesson plan as well as all check for understanding action items
 
+### Introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szbMDbKWIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please allow yourself 30-40 minutes to complete this lesson plan.
+
+* Introduction 
+* Review of the Application Process 
+* Purpose of the Cover Letter 
+* Parts of the Cover Letter 
+* Tips/tricks and things to avoid 
+
+
 ### Learning Goals
  
 After you complete this lesson you should be able to:
