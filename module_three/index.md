@@ -13,7 +13,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Week 2: [Interview Prep](/module_three/mod3_week5)
 * Week 3: No Session [Job Shadow Prep](/module_three/job_shadow_overview)
 * Week 4: [Cover Letters](/module_three/week_3_application_process_session)
-* Week 5: 
+* Week 5: Work on what is due this week! 
 
 ### Deliverables & Due Dates
 
