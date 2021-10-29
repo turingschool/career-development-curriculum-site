@@ -46,7 +46,9 @@ The skills you have listed on your resume should match the skills that the compa
 
 [JobScan](https://www.jobscan.co/) is a great tool that allows you to upload a job posting and your resume to see how they match up to optimize your chances.
 
-#### Step #3: Cover Letters
+#### Final step!: Cover Letters
+
+##### Why even write a cover letter? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dr5KXXZEhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -70,6 +72,31 @@ Now, create a connection between you and the company:
 
 * What can we do together?
 * It’s not about what you can *get* from them; it’s about what you can *give* to them
+
+
+#### But, how do I format the cover letter? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lW0JbWwrj_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### First paragraph: The hook 
+
+* Show why you’re interested in the position
+* Mention how you found out about the opening 
+* State the position you’re applying
+* Use the title from the job listing
+
+##### Middle paragraph: Why you? Why this company? 
+
+* Connect your accomplishments, skills and knowledge to the position and company
+* Demonstrate the soft skills the role requires by using examples from your experience
+* Tie the company to your experiences
+
+
+##### Final paragraph: Now, bring the company + you together
+
+* Summarize what you would bring to the position and suggest next steps by requesting a meeting or a call (be specific) 
+* Thank them for reading your materials
+* Ask for the interview
 
 ### Do's and Don'ts on Cover Letters
 
