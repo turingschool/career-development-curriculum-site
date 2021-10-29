@@ -37,15 +37,14 @@ After you complete this lesson you should be able to:
 
 Please review section 2 of [this lesson](https://careerdev.turing.edu/module_two/mod2_week3) to review the application process. 
 
-The actual application refers to 3 things:
+The actual application you submit refers to 3 things:
 
 * Analyzing the job posting
 * Customizing your resume
 * Customizing your cover letter
 
-However, it’s important to note that application materials can only get you so far. It’s crucial that you’re building relationships at the company. Why? Employee [referral candidates are up to 4x as likely to be hired as non-referral candidates.](https://medium.com/@mikestafiej/employee-referral-statistics-you-need-to-know-for-2020-infographic-19cc720380f2)
 
-That said, your application materials do matter! Common mistakes we see from job seekers include not thoroughly reading the job posting and not customizing resumes and/or cover letters. So, once again, you should **always** customize your application materials. Not doing so hurts your chances at the company. Let's take a look at these steps more closely.
+Your application materials do matter! Common mistakes we see from job seekers include not thoroughly reading the job posting and not customizing resumes and/or cover letters. So, once again, you should **always** customize your application materials. Not doing so hurts your chances at the company. Let's take a look at these steps more closely.
 
 #### Step #1: Analyze the Job Posting
 In any job posting, pay attention to the keywords that are used. Words that are used more than once are very important, and these are the words you want to make sure to incorporate into your resume and cover letter. Highlight the words and phrases in the posting that speak to specific skills or experience that you have as well as specific skills or experience that are similar to what you have done in the past.
@@ -128,17 +127,6 @@ If you find yourself with:
 * A cover letter that is all about you, try reframing sentences about you by starting the sentence talking about the company and seguing into how you can provide value to them based on your experiences and skills
 * Grammar and spelling errors, try [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/). Reading cover letters aloud or having a peer proofread will also help you catch a lot of those mistakes.
 
-#### Cover Letter Activity
-Look through the cover letters of alumni listed here and consider:
-
-* [April Dagonese](/files/April%20Cover%20Letter.pdf)
-* [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-* [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
-* [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
-
-* What do you notice about these cover letters?
-* What is effective? What value could they bring to the company? How do you know?
-* What could be changed to make the letter more effective?
 
 ### Synthesis
 Work on a cover letter for a job you are interested in based on a job description and share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
