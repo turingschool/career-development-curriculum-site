@@ -47,6 +47,10 @@ The skills you have listed on your resume should match the skills that the compa
 [JobScan](https://www.jobscan.co/) is a great tool that allows you to upload a job posting and your resume to see how they match up to optimize your chances.
 
 #### Step #3: Cover Letters
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dr5KXXZEhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Cover letters can seem daunting, but they don't have to be. It's important to understand their importance in order to know how to write them well. A common misconception is that a cover letter should be all about you as the candidate. However, your cover letter is actually a space to demonstrate your understanding of the company. Another common misconception is that a cover letter should regurgitate everything on your resume. It should actually complement your resume; your resume is a space to tell about you, your cover letter allows you to *show* much more.
 
 Start with this frame in your mind -- the cover letter is a love letter to the company. How? Again, start by demonstrating your understanding of the company.
