@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Application Process
+title: Cover Letters
 ---
 
 ## Overview
