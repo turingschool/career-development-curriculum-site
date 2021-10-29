@@ -3,33 +3,27 @@ layout: page
 title: The Application Process
 ---
 
+## Overview
+
+This lesson is a review of the application process and a starting point with cover letters.
+
+Please complete the lesson plan as well as all check for understanding action items
+
 ### Learning Goals
-* Continue making connections between career roadmap and job search strategy
-* Understand and apply best practices for writing cover letters
-* Evaluate different cover letters
-* Analyze a job posting in order to understand how approach a cover letter for it
+ 
+After you complete this lesson you should be able to:
 
-### Overview
-How do you find job opportunities?
-
-Try searching by:
-
-* Specific companies
-* Culture
-* Tech stack
-* Networking groups
-* Job listings
-* Recruiter sites
-
-You can find all this information synthesized here in the [Resources page on Finding Opportunities](/resources/finding_opportunities).
-
-And consider all the components of the job search process:
-
-![Job Search Strategy Chart](/images/Job%20Search%20Strategy%20Chart.png)
-
-Let's look at the 4th step on what goes into the actual application.
+* Have a solid understanding of the application process
+* Understand the purpose of a cover letter 
+* Reflect on what needs to be in a cover letter
+* Draft/write a cover letter for a job application 
+ 
+ 
 
 ### Application Process
+
+Please review section 2 of [this lesson](https://careerdev.turing.edu/module_two/mod2_week3) to review the application process. 
+
 The actual application refers to 3 things:
 
 * Analyzing the job posting
@@ -74,6 +68,9 @@ Now, create a connection between you and the company:
 * It’s not about what you can *get* from them; it’s about what you can *give* to them
 
 ### Do's and Don'ts on Cover Letters
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9qbQqpWfn1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 There is no one-size-fits-all way to write a cover letter; there are multiple ways to write an effective cover letter. However, there are some general rules to follow:
 
 * Any time you mention yourself **connect** it explicitly to the job/company
