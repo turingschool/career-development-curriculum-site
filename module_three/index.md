@@ -27,7 +27,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **Due date #1** Submit your resume to [CV Compiler](https://cvcompiler.com/students/turingschool) using promo code **TuringSchool** by **EOD Wednesday of Week 4**
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 3. **Create a cover letter based on a job description:** 
-   * Directions listed [here]
    * **Due date #1: Wednesday of Week 5** during homeroom
    * **Final due date: EOD Friday of Week 5** in end of mod survey (below)
 4. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
