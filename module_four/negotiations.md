@@ -73,7 +73,7 @@ Here's how we recommend you respond:
   	* During this discussion, you may be talking with a hiring manager. Don’t be offended if they ask you again -- they are just doing what they've been told, and they might not be equipped to go through a negotiation at that time. You should still push back about wanting to know more about what is being offered.
   	* If you're filling out an online form, and it expects an answer, it's fine to write in 0 or $1 and mention that you want to have a follow-up discussion (as all salary discussions should be).
 
-* If you're pushed to give a number, use the median Turing grad starting salary, which is $75,750. **AND you should also take that opportunity to sell yourself to explain why you deserve more.**
+* If you're pushed to give a number, use the average Turing grad starting salary (you can find the [latest quarterly data here](https://turing.edu/outcomes/)). **AND you should also take that opportunity to sell yourself to explain why you deserve more.**
 	* What traits can you describe yourself with to create leverage? Examples:
 		* "I can provide references”
 		* "I have these applicable skills from my previous experience..."
