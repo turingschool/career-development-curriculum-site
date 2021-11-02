@@ -118,13 +118,18 @@ Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J
 * [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
 * [Natsai Ndebele](https://www.linkedin.com/in/natsai-ndebele/)
 * [Xand Griffin](https://www.linkedin.com/in/xandgriffin/)
-3. You should also start to work on your building/updating your LinkedIn profile today. Check out these additional [resources and tips](/resources/branding_resources). You'll have additional time to work on this in week 5, and your week 5 homeroom group will be a workshop on your profiles. 
+3. You should also start to work on your building/updating your LinkedIn profile today. Check out these additional [resources and tips](/resources/branding_resources) to submit at the end of this week.
 
 ## Reminders
-* By the end of Mod 1, you should have completed a LinkedIn summary statement using your professional story.
-* Reminder to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
-
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
+* **Due this Friday [here](https://airtable.com/shrC9S9ymEtpUWWw9)**:
+  * Updates on your networking action step
+  * Your LinkedIn rough draft:
+    * Professional-looking headshot
+    * Updated headline statement
+    * Summary statement using your professional story
+    * Turing added to Experience and Education sections
+ 
+* Reminder that you can reach out to Allison through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
       * Stress management
@@ -133,5 +138,5 @@ Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J
       * Using your Pairin data for growth
     
     * All coaching sessions are completely confidential.
-
+ 
 * Check out upcoming PD office hours and bring your questions!
