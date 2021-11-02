@@ -118,7 +118,7 @@ Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J
 * [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
 * [Natsai Ndebele](https://www.linkedin.com/in/natsai-ndebele/)
 * [Xand Griffin](https://www.linkedin.com/in/xandgriffin/)
-3. You should also start to work on your building/updating your LinkedIn profile today. Check out these additional [resources and tips](/resources/branding_resources) to submit at the end of this week.
+3. You should also start to work on your building/updating your LinkedIn profile today to submit at the end of this week. Check out these additional [resources and tips](/resources/branding_resources).
 
 ## Reminders
 * **Due this Friday [here](https://airtable.com/shrC9S9ymEtpUWWw9)**:
