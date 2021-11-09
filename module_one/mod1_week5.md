@@ -28,18 +28,17 @@ This workshop takes place during Week 5 Homeroom:
       * On a scale of 1-5, how confident do you feel about sharing your professional story? 
       * What areas do you feel most confident in when sharing your professional story?
       * What areas do you want to improve on when sharing your professional story?
-   * Share where each person is in completing their LinkedIn rough draft:
-      * If you haven't started your LinkedIn profile or made updates yet this module, this is what you should spend time on first.
+   * Share how each person feels about their LinkedIn rough draft:
+      * On a scale of 1-5, how effective do you feel your LinkedIn profile is right now? '
+      * What areas do you feel most confident in for your LinkedIn?
+      * What areas do you want to improve on in your LinkedIn?
+3. Each person shares their LinkedIn profile and the group provides feedback that is **specific, actionable, and kind** (20 mins):
+   * What is working well? Examples: strong understanding of why they are changing careers; know what transferable skills they bring from their previous experiences; understand the kinds of technologies they are currently learning/specialize in; 
+   * What could be improved? Examples: it's not clear yet why you changed careers to become a software developer; it's not clear what kind of software developer you are; it's not clear what kinds of jobs you are looking for.
+4. Use the remaining time to make updates based on the feedback you received. 
       * If you have already gotten the minimum requirements completed on your LinkedIn, focus on:
           * Adding contacts (with a note!)
           * Creating a post about a recent project
           * [Looking ahead to how you'll structure your resume](/resources/resume_resources)
-3. Work time on your LinkedIn (15 mins)
-4. Each person shares their professional story and/or LinkedIn profile and the group provides feedback that is **specific, actionable, and kind** (20 mins):
-   * What is working well? Examples: strong understanding of why they are changing careers; know what transferable skills they bring from their previous experiences; understand the kinds of technologies they are currently learning/specialize in; 
-   * What could be improved? Examples: it's not clear yet why you changed careers to become a software developer; it's not clear what kind of software developer you are; it's not clear what kinds of jobs you are looking for.
-5. Use the last 10 minutes to make updates based on the feedback you received. 
-
-### Reminders
-* Next module, you'll start to focus on your resume. **Please make it a priority for your LinkedIn to be in good shape before the Mod 2 starts.** If you have any questions on this, please reach out to Allison.
-* Complete this [end of mod 1 self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by EOD Monday of Week 6.
+      * Make sure to add each other as connections and endorse each other for skills.
+      * Consider writing recommendations for your project partners from this module and asking them to do the same for you. 
