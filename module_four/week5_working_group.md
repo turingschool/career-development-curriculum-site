@@ -4,25 +4,26 @@ title: End of Module Working Group - Week 5
 ---
 
 ### Overview
-This is your final PD activity during this module. By the end of the module, the goal is for you to achieve:
+You have all worked hard to get your career materials optimized for job search;you should feel good about this!  Take this time to reflect and priortize your next steps.
 
-* LinkedIn updated and polished
-* Final polished draft of your resume
-* Terminal portfolio updated and published
-* Applied to at least 1 job opportunity using the 5 step job search process
 
 ### Working Group Guidelines
-Your homeroom today is a time to work on the above deliverables and get feedback from each other. Here is how you can structure your time:
-
 1. Revisit your norms as a group to understand how you'll approach feedback with each other in this space (5 mins)
-2. Status check (5 mins)
-   * What do you feel best about right now as it relates to preparing for your job search? 
-   * What is 1 action item you want to spend time working on today? What is your goal to have completed by the end of today’s working session?
-3. Spend 30 minutes working on your chosen deliverable. 
-4. Use the remaining 20 minutes for feedback. Each person gets a chance to share what they've been working on for about 5-7 minutes and each person should provide feedback that is **specific, actionable, and kind.** 
 
-### Reminders & Resources
-* [LinkedIn Best Practices](/resources/branding_resources)
-* [Resume Resources](/resources/resume_resources)
-* [Cover Letter Resources](/resources/cover_letter_resources)
-* [Terminal Portfolio Directions](/resources/terminal_directions)
+2. To start, take a few minutes to reflect on your career development journey as a Software Developer, how are you embracing your developer identity? **Today, you are a software developer!**  If you dont think so, think back to Mod 1. How have you changed and grown? (3-5 mins)
+
+3. Next, if each person can share your response to the following question either out loud or in the chat:  
+     * What is at least one way you have embraced your developer identity? Or said another way, how are you embracing your career transition as a software developer? (10-15 mins)
+   
+4. Now, take the next 6-8 minutes to read the following article on;
+    * [The Importance of Community Building During a Job Search](https://www.bethechangecareers.com/the-importance-of-community-building-during-a-job-search/)
+    
+5.  Be prepared to discuss the following questions: (30 mins) 
+    * Which of the 5 elements of a community building centered job search resonated with you most? Why? 
+    * How will you use your developer identity for a stronger connection during the Mod 5 job search? 
+    * What accountability systems will you use or develop? 
+    * What resources or people will you need? 
+   
+6. Take notes of these disussion points to use as you plan for intermission and starting Mod 5. You will have more opportunities to develop your job search plan! 
+    
+
