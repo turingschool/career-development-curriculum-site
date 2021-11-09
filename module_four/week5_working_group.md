@@ -4,7 +4,7 @@ title: End of Module Working Group - Week 5
 ---
 
 ### Overview
-You have all worked hard to get your career materials optimized for job search;you should feel good about this!  Take this time to reflect and priortize your next steps.
+You have all worked hard to get your career materials optimized for job search;you should feel good about this!  As you prepare for your next steps in your job hunt; it will important to reflect on who you are now and how to stay connected during the this transition period. 
 
 
 ### Working Group Guidelines
