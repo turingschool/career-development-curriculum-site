@@ -8,7 +8,7 @@ Find resources here specifically for veterans:
 ### Networking
 * [Vets in Tech](https://vetsintech.co/) supports current and returning veterans with re-integration services and through connections to the national technology ecosystem.
 * [Free 1-year Premium subscription to LinkedIn](https://socialimpact.linkedin.com/programs/veterans/premiumform)
-* [1 hour mentorship resource for all veterans about any subject](www.veterati.com). How it works: You set up a profile, and then search for mentors you want to chat with - there’s an automated call feature that connects you at a pre-determined time. I’ve probably had over 30 calls with vets in the industry.
+* [1 hour mentorship resource for all veterans about any subject](https://www.veterati.com). How it works: You set up a profile, and then search for mentors you want to chat with - there’s an automated call feature that connects you at a pre-determined time. I’ve probably had over 30 calls with vets in the industry.
 
 ### Training, Upskilling, & Career Counseling
 * [CSS Learning Academy](https://ccslearningacademy.com/veteran-training-career-resources) provides resources and training for veterans if you want to add to your technical skillset
