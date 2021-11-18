@@ -29,7 +29,7 @@ Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 ### What You'll Work On
 For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
 
-1. Goal #1: Build a professional skill(s) that will contribute to your success at Turing.
+**Goal #1:** Build a professional skill(s) that will contribute to your success at Turing.
 
 Here are some examples:
   * Organization & time management
@@ -38,7 +38,7 @@ Here are some examples:
   * Stress management
   * Take on a leadership role within your cohort through organizing study groups, leading a review session for the class, assisting SLC reps in facilitating cohort retros, organizing a non-coding social activity, etc.
   
-2. Goal #2: Build a professional skill(s) that will contribute to your professional development and further your job search.
+**Goal #2:** Build a professional skill(s) that will contribute to your professional development and further your job search.
 
 Here are some examples:
   * Networking:
@@ -48,14 +48,14 @@ Here are some examples:
   * Interviewing:
      * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
      * Practice your professional story with your homeroom group, mentor, or another person in your support system
-     * Write out stories using the STAR method to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
+     * Write out stories to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
   * Materials:
-     * Create and update your resume using [these guidelines](/resources/resume_resources)
+     * Update your resume using [these guidelines](/resources/resume_resources)
      * Have your mentor review your resume
      * Update your LinkedIn profile using [these guidelines](/resources/branding_resources)
      * Write a blog post about something you're learning
   * Job Search Strategies
-     * Update your [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit?usp=sharing)
+     * Work on the [Flower Exercise](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing), [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit), or a DTR for your job search. 
      * Search through [resources here](/resources/finding_opportunities) and pull out 2-3 to use in building your job search strategy
   * Negotiations
      * Start on research into companies' [salary ranges](https://www.levels.fyi/) to know what to expect in your job search. 
