@@ -25,14 +25,13 @@ By the end of Mod 1, you should have completed:
 
 1. **1 networking activity:**
    * Create one networking goal from the [Week 2 lesson](/module_one/mod1_week2) to complete by the end of the module. 
-   * **Due date #1: EOD Friday of Week 4**, submitted through survey shared in your channel. You should submit information either on the networking that you've already done and the results OR your plan to have it completed by the end of Week 5
-   * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
+   * **Due by EOD Friday of Week 5** submitted through end of mod survey (below). You should submit information on the networking that you've engaged in during Mod 1 and the results. 
 2. **LinkedIn rough draft** that includes:
    * Professional-looking headshot
    * Updated headline statement
    * Summary statement using your professional story
    * Turing added to Experience and Education sections 
-   * **Due date #1:** Submit your LinkedIn URL through a survey sent to your channel by **EOD Friday of Week 4.** You will receive feedback on your LinkedIn draft by mid-week Week 5
+   * **Due date #1:** Submit your LinkedIn URL through [this survey](https://airtable.com/shrC9S9ymEtpUWWw9) by **EOD Friday of Week 4.** If you are missing any elements of your LinkedIn, you will receive feedback by mid-week Week 5.
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 3. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
 
