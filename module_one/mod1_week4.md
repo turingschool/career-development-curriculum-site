@@ -122,7 +122,6 @@ Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J
 
 ## Reminders
 * **Due this Friday [here](https://airtable.com/shrC9S9ymEtpUWWw9)**:
-  * Updates on your networking action step
   * Your LinkedIn rough draft:
     * Professional-looking headshot
     * Updated headline statement
