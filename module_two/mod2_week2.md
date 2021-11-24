@@ -176,9 +176,9 @@ Test it out! Send the message!
 
 ## Due Dates & Reminders
 
-* Your ATS-ready (read: plain, straightforward information), 1-page resume draft that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
+* Your ATS-ready (read: plain, straightforward information), 1-page resume draft that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 3.** 
 
-* Your list of 4 warm contacts and 4 cold contacts and 1 action step that you'll take for networking is due as a survey submission on **Friday of Week 3**
+* Create your list of 4 warm contacts and 4 cold contacts and decide on 1 action step that you'll take for networking.
 
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
