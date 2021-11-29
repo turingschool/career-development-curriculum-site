@@ -26,8 +26,8 @@ During homeroom group time, some of the discussion topics will pertain to the se
 
 Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 
-### What You'll Work On
-For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
+### Suggestions for What to Work on
+For this module, we suggest creating 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What could these goals look like? 
 
 #### Goal #1: Build a professional skill(s) that will contribute to your success at Turing.
 
@@ -51,9 +51,9 @@ Here are some examples:
      * Practice your professional story with your homeroom group, mentor, or another person in your support system
      * Write out stories to describe each of your projects, including the objective of the project, the successes, the challenges, and what you learned that will make you a stronger developer. Keep these in an "interview prep" document to continue to add to as you go through the program
   * Materials:
-     * Update your LinkedIn according to [these guidelines](/resources/branding_resources)
-     * Start on your resume using [these guidelines](/resources/resume_resources)
-     * Write a blog post about something you're learning
+     * Continue to update your LinkedIn according to [these guidelines](/resources/branding_resources)
+     * Start on your resume following [this lesson from Mod 2](/module_two/mod2_week1)
+     * Write a blog post about something you're learning that you can share on LinkedIn or Twitter for your networks
 
 #### Template for Defining & Tracking Your Goals
 Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
