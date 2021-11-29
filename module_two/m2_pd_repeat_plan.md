@@ -26,8 +26,8 @@ During homeroom group time, some of the discussion topics will pertain to the se
 
 Reminder on [Homeroom Group expectations](/student_discussion_groups/).
 
-### What You'll Work On
-For this module, you should create 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What should these goals look like? 
+### Suggestions for What to Work on
+For this module, we suggest creating 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What could these goals look like? 
 
 **Goal #1:** Build a professional skill(s) that will contribute to your success at Turing.
 
@@ -53,7 +53,7 @@ Here are some examples:
      * Update your resume using [these guidelines](/resources/resume_resources)
      * Have your mentor review your resume
      * Update your LinkedIn profile using [these guidelines](/resources/branding_resources)
-     * Write a blog post about something you're learning
+     * Write a blog post about something you're learning that you can share on LinkedIn or Twitter for your networks
   * Job Search Strategies
      * Work on the [Flower Exercise](https://docs.google.com/document/d/1ETSoRT-BxMH-cTWzbk1inRESmYHGnpbz0DgBHgmAJ-4/edit?usp=sharing), [career roadmap](https://docs.google.com/document/d/1yMlss8updK2zaTVPwUzcoBG2ws5zBWENjE2a-SjSPeM/edit), or a DTR for your job search. 
      * Search through [resources here](/resources/finding_opportunities) and pull out 2-3 to use in building your job search strategy
