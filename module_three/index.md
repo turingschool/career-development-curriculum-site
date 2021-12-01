@@ -27,8 +27,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    
 2. **Resume updated:**
    * Your resume should be ATS-ready and formatted as a *technical* resume
-   * Submit your resume to [CV Compiler](https://cvcompiler.com/students/turingschool) using promo code **TuringSchool** 
-   * **Due EOD Wednesday of Week 4**
+   * Submit your resume to [CV Compiler](https://cvcompiler.com/students/turingschool) using promo code **TuringSchool** by **EOD Wednesday of Week 4**
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
    
 3. **Create a cover letter based on a job description:** 
