@@ -137,7 +137,7 @@ Once you have all the facts and can make a decision, go back to the company:
 * Don't forget about mentorship -- you can get that written into your contract
 * As a general rule of thumb, when it comes to equity, don't trade salary for it. Companies include equity in their offers as a way to keep you invested in the company. But you shouldn't put too much weight on stock options; if it's an Incentive Stock Option, assume you'll never get money out of it. Restricted Stock Options (RSUs) might be worth negotiating as they're publicly traded. You can negotiate using these stock options, but you'll want to be careful about it. Don’t negotiate it all away because you want to sound like you have skin in the game and that you're not a flight risk.
    * “I’m new in the industry, I don’t know if investing right now makes sense for me. Could I give back some of the options to get X instead?”
-* When negotiating for a higher salary, ask for 5-10% more than what was offered. Never ask for more than 10% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
+* When negotiating for a higher salary, ask for 10-15% more than what was offered. Never ask for more than 15% more than what they offered you, unless there are rare circumstance that you've discussed with someone you trust prior to negotiating.
 * If you have doubts about taking the position, what would it take to make you feel ok taking the position? What would remove the doubt from taking the job?
 
 ### Create Leverage
