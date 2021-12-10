@@ -65,7 +65,7 @@ If you feel energized by engaging in social networking over Twitter or LinkedIn,
 If you feel energized by meeting new people with shared interests at an event that brings you together, here are some tips to maximize the impact of the interactions:
 
 * Circulate the room. Make sure you don't only talk to people you already know. Find people you haven't met yet and introduce yourself.
-* Share your story. This will be covered in next week's session, but having a concise pitch to describe who you are and what your goals are in this new career will be a helpful way to connect with others right away.
+* Share your story. This will be covered in [next week's session](/module_one/mod1_week3), but having a concise pitch to describe who you are and what your goals are in this new career will be a helpful way to connect with others right away.
 * Ask questions and practice active listening. When you are able to get someone talking about something they are excited about, it can lead to deeper connections.
 * Follow up. Make sure to get contact information to have another conversation and reference what you talked about when you met. 
 
@@ -96,7 +96,7 @@ If you appreciate larger groups but haven’t connected with people in the tech 
    * [Meetup.com](https://www.meetup.com/) to find tech-specific meetup groups, both in-person and remote
    * [Check out this list of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
 
-Don't forget to incorporate your needs. What do you need right now? To 
+Don't forget to incorporate your needs. What do you need right now to make networking a meaningful experience for you?
 
 With these ideas in mind, here are some suggested goals but feel free to come up with your own:
 
