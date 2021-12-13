@@ -1,9 +1,8 @@
 ---
 layout: page
-title: How to Find Opportunities
+title: Resources for Finding Opportunities
 ---
 
-# Resources for Finding Opportunities
 Below are resources to help you find opportunities from job postings to networking groups:
 
 ### Search by...company
