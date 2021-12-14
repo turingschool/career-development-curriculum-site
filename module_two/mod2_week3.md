@@ -4,7 +4,7 @@ title: Module 2 Week 3
 ---
 
 ## Overview
-This week's lesson focuses on starting to navigate the job search and begin the stages of developing a strategy behind your job search. Please watch the videos below, read through the lesson plan, and complete the following check for understanding activities. 
+This week's lesson, **Job Search Strategies**, focuses on starting to navigate the job search and begin the stages of developing a strategy behind your job search. Please watch the videos below, read through the lesson plan, and complete the following check for understanding activities. 
 
 Learning Goals:
 * Devise a step-by-step strategy for a job application including self-reflection, research, outreach, and follow-up
