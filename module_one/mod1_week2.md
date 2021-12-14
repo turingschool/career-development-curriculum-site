@@ -4,7 +4,7 @@ title: Module 1 Week 2
 ---
 
 ## Overview
-This week's lesson provides an introduction to networking. Jump to the sections below to get started:
+This week's lesson is **Introduction to Networking**. Jump to the sections below to get started:
   * [Lesson Plan](#lesson)
   * [Check for Understanding Action Items](#cfu)
 
