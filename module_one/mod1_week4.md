@@ -4,7 +4,7 @@ title: Module 1 Week 4
 ---
 
 ## Overview
-For this week's lesson, complete the activities in this order:
+This week's lesson is on **Building an Effective LinkedIn Profile**. Complete the activities in this order:
 
 * Answer the [pre-lesson reflection prompts](#prelesson)
 * Complete the [Lesson Plan](#lesson) 
