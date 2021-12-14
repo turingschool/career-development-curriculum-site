@@ -38,11 +38,11 @@ By the end of Mod 1, you should have completed:
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
 
-* [Week 1](/module_one/mod1_week1)
-* [Week 2](/module_one/mod1_week2)
-* [Week 3](/module_one/mod1_week3)
-* [Week 4](/module_one/mod1_week4)
-* [Week 5](/module_one/mod1_week5)
+* [Week 1](/module_one/mod1_week1): Mod 1 Kickoff & Understanding Your Strengths lesson
+* [Week 2](/module_one/mod1_week2): Introduction to Networking
+* [Week 3](/module_one/mod1_week3): Professional Storytelling & Branding
+* [Week 4](/module_one/mod1_week4): Building an Effective LinkedIn Profile
+* [Week 5](/module_one/mod1_week5): Workshop on Storytelling & LinkedIn (in Homeroom Groups)
 
 You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
 
