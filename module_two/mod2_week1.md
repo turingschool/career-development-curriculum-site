@@ -4,7 +4,7 @@ title: Module 2 Week 1
 ---
 
 ## Overview
-For this week's lesson:
+This week's lesson is about **Creating a Technically Focused Resume.** To complete the lesson: 
 
 * Start by viewing the videos below that span from creating a tech resume to how to comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
 * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
