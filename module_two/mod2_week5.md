@@ -3,25 +3,8 @@ layout: page
 title: Mod 2 Week 5
 ---
 
+## Resume Review Workshop
 ### Overview
-This is your final PD activity during this module. By the end of today, the goal is for you to achieve:
-
-* A *working draft* of your resume (this isn't a final draft -- it's a starting place!)
-
-What should a working draft of your resume look like? The minimum requirements are:
-
-* No more than 1 page
-* Heading/Contact Information
-* Technical Skills
-* Technical Projects
-* Experience
-* Education
-
-A summary is optional but highly recommended to give some insight into your career change and goals.
-
-For all the details on how to build an effective resume, check out the guidelines [here](/resources/resume_resources) or [refer back to the lesson](/module_two/mod2_week1).
-
-### Workshop Guidelines
 This workshop takes place during Week 5 Homeroom.
 
 1. Revisit your norms as a group to understand how you'll approach feedback with each other in this space (5 mins)
