@@ -4,7 +4,7 @@ title: Module 1 Week 3
 ---
 
 ## Overview
-This week's lesson introduces Professional Storytelling and Branding as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiences and new career, and describe your strengths, motivations, and passions. 
+This week's lesson introduces **Professional Storytelling and Branding** as key marketing tools. The following microlectures and lessons will help you articulate your professional story, make connections between your previous professional experiences and new career, and describe your strengths, motivations, and passions. 
 
 ## Learning Goals
 This session will cover:
