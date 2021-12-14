@@ -37,11 +37,11 @@ By the end of Mod 2, you should have completed:
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
 
-* [Week 1](/module_two/mod2_week1)
-* [Week 2](/module_two/mod2_week2)
-* [Week 3](/module_two/mod2_week3)
-* [Week 4](/module_two/mod2_week4)
-* [Week 5](/module_two/mod2_week5)
+* [Week 1](/module_two/mod2_week1): Creating a Technically Focused Resume
+* [Week 2](/module_two/mod2_week2): Building Connection Through Networking
+* [Week 3](/module_two/mod2_week3): Job Search Strategies
+* [Week 4](/module_two/mod2_week4): What's a Dev event
+* [Week 5](/module_two/mod2_week5): Resume Review Workshop
 
 You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
 
