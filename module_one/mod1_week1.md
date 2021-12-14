@@ -6,8 +6,8 @@ title: Module 1 Week 1
 ## Overview
 This week has two activities:
 
-* Kickoff to Mod 1 provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can view [this video](https://youtu.be/kLFy93A5i6I) for an overview of PD throughout the program. 
-* Complete the lesson below:
+* **Kickoff to Mod 1** provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can view [this video](https://youtu.be/kLFy93A5i6I) for an overview of PD throughout the program. 
+* **Developer Identity: Understanding Your Strengths** lesson:  
    * [Lesson Plan](#lesson)
    * [Check for Understanding Action Items](#cfu)
 
