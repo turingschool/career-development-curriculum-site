@@ -3,9 +3,9 @@ layout: page
 title: Module 2 Week 2
 ---
 ## Overview
-This lesson is called Building Connection and is focused on building connections and networking and what it should look like in Mod 2 
+This week's lesson is **Building Connection Through Networking** and is focused on how to approach networking in Mod 2. 
 
-Please complete the lesson plan as well as all check for understanding action items
+Please complete the lesson plan as well as all check for understanding action items.
 
 ### Learning Goals
 * Understand how to refine your job search strategy using research through communication, networking and outreach
