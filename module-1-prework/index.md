@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Turing Career Development - Mod 1 Prework
+title: Turing Career Development - Mod 0 Project 
 ---
 
-The Career Development prework is divided into 4 sections and should take about 2 hours to complete. [Submission Directions for this Prework are here](#submission)
+The Career Development component of your Mod 0 Project is divided into 4 sections and should take about 2 hours to complete. [Submission Directions for this component of your Mod 0 Project are here](#submission)
 
 ## Part I: Career Development Overview (15 mins)
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
@@ -45,7 +45,7 @@ One tool we'll be using for your professional development at Turing is the [Pair
    * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
 
 ## Part III: Complete Each Activity Below for Each Competency (60-75 mins)
-As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You'll submit them in the prework survey submission (see [submission directions here](#submission)). Each competency section should take about 10-15 minutes to complete. 
+As you begin this new chapter of your career, the Career Development team is here to meet you where you are and help you achieve your goals. To help us understand more about your background and comfort levels with each of the 5 competencies, please complete each competency section below. You'll submit them in the Mod 0 Project survey submission (see [submission directions here](#submission)). Each competency section should take about 10-15 minutes to complete. 
 
 ### Networking
 The first step for networking in your new career as a software developer is to assess the network you currently have. Please [complete this activity](/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You'll also respond to these questions in the submission survey:
@@ -79,7 +79,7 @@ Please prepare responses to these questions to submit in the prework survey:
 1. Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 2. When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
-## Part IV: Submit Your Career Development Prework (15 mins) <a name="submission"></a>
+## Part IV: Submit Your Career Development Mod 0 Project (15 mins) <a name="submission"></a>
 Please fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
 
-If you have any questions about the prework, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
+If you have any questions about this part of the Mod 0 Project, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
