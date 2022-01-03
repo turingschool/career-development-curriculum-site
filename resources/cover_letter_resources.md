@@ -4,10 +4,11 @@ title: Cover Letter Resources
 ---
 
 ## Overview
-If we were to sum up the cover letter and how it compares to your resume in one sentence, the resume is about you while the cover letter is about *them (the company).* 
+If we were to sum up the cover letter and how it compares to your resume in one sentence, the resume is about you while the cover letter is about *them (the company.* 
 
 ### Templates to Get You Started
-If you're having trouble getting started, check out some of the below templates, but make sure to *customize* your cover letter each time you write one:
+Below are Cover letter templates to help get you started, but make sure to *customize* your cover letter each time you write one:
+* [Guided Cover Letter Template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)
 * [JobScan General Cover Letter](https://docs.google.com/document/d/1_UhzVQAWHdLruR8zaxpy92mafX8phDwo2lOjuXpHL-w/edit#)
 * [JobScan General Cover Letter ](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)
 
