@@ -57,11 +57,10 @@ Skip down to:
    * What challenges do you anticipate about networking? How can you help each other with these challenges?
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
-Today's discussion is focused on the cover letters you should have completed after the week 4 lesson.
+Today's discussion is focused on the cover letters you should have completed after the week 4 lesson. This peer review activity should be take an hour to complete. Each review should take approximately 25 per person in groups of two. Please adjust the time accordingly for groups of 3. 
 
-First, revisit norms on how your group wants to work together (5 mins)
-
-Next, pair up with another group member for this activity **(if there is an odd number, structure the time so that everyone has a peer review):
+* First, revisit norms on how your group wants to work together (5 mins)
+* Next, pair up with another group member for this activity
 
 ### Before you start:
 1. You each should have a job posting and a cover letter based on the job post.
@@ -70,9 +69,9 @@ Next, pair up with another group member for this activity **(if there is an odd 
 4. Feel free to take notes on [this form](https://docs.google.com/document/d/1RS2S9AjvLQ8nSHcyqwB4pxXVEWcO5HvHDfGdfLnxymo/edit) for your partner to have for future reference.
  
 ### Next, to start the conversation: 
-1. The person who wrote the cover letter please share with the other person an overview of your cover letter and what kind of feedback you are mostly looking for. Share the job posting you used for your cover letter or details about your objective if there is no advertised position(3 min). Your partner(s) will give you feedback by responding to following checklist below to guide their review and feedback (10-15 min). 
+1. The person who wrote the cover letter please share with the other person an overview of your cover letter and what kind of feedback you are mostly looking for. Share the job posting you used for your cover letter or details about your objective if there is no advertised position(3 min). Your partner(s) will give you feedback by responding to following checklist below to guide their review and feedback. 
 
-### Cover Letter Checklist (10-15 min)
+### Cover Letter Checklist (10 min)
 * Introduction: Is the opening paragraph strong? Does it grab the reader’s attention?
 * Body paragraph: Are the middle paragraphs compelling? Do they demonstrate the candidate’s worthiness by focusing on                 accomplishments and proven performance? Are key words highlighted from the job description?
 * Closing: Is there an assertive call to action in the closing paragraph? 
@@ -82,7 +81,8 @@ Next, pair up with another group member for this activity **(if there is an odd 
 * Employer-Focused: Does the letter focus on what the candidate can do for the employer, not the other way around? 
 * Formatting: Is the letter appropriately formatted as a business letter?
 
-#### Feedback provided should be kind, and actionable. (5-6 min) 
+#### Feedback provided should be kind, and actionable. (10 min) 
+* What tip, strategy or resource can you suggest to be implemented into practice?
 
 ### Wrap up: 
 * Take the advice that Works for You
