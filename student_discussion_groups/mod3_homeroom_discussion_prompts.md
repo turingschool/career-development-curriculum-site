@@ -81,7 +81,7 @@ Today's discussion is focused on the cover letters you should have completed aft
 * Employer-Focused: Does the letter focus on what the candidate can do for the employer, not the other way around? 
 * Formatting: Is the letter appropriately formatted as a business letter?
 
-#### Feedback provided should be kind, and actionable. (10 min) 
+### Feedback provided should be kind, and actionable. (10 min) 
 * What tip, strategy or resource can you suggest to be implemented into practice? 
 * Take the advice that Works for You
 * After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. 
