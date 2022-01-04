@@ -67,7 +67,7 @@ Next, pair up with another group member for this activity **(if there is an odd 
 1. You each should have a job posting and a cover letter based on the job post.
 2. Provide a review of each other's cover letter utilizing the checklist below. 
 3. Take notes and be prepared to give Kind, and Actionable feedback.
-4. Feel free to take notes on [this form](https://docs.google.com/document/d/1RS2S9AjvLQ8nSHcyqwB4pxXVEWcO5HvHDfGdfLnxymo/edit)for your partner to have for future reference.
+4. Feel free to take notes on [this form](https://docs.google.com/document/d/1RS2S9AjvLQ8nSHcyqwB4pxXVEWcO5HvHDfGdfLnxymo/edit) for your partner to have for future reference.
  
 ### Next, to start the conversation: 
 1. The person who wrote the cover letter please share with the other person an overview of your cover letter and what kind of feedback you are mostly looking for. Share the job posting you used for your cover letter or details about your objective if there is no advertised position(3 min). Your partner(s) will give you feedback by responding to following checklist below to guide their review and feedback (10-15 min). 
