@@ -82,8 +82,8 @@ Today's discussion is focused on the cover letters you should have completed aft
 * Formatting: Is the letter appropriately formatted as a business letter?
 
 #### Feedback provided should be kind, and actionable. (10 min) 
-* What tip, strategy or resource can you suggest to be implemented into practice?
-
-### Wrap up: 
+* What tip, strategy or resource can you suggest to be implemented into practice? 
 * Take the advice that Works for You
-* After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. The overall goal of the cover letter is for you to decribe yourself as the right candidate for what they're looking for. 
+* After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. 
+
+The overall goal of the cover letter is for you to decribe yourself as the right candidate for what they're looking for. 
