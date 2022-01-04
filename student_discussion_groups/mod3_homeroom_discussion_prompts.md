@@ -82,7 +82,8 @@ Next, pair up with another group member for this activity **(if there is an odd 
 * Employer-Focused: Does the letter focus on what the candidate can do for the employer, not the other way around? 
 * Formatting: Is the letter appropriately formatted as a business letter?
 
-# Feedback provided should be kind, and actionable. (5-6 min) 
+#### Feedback provided should be kind, and actionable. (5-6 min) 
 
-### Take the advice that Works for You
-After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. The overall goal of the cover letter is for you to decribe yourself as the right candidate for what they're looking for. 
+### Wrap up: 
+* Take the advice that Works for You
+* After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. The overall goal of the cover letter is for you to decribe yourself as the right candidate for what they're looking for. 
