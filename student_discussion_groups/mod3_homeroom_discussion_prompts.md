@@ -59,17 +59,30 @@ Skip down to:
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 Today's discussion is focused on the cover letters you should have completed after the week 4 lesson.
 
-1. Revisit norms on how your group wants to work together (5 mins)
-2. Start by reading through your cover letters (30 mins). Feel free to either read them aloud or pass them around for peer feedback.
+First, revisit norms on how your group wants to work together (5 mins)
 
-   Discuss:
+Next, pair up with another group member for this activity **(if there is an odd number, structure the time so that everyone has a peer review):
 
-   * What do you notice about the cover letters?
-   * What is effective? What value could they bring to the company? How do you know?
-   * What could be changed to make the letter more effective?
+### Before you start:
+1. You each should have a job posting and a cover letter based on the job post.
+2. Provide a review of each other's cover letter utilizing the checklist below. 
+3. Take notes and be prepared to give Kind, and Actionable feedback.
+4. Feel free to take notes on [this form](https://docs.google.com/document/d/1RS2S9AjvLQ8nSHcyqwB4pxXVEWcO5HvHDfGdfLnxymo/edit)for your partner to have for future reference.
+ 
+### Next, to start the conversation: 
+1. The person who wrote the cover letter please share with the other person an overview of your cover letter and what kind of feedback you are mostly looking for. Share the job posting you used for your cover letter or details about your objective if there is no advertised position(3 min). Your partner(s) will give you feedback by responding to following checklist below to guide their review and feedback (10-15 min). 
 
+### Cover Letter Checklist (10-15 min)
+* Introduction: Is the opening paragraph strong? Does it grab the reader’s attention?
+* Body paragraph: Are the middle paragraphs compelling? Do they demonstrate the candidate’s worthiness by focusing on                 accomplishments and proven performance? Are key words highlighted from the job description?
+* Closing: Is there an assertive call to action in the closing paragraph? 
+* Writing Style: Is the letter concise yet persuasive? Is it error-free? 
+* Relevancy: Is the letter focused on relevant skills? 
+* Accomplishment-Oriented: Does the letter highlight quantifiable accomplishments related to the career goal? 
+* Employer-Focused: Does the letter focus on what the candidate can do for the employer, not the other way around? 
+* Formatting: Is the letter appropriately formatted as a business letter?
 
-3. Share the job posting you used for your cover letter and discuss how your approach; what keywords are you pulling out of the job posting to highlight in the cover letter? How are you describing yourself as the right candidate for what they're looking for?  The group will give you feedback by responding to these questions (10 mins):
+# Feedback provided should be kind, and actionable. (5-6 min) 
 
-   * What is effective about this person's approach with their cover letter?
-   * How could they make their cover letter more effective?
+### Take the advice that Works for You
+After receiving your review, analyze the feedback and work on the changes that will give your letter the most added impact. The overall goal of the cover letter is for you to decribe yourself as the right candidate for what they're looking for. 
