@@ -147,12 +147,7 @@ Start by reading through the following cover letters (15 mins):
 #### Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
 
 
-## Due Dates & Reminders
-
-1. **Resume updated:**
-   * Your resume should be ATS-ready and formatted as a *technical* resume
-   * **Due date #1** Submit your resume to [CV Compiler](https://cvcompiler.com/students/turingschool) using promo code **TuringSchool** by **EOD Wednesday of Week 4**
-   * **Final due date: EOD Friday of Week 5** through the end of mod survey 
+## Due Dates & Reminders 
 2. **Create a cover letter based on a job description:** 
    * **Due date #1: Wednesday of Week 5** during homeroom
    * **Final due date: EOD Friday of Week 5** in end of mod survey 
