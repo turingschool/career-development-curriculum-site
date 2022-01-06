@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Interview Prep
+title: Interview Preparation
 subheading: Putting It All Together
 ---
 
-[Slides for this lesson](https://docs.google.com/presentation/d/1QT4czt0vE16yO5KVhsfFTHyOvWbkUrX5gxHd069k6bA/edit?usp=sharing)
-
 ### Learning Goals
-* Outline questions for job shadow and create a reflection process for that activity
-* Ideate and try out solutions to improve your strategy
+* Identify how to prepare and research prior to an interview
+* Ideate and try out solutions to improve your current interviewing strategy
 * Understand how to answer interview questions through specific strategies
 
 ### Overview
-We're a little over halfway into the module now. Review how you've been spending your time. Where are you right now in regards to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
+Review how you've been spending your time. Where are you right now in regards to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
 
 ### Interview Prep Strategies
 There are many ways to prepare for interviews. The key for all interviews is **knowing who you are and how to talk about yourself.** Today, we'll go through 4 particular tips to help with this process:
@@ -21,6 +19,9 @@ There are many ways to prepare for interviews. The key for all interviews is **k
 2. Tell stories
 3. Know how to talk about your experience
 4. Research & prep
+
+[Slides for this lesson](https://docs.google.com/presentation/d/19v08-f77qv6HTMR3teiuv_SmXMHzpydHrdo144WYG_8/edit?usp=sharing)
+[Video Lesson](https://youtu.be/zhsuxAO1QbI)
 
 #### Strategy #1: Answer the whole question
 Pay attention to what the question is asking as well as any *subtext* inherent in the question. Let's look at an example:
@@ -32,7 +33,7 @@ This question is asking you to:
 * **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take?
 * **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
 
-#### Strategy #2: Use the [STAR Method](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+#### Strategy #2: Use the [STAR Method](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 Use this as an opportunity to tell stories about your relevant experience. A great template to use to plan out your stories is the STAR method:
 
 * **Situation:** The interviewer wants you to present a recent challenge and situation in which you found yourself.
