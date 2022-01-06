@@ -20,8 +20,11 @@ There are many ways to prepare for interviews. The key for all interviews is **k
 3. Know how to talk about your experience
 4. Research & prep
 
+
 [Slides for this lesson](https://docs.google.com/presentation/d/19v08-f77qv6HTMR3teiuv_SmXMHzpydHrdo144WYG_8/edit?usp=sharing)
+
 [Video Lesson](https://youtu.be/zhsuxAO1QbI)
+
 
 #### Strategy #1: Answer the whole question
 Pay attention to what the question is asking as well as any *subtext* inherent in the question. Let's look at an example:
@@ -32,6 +35,8 @@ This question is asking you to:
 * **Acknowledge that you fail.** You're not perfect, you have experienced failure. Be upfront and transparent about that
 * **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take?
 * **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
+
+
 
 #### Strategy #2: Use the [STAR Method](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 Use this as an opportunity to tell stories about your relevant experience. A great template to use to plan out your stories is the STAR method:
@@ -51,6 +56,8 @@ Then move into the task/target and discuss the objective of the project. What wa
 Then, walk through all of the actionable steps you/your team took to meet the objective of the project. What successes did you have? What challenges did you run into? What steps did you take to overcome those challenges? 
 
 And finally, what were the results of this project? What were you able to accomplish? What would you have done differently? 
+
+
 
 #### Strategy #3: Know how to talk about your experience
 There are 2 elements to keep in mind here as you present your software and work experience: 
@@ -77,10 +84,14 @@ Consider how you would respond to this question:
 
 For your previous professional experiences and background, unpack the transferable skills you have that apply to the job. Consider how your specific experiences make you uniquely qualified compared to other candidates. For example, have you worked with customers before in any capacity? Talk about it. Have you ever had to deliver on tight deadlines? Yes, you're a Turing student -- talk about that. Have you had to communicate with different teams? Talk about it. 
 
+
+
 #### Strategy #4: Research and Prep
 1. Make sure to start by researching your company (you should do this before you submit your application anyway). Know what their tech stack is
 
 2. Keep a running doc where you can keep track of common interview questions and specifics that you can draw from to answer these questions. Outline your stories here about projects, team situations, successes, and failures. Make sure to review these before each of your interviews.  
+
+
 
 ### Putting it into Practice
 To continue preparing for interviews, create an interview prep document to write out answers by telling stories about various experiences. Here are some starting prompts:
