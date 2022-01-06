@@ -86,7 +86,7 @@ For your previous professional experiences and background, unpack the transferab
 
 
 
-#### Strategy #4: Research and Prep
+#### Strategy #4: [Research and Prep](https://www.glassdoor.com/blog/7-research-job-interview/)
 1. Make sure to start by researching your company (you should do this before you submit your application anyway). Know what their tech stack is
 
 2. Keep a running doc where you can keep track of common interview questions and specifics that you can draw from to answer these questions. Outline your stories here about projects, team situations, successes, and failures. Make sure to review these before each of your interviews.  
