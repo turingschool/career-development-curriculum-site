@@ -290,7 +290,7 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * What parts of negotiating the offer raises questions for you? 
 
 ## Deliverable
-* Make a list of questions from this lesson and add them to the following survey:[Negotiations Questions Survey](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate all questions into the Live Negotiations session in Week 1. This action item should be completed by 9am, October 13.
+* Make a list of questions from the lesson and add them to the following survey:[Negotiations Questions Survey](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate questions into the Live Negotiations session in Week 1. This action item should be completed by EOD Tuesday of Week 1. 
 
 ### Resources
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
