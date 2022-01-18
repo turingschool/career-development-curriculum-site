@@ -135,7 +135,6 @@ Start by reading through the following cover letters (15 mins):
 
    * [April Dagonese](/files/April%20Cover%20Letter.pdf)
    * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-   * [Tommasina Miller](/files/Example%20Cover%20Letter.pdf)
    * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
 
    Make note:
