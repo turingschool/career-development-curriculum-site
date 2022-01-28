@@ -17,7 +17,7 @@ Skip down to:
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. The Mod 4 staff will host small groups of games and icebreakers for the first part of the hour. The first homeroom group is an opportunity for instructors & students to get to know each other (30 mins). 
+1. The Mod 4 staff will host breakout rooms of games and icebreakers for the first part of the hour. The first homeroom group is an opportunity for instructors & students to get to know each other (30 mins). 
 2. In the second part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
 
    * What progress did you make last mod?
