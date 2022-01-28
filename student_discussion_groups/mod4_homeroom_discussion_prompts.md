@@ -17,38 +17,30 @@ Skip down to:
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. Establish norms for how your group wants to work together (15 mins):
+1. The Mod 4 staff will host small groups of games and icebreakers for the first part of the hour. The first homeroom group is an opportunity for instructors & students to get to know each other (30 mins). 
+2. In the second part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
 
-   * What was helpful last mod?
+   * What progress did you make last mod?
    * What do you want to keep doing?
    * What do you want to stop doing?
-   * What new ways do you want to collaborate with each other?
+   * What new ways do you want to collaborate?
+   * What are ways you could help each other for accountability? i.e share the progress we've made since the last meeting as well as one goal we'd like to accomplish before the next meeting.
 
-2. This week's session is on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
+### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
+1. Check-in and share progress or challenges with one small goal from the last meeting (15 mins) 
+    * What support, resources, or ideas can be shared to help address challenges? 
+    
+2. Over intermission and during week one the focus was on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
 
    * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
    * **What would make you feel prepared to negotiate your next job offer?** 
 
-3. Take a look some different salary websites such as [Glassdoor](https://glassdoor.com), [Salary.com](https://salary.com), [BuiltIn Salaries](https://builtin.com/salaries) and [Payscale](https://payscale.com) and start looking at ranges. Pay attention to skill level and location. What is most surprising to you? 
+3. Review the [Salary Negotiation worksheet](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit)
 
-4. What is a range that you will be looking for based on your research? Things to consider: What if you got a low offer for your dream job? What if you got a high offer for your not so dreamy job? How would this impact what you might be seeking in salary? Are there other benefits that might get you to accept a different salary? 
-
-### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
-1. Revisit norms (5 mins) 
-2. Discuss the following discussion questions (20 mins):
-  * What are some key takeaways from the alumni session?
-  * What advice or tips can you utilize from the Alumni panelists that you can implement today? 
-  * Is there anything that was said in the session that has changed your job search goals for the remainder of your time at Turing?
-  * What is the progress towards your stretch goals? Has anything changed?
-3. Plan out how to achieve your goals during the last 3 weeks of Mod 4 (20 mins):
-  * What will get you to your goal? 
-  * What can you do each week to achieve your goal? (add steps to your calendar)
-  * What do you need to get this done? (resources, people) 
-  * What would keep you from getting this done? 
-  * How do you know you will complete this goal? What will you do to celebrate?
-  * How will you hold yourself accountable to your goals?
-4. Share plans with each other (10 mins):
-  * How can you hold each other accountable to these plans?
+4. Take a few minutes to discuss **Step one**: 
+   * What is a range that you will be looking for based on your research? 
+   * Things to consider: What if you got a low offer for your dream job? What if you got a high offer for your not so dreamy job? How would this impact what you might be seeking in salary? Are there other benefits that might get you to accept a different salary?
+   * What skill based reasons would you give to counter an offer?  This could include: technical aptitude, cultural competency, and or prior achievements that you can bring to the company on day one. 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's Homeroom Group is a working session to finalize your Mod 4 action items -- [find the guidelines here!](/module_four/week5_working_group)
