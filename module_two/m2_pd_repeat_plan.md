@@ -74,4 +74,4 @@ Use this template to help you define and track your goals by copying and pasting
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
 
 ### Additional Support
-Reminder that Allison is available for professional coaching. If you'd like to sign up for a session, please fill out this [request form](https://forms.gle/g84XjDuwLaBidDga9).
+Reminder that Allison is available for professional coaching. If you'd like to sign up for a session, please fill out [this sign-up form](https://go.oncehub.com/AllisonReuSinger).
