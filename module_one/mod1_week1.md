@@ -152,7 +152,7 @@ Read the [Pairin Qualities Overview](https://github.com/turingschool/career-deve
     * After reflecting on your strengths this week, practice replying to this interview question: *how do you see yourself using your strengths as a developer?* Keep in mind: this is not an easy question to answer on the first try! It’s ok if you feel a little shaky in your response, but the point is to practice. This is how you get better!
 
 ## Reminders
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
+* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
       * Stress management
