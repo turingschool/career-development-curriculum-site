@@ -17,7 +17,7 @@ Skip down to:
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. Establish norms for how your group wants to work together (10 mins):
+1. Revisit norms for how your group wants to work together (10 mins):
    
    * What was helpful last mod?
    * What do you want to keep doing?
