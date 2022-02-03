@@ -9,6 +9,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [BuiltIn](http://builtin.com/)
     * Provides lots of details about companies
     * Located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [Otta](https://otta.com/) selects specific companies to showcase and provides a personalized approach to curating what listings show up for you when you make an account.
 * [Google](http://www.google.com/)
     * Tips:  
       * Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]" and look for a journalist-generated list of companies that are recommended in that area
@@ -56,6 +57,7 @@ Below are resources to help you find opportunities from job postings to networki
       * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
 * [Juniors in Tech](https://www.juniorsintech.com/) newsletter
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
+* [Black Tech Pipeline](https://blacktechpipeline.com/) provides a job board and recruitment pipeline to connect Black developers with opportunities. 
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [This Dot](https://www.thisdot.co/hirethefempire) hires women-presenting, frontend junior developers.
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
@@ -67,10 +69,12 @@ Below are resources to help you find opportunities from job postings to networki
 * [Black Career Network](https://www.blackcareernetwork.com/) connects Black professionals with job opportunities. 
 * [Chezie](https://www.chezie.co/) is a diversity career platform that allows you to search by both companies that value DEI and view job postings. 
 * [Elpha](https://elpha.com/talent-pool) is a community for women to discover career opportunities in tech and network with other women in the field. 
+* [Software Engineering Newsletter](https://swejobs.substack.com/) lists jobs, events, and more ways to build your professional network.
 
 ### Search by...job listings
 * Turing's Terminal Job Board postings in #job-hunt on Slack
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, New York, and Seattle
+* [Juione Engineering Job List](https://junior.engineer/) is built and maintained by a Turing alum to bring a one-stop shop approach to finding junior job listings.
 * [Link Up](https://www.linkup.com/job-seekers/) - an index of employer websites with job listings in order to avoid duplicates.
 * [GitHub’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
@@ -89,7 +93,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Craigslist](https://denver.craigslist.org/d/software-qa-dba-etc/search/sof) 
 * [gun.io](https://gun.io/)
 * [Ars Technica Job Board](http://arstechnica.com/jobs/)
-* And of course, don't forget about the #job-hunt channel on Slack
+* And again, don't forget about the #job-hunt channel on Slack
 
 ### Search by...remote opportunities
 * Remote listings:
