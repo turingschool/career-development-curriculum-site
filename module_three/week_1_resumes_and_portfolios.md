@@ -66,7 +66,6 @@ When building your resume, make sure to keep this checklist handy as well:
 This week is focused on building your working resume.
 
 * Build your resume using [these templates and checklist](/resources/resume_resources)
-* Upload it to CV Compiler, which is an ATS system we partner with that will provide you with feedback on your resume (further instructions on the session's slides).
 * Update your resume using that feedback
 
 #### Resume Review Practice
