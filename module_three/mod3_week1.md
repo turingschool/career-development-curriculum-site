@@ -40,19 +40,7 @@ Videos are 1-3 minutes in length and cover the following sections of the Technic
 5. Work Experience
 6. Education and Training
 
-Once you have a draft use the CV Compiler to analyze and score your resume. It give recommendations on how it can be improved. This step must be done before submitting to a Career Specialist for review and feedback. 
-
-Follow these steps to upload your Resume Rough Draft to to the CV Compiler: 
-* Go [here](https://cvcompiler.com/students/turingschool)
-* Click on "Improve Your Student Resume"
-* Authorize it with either LinkedIn or GitHub
-* Fill out the fields with your Name and Email and the promo code **TuringSchool** 
-* Upload your resume
-* Update your resume according to feedback (not all feedback is applicable)
-
-You can submit your rough draft to a career specialist **only after you have implemented the CV Compiler changes.
-
-When you have a completed resume use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how it compares
+When you have a completed resume, use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how ready your resume is for that posting.
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
