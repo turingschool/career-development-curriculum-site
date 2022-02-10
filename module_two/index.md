@@ -26,7 +26,7 @@ By the end of Mod 2, you should have completed:
 
 1. **Resume draft:**
    * Your draft should be formatted for an ATS system, be no more than 1 page, and must include at least 2 software projects that you've completed so far at Turing and a list of technical skills 
-   * **Due date #1: EOD Friday of Week 3** submitted through [this survey](https://airtable.com/shrdiggeJLo7mPOt6) and you will also workshop your draft with your homeroom group in Week 5.
+   * **Due date #1: EOD Friday of Week 2** submitted through [this survey](https://airtable.com/shrdiggeJLo7mPOt6) and you will also workshop your draft with your homeroom group in Week 5.
    * **Final due date: EOD Wednesday of Week 5** through the end of mod survey (below)
 2. **2 Networking activities:**
    * Build a list of 4 warm contacts (people you want to get to know better) and 4 cold contacts (people in the tech industry to reach out to)
