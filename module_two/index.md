@@ -31,8 +31,8 @@ By the end of Mod 2, you should have completed:
 2. **2 Networking activities:**
    * Build a list of 4 warm contacts (people you want to get to know better) and 4 cold contacts (people in the tech industry to reach out to)
    * Outline 1 action step to take for networking during the mod and document it in your networking tracker
-   * **Due date: EOD Wednesday of Week 5** through the end of mod survey (below)
-3. Complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) by **EOD Wednesday of Week 5**
+   * **Due date: EOD Friday of Week 5** through the end of mod survey (below)
+3. Complete [end of mod self-evaluation survey](https://airtable.com/shr5n5ffg90BeMrEh) by **EOD Friday of Week 5**
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
