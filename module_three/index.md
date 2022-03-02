@@ -27,11 +27,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    
 2. **Resume updated:**
    * Your resume should be ATS-ready and formatted as a *technical* resume. 
-   * To help enhance your technical resume we suggest that you utilize the CV compiler for technical feedback and apply what best fits for your individual resume      goals.
-   * Backend students we suggest that you upload your resume to CV Compiler by **EOD Wednesday of Week 4** in preparation for Resume Peer Reviews. 
-   * Front end students we suggest that you upload your resume to the CV compiler **EOD Monday of Week 5** in preparation for the Stretch project resumerequirement.      
-   
-    * Access the @ [CV Compiler](https://cvcompiler.com/students/turingschool) and use promo code **TuringSchool** 
  
    * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
    
