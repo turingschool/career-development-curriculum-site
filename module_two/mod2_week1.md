@@ -98,33 +98,37 @@ Creating an “Education and Training” section-will help showcase your develop
 * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
 
 ## Check for Understanding and Next Steps:
-One of your deliverables for this module is to create your resume first draft. Follow these steps to get started:
+1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
-1. First, plan the framework of your resume based on the lesson:
-* Will you use a resume summary? 
-* What relevant work experience will be used?
-* Which prior education and training will be added?
-* Which industry specifc skills are most important right now to add?
+2. One of your deliverables for this module is to create your resume first draft. Follow these steps to get started:
+
+  1. First, plan the framework of your resume based on the lesson:
+    * Will you use a resume summary? 
+    * What relevant work experience will be used?
+    * Which prior education and training will be added?
+    * Which industry specifc skills are most important right now to add?
   
-2. Next, choose a resume template: 
-* Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc or use this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
+  2. Next, choose a resume template: 
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc or use this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
-3. Then, develop a rough draft of your resume:
-* Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
-  * Name of project
-  * Number of collaborators, primary technologies used, what it does.
-  * Main learning goals of the project (if you're not sure, ask your instructors)
-  * Any stretch goals you were able to achieve.
-  * Any specific contributions/roles that you had in the project
+  3. Then, develop a rough draft of your resume:
+    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
+     * Name of project
+     * Number of collaborators, primary technologies used, what it does.
+     * Main learning goals of the project (if you're not sure, ask your instructors)
+     * Any stretch goals you were able to achieve.
+     * Any specific contributions/roles that you had in the project
 
-If you're having trouble with organizing your content, try these tips:
+  If you're having trouble with organizing your content, try these tips:
 
-* Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
-* Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
+    * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
+    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
 
 On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
 
 ## Due Dates & Reminders
+
+* Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.**
 
 * You should have an ATS-ready (read: plain, straightforward information), 1-page version of a resume that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
 
