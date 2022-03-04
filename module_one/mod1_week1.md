@@ -142,7 +142,7 @@ Read the [Pairin Qualities Overview](https://github.com/turingschool/career-deve
     * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
     * Use this [Pairin Overview handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) to learn more about the specific qualities.
 
-2. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). **This is for your own learning, and you do not need to turn this in.**
+2. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). *This is for your own learning, and you do not need to turn this in.*
 
 3. Complete this [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). **This is required as part of your professional development this module.** 
 
@@ -150,7 +150,7 @@ Read the [Pairin Qualities Overview](https://github.com/turingschool/career-deve
 On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
 
 ## Reminders
-* Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by EOD Friday of Week 1.
+* Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by **EOD Friday of Week 1.**
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
