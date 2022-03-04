@@ -128,19 +128,21 @@ To help you think about what your public-facing story could include, create a ho
 Here are some [additional branding resources](/resources/branding_resources) for platforms like LinkedIn, GitHub, and Twitter. 
 
 ## Check for Understanding
-Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
+1. Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
 
-1. Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
-2. Review and complete the branding framework reflection questions.
-3. Review and complete the running list of accomplishments tab.
+  * Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+  * Review and complete the branding framework reflection questions.
+  * Review and complete the running list of accomplishments tab.
 
-Consider:
+ Consider:
 
-* Your motives and values
-* The turning points that led to your career change
-* What you envision for yourself going forward
+  * Your motives and values
+  * The turning points that led to your career change
+  * What you envision for yourself going forward
 
 **Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4. 
+
+2. Complete this [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88). **Completion of this exit ticket is required for your professional development this module.** 
 
 ### Next Steps
 Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
@@ -153,6 +155,7 @@ Gather as much feedback as you can:
 
 ## Due Dates & Reminders
 
+* Complete the [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88) for today's lesson by **EOD Friday of Week 3.**
 * Reminder to complete your networking action step and be ready to provide information on it in your end of module survey. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
 * Reminder that you can reach out to Allison through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
