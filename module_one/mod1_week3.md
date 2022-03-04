@@ -130,17 +130,17 @@ Here are some [additional branding resources](/resources/branding_resources) for
 ## Check for Understanding
 1. Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
 
-  * Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
-  * Review and complete the branding framework reflection questions.
-  * Review and complete the running list of accomplishments tab.
+   * Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+   * Review and complete the branding framework reflection questions.
+   * Review and complete the running list of accomplishments tab.
 
  Consider:
 
-  * Your motives and values
-  * The turning points that led to your career change
-  * What you envision for yourself going forward
+   * Your motives and values
+   * The turning points that led to your career change
+   * What you envision for yourself going forward
 
-**Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4. 
+  **Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4. 
 
 2. Complete this [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88). **Completion of this exit ticket is required for your professional development this module.** 
 
