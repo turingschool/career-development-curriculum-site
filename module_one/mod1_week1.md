@@ -149,7 +149,7 @@ Read the [Pairin Qualities Overview](https://github.com/turingschool/career-deve
 ## Continued Application
 On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
 
-## Reminders
+## Due Dates & Reminders
 * Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by **EOD Friday of Week 1.**
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
