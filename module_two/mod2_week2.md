@@ -162,20 +162,18 @@ Finally, it's always a good idea to end the conversation by asking, "who else fr
 For a refresher on any of this information, you can always find it on the Resources page [here](/resources/outreach_networking_resources).
 
 ## Check for Understanding
-Who are you going to build connection with to navigate your career in software development?
+1. Complete this [exit ticket](https://forms.gle/VLMXz6NzDNVuqZ4a6). **Completion of this exit ticket is required for your professional development this module.**  
 
-**Create networking goals this module by following the steps below *(this is your PD deliverable for networking due in week 3)*:**
+2. Create networking goals this module by following the steps below:
 
-**1. Build a list of 4 warm contacts (people to get to know better) and 4 cold contacts (someone in tech industry to reach out to)**
-
-**2. Outline 1 action step to take for networking during the mod (ex: attend an event, have a chat with someone, etc.)**
-
-Keep track of this list and action steps using [your networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0). Create an outreach message for the people on your goal list. 
-
-Test it out! Send the message!
+  * Build a list of 4 warm contacts (people to get to know better) and 4 cold contacts (someone in tech industry to reach out to)
+  * Outline 1 action step to take for networking during the mod (ex: attend an event, have a chat with someone, etc.)
+  * Keep track of this list and action steps using [your networking tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0). Create an outreach message for the people on your goal list. 
+  * Test it out! Send the message!
 
 ## Due Dates & Reminders
 
+* Complete the [exit ticket](https://forms.gle/VLMXz6NzDNVuqZ4a6) for today's lesson by **EOD Friday of Week 2.**
 * Your ATS-ready (read: plain, straightforward information), 1-page resume draft that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
 
 * Create your list of 4 warm contacts and 4 cold contacts and decide on 1 action step that you'll take for networking.
