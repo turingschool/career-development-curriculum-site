@@ -119,13 +119,16 @@ Bookmark the tools of interest to you so you will have them to come back to late
 Remember, there are A LOT of resources available online for job search. We recommend sticking to a few that you like to ensure that you are not overwhelming yourself (and your inbox) with everything that is available. 
 
 ## Check for Understanding
-1. Pick a strategy! Whether you are going to use the [flower exercise](#flower), a [career roadmap](#roadmap), or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
+1. Complete this [exit ticket](https://forms.gle/b1KJaxd2frPMYyso7). **Completion of this exit ticket is required for your professional development this module.** 
 
-2. Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
+2. Pick a strategy! Whether you are going to use the [flower exercise](#flower), a [career roadmap](#roadmap), or a DTR of your own start to refine your starting points. Spend 15-20 minutes on this and keep the documents on hand to turn back to later and refine. 
 
-3. Spend 5-10 minutes exploring the [resources](https://careerdev.turing.edu/resources/finding_opportunities) listed in the session. Which ones do you like and why? 
+3. Spend 5-10 minutes logging in, setting up your board on [Huntr](https://huntr.co/) Read through the guides [here](https://blog.huntr.co/huntr-quickstart-guide/) to explore the platform.
+
+4. Spend 5-10 minutes exploring the [resources](https://careerdev.turing.edu/resources/finding_opportunities) listed in the session. Which ones do you like and why? 
 
 ## Due Dates & Reminders
+* Complete the [exit ticket](https://forms.gle/b1KJaxd2frPMYyso7) for today's lesson by **EOD Friday of Week 2.**
 * **Update your resume draft** with any feedback you've received so that it's ready for final submission at the end of the module.
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
