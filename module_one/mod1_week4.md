@@ -112,15 +112,18 @@ This section is where you showcase your current and prior work:
 * [How to Analyze Your Linkedin Profile Using the Linkedin Dashboard](https://www.socialmediaexaminer.com/how-to-analyze-linkedin-profile-using-linkedin-dashboard/) Article by Luan Wise
 
 ## Check for Understanding
-Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J315Bd4roTnp-wV6tWVhBF8MZj_HqrnMA/edit?usp=sharing) while working through the items below <a name="cfu"></a>
-1. Find 3 job descriptions you’re interested in and identify the keywords in each posting
-2. Review at these Linked in profiles
-* [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
-* [Natsai Ndebele](https://www.linkedin.com/in/natsai-ndebele/)
-* [Xand Griffin](https://www.linkedin.com/in/xandgriffin/)
-3. You should also start to work on your building/updating your LinkedIn profile today to submit at the end of this week. Check out these additional [resources and tips](/resources/branding_resources).
+1. Complete this [reflection sheet](https://docs.google.com/document/d/1rZh1pbQML2J315Bd4roTnp-wV6tWVhBF8MZj_HqrnMA/edit?usp=sharing) while working through the items below <a name="cfu"></a>
+   * Find 3 job descriptions you’re interested in and identify the keywords in each posting
+   * Review at these Linked in profiles
+     * [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
+     * [Natsai Ndebele](https://www.linkedin.com/in/natsai-ndebele/)
+     * [Xand Griffin](https://www.linkedin.com/in/xandgriffin/)
+   * You should also start to work on your building/updating your LinkedIn profile today to submit at the end of this week. Check out these additional [resources and tips](/resources/branding_resources).
 
-## Reminders
+2. Complete this [exit ticket](https://forms.gle/qG5zVtDYd9FQbuM98). **Completion of this exit ticket is required for your professional development this module.**  
+
+## Due Dates & Reminders
+* Complete the [exit ticket](https://forms.gle/qG5zVtDYd9FQbuM98) for today's lesson by **EOD Friday of Week 4.**
 * **Due this Friday [here](https://airtable.com/shrC9S9ymEtpUWWw9)**:
   * Your LinkedIn rough draft:
     * Professional-looking headshot
