@@ -8,22 +8,16 @@ subheading: How to Ask for What You Deserve
 This lesson is aimed to provide students with all the information and tools needed for successful negotiation. 
 Start by viewing the video below. Allow yourself up to 55 minutes to complete. We suggest that you take notes and complete the reflection questions (in the Check for understanding section below) as go along. 
 
-### Section 1: Introduction
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJjUoksEof0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-#### Learning Goals
+### Learning Goals
 * Build understanding of and confidence towards negotiations
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
 
+After you've completed this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/v9vb4doeBpE3WNHZ8).
 
-#### Objectives
+### Section 1: Introduction
 
-* Build understanding of and confidence towards negotiations 
-* Evaluate offer packages in their entirety, including looking at equity
-* Look at examples and discuss tactics for negotiating
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJjUoksEof0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Section 2: Why Does Negotiating Matter?
 
@@ -314,4 +308,8 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * Otherwise, we would recommend to not ask for a visa during negotiations because that’s an indication that you’ll be leaving them
 * For a company with international ties, you could say you don’t have a visa right now, and do they sponsor visas? For big companies, it's more likely as visas can cost up to $10,000
 * You could consider taking a lesser salary to negotiate visa sponsorship
+
+## Check for Understanding
+
+Complete this [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) before the live component of this session in week 1. **Completion of this exit ticket is required for your professional development this module.** 
 
