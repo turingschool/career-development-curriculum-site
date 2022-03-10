@@ -47,9 +47,9 @@ Per Linkedin, a complete profile has a current industry listed, at least 2 up-to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UjsNFNKYIsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Profile Photo: Your profile photo should be easy to see your face and not cropped, blurry, or pixelated.
+* Profile Photo: Your profile photo should be easy to see your face and not cropped, blurry, or pixelated.
 
-Cover Photo: The cover photo should showcase some of your personality or connect to your industry. Above all else, replace the standard Linkedin image.
+* Cover Photo: The cover photo should showcase some of your personality or connect to your industry. Above all else, replace the standard Linkedin image.
 
 ### Section 3: Headlines and Keywords
 When searching on Linkedin, your profile picture and headline are some of the first things people can see about you. They can inspire people to click on your profile and learn more about you. 
@@ -107,7 +107,9 @@ This section is where you showcase your current and prior work:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PAEuNs1Zxnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Resources
-* [How to Take Your Own Linkedin Photo](https://www.linkedin.com/pulse/how-take-painless-free-linkedin-headshot-michele-lacagnina/) Article by Michele LaCagnina
+* How to Take Your Own Linkedin Photo
+   * [Blog Post from Turing](https://writing.turing.io/how-to-take-your-own-linkedin-headshot/)
+   * [Article by Michele LaCagnina](https://www.linkedin.com/pulse/how-take-painless-free-linkedin-headshot-michele-lacagnina/)
 * [Unsplash.com](https://unsplash.com) for high-resolution images for your profile’s cover photo
 * [How to Write a LinkedIn Summary](https://www.jobscan.co/blog/linkedin-summary-examples/) Article by Jon Shields
 * [13 Creative LinkedIn Summary Examples & How to Write Your Own](https://blog.hubspot.com/sales/linkedin-summary-examples) Article by Aja Frost
@@ -122,7 +124,8 @@ This section is where you showcase your current and prior work:
      * [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
      * [Natsai Ndebele](https://www.linkedin.com/in/natsai-ndebele/)
      * [Xand Griffin](https://www.linkedin.com/in/xandgriffin/)
-   * You should also start to work on your building/updating your LinkedIn profile today to submit at the end of this week. Check out these additional [resources and tips](/resources/branding_resources). 
+
+3. You should also start to work on your building/updating your LinkedIn profile today to submit at the end of this week. Go here to find additional step-by-step [resources and tips](/resources/branding_resources). 
 
 ## Due Dates & Reminders
 * Complete the [exit ticket](https://forms.gle/qG5zVtDYd9FQbuM98) for today's lesson by **EOD Friday of Week 4.**
