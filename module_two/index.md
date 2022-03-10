@@ -25,9 +25,9 @@ See more about these learning goals [here](/module_two/mod2_learning_goals).
 By the end of Mod 2, you should have completed:
 
 1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
-   * **[Week 1 Exit Ticket](https://forms.gle/FVve83mBkcJgxnm6A) 
-   * **[Week 2 Exit Ticket](https://forms.gle/74Bfdx3b71Cq2GsCA)
-   * **[Week 3 Exit Ticket](https://forms.gle/7jRSUfiCzLngqr278)
+   * **[Week 1 Exit Ticket](https://forms.gle/FVve83mBkcJgxnm6A)**
+   * **[Week 2 Exit Ticket](https://forms.gle/74Bfdx3b71Cq2GsCA)**
+   * **[Week 3 Exit Ticket](https://forms.gle/7jRSUfiCzLngqr278)**
 2. **Resume draft:**
    * Your draft should be formatted for an ATS system, be no more than 1 page, and must include at least 2 software projects that you've completed so far at Turing and a list of technical skills 
    * **Due date #1: EOD Friday of Week 2** submitted through [this survey](https://airtable.com/shrdiggeJLo7mPOt6) and you will also workshop your draft with your homeroom group in Week 5.
