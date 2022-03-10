@@ -20,7 +20,7 @@ By the end of this lesson, you should have accomplished these learning goals:
 * Plan for how to discuss strengths and working preferences
 * Analyze opportunities for professional growth
 
-After you complete this lesson, you'll synthesize your learning in this [Exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). 
+After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). 
 
 ### Prior to the Lesson
 * Log back into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com) to access your Pairin results
