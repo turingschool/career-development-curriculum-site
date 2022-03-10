@@ -12,6 +12,8 @@ Please complete the lesson plan as well as all check for understanding action it
 * Utilize tools and strategies for building connection
 * Create and execute a plan to start expanding your network 
 
+After you complete this lesson, you'll synthesize your learning goals in this [Exit Ticket](https://forms.gle/VLMXz6NzDNVuqZ4a6). 
+
 ## Week 2 Lesson - Building Connection
 Allow yourself 30-40 minutes to complete the following lesson. Start by viewing the videos below.
 
