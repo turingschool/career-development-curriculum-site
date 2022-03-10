@@ -20,6 +20,8 @@ By the end of this lesson, you should have accomplished these learning goals:
    * Skills and Keywords that are industry specific
    * Technical Projects that have consistent formats and show accompishments
    * Education section that includes Turings Certificate of Completion
+
+After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
  
 ## Week 1 Lesson - Intro to Creating a Techically Focused Resume
 This PD lesson will focus on how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
