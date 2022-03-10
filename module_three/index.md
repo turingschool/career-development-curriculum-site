@@ -18,24 +18,28 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 ### Deliverables & Due Dates
 
-1. **LinkedIn updated:**
+1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
+   * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
+   * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
+   * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
+2. **LinkedIn updated:**
    * Highlight your technical skills
    * Add technical keywords to your About Me and make any necessary updates to your story
    * Take student out of your headline if it's there
    * We recommend using intermission to work on updates. 
    * **Final due date:** **Friday of Week 2**
    
-2. **Resume updated:**
+3. **Resume updated:**
    * Your resume should be ATS-ready and formatted as a *technical* resume. 
  
    * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
    
-3. **Create a cover letter based on a job description:** 
+4. **Create a cover letter based on a job description:** 
    * Your cover letter explains why you are qualified for the specific job. It highlights transferrable skills that you offer the new role. It should be clear to the company that you understand the company and are excited for the opportunity.
    * **Due date #1: Wednesday of Week 5** during homeroom
    * **Final due date: EOD Friday of Week 5** in end of mod survey (below)
    
-4. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
+5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
