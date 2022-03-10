@@ -23,17 +23,22 @@ See more about these learning goals [here](/module_one/mod1_learning_goals).
 ### Deliverables
 By the end of Mod 1, you should have completed:
 
-1. **1 networking activity:**
+1. **Exit Tickets** for each of the async lessons
+   * **[Week 1 Exit Ticket](
+   * **[Week 2 Exit Ticket](
+   * **[Week 3 Exit Ticket](
+   * **[Week 4 Exit Ticket](
+2. **1 networking activity:**
    * Create one networking goal from the [Week 2 lesson](/module_one/mod1_week2) to complete by the end of the module. 
    * **Due by EOD Friday of Week 5** submitted through end of mod survey (below). You should submit information on the networking that you've engaged in during Mod 1 and the results. 
-2. **LinkedIn rough draft** that includes:
+3. **LinkedIn rough draft** that includes:
    * Professional-looking headshot
    * Updated headline statement
    * Summary statement using your professional story
    * Turing added to Experience and Education sections 
    * **Due date #1:** Submit your LinkedIn URL through [this survey](https://airtable.com/shrC9S9ymEtpUWWw9) by **EOD Friday of Week 4.** If you are missing any elements of your LinkedIn, you will receive feedback by mid-week Week 5.
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
-3. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
+4. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
