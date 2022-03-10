@@ -87,7 +87,7 @@ Here's how we recommend you respond:
 
 Once you've asked for more context and you're given an offer, take these next steps:
 
-#### Take at least 24 hours
+#### Take at least 48 hours
 When you receive an offer, do not accept on the spot. You don't even have to negotiate on the spot. Acknowledge receipt of the offer. Say, *"Thank you so much for this opportunity! I need to take some time to review the offer (you can say with your partner, mentor, etc. if you don't feel comfortable leaving it open ended). Could you send me the offer in writing so I can review it?"* You want to sound excited and interested, but you're also biding your time, so you can you consider any other offers and think this through
 
 
