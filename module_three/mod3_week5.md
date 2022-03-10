@@ -9,6 +9,8 @@ subheading: Putting It All Together
 * Ideate and try out solutions to improve your current interviewing strategy
 * Understand how to answer interview questions through specific strategies
 
+After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97).
+
 ### Overview
 Review how you've been spending your time. Where are you right now in regards to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
 
@@ -103,3 +105,5 @@ To continue preparing for interviews, create an interview prep document to write
 * Do some research into your top companies' tech stacks; what do you already know? What can you compare to your own learning? What do you need to learn more about?
 * Using this [interview prep resource guide](/resources/interview_prep_resources), pick out at least 3 resources you will use to prepare for interviews as well as 3 behavioral questions you could practice.
 
+## Check for Understanding
+After you've completed this lesson, submit this [exit ticket](https://forms.gle/1WHVG6iiHX6bkfS97) by **EOD Friday of Week 3.**
