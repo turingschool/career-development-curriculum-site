@@ -3,6 +3,9 @@ layout: page
 title: Resume Resources
 ---
 
+## Start Here
+If you haven't yet, make sure to go through the [technical resume lesson](/module_two/mod2_week1) in order to have more context for these resources and when to use them. 
+
 ## General Advice
 
 * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
