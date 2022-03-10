@@ -14,6 +14,8 @@ This session will cover:
 * Create your personal brand as a software developer
 * Tell your story effectively across multiple platforms
 
+After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/P1jTYeVeE4aDygS88). 
+
 Allow yourself 45-60 mins to read through the lesson plan and watch the video lectures below. Complete [this reflection sheet](https://docs.google.com/document/d/11nji0XRnS1hGrlDD_PYJiOsF3ACpyNtMYkOGN1L9EPo/edit?usp=sharing) as you go (make a copy by going to File > Make a copy).
 
 ## Week 3 Lesson: Professional Storytelling & Branding
@@ -128,7 +130,9 @@ To help you think about what your public-facing story could include, create a ho
 Here are some [additional branding resources](/resources/branding_resources) for platforms like LinkedIn, GitHub, and Twitter. 
 
 ## Check for Understanding
-1. Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
+1. Complete this [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88). **Completion of this exit ticket is required for your professional development this module.**
+
+2. Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
 
    * Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
    * Review and complete the branding framework reflection questions.
@@ -140,9 +144,7 @@ Here are some [additional branding resources](/resources/branding_resources) for
    * The turning points that led to your career change
    * What you envision for yourself going forward
 
-  **Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4. 
-
-2. Complete this [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88). **Completion of this exit ticket is required for your professional development this module.** 
+  **Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4.  
 
 ### Next Steps
 Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
