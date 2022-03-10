@@ -16,6 +16,8 @@ This session will cover:
 * Understand how to get started with networking at Turing
 * Create a strategy for getting started with networking
 
+After you complete the lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/wjgRVrCwbPcmG3Ap9). 
+
 ## Introduction to Networking
 ### Lesson Plan <a name="lesson"></a>
 Allow yourself 45-60 minutes complete the following lesson. Start by viewing the video below. As you follow along, [use this note-taking template](https://docs.google.com/document/d/1EQ6eMTKmS0xeLMfmAu1bxZtkQzeIW0BFlye-DlpSkSk/edit?usp=sharing).
