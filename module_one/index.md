@@ -24,10 +24,10 @@ See more about these learning goals [here](/module_one/mod1_learning_goals).
 By the end of Mod 1, you should have completed:
 
 1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
-   * **[Week 1 Exit Ticket](https://forms.gle/JExeEMPfhdtyGwQ1A) 
-   * **[Week 2 Exit Ticket](https://forms.gle/sCSkaQXxxPifX25PA)
-   * **[Week 3 Exit Ticket](https://forms.gle/ZnjJsBceNC9qBsM19)
-   * **[Week 4 Exit Ticket](https://forms.gle/zkhBvcCs48hGU6qK8)
+   * **[Week 1 Exit Ticket](https://forms.gle/JExeEMPfhdtyGwQ1A)** 
+   * **[Week 2 Exit Ticket](https://forms.gle/sCSkaQXxxPifX25PA)**
+   * **[Week 3 Exit Ticket](https://forms.gle/ZnjJsBceNC9qBsM19)**
+   * **[Week 4 Exit Ticket](https://forms.gle/zkhBvcCs48hGU6qK8)**
 2. **1 networking activity:**
    * Create one networking goal from the [Week 2 lesson](/module_one/mod1_week2) to complete by the end of the module. 
    * **Due by EOD Friday of Week 5** submitted through end of mod survey (below). You should submit information on the networking that you've engaged in during Mod 1 and the results. 
