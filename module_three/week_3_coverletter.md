@@ -31,7 +31,7 @@ After you complete this lesson you should be able to:
 * Reflect on what needs to be in a cover letter
 * Draft/write a cover letter for a job application 
  
- 
+ After you complete this lesson, you'll synthesize your learning with this [Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8).
 
 ### Application Process
 
@@ -127,11 +127,11 @@ If you find yourself with:
 * A cover letter that is all about you, try reframing sentences about you by starting the sentence talking about the company and seguing into how you can provide value to them based on your experiences and skills
 * Grammar and spelling errors, try [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/). Reading cover letters aloud or having a peer proofread will also help you catch a lot of those mistakes.
 
-
-
 ## Check for Understanding
 
-Start by reading through the following cover letters (15 mins):
+1. Complete this [exit ticket](https://forms.gle/uaftT1VbePHcisGn8). **Completion of this exit ticket is required for your professional development this module.** 
+
+2. Read through the following cover letters (15 mins):
 
    * [April Dagonese](/files/April%20Cover%20Letter.pdf)
    * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
@@ -143,11 +143,12 @@ Start by reading through the following cover letters (15 mins):
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-#### Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
-
+3. Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
 
 ## Due Dates & Reminders 
-2. **Create a cover letter based on a job description:** 
+* Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
+
+* **Create a cover letter based on a job description:** 
    * **Due date #1: Wednesday of Week 5** during homeroom
    * **Final due date: EOD Friday of Week 5** in end of mod survey 
 
