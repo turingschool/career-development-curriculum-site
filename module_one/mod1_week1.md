@@ -20,6 +20,8 @@ By the end of this lesson, you should have accomplished these learning goals:
 * Plan for how to discuss strengths and working preferences
 * Analyze opportunities for professional growth
 
+After you complete this lesson, you'll synthesize your learning in this [Exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). 
+
 ### Prior to the Lesson
 * Log back into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com) to access your Pairin results
 * Download and save your results as a PDF to have your results more handy
@@ -138,13 +140,13 @@ Your results show you top 4 qualities:
 Read the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
 
 ## Check for Understanding (10-15 mins) 
-1. Read through your Pairin Top 4 results <a name="cfu"></a>
+1. Complete this [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). **Completion of this exit ticket is required for your professional development this module.** 
+
+2. Read through your Pairin Top 4 results <a name="cfu"></a>
     * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
     * Use this [Pairin Overview handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) to learn more about the specific qualities.
 
-2. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). *This is for your own learning, and you do not need to turn this in.*
-
-3. Complete this [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). **Completion of this exit ticket is required for your professional development this module.** 
+3. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). *This is for your own learning, and you do not need to turn this in.*
 
 ## Continued Application
 On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
