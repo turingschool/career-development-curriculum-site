@@ -35,7 +35,9 @@ Check the cohort calendar for Weekly office hours and PD focus times with sugges
 
 ### Deliverables & Due Dates
 
-**Deliverable #1:** Complete Terminal portfolio. 
+**Deliverable #1:** Complete this [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async session by **EOD Friday of Week 1.**
+
+**Deliverable #2:** Complete Terminal portfolio. 
 
 To complete this deliverable:
 
@@ -51,7 +53,7 @@ To complete this deliverable:
   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
 
-**Deliverable #2:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
+**Deliverable #3:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 
 ### Weekly Discussion Guidelines & Prompts
