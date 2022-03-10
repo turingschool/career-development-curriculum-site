@@ -13,6 +13,8 @@ Upon completion of this review and lesson you wil be able to:
 * Write a resume draft showing your technical skills and experience, and merging your transferrable qualilfications.
 * Create a distint Terminal portfolio that showcase your technical work, achievements and personal brand.
 
+After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
+
 ## Week 1 Lesson- Resume Review 
 ## Section 1: Introduction
 Please review the short video lecture followed by the resources to help guide your resume development. 
@@ -77,14 +79,18 @@ Make sure you've met the [requirements for publication](https://careerdev.turing
 * A Career Specialist will review your profile and approve for publishing or request additional changes
 * After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job.
 
-### Items to be completed by end of Module 3
+## Check for Understanding
 
-Career Materials:
+Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is required for your professional development this module.** 
 
-* Resume draft completed by end of week 5
-* LinkedIn is checked by end of week 2
-* Cover letter draft reviewed by peers in week 5 homeroom groups
-* Optional draft of terminal portfolio submitted
-* Complete end of mod self-evaluation survey by EOD Friday Week 5
+## Due Dates & Reminders 
+* Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
 
-Checkout PD office hours or contact the Career team for questions and support!
+* Items to be completed by end of Module 3:
+  * Resume draft completed by end of week 5
+  * LinkedIn is checked by end of week 2
+  * Cover letter draft reviewed by peers in week 5 homeroom groups
+  * Optional draft of terminal portfolio submitted
+  * Complete end of mod self-evaluation survey by EOD Friday Week 5
+
+* Check out PD office hours or contact the Career team for questions and support!
