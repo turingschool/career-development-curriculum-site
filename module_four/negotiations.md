@@ -13,8 +13,6 @@ Start by viewing the video below. Allow yourself up to 55 minutes to complete. W
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
 
-After you've completed this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/v9vb4doeBpE3WNHZ8).
-
 ### Section 1: Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJjUoksEof0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
