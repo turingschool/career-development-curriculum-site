@@ -307,7 +307,6 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * For a company with international ties, you could say you don’t have a visa right now, and do they sponsor visas? For big companies, it's more likely as visas can cost up to $10,000
 * You could consider taking a lesser salary to negotiate visa sponsorship
 
-## Check for Understanding
 
-Complete this [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) before the live component of this session in week 1. **Completion of this exit ticket is required for your professional development this module.** 
+
 
