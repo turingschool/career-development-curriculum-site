@@ -45,7 +45,8 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * Use grammarly to correct grammar, provide word alternatives, and catch spelling errors.
    * The following [Guided Cover letter template]                                                    (https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)           provides a good overview of how to format,structure and write a solid cover letter.
   
-   * **Due date Wednesday of Week 5** You will use this cover letter and job descriptin during          week 5 homeroom group. Cut and paste the job description into a google doc to share and          refer back to. 
+   * **Due Wednesday of Week 5** You will use this cover letter and job descriptin during              the week 5 homeroom group. Cut and paste the job description into a google doc to share          and refer back to. 
+  
    * **Final due date: EOD Friday of Week 5** in end of mod survey (below)
    
 5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
