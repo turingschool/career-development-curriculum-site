@@ -25,10 +25,10 @@ There are many ways to prepare for interviews. The key for all interviews is **k
 
 [Slides for this lesson](https://docs.google.com/presentation/d/19v08-f77qv6HTMR3teiuv_SmXMHzpydHrdo144WYG_8/edit?usp=sharing)
 
-[Video Lesson](https://youtu.be/zhsuxAO1QbI)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w1ncXtkOqOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Strategy #1: Answer the whole question
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exQySTPJ490" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Pay attention to what the question is asking as well as any *subtext* inherent in the question. Let's look at an example:
 
 * How do you deal with failure?
@@ -39,8 +39,8 @@ This question is asking you to:
 * **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
 
 
-
 #### Strategy #2: Use the [STAR Method](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jfHij9Kj-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Use this as an opportunity to tell stories about your relevant experience. A great template to use to plan out your stories is the STAR method:
 
 * **Situation:** The interviewer wants you to present a recent challenge and situation in which you found yourself.
@@ -58,7 +58,6 @@ Then move into the task/target and discuss the objective of the project. What wa
 Then, walk through all of the actionable steps you/your team took to meet the objective of the project. What successes did you have? What challenges did you run into? What steps did you take to overcome those challenges? 
 
 And finally, what were the results of this project? What were you able to accomplish? What would you have done differently? 
-
 
 
 #### Strategy #3: Know how to talk about your experience
@@ -89,11 +88,15 @@ For your previous professional experiences and background, unpack the transferab
 
 
 #### Strategy #4: [Research and Prep](https://www.glassdoor.com/blog/7-research-job-interview/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hfybq4a-2E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 1. Make sure to start by researching your company (you should do this before you submit your application anyway). Know what their tech stack is
 
 2. Keep a running doc where you can keep track of common interview questions and specifics that you can draw from to answer these questions. Outline your stories here about projects, team situations, successes, and failures. Make sure to review these before each of your interviews.  
 
+#### Strategy #4: [Do you have any questions for me?](https://www.keyvalues.com/culture-queries)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qP0Sl7qs6Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+At the end of almost every interview, you'll be given an opportunity to ask questions. Use this time to get a better understanding of the company, what it would be like to work there, and gauge whether this role is a good fit for you. 
 
 ### Putting it into Practice
 To continue preparing for interviews, create an interview prep document to write out answers by telling stories about various experiences. Here are some starting prompts:
