@@ -31,9 +31,9 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
    
 3.  **LinkedIn updated:**
-   * Highlight your technical skills
-   * Add technical keywords to your About Me and make any necessary updates to your story
-   * Take student out of your headline if it's there
+    * Highlight your technical skills
+    * Add technical keywords to your About Me and make any necessary updates to your story
+    * Take student out of your headline if it's there
  
    * ** **
    
@@ -43,7 +43,8 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the        most with you. 
    * It should be clear to the company that you understand the company and are excited for the opportunity.
    * Use grammarly to correct grammar, provide word alternatives, and catch spelling errors.
-   * The following [Guided Cover letter template]                                                    (https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)           provides a good overview of how to format,structure and write a solid cover letter.
+   * Review:
+    the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips     on formatting,structure and writing a solid cover letter.
   
    * **Due Wednesday of Week 5** You will use this cover letter and job descriptin during              the week 5 homeroom group. Cut and paste the job description into a google doc to share          and refer back to. 
   
