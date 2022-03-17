@@ -33,30 +33,21 @@ avoid images,tables,headers,footers.
 * [Resume checklist and resources](/resources/resume_resources)  
 * Listen to [Mod 2 Resume Lesson and ATS videos](/module_two/mod2_week1). 
 
-Videos are 1-3 minutes in length and cover the following sections of the Technical Resume:
-
-1. Contact Information, title and headline (optional)
-2. Resume Summary (optional)
-3. Skils and Keywords
-4. Technical Projects
-5. Work Experience
-6. Education and Training
-
 When you have a completed resume, use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how ready your resume is for that posting.
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from. 
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
-Creating your unique portfolio is the perfect opportunity to showcase your skills!
+Creating your unique portfolio is the perfect opportunity to showcase skills and stand out!
 
 ### Set Up your Terminal Profile
 
-**Note:** completing your Terminal portfolio is a Mod 4 deliverable and is not required for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our site, so we provide information for you to set it up this module. 
+**Note:** Completing your Terminal portfolio is a Mod 4 deliverable and is not required for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our site, so we provide you with information to set up this module. 
 
-First, review the following video on how to set up your Terminal Portfolio: 
+ * First, review the following video on how to set up your Terminal Portfolio: 
 
-* [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
+ * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
 Next, follow these step-by-step directions to sign in: 
 
@@ -68,7 +59,7 @@ Next, follow these step-by-step directions to sign in:
 
 * After setting up your portfolio, review tips and guidelines for drafting your About me and Technical Projects sections [here](https://careerdev.turing.edu/resources/terminal_directions) 
 
-Review what needs to be included in order for your portfolio to be published? 
+* Review what needs to be included in order for your portfolio to be published? 
 [Here is what the team is looking for](https://careerdev.turing.edu/resources/terminal_directions)
 
 ### When your profile is complete:
