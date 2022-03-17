@@ -84,4 +84,4 @@ Now that you've completed the lesson, please submit this [exit ticket](https://f
   * Optional draft of terminal portfolio submitted
   * Complete end of mod self-evaluation survey by EOD Friday Week 5
 
-* Check out PD office hours or contact the Career team for questions and support!
+ Check out PD office hours or contact the Career team for questions and support!
