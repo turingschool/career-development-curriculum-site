@@ -22,17 +22,20 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
    * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
-2. **LinkedIn updated:**
+2. **Resume updated:**
+   * Your resume should be ATS-ready and formatted as a *technical* resume. 
+   * When you have a completed resume, use [JobScan](https://www.jobscan.co/) to see how              optimized your resume is for roles you are interested in purusing. Upload your resume and a      job description, and jobscan will highlight the key experience, and skills recruiters like      to see. 
+   * Setting up your Terminal Portfolio is optional for Mod 3. Please review the submission
+     requirements before submitting for review. There is no deadline for a review, as long as        its submitted by EOD Friday of Week 5. 
+   
+   * * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
+   
+3.  **LinkedIn updated:**
    * Highlight your technical skills
    * Add technical keywords to your About Me and make any necessary updates to your story
    * Take student out of your headline if it's there
-   * We recommend using intermission to work on updates. 
-   * **Final due date:** **Friday of Week 2**
-   
-3. **Resume updated:**
-   * Your resume should be ATS-ready and formatted as a *technical* resume. 
  
-   * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
+   * ** **
    
 4. **Create a cover letter based on a job description:** 
    * Your cover letter explains why you are qualified for the specific job. It highlights transferrable skills that you offer the new role. It should be clear to the company that you understand the company and are excited for the opportunity.
