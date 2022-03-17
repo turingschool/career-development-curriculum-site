@@ -42,7 +42,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * Use the job description to choose key skills and responsibilities to highlight. 
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the        most with you. 
    * It should be clear to the company that you understand the company and are excited for the opportunity.
-   ** Use grammarly to correct grammar, provide word alternatives, and catch spelling errors.
+   * Use grammarly to correct grammar, provide word alternatives, and catch spelling errors.
    * Review:
     the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips     on formatting,structure and writing a solid cover letter.
   
