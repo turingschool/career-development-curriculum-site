@@ -41,16 +41,14 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * Tailor your cover letter from a job description
    * Use the job description to choose key skills and responsibilities to highlight. 
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the        most with you. 
-   * It should be clear to the company that you understand the company and are excited for the opportunity.
-   * Use grammarly to correct grammar, provide word alternatives, and catch spelling errors.
    * Review:
-    the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips     on formatting,structure and writing a solid cover letter.
+     the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips      on formatting,structure and writing a solid cover letter.
   
-   * **Due Wednesday of Week 5** You will use this cover letter and job descriptin during              the week 5 homeroom group. Cut and paste the job description into a google doc to share          and refer back to. 
-  
+   * **Due Wednesday of Week 5** You will use this cover letter and job description during the          week 5 homeroom group. Cut and paste the job description into a google doc to share and          refer back to. 
    * **Final due date: EOD Friday of Week 5** in end of mod survey (below)
    
-5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by **EOD Friday of Week 5**
+5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
+   by **EOD Friday of Week 5**
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
