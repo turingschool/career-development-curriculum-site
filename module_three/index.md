@@ -24,8 +24,10 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
 2. **Resume updated:**
    * Your resume should be ATS-ready and formatted as a *technical* resume. 
-   * When you have a completed resume, use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you are interested in            purusing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see. 
-   * * **Final resume due date: EOD Friday of Week 5** through the end of mod survey
+   * Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
+   * When you have a complete version of your resume,  use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you are          interested in purusing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
+   * You will use your completed resume in week 5 based on the resume review activities of your respective programs.
+   **Final resume due date is EOD Friday of Week 5** through the end of mod survey
    **Terminal Portfolio:**  
    * Portfolios can be submitted during the inning, as long as its before EOD Friday of week 5. Please review the submission requirements before              submitting them for review. Setting up your Terminal Portfolio is optional for Mod 3. 
 3. **Create a cover letter based on a job description:** 
