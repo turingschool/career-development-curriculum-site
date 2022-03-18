@@ -8,7 +8,7 @@ The first part of this PD lesson provides a written resume review with activitie
 
 ### Learning Goals 
 
-Upon completion of this review and lesson you wil be able to:
+Upon completion of this review and lesson you will be able to:
 
 * Write a resume draft showing your technical skills and experience, and merging your transferrable qualifications.
 * Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.
@@ -36,6 +36,7 @@ Turing provides a space for professional portfolios on [our website](https://ter
 * Creating your unique portfolio is the perfect opportunity to showcase skills and stand out!
 * Developing your Terminal Portfolio optional for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our   site, so we provide you with information to set up this module.   
 * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before         submitting them for review.
+
 ###Getting Started with Terminal
  * First, review the following video on how to set up your Terminal Portfolio: 
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
