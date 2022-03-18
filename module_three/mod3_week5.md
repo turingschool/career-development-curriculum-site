@@ -28,15 +28,16 @@ There are many ways to prepare for interviews. The key for all interviews is **k
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w1ncXtkOqOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Strategy #1: Answer the whole question
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exQySTPJ490" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Pay attention to what the question is asking as well as any *subtext* inherent in the question. Let's look at an example:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exQySTPJ490" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * How do you deal with failure?
 
 This question is asking you to:
-* **Acknowledge that you fail.** You're not perfect, you have experienced failure. Be upfront and transparent about that
+* **Acknowledge that you fail.** You're not perfect, you have experienced failure. It's okay to be transparent about that
 * **Describe what you do after you fail.** How do you pick yourself back up? What next steps do you take?
-* **Give specifics.** Even though the way this question is worded doesn't ask for a specific situation, providing specifics helps
+* **Give specifics.** Providing specifics and responding to questions in the form of a story can help them understand and remember your response better.
 
 
 #### Strategy #2: Use the [STAR Method](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
