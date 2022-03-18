@@ -15,23 +15,19 @@ Upon completion of this review and lesson you wil be able to:
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
 
-## Week 1 Lesson- Resume Review 
+## Week 1 Lesson- Resume Review and Terminal Portfolio
 ## Section 1: Introduction
 Please review the short video lecture followed by the resources to help guide your resume development. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGLVCEX4Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Action steps to guide your resume draft.
+### Action steps to guide a complete version of your resume:
 
-A key deliverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly:
+A key deliverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly.
 
-* **ATS-Friendly**: a single column format, uses standard section headings, uses standard bullet points,and
-avoid images,tables,headers,footers.
-* **Technically Focused**: has at least 2 projects, technical skills are listed, includes links to your repos and deployed apps. For group projects that exist on your partner's GitHub, make sure you fork your own version and include that link instead.
-
-* If you are in the process of developing your resume draft and want a quick review of certain sections, check out the following resources:
-* [Resume checklist and resources](/resources/resume_resources)  
-* Listen to [Mod 2 Resume Lesson and ATS videos](/module_two/mod2_week1). 
+* **ATS-Friendly uses**: a single column format, hastandard section headings, uses standard bullet points,and
+    avoid images,tables,headers, and footers.
+* **Technically focused is having** has at least 2 projects, technical skills are listed, includes links to repos and deployed apps. For group projects     that exist on your partner's GitHub, make sure you fork your own version and include that link instead. 
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
