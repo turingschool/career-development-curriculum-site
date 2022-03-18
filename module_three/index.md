@@ -34,10 +34,10 @@ By the end of Mod 3, you should have completed the following:
    * **Due Wednesday of Week 5* before the homeroom group meeting* 
    * **Final due date: EOD Friday of Week 5** in end of mod survey 
    
-4. **LinkedIn Finalized**
-   * Highlight your technical skills
-   * Add technical keywords to your About Me and make any necessary updates to your story
-   * Take student out of your headline if it's there
+4. **Optimize LinkedIn for Job Search**
+   * Fill out profile thorughly
+   * Use a targeted Headline and remove student (if applicable) 
+   * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
    
 5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
    by **EOD Friday of Week 5**
