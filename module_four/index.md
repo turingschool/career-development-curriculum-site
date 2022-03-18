@@ -33,7 +33,7 @@ By the end of Mod 4, you should have completed:
    * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
    * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
- 3. **Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
+ 3. Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
