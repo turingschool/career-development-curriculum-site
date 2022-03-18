@@ -23,7 +23,7 @@ Check the cohort calendar for Weekly office hours and PD focus times with sugges
 
 By the end of Mod 4, you should have completed:
 
-1. ** Exit Ticket for the async lesson. This should be completed by EOD Friday of the respective week. 
+1. **Exit Ticket for the async lesson. This should be completed by EOD Friday of the respective week. 
          * Week 1 [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async session
          * As you complete the exit survey, we would love to know of any questions that you have about the lesson and negotiation process. We will                  address as many of the questions as we can during the live session during week 1. You can submit questions via the survey.
          * Please submit questions via the survey by **Tuesday of Week 1** 
