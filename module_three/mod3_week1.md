@@ -33,14 +33,11 @@ A key deliverable for Mod 3 is to have a full resume draft that is technically f
 
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
-Creating your unique portfolio is the perfect opportunity to showcase skills and stand out!
-
-### Set Up your Terminal Profile
-
-**Note:** Completing your Terminal portfolio is a Mod 4 deliverable and is not required for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our site, so we provide you with information to set up this module. 
-
+* Creating your unique portfolio is the perfect opportunity to showcase skills and stand out!
+* Terminal Portfolio Optional for Mood 3. However, the sooner you get it published, the sooner employers can find your information on our site, so we     provide you with information to set up this module.   
+* Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before         submitting them for review.
+###Getting Started with Terminal
  * First, review the following video on how to set up your Terminal Portfolio: 
-
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
 Next, follow these step-by-step directions to sign in: 
@@ -72,7 +69,8 @@ Make sure you've met the [requirements for publication](https://careerdev.turing
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
-
-
+* You will use your completed resume in week 5 via resume review activities 
+* Final resume due date is EOD Friday of Week 5through the end of mod survey
+* Portfolios can be submitted during the inning, as long as its before EOD Friday of Week 5
 
  Check out PD office hours or contact the Career team for questions and support!
