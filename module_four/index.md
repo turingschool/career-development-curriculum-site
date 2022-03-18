@@ -28,7 +28,7 @@ By the end of Mod 4, you should have the completed:
    *  We asked that this be done by **Tuesday of Week 1**, before the live negotiation session. 
    
 2. **Complete Terminal Portfolio
-   * A completed Portfolio must include the following before it can be publshed: 
+ A completed Portfolio must include the following before it can be publshed: 
     * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
     * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?        usp=sharing) to help you create the descriptions 
     * Finalized Resume and LinkedIn
