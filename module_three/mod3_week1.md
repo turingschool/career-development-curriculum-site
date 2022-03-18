@@ -65,12 +65,12 @@ Make sure you've met the [requirements for publication](https://careerdev.turing
 
 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is        required for your professional development this module.** 
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
-3. When you have a completed resume, use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how ready your resume is for that posting.
+3. When you have a completed resume, use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in        purusing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
 * You will use your completed resume in week 5 via resume review activities 
-* Final resume due date is EOD Friday of Week 5through the end of mod survey
+* Final resume due date is EOD Friday of Week 5 through the end of mod survey
 * Portfolios can be submitted during the inning, as long as its before EOD Friday of Week 5
 
  Check out PD office hours or contact the Career team for questions and support!
