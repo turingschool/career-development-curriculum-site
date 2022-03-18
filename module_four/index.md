@@ -27,16 +27,15 @@ By the end of Mod 4, you should have the completed:
    * After reviewing the negotiation lesson, we would love to know of any questions that you have about the process. We will address as many of the          questions as we can. You can submit questions via the exit survey.
    *  We asked that this be done by **Tuesday of Week 1**, before the live negotiation session. 
    
-2. **Complete Terminal portfolio
-   * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
-   * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?       usp=sharing) to help you create the descriptions 
-   * Upload your polished and targeted resume
-   * Include the link to your LinkedIn that is updated and optimized for job search
-   * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
-   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
+2. **Complete Terminal Portfolio
+   * A completed Portfolio must include the following before it can be publshed: 
+    * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
+    * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?        usp=sharing) to help you create the descriptions 
+    * Finalized Resume and LinkedIn
+    * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
+    * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
  3.**Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
-
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
