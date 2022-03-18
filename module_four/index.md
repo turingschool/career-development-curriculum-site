@@ -52,5 +52,3 @@ For students that have signed a job offer and still want to receive a graduation
 
 ### Repeating the Module
 For students repeating Module 4, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 4, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
-
-Check the cohort calendar for Weekly office hours and PD focus times with suggested action items
