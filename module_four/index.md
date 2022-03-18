@@ -4,30 +4,16 @@ title: Module 4 Professional Development & Job Search Support
 ---
 
 ## Overview
-Our approach to Module 4 is to review Professional Development curriculum and strategies in order to refine and execute a successful job search. Areas of focus include outreach and networking, resume and cover letter best practices, interview strategies, refining job search strategies, and negotiating an offer.
+Our approach to Module 4 is to review Professional Development curriculum and strategies in order to refine and execute a successful job search. Areas of focus include outreach and networking, resume and cover letter best practices, interview strategies, refining job search strategies, and negotiating an offer. Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
 
-Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
+### Lessons & Activities
 
-
-### Career Specialist Support
-
-Tracey and Ryan are your career supports during Mod 4 and are available Monday-Friday 9am-5pm MST. You can reach out to either of them to set up 1:1 using the links in their Slack bios. Coaching Meetings are scheduled for 30 minutes and can cover any of the following:
-
-* Terminal profiles, resume & cover letter assistance
-* Job search strategy sessions 
-* Mock interviews
-* Pairin Reports
-* Time management
-* Job offers
-* Any other supports you may need 
-
-### Sessions & Activities
 * Week 1: 
   * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
   * [Negotiations](/module_four/negotiations)
 * Week 2: Alumni Panel
-* Week 3: No PD Session
-* Week 4: [Employer Mock Interviews](/module_four/mod4_mock_interviews)
+* Week 3: [Terminal Portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
+* Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: Career Exploration Event
 * Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
 
