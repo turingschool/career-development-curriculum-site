@@ -19,27 +19,26 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 
 Check the cohort calendar for Weekly office hours and PD focus times with suggested action items
 
-### Deliverables & Due Dates
+###Deliverables & Due Dates
+By the end of Mod 4, you should have the completed:
 
-**Deliverable #1:** Complete this [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async session by **EOD Friday of Week 1.**
+1. Complete this [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async session by **EOD Friday of Week 1.**
+   * After reviewing the negotiation lesson, we would love to know of any questions that you have about the process. We will address as many of the          questions as we can. You can submit questions via the exit survey. We asked that this be done by **Tuesday of week one**, before the live                negotiation session. 
 
-**Deliverable #2:** Complete Terminal portfolio. 
 
-To complete this deliverable:
-
-  * Follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
-  * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?usp=sharing) to help you create the descriptions 
+2. Complete Terminal portfolio
+   * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
+   * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?       usp=sharing) to help you create the descriptions 
   * Upload your polished and targeted resume
   * Include the link to your LinkedIn that is updated and optimized for job search
   
   * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
  
- Your Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
+  * Career Specialists will review all portfolios and send follow-up on anything to be completed before it can be published. Note: you must select           "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we     publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
   
   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
 
-
-**Deliverable #3:** Complete this [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
+ 3. Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 
 ### Weekly Discussion Guidelines & Prompts
