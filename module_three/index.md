@@ -30,25 +30,25 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    
    **Final resume due date is EOD Friday of Week 5** through the end of mod survey
    
-   **Terminal Portfolio:**  
-   * Portfolios can be submitted during the inning, as long as its before EOD Friday of week 5. Please review the submission requirements before              submitting them for review. Setting up your Terminal Portfolio is optional for Mod 3. 
+ 3. **Terminal Portfolio Optional for Mood 3:**  
+    * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before              submitting them for review. Setting up your Terminal Portfolio is optional for Mod 3. 
   
-3. **Create a cover letter based on a job description:** 
+4. **Create a cover letter based on a job description:** 
    * Tailor your cover letter from a job description
    * Use the job description to choose key skills and responsibilities to highlight. 
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you. 
    * Review:
      the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips on                    formatting,structure and writing a solid cover letter.
-    * You will use this cover letter and job description during the week 5 homeroom group. Remeber to cut and paste the job description into a                 google doc to share and refer back to. **Due Wednesday of Week 5** 
+   * You will use this cover letter and job description during the week 5 homeroom group. Remeber to cut and paste the job description into a                 google doc to share and refer back to. **Due Wednesday of Week 5** 
    
    **Final due date: EOD Friday of Week 5** in end of mod survey 
    
-  4.  **LinkedIn Updated:**
+5. **LinkedIn Updated:**
     * Highlight your technical skills
     * Add technical keywords to your About Me and make any necessary updates to your story
     * Take student out of your headline if it's there
    
-5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
+6. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
    by **EOD Friday of Week 5**
 
 ### Weekly Discussion Guidelines & Prompts
