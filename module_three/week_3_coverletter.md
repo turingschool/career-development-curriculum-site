@@ -143,18 +143,16 @@ If you find yourself with:
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback.
-   *Tailor your cover letter from a job description
-   * Use the job description to choose key skills and responsibilities to highlight. 
-   * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you. 
+3. Work on a cover letter for a job you are interested in based on a job description, and be prepared to share it with your Homeroom group for feedback.
+   * Tailor your cover letter from a job description
+   * Use the job description to choose key skills and responsibilities to highlight 
+   * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you 
    * Use the recommended [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to format,      structure and create your cover letter.
 
 Here are [additional resources](/resources/cover_letter_resources). 
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
-
-* **Create a cover letter based on a job description:** 
-   * **Due date #1: Wednesday of Week 5** during homeroom
-   * **Final due date: EOD Friday of Week 5** in end of mod survey 
+* Create a cover letter based on a job description * **Due date #1: Wednesday of Week 5** during homeroom
+* **Final due date: EOD Friday of Week 5** in end of mod survey 
 
