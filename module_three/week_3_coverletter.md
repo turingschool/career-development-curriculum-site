@@ -153,6 +153,6 @@ Here are [additional resources](/resources/cover_letter_resources).
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
-* Create a cover letter based on a job description * **Due date #1: Wednesday of Week 5** during homeroom
+* Create a cover letter based on a job description * **Due date #1: Wednesday of Week 5.** during homeroom
 * **Final due date: EOD Friday of Week 5** in end of mod survey 
 
