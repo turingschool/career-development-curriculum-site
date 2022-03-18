@@ -143,7 +143,13 @@ If you find yourself with:
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback. Here are [additional resources](/resources/cover_letter_resources) to help you. 
+3. Work on a cover letter for a job you are interested in based on a job description and be prepared to share it with your Homeroom group for feedback.
+   *Tailor your cover letter from a job description
+   * Use the job description to choose key skills and responsibilities to highlight. 
+   * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you. 
+   * Review: the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to guide the 
+     development. 
+5.   Here are [additional resources](/resources/cover_letter_resources). 
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
