@@ -23,19 +23,20 @@ By the end of Mod 3, you should have completed the following:
    * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
    * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
-2. ** A complete Resume:**
-   * 
-
-   **Final resume due date is EOD Friday of Week 5** through the end of mod survey
    
- 3. **Terminal Portfolio Optional for Mood 3:**  
-    * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before              submitting them for review. Setting up your Terminal Portfolio is optional for Mod 3. 
+2. ** Finalized Resume:**
+   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume.
+   *  **Final resume due date is EOD Friday of Week 5** through the end of mod survey
+   
+ 3. **Terminal Portfolio Optional for Mod 3:**  
+    * Setting up your Terminal Portfolio is optional for Mod 3. 
+    * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**.  
   
-4. **Create a cover letter based on a job description:** 
-   *
-   * You will use this cover letter and job description during the week 5 homeroom group. Remeber to cut and paste the job description into a                 google doc to share and refer back to. **Due Wednesday of Week 5** 
-   
-   **Final due date: EOD Friday of Week 5** in end of mod survey 
+4. **Create a cover letter:** 
+   * Tailor your cover letter from a job description  
+   * You will use this cover letter and job description during the week 5 homeroom group. 
+   * **Due Wednesday of Week 5* before the homeroom group meeting* 
+   * **Final due date: EOD Friday of Week 5** in end of mod survey 
    
 5. **LinkedIn Updated:**
     * Highlight your technical skills
