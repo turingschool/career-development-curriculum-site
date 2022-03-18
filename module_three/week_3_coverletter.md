@@ -149,7 +149,7 @@ If you find yourself with:
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you 
    * Use the recommended [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to format,      structure and create your cover letter.
 
-Here are [additional resources](/resources/cover_letter_resources). 
+   Here are [additional resources](/resources/cover_letter_resources) for cover letters
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
