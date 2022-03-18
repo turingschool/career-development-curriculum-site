@@ -38,6 +38,7 @@ By the end of Mod 3, you should have completed the following:
    * Fill out profile thorughly
    * Use a targeted Headline and remove student (if applicable) 
    * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
+   * **Due EOD Friday of Week 5**
    
 5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
    by **EOD Friday of Week 5**
