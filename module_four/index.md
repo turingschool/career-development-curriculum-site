@@ -26,7 +26,7 @@ By the end of Mod 4, you should have completed:
    * As you complete the exit survey, we would love to know of any questions that you have about the lesson and negotiation process. We will                  address as many of the questions as we can during the live session during week 1. You can submit questions via the survey.
    * Please submit questions via the survey by **Tuesday of Week 1** 
    
-2. **Complete Terminal Portfolio
+2. **Complete Terminal Portfolio**
    * A completed Portfolio must include finalized resume and LinkedIn profile before it can be publshed: 
    * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
    * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?         usp=sharing) to help you create the descriptions 
