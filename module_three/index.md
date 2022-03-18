@@ -24,27 +24,27 @@ By the end of Mod 3, you should have completed the following:
    * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
-2. ** Finalized Resume:**
+2. **Finalize Resume:**
    * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume.
-   *  **Final resume due date is EOD Friday of Week 5** through the end of mod survey
-   
- 3. **Terminal Portfolio Optional for Mod 3:**  
-    * Setting up your Terminal Portfolio is optional for Mod 3. 
-    * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**.  
+   * **Final resume due date is EOD Friday of Week 5** through the end of mod survey
   
-4. **Create a cover letter:** 
+3. **Create a Cover Letter:** 
    * Tailor your cover letter from a job description  
    * You will use this cover letter and job description during the week 5 homeroom group. 
    * **Due Wednesday of Week 5* before the homeroom group meeting* 
    * **Final due date: EOD Friday of Week 5** in end of mod survey 
    
-5. **LinkedIn Updated:**
-    * Highlight your technical skills
-    * Add technical keywords to your About Me and make any necessary updates to your story
-    * Take student out of your headline if it's there
+4. **LinkedIn Finalized**
+   * Highlight your technical skills
+   * Add technical keywords to your About Me and make any necessary updates to your story
+   * Take student out of your headline if it's there
    
-6. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
+5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
    by **EOD Friday of Week 5**
+   
+   **Terminal Portfolio**  
+   * Setting up your Terminal Portfolio **is optional for Mod 3**. 
+   * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
