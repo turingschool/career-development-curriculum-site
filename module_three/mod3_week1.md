@@ -10,8 +10,8 @@ The first part of this PD lesson provides a written resume review with activitie
 
 Upon completion of this review and lesson you wil be able to:
 
-* Write a resume draft showing your technical skills and experience, and merging your transferrable qualilfications.
-* Create a distint Terminal portfolio that showcase your technical work, achievements and personal brand.
+* Write a resume draft showing your technical skills and experience, and merging your transferrable qualifications.
+* Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
 
@@ -25,8 +25,8 @@ Please review the short video lecture followed by the resources to help guide yo
 
 A key deliverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly.
 
-* **ATS-Friendly uses**: a single column format, hastandard section headings, uses standard bullet points,and
-    avoid images,tables,headers, and footers.
+* **ATS-Friendly uses**: a single column format, hastandard section headings, uses standard bullet points ,and
+    avoid images, tables, headers, and footers.
 * **Technically focused is having** has at least 2 projects, technical skills are listed, includes links to repos and deployed apps. For group projects     that exist on your partner's GitHub, make sure you fork your own version and include that link instead. 
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
