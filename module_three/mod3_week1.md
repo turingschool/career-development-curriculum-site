@@ -33,8 +33,6 @@ avoid images,tables,headers,footers.
 * [Resume checklist and resources](/resources/resume_resources)  
 * Listen to [Mod 2 Resume Lesson and ATS videos](/module_two/mod2_week1). 
 
-When you have a completed resume, use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how ready your resume is for that posting.
-
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
@@ -72,16 +70,13 @@ Make sure you've met the [requirements for publication](https://careerdev.turing
 
 ## Check for Understanding
 
-Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is required for your professional development this module.** 
+1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is        required for your professional development this module.** 
+2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
+3. When you have a completed resume, use [JobScan](https://www.jobscan.co/) to upload your resume and a job posting to see how ready your resume is for that posting.
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
 
-* Items to be completed by end of Module 3:
-  * Resume draft completed by end of week 5
-  * LinkedIn is checked by end of week 2
-  * Cover letter draft reviewed by peers in week 5 homeroom groups
-  * Optional draft of terminal portfolio submitted
-  * Complete end of mod self-evaluation survey by EOD Friday Week 5
+
 
  Check out PD office hours or contact the Career team for questions and support!
