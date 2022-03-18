@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module 4 Professional Development & Job Search Support
+title: Module 4 Professional Development
 ---
 
 ## Overview
