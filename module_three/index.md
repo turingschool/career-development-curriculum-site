@@ -17,28 +17,22 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**
 
 ### Deliverables & Due Dates
+By the end of Mod 3, you should have completed the following:
 
 1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
    * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
    * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
-2. **Resume updated:**
-   * Your resume should be ATS-ready and formatted as a *technical* resume. 
-   * Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
-   * When you have a complete version of your resume,  use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you are          interested in purusing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
-   * You will use your completed resume in week 5 based on the resume review activities of your respective programs.
-   
+2. ** A complete Resume:**
+   * 
+
    **Final resume due date is EOD Friday of Week 5** through the end of mod survey
    
  3. **Terminal Portfolio Optional for Mood 3:**  
     * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before              submitting them for review. Setting up your Terminal Portfolio is optional for Mod 3. 
   
 4. **Create a cover letter based on a job description:** 
-   * Tailor your cover letter from a job description
-   * Use the job description to choose key skills and responsibilities to highlight. 
-   * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you. 
-   * Review:
-     the [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) for tips on                    formatting,structure and writing a solid cover letter.
+   *
    * You will use this cover letter and job description during the week 5 homeroom group. Remeber to cut and paste the job description into a                 google doc to share and refer back to. **Due Wednesday of Week 5** 
    
    **Final due date: EOD Friday of Week 5** in end of mod survey 
