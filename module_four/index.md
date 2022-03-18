@@ -27,12 +27,13 @@ By the end of Mod 4, you should have completed:
    * Please submit questions via the survey by **Tuesday of Week 1** 
    
 2. **Complete Terminal Portfolio**
-   * A completed Portfolio must include finalized resume and LinkedIn profile before it can be publshed: 
-   * To complete this deliverable, follow [these directions](/resources/terminal_directions) to update and submit your portfolio. 
-   * Add at least 2 projects and use [these guidelines](https://docs.google.com/document/d/1zKePxhD-xQdLRPeLI21E71ET_U88ZZ-SKTQjRVzs8tM/edit?         usp=sharing) to help you create the descriptions 
-   * **Due date #1: Friday of Week 4.** Make sure to "request review" by this date.
+  A completed Portfolio must include the following before it can be publshed:
+   * A finalized resume and LinkedIn profile
+   * A minimum of 2 projects 
+   * To complete this deliverable refer to the [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
+   * Please "request for review" of your portfolio by **Friday of Week 4.** 
    * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
-
+   
  3. Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 ### Weekly Discussion Guidelines & Prompts
