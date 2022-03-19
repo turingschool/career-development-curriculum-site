@@ -10,8 +10,8 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 ### Lessons & Activities
 * Week 1: [Resumes & Portfolios](/module_three/mod3_week1)
-* Week 2: No Session
-* Week 3: [Interview Prep](/module_three/mod3_week5)
+* Week 2: [Interview Prep](/module_three/mod3_week5)
+* Week 3: Live Interview Session
 * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter)
            and [Job Shadow Prep](/module_three/job_shadow_overview) 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**
