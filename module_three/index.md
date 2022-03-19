@@ -21,7 +21,7 @@ By the end of Mod 3, you should have completed the following:
 
 1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
    * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
-   * **[Week 3 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
+   * **[Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
 2. **Finalize Resume:**
