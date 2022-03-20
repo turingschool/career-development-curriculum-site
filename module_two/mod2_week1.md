@@ -5,9 +5,8 @@ title: Creating a Technically Focused Resume
 ### Learning Goals
 
 * Understand how to tell your professional story through your resume
-* Build a working draft of your resume with these components: 
+* Build a working draft of your resume that is both technically focused ATS Friendly 
  
-
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
 ### Overviev 
@@ -92,6 +91,7 @@ Creating an “Education and Training” section will help showcase your develop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAGlqV3ZMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Next Steps:
+
 1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
 2. Create a resume first draft with these steps to get started:
@@ -105,8 +105,8 @@ Creating an “Education and Training” section will help showcase your develop
   * Next, choose a resume template: 
     * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
- 
- 3. Then, develop a rough draft of your resume:
+    
+3. Then, develop a rough draft of your resume:
      * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
      * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
