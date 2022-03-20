@@ -116,7 +116,7 @@ Creating an “Education and Training” section will help showcase your develop
      * Any stretch goals you were able to achieve
      * Any specific contributions that you had in the project
 
- ## Resources 
+  ## Resources 
    * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
    * [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
