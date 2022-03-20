@@ -96,16 +96,15 @@ Creating an “Education and Training” section will help showcase your develop
 
 2. Create a resume first draft with these steps to get started:
 
-  * First, plan the framework of your resume based on the lesson:
+ * First, plan the framework of your resume based on the lesson:
     * Will you use a resume summary? 
     * What relevant work experience will be used?
     * Which prior education and training will be added?
     * Which industry specifc skills are most important right now to add?
   
   * Next, choose a resume template: 
-    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates).These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
-    
 3. Then, develop a rough draft of your resume:
      * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
      * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
