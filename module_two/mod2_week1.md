@@ -92,24 +92,25 @@ Creating an “Education and Training” section will help showcase your develop
 
 ### Next Steps:
 
-1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
+* Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
-2. Create a resume first draft with these steps to get started:
+* Create a resume first draft with these steps to get started:
 
- * First, plan the framework of your resume based on the lesson:
+* First, plan the framework of your resume based on the lesson:
     * Will you use a resume summary? 
     * What relevant work experience will be used?
     * Which prior education and training will be added?
     * Which industry specifc skills are most important right now to add?
   
-  * Next, choose a resume template: 
+* Next, choose a resume template: 
     * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates).These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
-3. Then, develop a rough draft of your resume:
+    
+* Then, develop a rough draft of your resume:
      * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
      * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
-   * Consider the following areas when desribing projects:
+ * Consider the following areas when desribing projects:
      * Name of project
      * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
      * Main learning goals of the project (if you're not sure, ask your instructors)
