@@ -5,12 +5,12 @@ title: Creating a Technically Focused Resume
 ### Learning Goals
 
 * Understand how to tell your professional story through your resume
-* Build a working draft of your resume with these componenets: 
-   * Complete contact details, title and optional healine
+* Build a working draft of your resume with these components: 
+   * Complete contact details, title, and optional headline
    * Optional Resume summary to connect the dots as a career changer
-   * Skills and Keywords that are industry specific
-   * Technical Projects that have consistent formats and show accompishments
-   * Education section that includes Turings Certificate of Completion
+   * Skills and Keywords that are industry-specific
+   * Technical Projects that have consistent formats and show accomplishments
+   * Education section that includes Turing's Certificate of Completion
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
@@ -18,7 +18,7 @@ After you complete this lesson, you'll synthesize your learning in this [Exit Ti
 
 Review how to create a tech resume and comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
 * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
-* We recommend scheduling time on your calendar and using dedicated PD work time to complete the full lesson.
+* We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
 
 ## Intro to Creating a Techically Focused Resume
 This PD lesson will focus on how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
@@ -28,7 +28,7 @@ This PD lesson will focus on how to create a technically focused resume that rep
 As a new software developer, what kind of story do you want your resume to tell about you?
 
 #### Section 1: Contents of a Technical Resume include: 
-1. Contact Information, title and headline (optional)
+1. Contact information, title, and headline (optional)
 2. Resume Summary (optional)
 3. Skils and Keywords
 4. Technical Projects
@@ -43,26 +43,27 @@ As a new software developer, what kind of story do you want your resume to tell 
 Your desired job title is one of the most essential keywords applicant tracking system's when screening resumes.
 
 #### Section 2: Resume Summary (optional)
-The Summary section is completely optional, however, it can be strategically used as a career changer to connect the dots for an employer to explan career change and the value you will bring to the company and role.
+The Summary section is optional; however, it can be strategically used as a career changer to connect the dots for an employer to explain career change and the value you will bring to the Company and role.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xjH1-hV3RHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-If your’re considering a summary statement: 
-* Think about what relevant and novel information can you provide the employer.
+If you’re considering a summary statement: 
+* Think about what relevant and novel information you can provide the employer.
 * Which transferable skills matter to this role? 
-* Whats your zone of zenius? Where do you gain energy in your work? What impact do you want to have in this role/company?
+* What's your zone of genius? Where do you gain energy in your work? What impact do you want to have in this role/company?
+
 
 #### Section 3: Skills and Keywords
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bl-NyiQHbHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-A good rule of thumb is to only include the technical skills you’re comfortable talking about in an interview.
+A good rule of thumb is only include the technical skills you’re comfortable talking about in an interview.
 
 #### Section 4: Technical Projects
-Since you are a software developer now, your software projects are an essential -- arguably, the **most** essential -- part of your new resume.
+Since you are a software developer now, your software projects are essential -- arguably, the **most** vital -- part of your new resume.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7Vx9oEJEEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
