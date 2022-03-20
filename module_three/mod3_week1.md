@@ -16,7 +16,7 @@ After you complete this lesson, you'll synthesize your learning in this [Exit Ti
 Review and update resume to meet ATS compatibility. Then decide if you want to create your terminal portfolio as an option in Mod 3.  
 
 
-## Week 1 Lesson- Resume Review and Terminal Portfolio
+## Resume Review and Terminal Portfolio
 
 Please review the short video lecture followed by the resources to help guide your resume development. 
 
