@@ -10,7 +10,7 @@ title: Creating a Technically Focused Resume
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
-## Overviev 
+### Overviev 
 This PD lesson will focus on creating a technically focused resume that represents your unique professional brand as a career changer and experienced turned software developer. Your resume draft will include most of the following resume sections:
    * Customized header with contact details, title, and optional headline
    * Optional Resume summary to connect the dots as a career changer
@@ -18,7 +18,7 @@ This PD lesson will focus on creating a technically focused resume that represen
    * Technical Projects that have consistent formats and show accomplishments
    * Education section that includes Turing's Certificate of Completion
  
- ## Directions
+ ### Directions
    * As you follow along, we recommend taking notes. 
    * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the     following lesson.
    * We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
@@ -91,7 +91,7 @@ Creating an “Education and Training” section will help showcase your develop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAGlqV3ZMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Next Steps:
+### Next Steps:
 1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
 2. Create a resume first draft with these steps to get started:
@@ -117,7 +117,7 @@ Creating an “Education and Training” section will help showcase your develop
      * Any stretch goals you were able to achieve
      * Any specific contributions that you had in the project
 
- ## Resources
+ ### Resources
    * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
    * [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
@@ -126,7 +126,7 @@ Creating an “Education and Training” section will help showcase your develop
    * [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
    * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)  
 
-## Check for Understanding and Due Dates
+### Check for Understanding and Due Dates
 
    1. Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.
    2. During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more       in-depth how to create an effective resume. You should have an ATS-ready (read: plain, straightforward               information), 1-page version of a resume that includes at least 2 software projects and a list of technical         skills to submit by **EOD Friday of Week 2.** 
