@@ -99,7 +99,7 @@ Creating an “Education and Training” section-will help showcase your develop
 ## Check for Understanding and Next Steps:
 1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
-2. One of your deliverables for this module is to create your resume first draft. Follow these steps to get started:
+2. Create a resume first draft with these steps to get started:
 
   * First, plan the framework of your resume based on the lesson:
     * Will you use a resume summary? 
@@ -108,7 +108,8 @@ Creating an “Education and Training” section-will help showcase your develop
     * Which industry specifc skills are most important right now to add?
   
   * Next, choose a resume template: 
-    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These templates will download as a word doc and cut and paste or upload to google doc or use this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates will download as Word docs. You can either cut and paste it or upload it to google doc.
+    *  We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
   * Then, develop a rough draft of your resume:
     * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
