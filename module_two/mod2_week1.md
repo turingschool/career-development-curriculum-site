@@ -89,13 +89,6 @@ Creating an “Education and Training” section-will help showcase your develop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAGlqV3ZMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Resources
-* [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
-* [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
-* [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
-* [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
-* [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-
 ## Check for Understanding and Next Steps:
 1. Complete this [exit ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). **Completion of this exit ticket is required for your professional development this module.** 
 
@@ -108,30 +101,34 @@ Creating an “Education and Training” section-will help showcase your develop
     * Which industry specifc skills are most important right now to add?
   
   * Next, choose a resume template: 
-    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates       will download as Word docs. You can either cut and paste it or upload it to google doc.
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
-  Then, develop a rough draft of your resume:
-    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) tto guide your draft           development. Your resume must have technical projects. Use some of the projects you've created thus far in the       program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
+  3.  Then, develop a rough draft of your resume:
+    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
+    * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
- Consider the following areas when desribing projects:
+  * Consider the following areas when desribing projects:
      * Name of project
      * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
      * Main learning goals of the project (if you're not sure, ask your instructors)
      * Any stretch goals you were able to achieve
      * Any specific contributions that you had in the project
 
- Resources to help get started with building resume content:
-    * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
-    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template.
-
-During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more in-depth how to create an effective resume. 
+ ## Resources 
+  * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
+  * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
+   
+ * [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
+ * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
+ * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+ * [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
+ * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)  
 
 ## Due Dates & Reminders
 
-   * Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.**
-
-   * You should have an ATS-ready (read: plain, straightforward information), 1-page version of a resume that            includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
+   1. Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.
+   2. During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more       in-depth how to create an effective resume. You should have an ATS-ready (read: plain, straightforward               information), 1-page version of a resume that includes at least 2 software projects and a list of technical         skills to submit by **EOD Friday of Week 2.** 
 
 * **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to         schedule a coaching session in Module 1 or 2. 
     * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the             opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
