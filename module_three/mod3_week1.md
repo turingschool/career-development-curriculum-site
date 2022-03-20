@@ -10,7 +10,7 @@ The first part of this PD lesson provides a written resume review with activitie
 
 Upon completion of this review and lesson you will be able to:
 
-* Write a resume draft showing your technical skills and experience, and merging your transferrable qualifications.
+* Refine resume draft that is technically focused and formatted to meet ATS requirements. 
 * Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
@@ -20,14 +20,6 @@ After you complete this lesson, you'll synthesize your learning in this [Exit Ti
 Please review the short video lecture followed by the resources to help guide your resume development. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGLVCEX4Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Action steps to guide a complete version of your resume:
-
-A key deliverable for Mod 3 is to have a full resume draft that is technically focused and ATS-Friendly.
-
-* **ATS-Friendly uses**: a single column format, hastandard section headings, uses standard bullet points ,and
-    avoid images, tables, headers, and footers.
-* **Technically focused is having** has at least 2 projects, technical skills are listed, includes links to repos and deployed apps. For group projects     that exist on your partner's GitHub, make sure you fork your own version and include that link instead. 
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
@@ -63,9 +55,9 @@ Next, follow these step-by-step directions to sign in:
 
 ## Check for Understanding
 
-1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is        required for your professional development this module.** 
+1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is required for your professional development this module.** 
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
-3. When you have a completed resume, use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in        purusing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
+3. When you have a completed resume (at some point during mod 3), use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in pursuing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
