@@ -81,7 +81,7 @@ Since you are a software developer now, your software projects are essential -- 
 * Quantify impact with a #, % or $ amount whenever possible. I did X and the result was Y; state the result or outcome. 
 
 #### Section 6: Education and Training
-Creating an “Education and Training” section-will help showcase your developer training and highlight your transferable qualifications.
+Creating an “Education and Training” section will help showcase your developer training and highlight your transferable qualifications.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aid-yTpp_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -106,8 +106,8 @@ Creating an “Education and Training” section-will help showcase your develop
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
  3. Then, develop a rough draft of your resume:
-   * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
-   * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
+     * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
+     * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
    * Consider the following areas when desribing projects:
      * Name of project
