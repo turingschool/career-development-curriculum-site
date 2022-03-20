@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Module 3 Week 1
+title: Resume Review and Terminal Portfolio Creation 
 ---
-
-## Overview
-
-Review and update resume to meet ATS compatibility. Then decide if you want to create your terminal portfolio as an option in Mod 3.  
 
 ### Learning Goals
 
 *  Identify the ATS components of resumes
 *  Incorporate resume strategies to guide a complete version of your resume
-* Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.
+* Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.## Overview
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
 
+### Overview
+
+Review and update resume to meet ATS compatibility. Then decide if you want to create your terminal portfolio as an option in Mod 3.  
+
+
 ## Week 1 Lesson- Resume Review and Terminal Portfolio
-## Section 1: Introduction
+
 Please review the short video lecture followed by the resources to help guide your resume development. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGLVCEX4Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
