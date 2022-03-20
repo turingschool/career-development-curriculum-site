@@ -105,10 +105,10 @@ Creating an “Education and Training” section-will help showcase your develop
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
  3. Then, develop a rough draft of your resume:
-    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
-    * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
+   * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
+   * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
-  * Consider the following areas when desribing projects:
+   * Consider the following areas when desribing projects:
      * Name of project
      * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
      * Main learning goals of the project (if you're not sure, ask your instructors)
