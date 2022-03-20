@@ -11,7 +11,7 @@ title: Creating a Technically Focused Resume
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
 ## Overviev 
-This PD lesson will focus on creating a technically focused resume that represented your unique professional brand as a career changer and experienced turned software developer. Your resume draft will include most of the following resume sections:
+This PD lesson will focus on creating a technically focused resume that represents your unique professional brand as a career changer and experienced turned software developer. Your resume draft will include most of the following resume sections:
    * Customized header with contact details, title, and optional headline
    * Optional Resume summary to connect the dots as a career changer
    * Skills and Keywords that are industry-specific
@@ -20,7 +20,7 @@ This PD lesson will focus on creating a technically focused resume that represen
  
  ## Directions
    * As you follow along, we recommend taking notes. 
-   * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
+   * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the     following lesson.
    * We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
 
 ## Intro to Creating a Techically Focused Resume
