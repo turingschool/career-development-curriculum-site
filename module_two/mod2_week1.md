@@ -6,26 +6,27 @@ title: Creating a Technically Focused Resume
 
 * Understand how to tell your professional story through your resume
 * Build a working draft of your resume with these components: 
-   * Complete contact details, title, and optional headline
-   * Optional Resume summary to connect the dots as a career changer
-   * Skills and Keywords that are industry-specific
-   * Technical Projects that have consistent formats and show accomplishments
-   * Education section that includes Turing's Certificate of Completion
+ 
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
 ## Overviev 
-
-Review how to create a tech resume and comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
-* Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
-* We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
+This PD lesson will focus on creating a technically focused resume that represented your unique professional brand as a career changer and experienced turned software developer. Your resume draft will include most of the following resume sections:
+   * Customized header with contact details, title, and optional headline
+   * Optional Resume summary to connect the dots as a career changer
+   * Skills and Keywords that are industry-specific
+   * Technical Projects that have consistent formats and show accomplishments
+   * Education section that includes Turing's Certificate of Completion
+ 
+ ## Directions
+   * As you follow along, we recommend taking notes. 
+   * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
+   * We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
 
 ## Intro to Creating a Techically Focused Resume
-This PD lesson will focus on how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
+As a new software developer, what kind of story do you want your resume to tell about you?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0N-0d6Wa0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-As a new software developer, what kind of story do you want your resume to tell about you?
 
 #### Section 1: Contents of a Technical Resume include: 
 1. Contact information, title, and headline (optional)
