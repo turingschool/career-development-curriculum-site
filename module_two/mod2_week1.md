@@ -129,13 +129,3 @@ Creating an “Education and Training” section-will help showcase your develop
    1. Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.
    2. During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more       in-depth how to create an effective resume. You should have an ATS-ready (read: plain, straightforward               information), 1-page version of a resume that includes at least 2 software projects and a list of technical         skills to submit by **EOD Friday of Week 2.** 
 
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to         schedule a coaching session in Module 1 or 2. 
-    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the             opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-      * Stress management
-      * Organization and time management
-      * Career transition guidance
-      * Using your Pairin data for growth
-    
-    * All coaching sessions are completely confidential.
-
