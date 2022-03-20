@@ -1,17 +1,8 @@
 ---
 layout: page
-title: Module 2 Week 1
+title: Creating a Technically Focused Resume
 ---
-
-## Overview
-This week's lesson is about **Creating a Technically Focused Resume.** To complete the lesson: 
-
-* Start by viewing the videos below that span from creating a tech resume to how to comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
-* Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
-* We recommend scheduling time on your calendar and using dedicated PD work time to complete the full lesson.
-
 ### Learning Goals
-By the end of this lesson, you should have accomplished these learning goals:
 
 * Understand how to tell your professional story through your resume
 * Know how to build a working draft of your resume with these componenets: 
@@ -22,8 +13,14 @@ By the end of this lesson, you should have accomplished these learning goals:
    * Education section that includes Turings Certificate of Completion
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
- 
-## Week 1 Lesson - Intro to Creating a Techically Focused Resume
+
+## Overviev 
+
+Review how to create a tech resume and comply with the Applicant Tracking System. As you follow along, we recommend taking notes. 
+* Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the following lesson.
+* We recommend scheduling time on your calendar and using dedicated PD work time to complete the full lesson.
+
+## Intro to Creating a Techically Focused Resume
 This PD lesson will focus on how to create a technically focused resume that represents your unique professional brand as a career changer and professional, turned software developer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0N-0d6Wa0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
