@@ -116,14 +116,13 @@ Creating an “Education and Training” section-will help showcase your develop
      * Any specific contributions that you had in the project
 
  ## Resources 
-  * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
-  * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
-   
- * [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
- * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
- * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
- * [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
- * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)  
+   * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
+   * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
+   * [Applicant Tracking Systems: A Guide for Job Seekers](https://www.jobscan.co/applicant-tracking-systems)
+   * [Advice for Writing a Technical Resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
+   * [How to Make the Perfect Resume](https://www.themuse.com/advice/how-to-make-a-resume-examples)
+   * [6 Pro Tips for Cutting Your Resume Down to One Page](https://www.themuse.com/advice/6-pro-tips-for-cutting-your-resume-down-to-one-page)
+   * [185 Powerful Action Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)  
 
 ## Due Dates & Reminders
 
