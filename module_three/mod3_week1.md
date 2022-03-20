@@ -48,11 +48,10 @@ Next, follow these step-by-step directions to sign in:
 [Here is what the team is looking for](https://careerdev.turing.edu/resources/terminal_directions)
 
 ### When your profile is complete:
-*Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
-    * Click “Request Review”
-    * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
-    * After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until         you get your first job.
-    * **Note: You must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
+* Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
+* Click “Request Review” * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
+* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until         you get your first job.
+* **Note: You must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
 
 ## Check for Understanding
 
