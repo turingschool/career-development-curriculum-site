@@ -4,13 +4,13 @@ title: Module 3 Week 1
 ---
 
 ## Overview
-The first part of this PD lesson provides a written resume review with activities to develop a resume draft that is ATS-friendly. The second part gives video overviews for creating Terminal Portfolio content and how to set up the profile.
+The first part of this PD lesson provides a resume review with activities to develop a resume draft that is ATS-friendly. The second part gives video overviews for creating Terminal Portfolio content and how to set up the profile.
 
 ### Learning Goals 
 
 Upon completion of this review and lesson you will be able to:
 
-* Refine resume draft that is technically focused and formatted to meet ATS requirements. 
+* Review and update resume to meet ATS compatibility. 
 * Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
