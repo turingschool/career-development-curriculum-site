@@ -108,31 +108,33 @@ Creating an “Education and Training” section-will help showcase your develop
     * Which industry specifc skills are most important right now to add?
   
   * Next, choose a resume template: 
-    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates will download as Word docs. You can either cut and paste it or upload it to google doc.
-    *  We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates)These templates       will download as Word docs. You can either cut and paste it or upload it to google doc.
+    * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
  
-  * Then, develop a rough draft of your resume:
-    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. **Note:** your resume *must* have technical projects. On your final draft, you should have at least 3 projects. For this draft, use some of the projects you've already created to write out your bulleted descriptions (you can swap them out later for other projects, but working on describing your projects in a succinct way is good practice). Here is what we recommend highlighting:
+  Then, develop a rough draft of your resume:
+    * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) tto guide your draft           development. Your resume must have technical projects. Use some of the projects you've created thus far in the       program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
+   
+ Consider the following areas when desribing projects:
      * Name of project
-     * Number of collaborators, primary technologies used, what it does.
+     * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
      * Main learning goals of the project (if you're not sure, ask your instructors)
-     * Any stretch goals you were able to achieve.
-     * Any specific contributions/roles that you had in the project
+     * Any stretch goals you were able to achieve
+     * Any specific contributions that you had in the project
 
-  * If you're having trouble with organizing your content, try these tips:
+ Resources to help get started with building resume content:
     * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
-    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
+    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template.
 
 During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more in-depth how to create an effective resume. 
 
 ## Due Dates & Reminders
 
-* Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.**
+   * Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.**
 
-* You should have an ATS-ready (read: plain, straightforward information), 1-page version of a resume that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
+   * You should have an ATS-ready (read: plain, straightforward information), 1-page version of a resume that            includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
 
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
-    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
+* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to         schedule a coaching session in Module 1 or 2. 
+    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the             opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
 
       * Stress management
       * Organization and time management
