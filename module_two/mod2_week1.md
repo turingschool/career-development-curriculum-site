@@ -5,7 +5,7 @@ title: Creating a Technically Focused Resume
 ### Learning Goals
 
 * Understand how to tell your professional story through your resume
-* Know how to build a working draft of your resume with these componenets: 
+* Build a working draft of your resume with these componenets: 
    * Complete contact details, title and optional healine
    * Optional Resume summary to connect the dots as a career changer
    * Skills and Keywords that are industry specific
@@ -122,7 +122,7 @@ Creating an “Education and Training” section-will help showcase your develop
     * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
     * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and paste the summary into an ATS-friendly resume template.
 
-On Wednesday, you'll have your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) where you'll discuss more in-depth how to create an effective resume. 
+During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more in-depth how to create an effective resume. 
 
 ## Due Dates & Reminders
 
