@@ -128,7 +128,7 @@ Creating an “Education and Training” section will help showcase your develop
 
 ### Check for Understanding and Due Dates
 
-* Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.
+* Complete the [exit ticket](https://forms.gle/qc7teGmZc2qcc5Mo8) for today's lesson by **EOD Friday of Week 1.**
 * During your [Homeroom Group](/student_discussion_groups/mod2_homeroom_discussion_prompts) you'll discuss more in-depth how to create an effective resume. You should have an ATS-ready (read: plain, straightforward information), 1-page version of a resume that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
 
 * **Professional Coaching:** 
