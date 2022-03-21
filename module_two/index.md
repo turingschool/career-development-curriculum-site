@@ -54,13 +54,3 @@ You will also participate in weekly student discussion groups on Wednesdays to c
 
 ## Repeating the Module
 For students repeating Module 2, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_two/m2_pd_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
-
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to         schedule a coaching session in Module 1 or 2. 
-    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the             opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-      * Stress management
-      * Organization and time management
-      * Career transition guidance
-      * Using your Pairin data for growth
-    
-    * All coaching sessions are completely confidential.
