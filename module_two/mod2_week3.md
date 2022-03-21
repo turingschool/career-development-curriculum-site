@@ -133,12 +133,11 @@ Remember, there are A LOT of resources available online for job search. We recom
 * Complete the [exit ticket](https://forms.gle/b1KJaxd2frPMYyso7) for today's lesson by **EOD Friday of Week 3.**
 * **Update your resume draft** with any feedback you've received so that it's ready for final submission at the end of the module.
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
-    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-      * Stress management
-      * Organization and time management
-      * Career transition guidance
-      * Using your Pairin data for growth
-    
-    * All coaching sessions are completely confidential.
+* **Professional Coaching:** 
+   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
+        * Stress management
+        * Organization and time management
+        * Career transition guidance
+        * Using your Pairin data for growth
+   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
+   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). l.
