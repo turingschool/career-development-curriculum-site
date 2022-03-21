@@ -28,17 +28,17 @@ By the end of Mod 3, you should have completed the following:
    * Fill out profile thoroughly
    * Use a targeted Headline and remove student (if applicable) 
    * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
-   * Your updated LinkedIn should be finalized by EOD Friday of Week 2
+   * Your updated LinkedIn should be finalized by **EOD Friday of Week 2**
    
 3. **Updated Resume:**
-   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume.
-   * Your updated resume should be finalized by EOD Friday of Week 4
+   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume
    * You will use your completed resume in week 5 via resume review activities
+   * Your updated resume should be finalized by **EOD Friday of Week 4**
    
 4. **Create a Cover Letter:** 
    * Tailor your cover letter from a job description
-   * Your cover letter draft should be finalized by EOD Tuesday of Week 5  
    * You will use this cover letter and job description during the week 5 homeroom group
+   * Your cover letter draft should be finalized by **EOD Tuesday of Week 5**  
    
 5. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
 
