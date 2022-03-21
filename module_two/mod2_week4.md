@@ -28,17 +28,16 @@ The event runs from 1:00-3:34pm MT on Thursday of Week 4.
 * 3:15-3:45pm: Discussion of advice and guidance in the tech industry. You can ask more specific questions and make sure to share contact information to follow up.
 
 ### Questions?
-Please reach out to Allison or another member of the Career Development team!
+Please reach out to Emma or another member of the Career Development team!
 
 ## Due Dates & Reminders
 * **Resume draft** should be ready by Week 5's homeroom group discussion
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
-* **Professional Coaching:** You can reach out to Allison (@allison_reu_singer on Slack) through [this sign-up form](https://go.oncehub.com/AllisonReuSinger) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session in Module 1 or 2. 
-    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-      * Stress management
-      * Organization and time management
-      * Career transition guidance
-      * Using your Pairin data for growth
-    
-    * All coaching sessions are completely confidential.
+* **Professional Coaching:** 
+   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
+        * Stress management
+        * Organization and time management
+        * Career transition guidance
+        * Using your Pairin data for growth
+   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
+   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). ential.
