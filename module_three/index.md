@@ -28,6 +28,7 @@ By the end of Mod 3, you should have completed the following:
    * Fill out profile thoroughly
    * Use a targeted Headline and remove student (if applicable) 
    * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
+   * Your updated LinkedIn should be finalized by EOD Friday of Week 2
    * **Due EOD Friday of Week 5** via the end of mod survey
    
 3. **Updated Resume:**
