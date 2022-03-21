@@ -24,22 +24,23 @@ By the end of Mod 3, you should have completed the following:
    * **[Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
-2. **Finalize Resume:**
-   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume.
-   * You will use your completed resume in week 5 via resume review activities
-   * **Final resume due date is EOD Friday of Week 5** through the end of mod survey
-  
-3. **Create a Cover Letter:** 
-   * Tailor your cover letter from a job description  
-   * You will use this cover letter and job description during the week 5 homeroom group
-   * **Due Wednesday of Week 5* before the homeroom group meeting* 
-   * **Final due date: EOD Friday of Week 5** in end of mod survey 
-   
-4. **Optimize LinkedIn for Job Search**
+2. **Optimize LinkedIn for Job Search**
    * Fill out profile thoroughly
    * Use a targeted Headline and remove student (if applicable) 
    * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
    * **Due EOD Friday of Week 5** via the end of mod survey
+   
+3. **Updated Resume:**
+   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume.
+   * Your updated resume should be finalized by EOD Friday of Week 4
+   * You will use your completed resume in week 5 via resume review activities
+   * **Final resume due date is EOD Friday of Week 5** through the end of mod survey
+   
+4. **Create a Cover Letter:** 
+   * Tailor your cover letter from a job description
+   * Your cover letter draft should be finalized by EOD Tuesday of Week 5  
+   * You will use this cover letter and job description during the week 5 homeroom group
+   * **Final due date: EOD Friday of Week 5** in end of mod survey 
    
 5. Complete [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
    by **EOD Friday of Week 5**
@@ -47,6 +48,7 @@ By the end of Mod 3, you should have completed the following:
    **Terminal Portfolio**  
    * Setting up your Terminal Portfolio **is optional for Mod 3**. 
    * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
+ 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
