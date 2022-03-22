@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creating a Technically Focused Resume
+title: Mod 2 Week 1: Creating a Technically Focused Resume
 ---
 ### Learning Goals
 
