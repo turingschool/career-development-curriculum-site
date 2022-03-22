@@ -17,14 +17,27 @@ Skip down to:
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. The Mod 4 staff will host breakout rooms of games and icebreakers for the first part of the hour. The first homeroom group is an opportunity for instructors & students to get to know each other (30 mins). 
-2. In the second part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
+1. In the first part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
 
    * What progress did you make last mod?
    * What do you want to keep doing?
    * What do you want to stop doing?
    * What new ways do you want to collaborate?
    * What are ways you could help each other for accountability? i.e share the progress we've made since the last meeting as well as one goal we'd like to accomplish before the next meeting.
+ 
+ 
+2. In the second part, homeroom groups will plan goals for the inning and share out. 
+
+What are two goals that you hope to achieve as it relates to your job search in the next 6 weeks? 
+1 Stretch Goal (Might be something outside of your control)
+1 Achievable Goal (Think of a goal within your control) 
+ * What will get you to your goal? 
+ * What can you do each week to achieve your goal? (add steps to your calendar)
+ * What do you need to get this done? (resources, people) 
+ * What would keep you from getting this done? 
+ * How do you know you will complete this goal? What will you do to celebrate?
+
+How will you hold eachother accountable for your goals?
 
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 1. Check-in and share progress or challenges with one small goal from the last meeting (15 mins) 
