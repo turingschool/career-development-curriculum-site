@@ -21,5 +21,3 @@ title: Networking Resources
 </section>
 
 ### Key Learning Goals
-
-[Link to external site](https://frontend.turing.edu/lessons/module-1/extra-practice.html)
