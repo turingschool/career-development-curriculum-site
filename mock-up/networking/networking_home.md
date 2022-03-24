@@ -4,7 +4,7 @@ title: Networking Resources
 ---
 
 ## Overview
-Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
+ 
 
 <section class="answer">
 ### Getting Started with Networking (Mod 1)
@@ -22,3 +22,4 @@ Our approach to Mod 1 is to help you understand where to start in your professio
 
 ### Key Learning Goals
 
+[Link to external site](https://frontend.turing.edu/lessons/module-1/extra-practice.html)
