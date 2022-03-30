@@ -28,7 +28,7 @@ title: Home
   <p><strong>In order to pass Mod 0 and start Mod 1 on the expected timeline, students must attend all Mod 0 Sessions and submit the Mod 0 Project on time, with high quality work.</strong></p>
   <br>
   <br>
-  <a class="s-button" href="/computer-setup">Computer Setup</a>
+  <a class="s-button" href="/team">Meet the Team</a>
   <a class="s-button" href="/before-mod-0">Before Starting Mod 0</a>
   <a class="s-button" href="/info">Where to Get Info</a>
 </section>
