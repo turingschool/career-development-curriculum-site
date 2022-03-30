@@ -29,8 +29,10 @@ title: Home
   <br>
   <br>
   <a class="s-button" href="/team">Meet the Team</a>
-  <a class="s-button" href="/before-mod-0">Before Starting Mod 0</a>
-  <a class="s-button" href="/info">Where to Get Info</a>
+  <a class="s-button" href="/module-1-prework">Mod 0 PD Project</a>
+  <a class="s-button" href="/student_discussion_groups">Homeroom Info</a>
+  <a class="s-button" href="/mixed_groups">Mix It Up Info</a>
+  <a class="s-button" href="/module-5">Module 5 Job Search</a>
 </section>
 
 <footer class="s-footer">
