@@ -5,7 +5,7 @@ title: Home
 
 <section class="splash">
   <div class="splash-text">
-    <h1>Career Development at Turing</h1>
+    <h1>Career Development</h1>
     <p>Your guide to transitioning to a fulfilling new career in software development.</p>
   </div>
 </section>
