@@ -47,8 +47,6 @@ Below you can find lots of resources to help you prepare for both components.
 ### Other Resources
 
 * [Top 50 Programming Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
-* [Algorithm Questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
-* [Tech Interview Questions Directory](https://techtion.co/?ref=producthunt)
 * [Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions)
 * [List of Ruby on Rails questions](https://www.codementor.io/blog/ruby-on-rails-interview-questions-du107w0ss?icn=post-3ey8yl7epg&ici=post-du107w0ss)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
