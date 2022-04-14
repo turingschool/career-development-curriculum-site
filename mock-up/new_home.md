@@ -47,7 +47,7 @@ By the end of Mod 1, you should have completed:
    * **Due date #1:** Submit your LinkedIn URL through [this survey](https://airtable.com/shrC9S9ymEtpUWWw9) by **EOD Friday of Week 4.** If you are missing any elements of your LinkedIn, you will receive feedback by mid-week Week 5.
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 4. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
-5. Does [this link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/promotion.md) look right? Or should it look [like this?](/backend-curriculum-site/blob/gh-pages/module1/promotion)
+5. Does [this link](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module1/promotion.md) look right? Or should it look [like this?](https://backend.turing.edu/module1/promotion)
 
 ## Weekly Breakdown
 To find your weekly activities and deadlines, please check out each week below:
