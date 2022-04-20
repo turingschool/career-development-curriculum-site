@@ -80,6 +80,7 @@ Close with an action item for those reading. What do you want people to do when 
 * **Hook:** It took me more than X hours of studying to learn the secret about Y, but since then, something unexpected has happened."
 * **Your Journey:** "I grew up on the Mississippi River and watched it get clearer over time as manufacturing standards improved. Since then, I knew I wanted to spread the word about sustainability in business environments."
 * **Accomplishments:** "Over the past five years, I've made it into the President's Club three times and my closed-won business has seen less than 10% churn during the first 12 months."
+* **Technical & Transferable Skills:** "I am Back End developer specializing in Ruby on Rails." OR "I'm a Front End developer specializing in JavaScript, CSS, and HTML."
 * **Your Goals:** “I'm a software engineer interested in assisting small teams in optimizing their time and workflows so businesses can grow without adding more headcount and reps can advance their careers.”
 * **Action Item:** "Reach me at email@address.com or book time on my calendar here: [Calendar link]."
 
