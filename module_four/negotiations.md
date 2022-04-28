@@ -285,8 +285,8 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * Evaluating the entirety of an offer is a best practice. What benefits are important to you? List a few in your notes document.
 * What parts of negotiating the offer raises questions for you? 
 
-## Deliverable
-* Now that you’ve completed the lesson, add any questions that you have from the lesson with this [Exit Ticket](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate questions into the Live Negotiations session in Week 1. This action item should be completed by EOD Tuesday of Week 1. 
+## Deliverable/Prework Submission
+* Now that you’ve completed the lesson, add any questions that you have from the lesson with this [Exit Ticket](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate questions into the Live Negotiations session in Week 1.  Please have the prework completed by 5pm the Saturday before you start Mod 4. 
 
 ### Resources
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
