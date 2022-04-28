@@ -13,7 +13,9 @@ Start by viewing the video below. Allow yourself up to 55 minutes to complete. W
 * Evaluate offer packages in their entirety
 * Look at examples and discuss tactics for negotiating
 
-After you've completed this lesson, you'll synthesize your learning and share any questions that you have in the survey provided below. 
+After you've completed this lesson, you'll synthesize your learning and share any questions that you have in this 
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).
+
 
 ### Section 1: Introduction
 
@@ -284,7 +286,7 @@ Outcome: Hiring Manager emailed back with an updated offer of $100k.
 * What parts of negotiating the offer raises questions for you? 
 
 ## Deliverable
-* Make a list of questions from the lesson and add them to the following survey:[Negotiations Questions Survey](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate questions into the Live Negotiations session in Week 1. This action item should be completed by EOD Tuesday of Week 1. 
+* Now that you’ve completed the lesson, add any questions that you have from the lesson with this [Exit Ticket](https://forms.gle/T2o4sWKMWtkHxNeL9). We will incorporate questions into the Live Negotiations session in Week 1. This action item should be completed by EOD Tuesday of Week 1. 
 
 ### Resources
 * [Use this Worksheet to walk through the steps](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit?usp=sharing)
