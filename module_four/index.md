@@ -14,7 +14,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 * Week 2: Alumni Panel
 * Week 3: [Terminal Portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
-* Week 5: Career Exploration Event
+* Week 5: PD Deliverables Due by the end of the week
 * Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
 
 ### Deliverables & Due Dates
