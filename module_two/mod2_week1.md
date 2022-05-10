@@ -10,7 +10,7 @@ subheading: Creating a Technically Focused Resume
  
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
-### Overviev 
+### Overview 
 This PD lesson will focus on creating a technically focused resume that represents your unique professional brand as a career changer and experienced turned software developer. Your resume draft will include most of the following resume sections:
    * Customized header with contact details, title, and optional headline
    * Optional Resume summary to connect the dots as a career changer
@@ -69,7 +69,7 @@ Since you are a software developer now, your software projects are essential -- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7Vx9oEJEEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-* Projects overviews should also include accomplishments, outcomes and results:
+Projects overviews should also include accomplishments, outcomes and results:
 * What was your role in the project? 
 * What specific goals did you meet?  
 * What was the result/impact of your project/work? 
@@ -111,7 +111,7 @@ Creating an “Education and Training” section will help showcase your develop
      * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
      * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
    
- * Consider the following areas when desribing projects:
+ * Consider the following areas when describing projects:
      * Name of project
      * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
      * Main learning goals of the project (if you're not sure, ask your instructors)
