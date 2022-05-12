@@ -30,7 +30,7 @@ Turing provides a space for professional portfolios on [our website](https://ter
 * Developing your Terminal Portfolio optional for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our  site, so we provide you with information to set up this module.   
 * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before  submitting them for review.
 
-###Getting Started with Terminal
+### Getting Started with Terminal
  * First, review the following video on how to set up your Terminal Portfolio: 
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
@@ -50,14 +50,15 @@ Next, follow these step-by-step directions to sign in:
 ### When your profile is complete:
 * Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
 * Click “Request Review” * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
-* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until         you get your first job.
-* **Note: You must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. **Note:** if you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options. 
+* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job.
+* **Note: You must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. 
+* *If you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options.* 
 
 ## Check for Understanding
 
 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is required for your professional development this module.** 
-2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete       version of your technical resume.
-3. When you have a completed resume (at some point during mod 3), use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in pursuing. Upload your resume and a job description, and jobscan will highlight the key experience, and skills recruiters like to see.
+2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
+3. When you have a completed resume (at some point during mod 3), use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in pursuing. Upload your resume and a job description, and JobScan will highlight the key experience, and skills recruiters like to see.
 
 ## Due Dates & Reminders 
 * Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
