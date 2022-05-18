@@ -4,7 +4,7 @@ title: Networking Resources
 ---
 
 ## Overview
-
+Find resources and step-by-step information to help you build your networking skills here. 
 
 <section class="answer">
 ### Getting Started with Networking
