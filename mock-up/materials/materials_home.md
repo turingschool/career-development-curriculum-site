@@ -10,7 +10,7 @@ Find resources and step-by-step information to help you build your branding mate
 ### LinkedIn
    
 * [Links to specific lessons]
-* [New LinkedIn-specific resources page]
+* [LinkedIn resources](/mock-up/materials/linkedin_resources)
 </section>
 
 <section class="answer">
