@@ -31,8 +31,6 @@ Below you can find lots of resources to help you prepare for both components.
 
 * [TripleByte](https://triplebyte.com/) allows you to showcase your skills to go straight to the tech interview at certain companies.
 
-* [Denver Tech Interview Meetup](https://www.meetup.com/denver-tech-interview-meetup/) is held twice a month, either downtown or in the Denver Tech Center
-
 * [Leet Code](https://leetcode.com/) is a platform both practicing technical interview skills (there are over 1600 questions to practice!) and for helping companies identify top technical talent through sponsored events on the platform.
 
 * Coding challenges resources:
