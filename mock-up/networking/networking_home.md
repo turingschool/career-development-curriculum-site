@@ -18,7 +18,6 @@ title: Networking Resources
 
 * [Insert a video tutorial]
 * Finding Emails
-  * Start by searching the person's GitHub!
   * [Email Hunter](https://emailhunter.co/)
   * [Find That Lead](https://findthatlead.com/)
   * [Find That Email](https://findthat.email/)
