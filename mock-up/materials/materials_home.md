@@ -14,7 +14,7 @@ Find resources and step-by-step information to help you build your branding mate
 </section>
 
 <section class="answer">
-### Technical Interview Resources
+### Resume 
 
 * [Insert a video tutorial]
 * [Former instructor Ian Douglas' Guide to Technical Interview Prep](https://techinterview.guide)
@@ -30,7 +30,7 @@ Find resources and step-by-step information to help you build your branding mate
 </section>
 
 <section class="answer">
-### Technical Interview Practice
+### Cover Letter
 
 * [Pramp](https://www.pramp.com/#/) is a free site to practice technical interviews with a peer. Use the promo code at [https://www.pramp.com/promo/iandouglas](https://www.pramp.com/promo/iandouglas) to get unlimited mock interview credits
 * [Interviewing.io](https://interviewing.io/) allows you to do anonymous mock interviews from top companies. You can also watch recordings of past interviews!
@@ -48,7 +48,7 @@ Find resources and step-by-step information to help you build your branding mate
 </section>
 
 <section class="answer">
-### Behavioral Interview Resources
+### Terminal Portfolio
    
 * [Behavioral Interview Formats and Questions to Review](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
