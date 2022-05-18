@@ -34,7 +34,7 @@ title: Networking Resources
 ### Networking Groups
    
 * [List of Slack tech communities by region and interest](https://github.com/ladyleet/tech-community-slacks)
-* BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech.
 * [Chezie.co](https://www.chezie.co/) is an online community for diverse professionals and students to connect with inclusive employers
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
