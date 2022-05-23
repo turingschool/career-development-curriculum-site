@@ -14,22 +14,18 @@ After you complete this lesson, you'll synthesize your learning in this [Exit Ti
 ### Overview
 Review how you've been spending your time. Where are you right now in regards to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
 
-### Interview Prep Strategies
+#### Starting off Strong: Tell me about Yourself
+This request for information is typically at the very beginning of an interview. It's an opportunity to provide the interviewer with insights into your qualifications and fit for the role.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TL2YnGS9AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Preparation Strategies
 There are many ways to prepare for interviews. The key for all interviews is **knowing who you are and how to talk about yourself.** Today, we'll go through 4 particular tips to help with this process:
 
 1. Answer the whole question
 2. Tell stories
 3. Know how to talk about your experience
 4. Research & prep
-
-### Starting off Strong: Tell me about Yourself
-This request for information is typically at the very beginning of an interview. It's an opportunity to provide the interviewer with insights into your qualifications and fit for the role.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4TL2YnGS9AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Interviewing
-
-[You can view the slides for this video here](https://docs.google.com/presentation/d/1Z3iGPV_fPwI54jPHfP-_6YbDEURytZXeCu4fYzprKBE/edit?usp=sharing)
 
 [Slides for this lesson](https://docs.google.com/presentation/d/19v08-f77qv6HTMR3teiuv_SmXMHzpydHrdo144WYG_8/edit?usp=sharing)
 
@@ -102,7 +98,7 @@ For your previous professional experiences and background, unpack the transferab
 
 2. Keep a running doc where you can keep track of common interview questions and specifics that you can draw from to answer these questions. Outline your stories here about projects, team situations, successes, and failures. Make sure to review these before each of your interviews.  
 
-#### Strategy #4: [Do you have any questions for me?](https://www.keyvalues.com/culture-queries)
+### [Do you have any questions for me?](https://www.keyvalues.com/culture-queries)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qP0Sl7qs6Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At the end of almost every interview, you'll be given an opportunity to ask questions. Use this time to get a better understanding of the company, what it would be like to work there, and gauge whether this role is a good fit for you. 
