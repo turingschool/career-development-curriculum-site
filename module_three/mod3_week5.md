@@ -99,6 +99,13 @@ For your previous professional experiences and background, unpack the transferab
 
 At the end of almost every interview, you'll be given an opportunity to ask questions. Use this time to get a better understanding of the company, what it would be like to work there, and gauge whether this role is a good fit for you. 
 
+### Tell me about Yourself
+This request for information is typically at the very beginning of an interview. It's an opportunity to provide the interviewer with insights into your qualifications and fit for the role.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TL2YnGS9AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[You can view the slides for this video here](https://docs.google.com/presentation/d/1Z3iGPV_fPwI54jPHfP-_6YbDEURytZXeCu4fYzprKBE/edit?usp=sharing)
+
 ### Putting it into Practice
 To continue preparing for interviews, create an interview prep document to write out answers by telling stories about various experiences. Here are some starting prompts:
 
