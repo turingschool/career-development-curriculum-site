@@ -3,7 +3,7 @@ layout: page
 title: Turing Career Development - Mod 0 
 ---
 
-The Career Development component of your Mod 0 Project is divided into 4 sections and should take about 2 hours to complete. [Submission Directions are here](#submission)
+The Career Development component of your Mod 0 work is divided into 4 sections and should take about 2 hours to complete. [Submission Directions are here](#submission)
 
 ## Part I: Career Development Overview (15 mins)
 The objective of the Career Development Team is for all Turing students to have the skills and abilities to pursue full-time employment in high fulfillment technical careers upon graduation. To do this, our curriculum focuses on five specific competencies:
@@ -79,7 +79,7 @@ Please prepare responses to these questions to submit in the prework survey:
 1. Have you negotiated for a salary before? If so, what were the results? How did you feel about the experience?
 2. When you think about negotiating for a software development position, what are your biggest questions or concerns?
 
-## Part IV: Submit Your Career Development Work (15 mins) <a name="submission"></a>
+## Part IV: Submit Your Career Development Mod 0 Work (15 mins) <a name="submission"></a>
 Please fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
 
 If you have any questions about this part of the Mod 0 Project, please reach out to Allison Reu Singer on Slack: @allison_reu_singer
