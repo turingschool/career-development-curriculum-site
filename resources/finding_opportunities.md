@@ -25,7 +25,6 @@ Below are resources to help you find opportunities from job postings to networki
 * [Glassdoor](https://www.glassdoor.com/index.htm)
 * [CareerBliss](https://www.careerbliss.com/reviews/)
 * [The Muse](https://www.themuse.com/)
-* [The Vault](https://www.vault.com/best-companies-to-work-for/technology)
 * Tip: use Owler to track these companies and find out more about their culture
 
 * Start Ups:
