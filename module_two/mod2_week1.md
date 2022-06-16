@@ -108,16 +108,20 @@ Creating an “Education and Training” section will help showcase your develop
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
     
 * Then, develop a rough draft of your resume:
-     * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft           development. 
-     * Your resume must have technical projects. Use some of the projects you've created thus far in the                   program to help you write out your bulleted descriptions (you can swap them out later for other projects, but       working on concisely describing them is good practice). 
+     * Use [this resume checklist](https://careerdev.turing.edu/resources/resume_resources) to guide your draft development. 
+     * Include technical projects on your resume. Consider some of the projects you've completed so far in the program to help you construct your    bulleted descriptions (you can switch them out later for other projects, but you should become comfortable with describing them concisely). 
    
- * Consider the following areas when describing projects:
-     * Name of project
-     * Number of collaborators ( solo, paired, or group) primary technologies used, what it does
-     * Main learning goals of the project (if you're not sure, ask your instructors)
-     * Any stretch goals you were able to achieve
-     * Any specific contributions that you had in the project
-
+ * When describing projects, consider the following:
+     * Name of the project (group/solo/pair)- URL (hyperlinked)
+     * Time spent on the project (hours, days, or weeks)
+     * Describe the project briefly. What does it do? 
+     * Bullet points should include action verbs, tasks, and results:
+         * Describe one aspect of how the project was built.
+         * Share another example of how the project was created.
+         * Describe the method, process, or workflow.
+         * In groups, how did you contribute?
+         * Describe the technology stack you used.
+        
  * Resources
    * Use this to organize your resume content [resume worksheet](https://docs.google.com/document/d/1870HMMJQfTDzRLR-xzee2YGAX1GW5KwSp73mtFsF_Do/edit)
    * Consider building your resume content from your LinkedIn profile summary with the [LinkedIn Resume Builder](https://www.linkedin.com/help/linkedin/answer/94034/linkedin-resume-builder?lang=en). Once downloaded, cut and          paste the summary into an ATS-friendly resume template. 
