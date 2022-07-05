@@ -13,11 +13,11 @@ Each lesson concludes with an exit ticket that quizzes key points.  Exit tickets
 
 * Week 1: [Resumes & Portfolios](/module_three/mod3_week1). 
           [Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)
-* Week 2: [Interview Prep](/module_three/mod3_week5)
-          [Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)
+* Week 2: [Interview Prep](/module_three/mod3_week5).
+          [Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97).
 * Week 3: Live Interview Session
 * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter)
-          [Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)
+          [Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8).
 * Week 4: [Job Shadow Prep](/module_three/job_shadow_overview) 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**
 
