@@ -25,10 +25,11 @@ By the end of Mod 3, you should have completed the following:
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
 2. **Optimize LinkedIn for Job Search**
-   * Fill out profile thoroughly
-   * Use a targeted Headline and remove student (if applicable) 
-   * Use the best keywords throughout the profile -headline, summary, experience, education and skills section
-   * Your updated LinkedIn should be finalized by **EOD Friday of Week 2**
+   * Fill out your profile thoroughly
+   * Use the best keywords in the headline, summary, experience, education, and skills sections throughout the profile
+   * If applicable, replace the student title with a "developer" title
+   * Updating your LinkedIn profile should be completed by **Friday EOD of Week 2**.
+     **[Please submit using this form](https://airtable.com/shrFz0otWHY0hfaNO)**  
    
 3. **Updated Resume:**
    * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume
