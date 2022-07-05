@@ -11,11 +11,14 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 ### Lessons & Exit Tickets
 Each lesson concludes with an exit ticket that quizzes key points.  Exit tickets need to be completed by EOD on the Friday following the lesson. 
 
-* Week 1: [Resumes & Portfolios](/module_three/mod3_week1). [Complete the Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)
-* Week 2: [Interview Prep](/module_three/mod3_week5) **[Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
+* Week 1: [Resumes & Portfolios](/module_three/mod3_week1). 
+*         [Complete the Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)
+* Week 2: [Interview Prep](/module_three/mod3_week5)
+*         Complete the Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)
 * Week 3: Live Interview Session
-* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
-         [Job Shadow Prep](/module_three/job_shadow_overview) 
+* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter)
+          [Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)
+* Week 4: [Job Shadow Prep](/module_three/job_shadow_overview) 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**
 
 ### Deliverables & Due Dates
@@ -26,21 +29,21 @@ By the end of Mod 3, you should have completed the following:
    * **[Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
-2. **Optimize LinkedIn for Job Search**
+2. **Optimized LinkedIn for Job Search**
    * Fill out your profile thoroughly
    * Use the best keywords in the headline, summary, experience, education, and skills sections throughout the profile
    * If applicable, replace the student title with a "developer" title
    * Updating your LinkedIn profile should be completed by **Friday EOD of Week 2**.
      **[Please submit using this form](https://airtable.com/shrFz0otWHY0hfaNO)**  
    
-3. **Updated Resume:**
+3. **Updated Resume**
    * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical          resume
    * You will use your completed resume in week 5 via resume review activities
    * Your updated resume should be finalized by **EOD Friday of Week 4**
    
-4. **Create a Cover Letter:** 
-   * Tailor your cover letter from a job description
-   * You will use this cover letter and job description during the week 5 homeroom group
+4. **Cover Letter Developed** 
+   * Create a cover letter based on the job description
+   * During week 5, homeroom groups will use the cover letter and job description.
    * Your cover letter draft should be finalized by **EOD Tuesday of Week 5**  
    
 5. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
