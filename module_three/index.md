@@ -8,12 +8,14 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
-### Lessons & Activities
-* Week 1: [Resumes & Portfolios](/module_three/mod3_week1)
-* Week 2: [Interview Prep](/module_three/mod3_week5)
+### Lessons & Exit Tickets
+Each lesson concludes with an exit ticket that quizzes key points.  Exit tickets need to be completed by EOD on the Friday following the lesson. 
+
+* Week 1: [Resumes & Portfolios](/module_three/mod3_week1). **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
+* Week 2: [Interview Prep](/module_three/mod3_week5) **[Week 2 Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97)**
 * Week 3: Live Interview Session
-* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter)
-           and [Job Shadow Prep](/module_three/job_shadow_overview) 
+* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
+         [Job Shadow Prep](/module_three/job_shadow_overview) 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**
 
 ### Deliverables & Due Dates
@@ -43,7 +45,7 @@ By the end of Mod 3, you should have completed the following:
    
 5. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
 
-   
+ 
    **Terminal Portfolio**  
    * Setting up your Terminal Portfolio **is optional for Mod 3**. 
    * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
