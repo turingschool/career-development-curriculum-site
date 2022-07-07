@@ -26,7 +26,6 @@ Note: not all of these are ATS-ready. You can use one of the templates below for
 * [Enhancv](https://enhancv.com/)
 * [Resumake](https://resumake.io/)
 * [VisualCV](https://www.visualcv.com/resume-builder/)
-* [Resume Builder](https://resume-builder.qwilr.com/)
 * [Standard Resume](https://standardresume.co/)
 * [Kick Resume](https://www.kickresume.com/)
 * [Canva](https://www.canva.com/)
