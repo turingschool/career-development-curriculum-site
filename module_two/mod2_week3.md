@@ -85,7 +85,7 @@ Finding a job is easier when you have some directions. Compiling a list of some 
 This document prompts you to examine your background, your current Turing experience, and your interests via prompting questions. It is designed to help you reflect on what you do/don’t like, create starting points based on your interests, and map out where to start as you discover opportunities, industries, or people to connect with. 
 
 #### #2 Flower Exercise <a name="flower"></a>
-This activity is adapted from the job search guidebook [What Color is Your Parachute?](https://bookshop.org/books/what-color-is-your-parachute-2021-your-guide-to-a-lifetime-of-meaningful-work-and-career-success/9781984857866).
+This activity is adapted from the job search guidebook [What Color is Your Parachute?](https://www.parachutebook.com/).
 
 [Worksheet #1](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit)
 
