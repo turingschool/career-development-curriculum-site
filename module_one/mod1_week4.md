@@ -135,7 +135,9 @@ This section is where you showcase your current and prior work:
     * Professional-looking headshot
     * Updated headline statement
     * Summary statement using your professional story
-    * Turing added to Experience and Education sections
+    * Turing added to Education section
+      * You should also add Turing to the Experience section *if* you do not have previous professional experience
+      * You could also consider adding the Career Break feature to your profile to explain that you've left your career to transition to software development.
  
 * **Professional Coaching:** 
    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
