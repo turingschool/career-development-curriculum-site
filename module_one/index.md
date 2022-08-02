@@ -35,7 +35,8 @@ By the end of Mod 1, you should have completed:
    * Professional-looking headshot
    * Updated headline statement
    * Summary statement using your professional story
-   * Turing added to Experience and Education sections 
+   * Turing added to Education section 
+      * **Note:** Add Turing to your Experience section *if* you do not have other previous professional experience.
    * **Due date #1:** Submit your LinkedIn URL through [this survey](https://airtable.com/shrC9S9ymEtpUWWw9) by **EOD Friday of Week 4.** If you are missing any elements of your LinkedIn, you will receive feedback by mid-week Week 5.
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 4. Complete [end of mod self-evaluation survey](https://airtable.com/shrogjoSu2mYqqlmR) by **EOD Friday of Week 5**
