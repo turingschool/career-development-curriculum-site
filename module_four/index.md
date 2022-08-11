@@ -10,8 +10,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 
 * Week 1: 
   * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
-  * [Negotiations](/module_four/negotiations)
-* Week 2: Alumni Panel
+* Week 2: [Negotiations](/module_four/negotiations)
 * Week 3: [Terminal Portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: PD Deliverables Due by the end of the week
@@ -22,9 +21,9 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 By the end of Mod 4, you should have completed:
 
 1. **Exit Ticket** for the async lesson. This should be completed by EOD Friday of the respective week. 
-   * Week 1 [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async session
-   * As you complete the exit survey, we would love to know of any questions that you have about the lesson and negotiation process. We will                  address as many of the questions as we can during the live session during week 1. You can submit questions via the survey.
-   * Please submit questions via the survey by **Tuesday of Week 1** 
+   * Week 2 [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async lesson.
+   * We would love to hear any questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will answer      as many questions as possible.   
+   * * Please submit questions via the survey by **EOD Tuesday of Week 2** 
    
 2. **Complete Terminal Portfolio**
   A completed Portfolio must include the following before it can be publshed:
