@@ -8,17 +8,18 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 
 ### Lessons & Activities
 
-* Week 1: 
-  * [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
-* Week 2: [Negotiations](/module_four/negotiations)
+* Week 1: [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
+          Async [Negotiations](/module_four/negotiations) Lesson. [Exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8)
+* Week 2: Negotiations Live QA
 * Week 3: [Terminal Portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
-* Week 5: PD Deliverables Due by the end of the week
-* Week 6: Learn about [Mod 5](/module-5/index) post-graduate job search support
+* Week 5: Meet Lex- Strategies to prepare for Mod 5 
+          *PD Deliverables Due by the end of week 5
+* Week 6: Mod 5 Kickoff-Learn about [Mod 5](/module-5/index) post-graduate job search support
 
 ### Deliverables & Due Dates
 
-By the end of Mod 4, you should have completed:
+By the end of Week 5 the following deliverables are due:
 
 1. **Exit Ticket** for the async lesson. This should be completed by EOD Friday of the respective week. 
    * Week 2 [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async lesson.
