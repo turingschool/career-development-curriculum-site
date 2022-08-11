@@ -19,22 +19,20 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 
 ### Deliverables & Due Dates
 
-By the end of Week 5 the following deliverables are due:
+Week 2: 
+* The [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) for the Async Negotiations lesson is due Tuesday, EOD of week 2. 
+* Please submit questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will       answer as many questions as possible.
+ * * Please submit questions via the survey by **EOD Tuesday of Week 2** 
 
-1. **Exit Ticket** for the async lesson. This should be completed by EOD Friday of the respective week. 
-   * Week 2 [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) from the Negotiations async lesson.
-   * We would love to hear any questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will answer      as many questions as possible.   
-   * * Please submit questions via the survey by **EOD Tuesday of Week 2** 
-   
-2. **Complete Terminal Portfolio**
-  A completed Portfolio must include the following before it can be publshed:
-   * A finalized resume and LinkedIn profile
-   * A minimum of 2 projects 
-   * To complete this deliverable refer to the [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
-   * Please "request for review" of your portfolio by **Friday of Week 4.** 
-   * **Final due date: EOD Friday of Week 5.** All updates to the portfolio must be made by this time to fulfill this deliverable
-   
- 3. Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
+Week 4:
+* Completion of Terminal portfolio, including a resume and LinkedIn profile.
+* To complete this deliverable, please refer to the [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
+* Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
+
+Week 5:
+* In response to feedback from Career Specialists, portfolio updates should be made by the end of week 5. 
+* The goal is to have a polished portfolio before graduation.
+* Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
