@@ -11,7 +11,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 * Week 1: [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff)
            Async [Negotiations](/module_four/negotiations) Lesson. [Exit ticket]( https://docs.google.com/forms/d/17RlQn3qFlnji7KHDhKooIdZLeGL5KLbd6kcN3KQb468/edit)
 * Week 2: Negotiations Live QA
-* Week 3: [Terminal Portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
+* Week 3: TBD
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: Meet Lex- Strategies to prepare for Mod 5 
           *PD Deliverables Due by the end of week 5
