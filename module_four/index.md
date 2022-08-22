@@ -26,7 +26,9 @@ Week 2:
 
 Week 4:
 * Completion of Terminal portfolio, including a resume and LinkedIn profile.
-* To complete this deliverable, please refer to the [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
+* To complete this deliverable, please refer the following resources:
+   [Terminal Set up Directions]((https://careerdev.turing.edu/resources/terminal_directions)   
+   [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
 * Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
 
 Week 5:
