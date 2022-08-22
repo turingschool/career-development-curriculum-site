@@ -14,7 +14,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 * Week 3: TBD
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
 * Week 5: Meet Lex- Strategies to prepare for Mod 5 
-          *PD Deliverables Due by the end of week 5
+          *All PD Deliverables are Due by the end of week 5
 * Week 6: Mod 5 Kickoff-Learn about [Mod 5](/module-5/index) post-graduate job search support
 
 ### Deliverables & Due Dates
@@ -27,7 +27,7 @@ Week 2:
 Week 4:
 * A completed Terminal portfolio includes a resume, optimized LinkedIn profile, Github, and projects.
 * To complete this deliverable, please refer the following resources:
-   [Terminal Set up Directions]((https://careerdev.turing.edu/resources/terminal_directions)   
+   [Terminal Set up Directions](https://careerdev.turing.edu/resources/terminal_directions)   
    [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
 * Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
 
