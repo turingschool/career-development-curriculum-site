@@ -14,7 +14,7 @@ Start by viewing the video below. Allow yourself up to 55 minutes to complete. W
 * Look at examples and discuss tactics for negotiating
 
 After you've completed this lesson, you'll synthesize your learning and share any questions that you have in this 
-[Exit Ticket]()
+[Exit Ticket](https://forms.gle/gZGiZiDrcBsxRBEy5)
 
 ### Section 1: Introduction
 
