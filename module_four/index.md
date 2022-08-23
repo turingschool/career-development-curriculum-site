@@ -20,7 +20,8 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 ### Deliverables & Due Dates
 
 Week 2: 
-* The [exit ticket](https://forms.gle/v9vb4doeBpE3WNHZ8) for the Async Negotiations lesson is due Tuesday, EOD of week 2. 
+* The [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform)
+*  for the Async Negotiations lesson is due Tuesday, EOD of week 2. 
 * Please submit questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will       answer as many questions as possible.
 * Please submit questions via the survey by **EOD Tuesday of Week 2** 
 
