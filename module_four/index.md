@@ -9,7 +9,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 ### Lessons & Activities
 
 * Week 1: [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff).
-           Async [Negotiations](/module_four/negotiations) Lesson. [Exit ticket]( https://docs.google.com/forms/d/17RlQn3qFlnji7KHDhKooIdZLeGL5KLbd6kcN3KQb468/edit)
+           Async [Negotiations](/module_four/negotiations) Lesson. [Exit ticket]( https://forms.gle/v9vb4doeBpE3WNHZ8)
 * Week 2: Negotiations Live QA
 * Week 3: TBD
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
