@@ -9,7 +9,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 ### Lessons & Activities
 
 * Week 1: [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff).
-           Async [Negotiations](/module_four/negotiations) Lesson. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform)
+           Async [Negotiations](/module_four/negotiations) Lesson.
 * Week 2: Negotiations Live QA
 * Week 3: TBD
 * Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
@@ -20,8 +20,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 ### Deliverables & Due Dates
 
 Week 2: 
-* The [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform)
-*  for the Async Negotiations lesson is due Tuesday, EOD of week 2. 
+* The [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform) for the Async     Negotiations lesson is due Tuesday, EOD of week 2. 
 * Please submit questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will       answer as many questions as possible.
 * Please submit questions via the survey by **EOD Tuesday of Week 2** 
 
