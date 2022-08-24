@@ -23,7 +23,8 @@ Suggested Format:
 * Brief introductions and each person shares something fun about themselves: 5 minutes.
 * Review agenda: Decide who will keep the time or how it can be done. 5 minutes.
 
-Stand up:  Discuss PD progress: each person has 5 minutes to share. 20 minutes
+Stand up:  
+Each person has five minutes to share their PD progress. 20 minutes.
 * What progress did you make last mod?
 * What will you focus on next?
 * What is getting in your way?
