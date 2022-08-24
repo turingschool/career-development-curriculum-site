@@ -19,33 +19,32 @@ Skip down to:
 ### Week 1 Prompts & Structure (60 mins)
 1. In the first part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
 
-Suggested Format:
-* Brief introductions and each person shares something fun about themselves: 5 minutes.
-* Review agenda: Decide who will keep the time or how it can be done. 5 minutes.
+   Suggested Format:
+  * Brief introductions and each person shares something fun about themselves: 5 minutes.
+  * Review agenda: Decide who will keep the time or how it can be done. 5 minutes.
 
-Stand up:  
-Each person has five minutes to share their PD progress. 20 minutes.
-* What progress did you make last mod?
-* What will you focus on next?
-* What is getting in your way?
-* What support or accountability would be helpful from the team? 
- 
+  Stand up:  
+  Each person has five minutes to share their PD progress. 20 minutes.
+  * What progress did you make last mod?
+  * What will you focus on next?
+  * What is getting in your way?
+  * What support or accountability would be helpful from the team?
  
 2. Next, plan and share goals they want to accomplish by the next homegroup meeting in week 3. 30 minute
    
-  15 minutes for self-reflection. Which two goals will help you move the needle on your professional development over the next two weeks? (job search, networking, interview practice, career materials).
+  15 minutes for self-reflection. Which two goals will help you move the needle on your professional development over the next two weeks? (job search,   networking, interview practice, career materials).
    
-* Write them out as SMART Goals:
-* Specific -what will be accomplished? (what actions will you take?)
-* Measurable- How will you measure the goal? (how much? how well?)
-* Achievable-Is the goal doable? (Do you have the necessary resources?)
-* Relevant- Why is the result important?
-* Time-bound-What is the time frame for accomplishing this goal? (add tasks to your calendar or another tool)
+ * Write them out as SMART Goals:
+ * Specific -what will be accomplished? (what actions will you take?)
+ * Measurable- How will you measure the goal? (how much? how well?)
+ * Achievable-Is the goal doable? (Do you have the necessary resources?)
+ * Relevant- Why is the result important?
+ * Time-bound-What is the time frame for accomplishing this goal? (add tasks to your calendar or another tool)
 
 3. Wrap up: 10 minutes
-* Take turns sharing a takeaway: a question, the need for support, or action item (s).
-* How will you hold each other accountable for your goals?
-* What will you do to celebrate?
+ * Take turns sharing a takeaway: a question, the need for support, or action item (s).
+ * How will you hold each other accountable for your goals?
+ * What will you do to celebrate?
  
  ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
