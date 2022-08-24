@@ -31,9 +31,11 @@ Each person has five minutes to share their PD progress. 20 minutes.
 * What support or accountability would be helpful from the team? 
  
  
-2. Next, homeroom groups will first plan and  then share goals they want to accomplish by the next homegroup meeting in week 3. 30 minutes
-   Self-Reflection- 15 min. Identify your goals and take 15 minutes to write them down. 
-   *Over the next two weeks, which two goals will really help you move the needle on your PD? (career materials, networking, interview practice, job     search)
+2. Next, plan and share goals they want to accomplish by the next homegroup meeting in week 3. 30 minute
+   
+  * 15 minutes for self-reflection. Take 15 minutes to write down your goals. 
+   
+  * Which two goals will help you move the needle on your professional development over the next two weeks? (job search, networking, interview practice, career materials).
    
 * Write them out as SMART Goals:
 * Specific -what will be accomplished? (what actions will you take?)
