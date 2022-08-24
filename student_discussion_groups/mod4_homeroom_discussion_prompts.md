@@ -33,9 +33,7 @@ Each person has five minutes to share their PD progress. 20 minutes.
  
 2. Next, plan and share goals they want to accomplish by the next homegroup meeting in week 3. 30 minute
    
-  * 15 minutes for self-reflection. Take 15 minutes to write down your goals. 
-   
-  * Which two goals will help you move the needle on your professional development over the next two weeks? (job search, networking, interview practice, career materials).
+  15 minutes for self-reflection. Which two goals will help you move the needle on your professional development over the next two weeks? (job search, networking, interview practice, career materials).
    
 * Write them out as SMART Goals:
 * Specific -what will be accomplished? (what actions will you take?)
