@@ -30,10 +30,10 @@ Stand up:  Discuss PD progress: each person has 5 minutes to share. 20 minutes
 * What support or accountability would be helpful from the team? 
  
  
-2. Activity: Next, homeroom groups will first plan and  then share goals they want to accomplish by the next homegroup meeting in week 3. 30 minutes
-
+2. Next, homeroom groups will first plan and  then share goals they want to accomplish by the next homegroup meeting in week 3. 30 minutes
    Self-Reflection- 15 min. Identify your goals and take 15 minutes to write them down. 
-   *Over the next two weeks, which two goals will really help you move the needle on your PD? (career materials, networking, interview practice, job   search)
+   *Over the next two weeks, which two goals will really help you move the needle on your PD? (career materials, networking, interview practice, job     search)
+   
 * Write them out as SMART Goals:
 * Specific -what will be accomplished? (what actions will you take?)
 * Measurable- How will you measure the goal? (how much? how well?)
@@ -42,9 +42,9 @@ Stand up:  Discuss PD progress: each person has 5 minutes to share. 20 minutes
 * Time-bound-What is the time frame for accomplishing this goal? (add tasks to your calendar or another tool)
 
 3. Wrap up: 10 minutes
-   * Take turns sharing a takeaway: a question, the need for support, or action item (s).
-   * How will you hold each other accountable for your goals?
-   * What will you do to celebrate?
+* Take turns sharing a takeaway: a question, the need for support, or action item (s).
+* How will you hold each other accountable for your goals?
+* What will you do to celebrate?
  
  ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
