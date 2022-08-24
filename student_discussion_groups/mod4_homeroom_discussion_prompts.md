@@ -19,27 +19,36 @@ Skip down to:
 ### Week 1 Prompts & Structure (60 mins)
 1. In the first part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
 
-   * What progress did you make last mod?
-   * What do you want to keep doing?
-   * What do you want to stop doing?
-   * What new ways do you want to collaborate?
-   * What are ways you could help each other for accountability? i.e share the progress we've made since the last meeting as well as one goal we'd like to accomplish before the next meeting.
+Suggested Format:
+* Brief introductions and each person shares something fun about themselves: 5 minutes.
+* Review agenda: Decide who will keep the time or how it can be done. 5 minutes.
+
+Stand up:  Discuss PD progress: each person has 5 minutes to share. 20 minutes
+* What progress did you make last mod?
+* What will you focus on next?
+* What is getting in your way?
+* What support or accountability would be helpful from the team? 
  
  
-2. In the second part, homeroom groups will plan goals for the inning and share out. 
+2. Activity: Next, homeroom groups will first plan and  then share goals they want to accomplish by the next homegroup meeting in week 3. 30 minutes
 
-What are two goals that you hope to achieve as it relates to your job search in the next 6 weeks? 
-1 Stretch Goal (Might be something outside of your control)
-1 Achievable Goal (Think of a goal within your control) 
- * What will get you to your goal? 
- * What can you do each week to achieve your goal? (add steps to your calendar)
- * What do you need to get this done? (resources, people) 
- * What would keep you from getting this done? 
- * How do you know you will complete this goal? What will you do to celebrate?
+   Self-Reflection- 15 min. Identify your goals and take 15 minutes to write them down. 
+   *Over the next two weeks, which two goals will really help you move the needle on your PD? (career materials, networking, interview practice, job   search)
+* Write them out as SMART Goals:
+* Specific -what will be accomplished? (what actions will you take?)
+* Measurable- How will you measure the goal? (how much? how well?)
+* Achievable-Is the goal doable? (Do you have the necessary resources?)
+* Relevant- Why is the result important?
+* Time-bound-What is the time frame for accomplishing this goal? (add tasks to your calendar or another tool)
 
-How will you hold eachother accountable for your goals?
+3. Wrap up: 10 minutes
+   * Take turns sharing a takeaway: a question, the need for support, or action item (s).
+   * How will you hold each other accountable for your goals?
+   * What will you do to celebrate?
+ 
+ ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
-### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
+
 1. Check-in and share progress or challenges with one small goal from the last meeting (15 mins) 
     * What support, resources, or ideas can be shared to help address challenges? 
     
