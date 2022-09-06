@@ -48,21 +48,7 @@ Skip down to:
  
  ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
-
-1. Check-in and share progress or challenges with one small goal from the last meeting (15 mins) 
-    * What support, resources, or ideas can be shared to help address challenges? 
-    
-2. Over intermission and during week one the focus was on negotiations. Negotiating your worth can be daunting; however, you can get what you want if you put in the work to prepare yourself. Based on the negotiation session and your own experience, share your thoughts on the following questions with your group (10 mins):
-
-   * **What is your mindset toward negotiating?** Are you open or closed to the idea? Why or why not? 
-   * **What would make you feel prepared to negotiate your next job offer?** 
-
-3. Review the [Salary Negotiation worksheet](https://docs.google.com/document/d/17s-KWuoPFECqIFbp64wlG3P9bUbrQRTXha7tLnXU788/edit)
-
-4. Take a few minutes to discuss **Step one**: 
-   * What is a range that you will be looking for based on your research? 
-   * Things to consider: What if you got a low offer for your dream job? What if you got a high offer for your not so dreamy job? How would this impact what you might be seeking in salary? Are there other benefits that might get you to accept a different salary?
-   * What skill based reasons would you give to counter an offer?  This could include: technical aptitude, cultural competency, and or prior achievements that you can bring to the company on day one. 
+      Week 3 prompts cominng soon!
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's Homeroom Group is a working session to finalize your Mod 4 action items -- [find the guidelines here!](/module_four/week5_working_group)
