@@ -5,11 +5,9 @@ title: Resume Review and Terminal Portfolio Creation
 
 ### Learning Goals
 
-*  Identify the ATS components of resumes
-*  Incorporate resume strategies to guide a complete version of your resume
-* Create a distinct Terminal portfolio that showcase your technical work, achievements and personal brand.## Overview
-
-After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
+*  Learn about applicant tracking systems (ATS) and their importance in resume writing and job searching. 
+*  Develop a complete resume using optimization.
+*  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
 ### Overview
 
@@ -18,9 +16,6 @@ Review and update resume to meet ATS compatibility. Then decide if you want to c
 
 ## Resume Review and Terminal Portfolio
 
-Please review the short video lecture followed by the resources to help guide your resume development. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MGLVCEX4Bwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
