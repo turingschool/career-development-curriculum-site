@@ -45,25 +45,7 @@ Turing provides a space for professional portfolios on [our website](https://ter
  * First, review the following video on how to set up your Terminal Portfolio: 
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
 
-Next, follow these step-by-step directions to sign in: 
-
-* Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
-* Go to “Edit Profile” from account menu
-* Fill out profile until all sections are complete
-
-### Create Your About Me and Project Descriptons for Terminal
-
-* After setting up your portfolio, review tips and guidelines for drafting your About me and Technical Projects sections [here](https://careerdev.turing.edu/resources/terminal_directions) 
-
-* Review what needs to be included in order for your portfolio to be published? 
-[Here is what the team is looking for](https://careerdev.turing.edu/resources/terminal_directions)
-
-### When your profile is complete:
-* Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
-* Click “Request Review” * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
-* After that,your profile will be published and visible on the main alumni directory as long as you are participating in job search support until you get your first job.
-* **Note: You must select "request review" on your Terminal portfolio and then a member of the Career Dev team will review it and publish it; it isn't fully complete until we publish it. 
-* *If you do not wish to publish your Terminal portfolio, please reach out to your Career Specialist to discuss other options.* 
+Next,In Mod 3, creating your portfolio is optional. If you're interested in setting up your portfolio after reviewing the video, here's [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
 
 ## Check for Understanding
 
