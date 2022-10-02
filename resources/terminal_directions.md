@@ -13,9 +13,12 @@ To set up your profile:
 * Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
 * Go to “Edit Profile” from account menu
 * Fill out profile until all sections are complete
-* Click “Request Review”
-* Staff member will review your profile and approve for publishing or request additional changes
+* A Career Specialist will review your profile and approve for publishing or request additional changes
 * For more info on how to set this up, [watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
+
+### When your profile is complete:
+* Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
+* Click “Request Review” * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
 
 Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu/profiles](https://terminal.turing.edu/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
