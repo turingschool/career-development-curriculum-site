@@ -49,7 +49,7 @@ Next,In Mod 3, creating your portfolio is optional. If you're interested in sett
 
 ## Check for Understanding
 
-1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
+1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
 3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
 
