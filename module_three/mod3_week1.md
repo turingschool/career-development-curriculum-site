@@ -56,7 +56,7 @@ Next,In Mod 3, creating your portfolio is optional. If you're interested in sett
 
 ## Due Dates & Reminders 
 * Please complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) by **EOD Friday of Week 1.**
-* Prepare a complete resume by **Friday, Week 4.
+* Prepare a complete resume by **Friday,Week 4.
 * The final resume due date is Friday, **Week 5, through the end of the mod survey.
 * Portfolios can be submitted during the inning, as long as they're submitted by **EOD Friday of Week 5.
 
