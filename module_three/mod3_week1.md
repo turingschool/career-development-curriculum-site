@@ -11,11 +11,17 @@ title: Resume Review and Terminal Portfolio Creation
 
 ### Overview
 
-Review and update resume to meet ATS compatibility. Then decide if you want to create your terminal portfolio as an option in Mod 3.  
+Review and update resume to meet ATS compatibility. Get to know Turing's job board and how your terminal portfolio will help you stand out. The creation of a terminal portfolio is optional in Mod 3.   
 
 
-## Resume Review and Terminal Portfolio
+## Resume Review 
 
+In mod 3, it is important to ensure that your resume and other career materials, such as LinkedIn, are ATS-friendly. Doing so will increase your chances of being found in recruiter searches and getting past applicant tracking systems. 
+
+To help you develop a strong resume and LinkedIn profile,  watch these two-minute videos about Jobscan and the ATS. 
+
+* Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
+* Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
 
 ##  Section 2: Overview on How to Build a Great Terminal Portfolio
 
