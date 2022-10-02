@@ -25,8 +25,8 @@ To help you develop a strong resume and LinkedIn profile,  watch these two-minut
 
 Next, 
 
-To help you develop your resume, review the following [resume checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). 
-
+Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
+  
 This checklist includes the following sections: 
 * Front and Backend Technical Skills 
 * Action Verbs for Technical Work
