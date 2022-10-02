@@ -23,7 +23,17 @@ To help you develop a strong resume and LinkedIn profile,  watch these two-minut
 * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
 * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
 
-##  Section 2: Overview on How to Build a Great Terminal Portfolio
+Next, 
+
+To help you develop your resume, review the following [resume checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). 
+
+This checklist includes the following sections: 
+* Front and Backend Technical Skills 
+* Action Verbs for Technical Work
+* ATS-Friendly Resume Example
+
+
+##  Section 2: How to Build a Great Terminal Portfolio
 
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
