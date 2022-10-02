@@ -49,14 +49,15 @@ Next,In Mod 3, creating your portfolio is optional. If you're interested in sett
 
 ## Check for Understanding
 
-1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6). **Completion of this exit ticket is required for your professional development this module.** 
+1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6).
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
-3. When you have a completed resume (at some point during mod 3), use [JobScan](https://www.jobscan.co/) to see how optimized your resume is for roles you might be interested in pursuing. Upload your resume and a job description, and JobScan will highlight the key experience, and skills recruiters like to see.
+3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
+
 
 ## Due Dates & Reminders 
-* Complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) for this lesson by **EOD Friday of Week 1.**
-* You will use your completed resume in week 5 via resume review activities 
-* Final resume due date is EOD Friday of Week 5 through the end of mod survey
-* Portfolios can be submitted during the inning, as long as its before EOD Friday of Week 5
+* Please complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) by **EOD Friday of Week 1.**
+* Prepare a complete resume by **Friday, Week 4.
+* The final resume due date is Friday, **Week 5, through the end of the mod survey.
+* Portfolios can be submitted during the inning, as long as they're submitted by **EOD Friday of Week 5.
 
  Check out PD office hours or contact the Career team for questions and support!
