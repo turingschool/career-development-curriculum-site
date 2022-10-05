@@ -20,17 +20,6 @@ An ATS, or applicant tracking system, is used by most companies to screen resume
 * Compare your resume to the job description and pull out key words to highlight in your skills and experience. **An ATS system will not assume you have a skill unless you list it. If it's in the job description, add it to your skills.** [Learn more about how to approach ATS systems here](https://www.jobscan.co/applicant-tracking-systems).
 * Need some inspiration? Check out these [free resume templates from JobScan](https://www.jobscan.co/resume-templates) or [from Job Hunt](https://www.job-hunt.org/resume-samples/sample-resumes.shtml)
 
-## Resume Templates
-Note: not all of these are ATS-ready. You can use one of the templates below for a "stylized" resume that can go on your [Terminal portfolio](https://terminal.turing.edu) or to send via email as a PDF, but make sure to have a plainer, ATS-ready copy made in Word or Google Docs. 
-
-* [Enhancv](https://enhancv.com/)
-* [Resumake](https://resumake.io/)
-* [VisualCV](https://www.visualcv.com/resume-builder/)
-* [Standard Resume](https://standardresume.co/)
-* [Kick Resume](https://www.kickresume.com/)
-* [Canva](https://www.canva.com/)
-* [Hiration](https://www.hiration.com/)
-* Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
 ## Resume Checklist
 When creating your resume, check out this checklist to make sure you've included the right information:
