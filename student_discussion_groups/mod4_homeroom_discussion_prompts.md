@@ -46,7 +46,7 @@ Skip down to:
  * How will you hold each other accountable for your goals?
  * What will you do to celebrate?
  
- ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
+### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
   Plan for Self Care 
 
