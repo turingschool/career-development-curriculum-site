@@ -50,7 +50,7 @@ Skip down to:
 
   Plan for Self Care 
 
-You are almost to the finish line for your capstone project. What are you going to do to take care of yourself this week? Take 5-10 minutes to think about what you need in this moment. [Here is a list of 45 self care practices](https://tinybuddha.com/blog/45-simple-self-care-practices-for-a-healthy-mind-body-and-soul/)
+You are almost to the finish line for your capstone project. What are you going to do to take care of yourself this week? Take 5-10 minutes to think about what you need in this moment. If you need some help thinking about what you may need [here is a list of 45 things you can do for your own self care](https://tinybuddha.com/blog/45-simple-self-care-practices-for-a-healthy-mind-body-and-soul/)
 
 As a group share out your self care goals. 
 How as a group are you going to hold yourselves accountable to these goals?
