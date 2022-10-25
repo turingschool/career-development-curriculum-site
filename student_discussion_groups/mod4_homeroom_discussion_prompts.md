@@ -48,7 +48,14 @@ Skip down to:
  
  ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
-      Week 3 prompts cominng soon!
+  Plan for Self Care 
+
+You are almost to the finish line for your capstone project. What are you going to do to take care of yourself this week? Take 5-10 minutes to think about what you need in this moment. [Here is a list of 45 self care practices] (https://tinybuddha.com/blog/45-simple-self-care-practices-for-a-healthy-mind-body-and-soul/)
+
+As a group share out your self care goals. 
+How as a group are you going to hold yourselves accountable to these goals?
+
+Once you are done discussing, GO DO THE THING. Take a break you deserve it. 
 
 ### Week 5 Prompts & Structure (60 mins) <a name="week-5"></a>
 This week's Homeroom Group is a working session to finalize your Mod 4 action items -- [find the guidelines here!](/module_four/week5_working_group)
