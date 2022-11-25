@@ -30,6 +30,7 @@ Below are resources to help you find opportunities from job postings to networki
 * Start Ups:
   * [Startupers](https://www.startupers.com/)
   * [Techstars Listing of Companies](https://www.techstars.com/companies/)
+  * [Startup Jobs](https://startup.jobs) lists jobs from most technology startups worldwide
   
 * Learn about [freelance work here from Incluzion](https://learn.incluzion.co/) and [set up a profile here](https://app.incluzion.co/login/) to be notified about freelance opportunities
   
@@ -44,6 +45,7 @@ Below are resources to help you find opportunities from job postings to networki
 * [Hatchways](https://hatchways.io/#/) helps connect juniors with their first jobs in tech by identifying skill gaps and talking through goals for your job search.
 * [ZipRecruiter](https://www.ziprecruiter.com/) connects job seekers with recruiters based on specific languages/skills
 * [Stackshare](https://stackshare.io/stacks) allows you to search for tech stacks of popular companies
+* [AI Jobs](https://aijobs.app) is focused on just AI (Artificial Intelligence) jobs
 
 ### Search by...network
 * [LinkedIn](http://www.linkedin.com/)
