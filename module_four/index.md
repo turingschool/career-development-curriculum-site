@@ -20,7 +20,10 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 
 ### Professional Development Activities
 * [Mock Interviews](/module_four/mod4_mock_interviews). 
-
+* During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
+* Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
+*  Here you will find [mix-it-up prompts](/mixed_groups/index) to guide group activities and discussions.
+*  
 ### Deliverables to Complete 
 * The salary negotiation lesson and the[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).Due by Friday of week one.
 * Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, due by Friday of Week 4.
@@ -36,7 +39,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
 
   * [Mod 4 Homeroom Group Information](/student_discussion_groups/mod4_homeroom_discussion_prompts)
-  * [Mix It Up Group Discussions](/mixed_groups/index). As the most senior students at Turing, please be prepared to take an active role in the Mix It Up discussions. If you have any questions or concerns about this, please reach out to Allison!
+  * [As the most senior students at Turing, please be prepared to take an active role in the Mix It Up discussions. If you have any questions or concerns about this, please reach out to Allison!
 
 ### Early Graduation Requirements
 
