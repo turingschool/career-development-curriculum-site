@@ -16,9 +16,9 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
 
 ### Asynchronous Lesson(s)
-* [Salary Negotiation](/module_four/negotiation).
+* [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).
 
-### Professional Development Activities
+### Professional Development Activities).
 * [Mock Interviews](/module_four/mod4_mock_interviews). 
 * During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
 * Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
