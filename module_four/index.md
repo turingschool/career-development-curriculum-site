@@ -11,7 +11,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 *  Ryan Frank
 
 ### Live Events
-* Kickoff and Success Strategies.[Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff). 
+* Intro to Mod 4 and [Strategies for Success](/module_four/week1_kickoff). 
 * Salary Negotiation Workshop
 * Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
 
@@ -43,7 +43,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
   * Complete your developer portfolio for terminal.
   * Develop a 30/60/90-day professional development plan using the template and article below.
   * [30/60/90-day guide](https://www.themuse.com/advice/30-60-90-day-plan-instructions-template-example).
-  * Use this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#)for your submission.
+  * Use this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#) for your submission.
 
 ### Repeating the Module
 Students repeat for different reasons and stages of completing PD deliverables. Therefore, students should contact the Career Specialists who lead the Mod to discuss the next steps. Pre-exit, intermission or the first week of classes are all possible times to do this. 
