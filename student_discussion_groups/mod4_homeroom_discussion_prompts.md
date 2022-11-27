@@ -1,50 +1,37 @@
 ---
 layout: page
-title: Mod 4 Homeroom Groups Guidelines & Prompts
+title: Student Houses Guidelines & Prompts for Module 4
 ---
 
 ### Guidelines
-You and a small group of your cohortmates make up your homeroom. You'll meet on Wednesdays to discuss and collaborate on your professional development.
-
-To start off Mod 4, we recommend revisiting norms with your group. These could include:
-
-* What communication and feedback looks like within your group
-* How to hold each other accountable
-* If and how you will communicate outside of Wednesday group time. We encourage groups to form Slack channels if they would like!
+1. Each house member should actively participate in the time allotted for professional development. 
+2. Communicating your inability to attend is a best practice similar to any workplace. 
+3. Consider house time during Mod 4 as a collaborative workspace.
 
 Skip down to:
 * [Week 3](#week-3)
 * [Week 5](#week-5)
 
 ### Week 1 Prompts & Structure (60 mins)
-1. In the first part, homeroom groups will meet to establish norms for how your group wants to work together (30 mins):
-
-   Suggested Format:
-  * Brief introductions and each person shares something fun about themselves: 5 minutes.
-  * Review agenda: Decide who will keep the time or how it can be done. 5 minutes.
-
-  Stand up:  
-  Each person has five minutes to share their PD progress. 20 minutes.
-  * What progress did you make last mod?
-  * What will you focus on next?
-  * What is getting in your way?
-  * What support or accountability would be helpful from the team?
+First, Start with introductions (or a check in) and each person shares something fun about themselves. 5-6 minutes.
+  * Review the Prompt and decide who will keep the time or how it can be done. 
+  * Based on PD focus, decide whether breakout rooms will be used in pairs or smaller groups. 5 minutes.
+  * Discuss or revisit group norms if needed. These could include:
+	  How does your group communicate and provide feedback?
+     Holding each other accountable
+     How and if you will communicate outside of Wednesday group meetings? 
  
-2. Next, plan and share goals they want to accomplish by the next homegroup meeting in week 3. 30 minute
-   
-  15 minutes for self-reflection. Which two goals will help you move the needle on your professional development over the next two weeks? (job search,   networking, interview practice, career materials).
-   
- * Write them out as SMART Goals:
- * Specific -what will be accomplished? (what actions will you take?)
- * Measurable- How will you measure the goal? (how much? how well?)
- * Achievable-Is the goal doable? (Do you have the necessary resources?)
- * Relevant- Why is the result important?
- * Time-bound-What is the time frame for accomplishing this goal? (add tasks to your calendar or another tool)
+2. Next, Start Job Search Activity
+  * An excellent way to start and or continue a successful job search is by getting clear on your target audience by narrowing your search. 
+  * Here is a worksheet to help you identify your Job Search Targets. If it makes sense for the stage of your job search, make a copy and start researching. (COMING SOON).
+  * Feel free to move on to the next activity if you have completed a similar job search reflection and have narrowed your job search.
+  *  Getting started with a Proactive Job Search (COMING SOON).
 
 3. Wrap up: 10 minutes
- * Take turns sharing a takeaway: a question, the need for support, or action item (s).
- * How will you hold each other accountable for your goals?
- * What will you do to celebrate?
+ * Each person shares one takeaway: a question, a need for support, or an action item you will complete by the next House meeting in week 3. 
+ (s).
+ * If you are short on time, decide if posting a thread in your house channel is a good way to hold each other accountable and celebrate your good work today!
+
  
 ### Week 3 Prompts & Structure (60 mins) <a name="week-3"></a>
 
