@@ -11,7 +11,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 *  Ryan Frank
 
 ### Live Events
-* Intro to Mod 4 and [Strategies for Success](/module_four/week1_kickoff). 
+* Intro to Mod 4 and [Strategies for Success](https://careerdev.turing.edu/module_four/week1_kickoff). 
 * Salary Negotiation Workshop
 * Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
 
