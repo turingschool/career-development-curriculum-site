@@ -16,8 +16,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
 
 ### Asynchronous Lesson(s)
-* [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).
-
+* [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of negotiating, and how to build a strategy. 
 ### Professional Development Activities).
 * Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
 * During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
