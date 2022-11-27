@@ -23,7 +23,7 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 * During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
 * Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
 *  Here you will find [mix-it-up prompts](/mixed_groups/index) to guide group activities and discussions.
-*  
+  
 ### Deliverables to Complete 
 * The salary negotiation lesson and the[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).Due by Friday of week one.
 * Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, due by Friday of Week 4.
@@ -33,7 +33,6 @@ Our approach to Module 4 is to review Professional Development curriculum and st
    [Terminal Set up Directions](https://careerdev.turing.edu/resources/terminal_directions)   
    [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
 * Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
-
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
@@ -45,11 +44,10 @@ Every Wednesday afternoon, you'll meet with other students to discuss and collab
   * Attend all required professional development sessions.
   * Ensure that all deliverables are completed with a final passing score.
   
-
 ### Early Graduation Program Requirements
   * A graduation certificate may still be issued to you if you have signed a job offer. Once you have reviewed the general outline of expectations below, reach out to your instructors and Career Specialists to follow up on next step.
   
- ## General outline of expectations:  
+ ***General outline of expectations:  
   * Attend and maintain above 80% attendance for the first 3 weeks of classes.
   * Successfully complete the first project.
   * Complete your developer portfolio for terminal.
@@ -58,6 +56,12 @@ Every Wednesday afternoon, you'll meet with other students to discuss and collab
   * Use this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#)for your submission.
 
 ### Repeating the Module
-For students repeating Module 4, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 4, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+Students repeat for different reasons and stages of completing PD deliverables. Therefore, students should contact the Career Specialists who lead the Mod to discuss the next steps. Pre-exit, intermission or the first week of classes are all possible times to do this. 
 
-
+**The following are general guidelines for repeating a module:
+   * Attend the Intro to PD session for updates and important information for the cohort. 
+   * Participate in House and Mix It Up groups.
+   * Submit a new self-evaluation based on current PD activities and reflections during the Mod.
+   * Meet all graduation requirements.
+   * If you attended all required sessions before, it is optional to participate in them again. 
+   * Exit tickets completed previously do not need to be submitted again.
