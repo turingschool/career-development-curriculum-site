@@ -6,35 +6,31 @@ title: Module 4 Professional Development
 ## Overview
 Our approach to Module 4 is to review Professional Development curriculum and strategies in order to refine and execute a successful job search. Areas of focus include outreach and networking, resume and cover letter best practices, interview strategies, refining job search strategies, and negotiating an offer. Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
 
-### Lessons & Activities
+**Career Specialists**
+*  Tracey Monteiro
+*  Ryan Frank
 
-* Week 1: [Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff).
-           Async [Negotiations](/module_four/negotiations) Lesson.
-* Week 2: Negotiations Live QA
-* Week 3: TBD
-* Week 4: [Volunteer Mock Interviews](/module_four/mod4_mock_interviews)
-* Week 5: Meet Lex- Strategies to prepare for Mod 5 
-          *All PD Deliverables are Due by the end of week 5
-* Week 6: Mod 5 Kickoff-Learn about [Mod 5](/module-5/index) post-graduate job search support
+### Live Events
+* Kickoff and Success Strategies.[Mod 4 Kickoff: Strategies for Success](/module_four/week1_kickoff). 
+* Salary Negotiation Workshop
+* Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
 
-### Deliverables & Due Dates
+### Asynchronous Lesson(s)
+* [Salary Negotiation](/module_four/negotiation).
 
-Week 2: 
-* The [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform) for the Async     Negotiations lesson is due Tuesday, EOD of week 2. 
-* Please submit questions about the lesson and negotiation process as you complete the exit survey. During the live session, we will       answer as many questions as possible.
-* Please submit questions via the survey by **EOD Tuesday of Week 2** 
+### Professional Development Activities
+* [Mock Interviews](/module_four/mod4_mock_interviews). 
 
-Week 4:
-* A completed Terminal portfolio includes a resume, optimized LinkedIn profile, Github, and projects.
+### Deliverables to Complete 
+* The salary negotiation lesson and the[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).Due by Friday of week one.
+* Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, due by Friday of Week 4.
+* PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). Must be submitted by the EOD Friday of Week 5.
+
 * To complete this deliverable, please refer the following resources:
    [Terminal Set up Directions](https://careerdev.turing.edu/resources/terminal_directions)   
    [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
 * Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
 
-Week 5:
-* In response to feedback from Career Specialists, portfolio updates should be made by the end of week 5. 
-* The goal is to have a polished portfolio before graduation.
-* Complete the [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd) by the **EOD Friday of Week 5.** 
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
@@ -53,3 +49,5 @@ For students that have signed a job offer and still want to receive a graduation
 
 ### Repeating the Module
 For students repeating Module 4, they are not required to attend workshops again unless they would like to. Instead, they will meet with the Career Development team, and using their self-evaluation from their first time through Mod 4, they will create specific goals to work on during the module. They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+
+
