@@ -25,14 +25,10 @@ Our approach to Module 4 is to review Professional Development curriculum and st
 * Here you will find [Mix-it-up prompts](/mixed_groups/index) to guide group activities and discussions.
   
 ### Deliverables to Complete 
-* The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).Due by Friday of week one.
-* Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, due by Friday of Week 4.
-* PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). Must be submitted by the EOD Friday of Week 5.
-
-* To complete this deliverable, please refer the following resources:
-   [Terminal Set up Directions](https://careerdev.turing.edu/resources/terminal_directions)   
-   [Mod 3 week 1 set up directions and resources](https://careerdev.turing.edu/module_three/mod3_week1)
-* Once your portfolio is complete, "request for review" of your portfolio. Due by Friday of Week 4.
+* The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform). **Due by Friday of week one.**
+* Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, **due by Friday of Week 4.**
+* PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
+* Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.**. For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
 
 ### Weekly Discussion Guidelines & Prompts
 Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
