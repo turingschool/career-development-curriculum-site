@@ -4,7 +4,7 @@ title: Module 4 Professional Development
 ---
 
 ## Overview
-Our approach to Module 4 is to review Professional Development curriculum and strategies in order to refine and execute a successful job search. Areas of focus include outreach and networking, resume and cover letter best practices, interview strategies, refining job search strategies, and negotiating an offer. Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
+Module 4 focuses on revisiting key areas of the  Professional Development curriculum to support a successful job search and future career in Tech. The final core competency will be salary negotiation and creating a developer portfolio to share the student's professional brand. Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
 
 **Career Specialists**
 *  Tracey Monteiro
