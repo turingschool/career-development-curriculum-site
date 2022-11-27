@@ -21,15 +21,14 @@ First, Start with introductions (or a check in) and each person shares something
      Holding each other accountable
      How and if you will communicate outside of Wednesday group meetings? 
  
-2. Next, Start Job Search Activity
+Next, start Job Search Activity
   * An excellent way to start and or continue a successful job search is by getting clear on your target audience by narrowing your search. 
   * Here is a worksheet to help you identify your Job Search Targets. If it makes sense for the stage of your job search, make a copy and start researching. (COMING SOON).
   * Feel free to move on to the next activity if you have completed a similar job search reflection and have narrowed your job search.
   *  Getting started with a Proactive Job Search (COMING SOON).
 
-3. Wrap up: 10 minutes
- * Each person shares one takeaway: a question, a need for support, or an action item you will complete by the next House meeting in week 3. 
- (s).
+Then, wrap up: 10 minutes
+ * Each person shares one takeaway: a question, a need for support, or an action item you will complete by the next House meeting in week 3.
  * If you are short on time, decide if posting a thread in your house channel is a good way to hold each other accountable and celebrate your good work today!
 
  
