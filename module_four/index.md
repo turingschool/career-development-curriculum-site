@@ -27,7 +27,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform). **Due by Friday of week one.**
 * Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, **due by Friday of Week 4.**
 * PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
-* Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.**. For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
+* Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.** For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
 
 ### Professional Development Graduation Requirements
   * Attend all required professional development sessions.
