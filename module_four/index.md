@@ -30,11 +30,6 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
 * Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.**. For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
 
-### Weekly Discussion Guidelines & Prompts
-Every Wednesday afternoon, you'll meet with other students to discuss and collaborate on your professional development. Read through the overview on the [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like. Homeroom groups are with your cohort only and happen in Weeks 1-5 while Mix It Up groups are groups that are mixed across the entire student body and happen in Weeks 2 and 4.
-
-  * [Mod 4 Homeroom Group Information](/student_discussion_groups/mod4_homeroom_discussion_prompts)
-
 ### Professional Development Graduation Requirements
   * Attend all required professional development sessions.
   * Ensure that all deliverables are completed with a final passing score.
