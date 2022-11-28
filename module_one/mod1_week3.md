@@ -132,19 +132,25 @@ Here are some [additional branding resources](/resources/branding_resources) for
 ## Check for Understanding
 1. Complete this [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88). **Completion of this exit ticket is required for your professional development this module.**
 
-2. Now, take some time to build out your professional story and your personal brand framework using this **[Professional Story and Branding template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing).** 
+2. Now, take some time to build out your professional story using these prompts and then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
+  
+* Act I: Who are you?
+ * What do you do now? You are a developer!
+ * What turning points brought you to Turing? 
+ * What core values drive your work?
+ * Why Software Developmement? 
 
-   * Write out your story using the first tab using the 3-act questions. Then write 1-2 paragraphs to answer who are you, why are you here, and what's next.
-   * Review and complete the branding framework reflection questions.
-   * Review and complete the running list of accomplishments tab.
+* Act II:	Why are you here?
+ * How does your background connect to your skills? 
+ * Where did you gain a lot of the skills that you bring to the table? 	
+ * What does your social identity tell you about what you already bring to the tech industry? 
+ * How are some of these traits an assest to the tech industry? 	 
+                                                                       	
+* Act III:	What's next?	
+ * What are you passionate about? What motivates you? 	
+	* Where do you see yourself going in this career? What impact do you want to make as a developer? 	
 
- Consider:
-
-   * Your motives and values
-   * The turning points that led to your career change
-   * What you envision for yourself going forward
-
-  **Note:** this template does not need to be submitted anywhere. You'll use this to help you build out your LinkedIn profile, which you will submit at the end of Week 4.  
+**Note:** you don't need to submit your story anywhere, but you'll want to be able to reference it again, so keep your notes somewhere you'll be able to find them again.
 
 ### Next Steps
 Practice! Make sure to practice your story with others that you trust: your homeroom group, your accountabilibuddy, your mentor, your friends, your family, etc. 
