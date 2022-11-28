@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mod 3 Homeroom Groups Guidelines & Prompts
+title: Mod 3 House Groups Guidelines & Prompts
 ---
 
 ### Guidelines
-You and a small group of your cohortmates make up your homeroom. You'll meet on Wednesdays to discuss and collaborate on your professional development.
+You and the members of your house will meet on Wednesdays to discuss and collaborate on your professional development.
 
 To start off Mod 3, we recommend revisiting norms with your group. These could include:
 
