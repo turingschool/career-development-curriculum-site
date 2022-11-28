@@ -159,13 +159,5 @@ Gather as much feedback as you can:
 
 * Complete the [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88) for today's lesson by **EOD Friday of Week 3.**
 * Reminder to complete your networking action step and be ready to provide information on it in your end of module survey. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
-* **Professional Coaching:** 
-   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-        * Stress management
-        * Organization and time management
-        * Career transition guidance
-        * Using your Pairin data for growth
-   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
-   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
- 
+* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
 * Check out upcoming PD office hours and bring your questions!
