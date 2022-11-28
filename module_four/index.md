@@ -29,9 +29,6 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
 * Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.** For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
 
-### Professional Development Graduation Requirements
-  * Attend all required professional development sessions.
-  * Ensure that all deliverables are completed with a final passing score.
   
  **Early Graduation Program Requirements**
   * A graduation certificate may still be issued to you if you have signed a job offer. Once you have reviewed the general outline of expectations below, reach out to your instructors and Career Specialists to follow up on next step.
@@ -44,13 +41,4 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
   * [30/60/90-day guide](https://www.themuse.com/advice/30-60-90-day-plan-instructions-template-example).
   * Use this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#) for your submission.
 
-### Repeating the Module
-Students repeat for different reasons and stages of completing PD deliverables. Therefore, students should contact the Career Specialists who lead the Mod to discuss the next steps. Pre-exit, intermission or the first week of classes are all possible times to do this. 
 
-**The following are general guidelines for repeating a module:**
-   * Attend the Intro to PD session for updates and important information for the cohort. 
-   * Participate in House and Mix It Up groups.
-   * Submit a new self-evaluation based on current PD activities and reflections during the Mod.
-   * Meet all graduation requirements.
-   * If you attended all required sessions before, it is optional to participate in them again. 
-   * Exit tickets completed previously do not need to be submitted again.
