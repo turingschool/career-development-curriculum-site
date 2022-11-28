@@ -139,13 +139,6 @@ This section is where you showcase your current and prior work:
       * You should also add Turing to the Experience section *if* you do not have previous professional experience
       * You could also consider adding the Career Break feature to your profile to explain that you've left your career to transition to software development.
  
-* **Professional Coaching:** 
-   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-        * Stress management
-        * Organization and time management
-        * Career transition guidance
-        * Using your Pairin data for growth
-   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
-   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
+* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
  
 * Check out upcoming PD office hours and bring your questions!
