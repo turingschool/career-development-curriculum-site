@@ -177,13 +177,5 @@ You'll meet in your first Mix It Up group this week with students in different c
 ## Due Dates & Reminders
 * Complete the [exit ticket](https://forms.gle/wjgRVrCwbPcmG3Ap9) for today's lesson by **EOD Friday of Week 2.**
 * One of your deliverables by the end of the module is to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
-* **Professional Coaching:** 
-   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-        * Stress management
-        * Organization and time management
-        * Career transition guidance
-        * Using your Pairin data for growth
-   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
-   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
- 
+* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
 * Check out upcoming PD office hours and bring your questions!
