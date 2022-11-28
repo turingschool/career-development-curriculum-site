@@ -180,11 +180,4 @@ For a refresher on any of this information, you can always find it on the Resour
 
 * Create your list of 4 warm contacts and 4 cold contacts and decide on 1 action step that you'll take for networking.
 
-* **Professional Coaching:** 
-   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-        * Stress management
-        * Organization and time management
-        * Career transition guidance
-        * Using your Pairin data for growth
-   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
-   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). l.
+* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). l.
