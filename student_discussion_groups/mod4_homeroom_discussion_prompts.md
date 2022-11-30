@@ -23,7 +23,7 @@ First, Start with introductions (or a check in) and each person shares something
  
 Next, start Job Search Activity
   * An excellent way to start and or continue a successful job search is by getting clear on your target audience by narrowing your search. 
-  * Here is a worksheet to help you identify your Job Search Targets. If it makes sense for the stage of your job search, make a copy and start researching. (COMING SOON).
+  * Here is a [worksheet](https://perpetual-seeker-acf.notion.site/Getting-Clear-on-Your-Target-Roles-782f413ea8a248c08dea74b98d795649) to help identify your Job Search Targets. If it makes sense for the stage of your job search, make a copy and start researching.
   * Feel free to move on to the next activity if you have completed a similar job search reflection and have narrowed your job search.
   *  Getting started with a Proactive Job Search (COMING SOON).
 
