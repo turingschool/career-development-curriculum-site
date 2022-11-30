@@ -72,6 +72,3 @@ Use this template to help you define and track your goals by copying and pasting
 * Relevant (How does this goal connect to your larger career goals?):
 
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
-
-### Additional Support
-Reminder that you can reach out to Emma for professional coaching. If you'd like to sign up for a group session, please [sign up here](https://go.oncehub.com/EmmaByers). 
