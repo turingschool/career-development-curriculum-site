@@ -25,8 +25,8 @@ Next, start Job Search Activity
   * An excellent way to start and or continue a successful job search is by getting clear on your target audience by narrowing your search. 
   * Here is a [worksheet](https://perpetual-seeker-acf.notion.site/Getting-Clear-on-Your-Target-Roles-782f413ea8a248c08dea74b98d795649) to help identify your Job Search Targets. If it makes sense for the stage of your job search, make a copy and start researching.
   * Feel free to move on to the next activity if you have completed a similar job search reflection and have narrowed your job search.
-  *  Getting started with a Proactive Job Search (COMING SOON).
-
+  * [Getting started with a Proactive Job Search]((https://perpetual-seeker-acf.notion.site/Job-Searching_-How-to-Get-Started-887e75b5f4734a0d81b6e1589d8d0e73)
+  
 Then, wrap up: 10 minutes
  * Each person shares one takeaway: a question, a need for support, or an action item you will complete by the next House meeting in week 3.
  * If you are short on time, decide if posting a thread in your house channel is a good way to hold each other accountable and celebrate your good work today!
