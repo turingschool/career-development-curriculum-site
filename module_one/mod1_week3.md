@@ -140,15 +140,15 @@ Here are some [additional branding resources](/resources/branding_resources) for
  * What core values drive your work?
  * Why Software Developmement? 
 
-* Act II:	Why are you here?
+* Act II: Why are you here?
  * How does your background connect to your skills? 
  * Where did you gain a lot of the skills that you bring to the table? 	
  * What does your social identity tell you about what you already bring to the tech industry? 
  * How are some of these traits an assest to the tech industry? 	 
                                                                        	
-* Act III:	What's next?	
+* Act III: What's next?	
  * What are you passionate about? What motivates you? 	
-	* Where do you see yourself going in this career? What impact do you want to make as a developer? 	
+ * Where do you see yourself going in this career? What impact do you want to make as a developer? 	
 
 **Note:** you don't need to submit your story anywhere, but you'll want to be able to reference it again, so keep your notes somewhere you'll be able to find them again.
 
