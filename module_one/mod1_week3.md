@@ -138,7 +138,7 @@ Here are some [additional branding resources](/resources/branding_resources) for
  * What do you do now? You are a developer!
  * What turning points brought you to Turing? 
  * What core values drive your work?
- * Why Software Developmement? 
+ * Why Software Development? 
 
 * Act II: Why are you here?
  * How does your background connect to your skills? 
