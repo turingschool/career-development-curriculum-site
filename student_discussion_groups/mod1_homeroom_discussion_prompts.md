@@ -45,7 +45,7 @@ Skip down to:
    * How is your career story coming along? 
    * Are you stuck on any particular part that you would like to discuss? 
    * What parts do you feel really good about? 
-3. Work time: continue working on your professional story using [this Career Story template](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing) or your paragraph version of your story answering who you are, why you are here, and what's next. Reminder to consider your motives and values, your turning points (what led to your decision to become a software developer?), and what you envision for yourself in this new career. (20 mins)
+3. Work time: continue working on your professional story using your paragraph version of your story answering who you are, why you are here, and what's next. Reminder to consider your motives and values, your turning points (what led to your decision to become a software developer?), and what you envision for yourself in this new career. (20 mins)
 4. Practice! Share your stories with each other. Provide 5-7 minutes per person to share their story and receive feedback from the group. Your feedback should be specific, actionable, and kind. When giving feedback, consider these questions:
    * Is the story clear? Do you have a good understanding of this person's background and decision to go into software development?
    * What makes you relate to this person? What details stood out to you?
