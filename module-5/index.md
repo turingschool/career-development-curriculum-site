@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Module 5
-subheading: Post-Grad Job Seeker Support
+title: New Graduate Services
+subheading: Job Seeker Support for Alumni in First Job Search
 ---
 
 Graduating from Turing is a huge accomplishment! However, your Turing journey isn't complete until you secure your first technical job, and the Career Development team is here to continue to support you!
 
 ## Calendar
-The Mod 5 Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. If you have questions or need further information, please feel free to contact members of the Career Dev team.
+The New Grad Services Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. If you have questions or need further information, please feel free to contact members of the Career Dev team.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=casimircreative.com_1ljkgo2l95s8f2p1jpi6shq678%40group.calendar.google.com&ctz=America%2FDenver&amp;mode=week" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -15,7 +15,7 @@ The Mod 5 Events Calendar provides information for upcoming group check-ins, gue
 
 Career development and job search support is included in Turing tuition, but beyond that, we do not fulfill our mission without supporting every graduate to find a fulfilling technical job. This means that we will not only provide you with ongoing customized support but we will also refer you to positions that are aligned with your interests and skills. 
 
-### You'll work with Lex Stewart (@lex on Slack), the Career Specialist overseeing Module 5. 
+### You'll work with Lex Stewart (@lex on Slack), the Career Specialist overseeing New Grad Services. 
 
 ## Job Seeker Expectations: What we expect from you
 We are going to provide as much support as you need, but this is a partnership with every job seeker -- you are expected to participate in this mentorship until you secure your first technical job.
