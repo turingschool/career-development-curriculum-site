@@ -7,7 +7,7 @@ subheading: Job Seeker Support for Alumni in First Job Search
 Graduating from Turing is a huge accomplishment! However, your Turing journey isn't complete until you secure your first technical job, and the Career Development team is here to continue to support you!
 
 ## Calendar
-The New Grad Services Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. If you have questions or need further information, please feel free to contact members of the Career Dev team.
+The New Graduate Services Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. If you have questions or need further information, please feel free to contact members of the Career Dev team.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=casimircreative.com_1ljkgo2l95s8f2p1jpi6shq678%40group.calendar.google.com&ctz=America%2FDenver&amp;mode=week" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -15,7 +15,7 @@ The New Grad Services Events Calendar provides information for upcoming group ch
 
 Career development and job search support is included in Turing tuition, but beyond that, we do not fulfill our mission without supporting every graduate to find a fulfilling technical job. This means that we will not only provide you with ongoing customized support but we will also refer you to positions that are aligned with your interests and skills. 
 
-### You'll work with Lex Stewart (@lex on Slack), the Career Specialist overseeing New Grad Services. 
+### You'll work with Lex Stewart (@lex on Slack), the Career Specialist overseeing New Graduate Services. 
 
 ## Job Seeker Expectations: What we expect from you
 We are going to provide as much support as you need, but this is a partnership with every job seeker -- you are expected to participate in this mentorship until you secure your first technical job.
@@ -49,7 +49,7 @@ Each week, you'll have the opportunity to participate in a variety of group acti
 Refer to these Turing Professional Development Resources on cover letters [here](https://careerdev.turing.edu/resources/cover_letter_resources)
 
 ### Receive an offer? 
-Message Lex (@lex) and Allison Reu-Singer (@allison_reu_singer) on Slack to let them know! The Turing Career Dev Team is happy to help you navigate the offer and negotiations process. 
+Message Lex (@lex) and Allison Reu Singer (@allison_reu_singer) on Slack to let them know! The Turing Career Dev Team is happy to help you navigate the offer and negotiations process. 
 You can also check out [these resources on negotiations](https://careerdev.turing.edu/resources/negotiations)
 
 ## You can schedule one-on-one coaching sessions with the Module 5 Career Specialist, Lex Stewart (@lex on Slack), using the link in their Slack bio.
