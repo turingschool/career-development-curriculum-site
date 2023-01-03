@@ -24,7 +24,7 @@ What does this mean?
 * Attend small group meetings and/or setting up 1:1 coaching session with your Career Specialist
 * Respond to messages from your Career Specialist in a timely manner
 * Engage with feedback from your Career Specialist and other job seekers
-* Complete surveys and deliverables established in the Module 5 Slack Channel, small group, or larger group sessions
+* Complete surveys and deliverables established in the New Graduate Services Slack Channel, small group, or larger group sessions
 * Follow up on agreed upon action steps with your Career Specialist
 * Communicate any challenges or other circumstances that are affecting your job search
 
@@ -52,5 +52,5 @@ Refer to these Turing Professional Development Resources on cover letters [here]
 Message Lex (@lex) and Allison Reu Singer (@allison_reu_singer) on Slack to let them know! The Turing Career Dev Team is happy to help you navigate the offer and negotiations process. 
 You can also check out [these resources on negotiations](https://careerdev.turing.edu/resources/negotiations)
 
-## You can schedule one-on-one coaching sessions with the Module 5 Career Specialist, Lex Stewart (@lex on Slack), using the link in their Slack bio.
+## You can schedule one-on-one coaching sessions with the New Graduate Services Career Specialist, Lex Stewart (@lex on Slack), using the link in their Slack bio.
 
