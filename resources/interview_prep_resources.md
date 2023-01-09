@@ -21,7 +21,6 @@ Below you can find lots of resources to help you prepare for both components.
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) by Yangshun Tay and Louie Tan
   * [Preparing for a Coding Interview](https://yangshun.github.io/tech-interview-handbook/coding-round-overview/#!)
   * [Interview Cheat Sheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/)
-  * [Ultimate Guide to Kicking Ass on Take-home Coding Challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 * [Step-by-Step Guide to Answering a Technical Question in a Coding Interview](https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2)
 
 ### Practice
