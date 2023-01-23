@@ -9,7 +9,7 @@ During your time in Mod 1 PD, we focused on building these core competencies:
 
 * Build self-awareness around strengths and goals
 * Build community through professional development
-* Incorporate your mentor into job search support
+* Starting to build your network for job search support
 * Establish sense of ownership over your professional development and job search
 
 By the end of Module 1, we aim for students to achieve [Level I readiness](/standards_and_rubric/index) in Networking, Materials, and Interviewing. While you repeat the module, this is an opportunity to continue this work and think about how you can push yourself to grow in these areas further.
@@ -19,12 +19,12 @@ By the end of Module 1, we aim for students to achieve [Level I readiness](/stan
 ### Sessions
 You can access any of the previous sessions and rewatch videos from each session on the [Mod 1 main page](/module_one/index).
 
-### Homeroom Groups
-You will be added to a new homeroom group with your new cohort. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
+### House Groups on Wednesdays
+You will continue to meet with the Mod 1 House groups on Wednesdays weeks 1, 3, and 5. This is an opportunity to build new networking relationships, support each other with professional development and the job search, and connect with each other. 
 
-During homeroom group time, some of the discussion topics will pertain to the session for that week. Even though you do not have to attend the sessions, you should contribute your ideas and reflections to the group and use the space to solicit feedback and collaboration on what you're working on. 
+During this group time, some of the discussion topics will pertain to the session for that week. Even though you do not have to attend the sessions, you should contribute your ideas and reflections to the group and use the space to solicit feedback and collaboration on what you're working on. 
 
-Reminder on [Homeroom Group expectations](/student_discussion_groups/).
+Reminder on [House Group expectations](/student_discussion_groups/).
 
 ### Suggestions for What to Work on
 For this module, we suggest creating 2 [SMART goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) you want to work on and track your progress towards those goals. What could these goals look like? 
@@ -44,7 +44,7 @@ Here are some examples:
   * Networking:
      * Reflect on your personal feelings about networking
      * Define your own goals and needs in 1:1 networking situations
-     * Outline a process for starting a conversation with your mentor or another alum around career goals
+     * Outline a process for starting a conversation with your House mentors or another alum around career goals
      * Reach out to 1 alum or another person from the Turing community to ask questions about their careers and advice for your job search
   * Interviewing:
      * Refine your professional story using [this worksheet](https://docs.google.com/spreadsheets/d/19JdLwk6ENV_Q6qvAlPMvMHoUVSIyLzYPp32pdaxL8Qg/edit?usp=sharing)
