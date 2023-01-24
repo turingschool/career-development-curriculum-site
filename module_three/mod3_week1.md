@@ -3,16 +3,27 @@ layout: page
 title: Resume Review and Terminal Portfolio Creation 
 ---
 
+### Overview
+
+Review and update resume to meet ATS compatibility. Get to know Turing's job board and how your terminal portfolio will help you stand out. The creation of a terminal portfolio is optional in Mod 3.   
+
 ### Learning Goals
 
 *  Learn about applicant tracking systems (ATS) and their importance in resume writing and job searching. 
 *  Develop a complete resume using optimization.
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
-### Overview
+### Career Specialists
 
-Review and update resume to meet ATS compatibility. Get to know Turing's job board and how your terminal portfolio will help you stand out. The creation of a terminal portfolio is optional in Mod 3.   
+* Tracey Monteiro
+* Ryan Frank
 
+### Live Events
+
+* Intro to Mod 3 Professional Development
+* Interview Prep & Practice 
+* Workshops
+* Intro to Mod 4 
 
 ## Resume Review 
 
@@ -52,7 +63,6 @@ Next,In Mod 3, creating your portfolio is optional. If you're interested in sett
 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
 3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
-
 
 ## Due Dates & Reminders 
 * Please complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) by **EOD Friday of Week 1.**
