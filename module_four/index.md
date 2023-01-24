@@ -17,7 +17,8 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 
 ### Asynchronous Lesson(s)
 * [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of negotiating, and how to build a strategy. 
-### Professional Development Activities).
+
+### Professional Development Activities
 * Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
 * During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
 * Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
@@ -33,7 +34,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
  **Early Graduation Program Requirements**
   * A graduation certificate may still be issued to you if you have signed a job offer. Once you have reviewed the general outline of expectations below, reach out to your instructors and Career Specialists to follow up on next step.
   
- **General outline of expectations:**  
+ **General outline of expectations**  
   * Attend and maintain above 80% attendance for the first 3 weeks of classes.
   * Successfully complete the first project.
   * Complete your developer portfolio for terminal.
