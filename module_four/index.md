@@ -13,7 +13,8 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 ### Live Events
 * Intro to Mod 4 and [Strategies for Success](https://careerdev.turing.edu/module_four/week1_kickoff). 
 * Salary Negotiation Workshop
-* Mod 5 Kickoff [Post-graduate job search support](/module-5/index). 
+* New Graduate Services Kickoff introduces Job Seeker Support for New Graduates in their First Job Search
+
 
 ### Asynchronous Lesson(s)
 * [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of negotiating, and how to build a strategy. 
