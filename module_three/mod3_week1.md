@@ -13,17 +13,6 @@ Review and update resume to meet ATS compatibility. Get to know Turing's job boa
 *  Develop a complete resume using optimization.
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
-### Career Specialists
-
-* Tracey Monteiro
-* Ryan Frank
-
-### Live Events
-
-* Intro to Mod 3 Professional Development
-* Interview Prep & Practice 
-* Workshops
-* Intro to Mod 4 
 
 ## Resume Review 
 
