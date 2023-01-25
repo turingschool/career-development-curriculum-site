@@ -63,4 +63,4 @@ Every Wednesday afternoon, you'll meet with other students to discuss and collab
 * [Mix It Up Information](/mixed_groups)
 
 ### Repeating the Module
-For students repeating Module 3, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_three/m3_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+Updated Coming Soon!
