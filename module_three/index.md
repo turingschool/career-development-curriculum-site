@@ -8,6 +8,10 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
+### Career Specialists
+* Tracey Monteiro (she/her)
+* Ryan Frank (he/him)
+
 ### Lessons & Exit Tickets
 Each lesson concludes with an exit ticket that quizzes key points.  Exit tickets need to be completed by EOD on the Friday following the lesson. 
 
