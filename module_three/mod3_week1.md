@@ -49,7 +49,7 @@ This checklist includes the following sections:
 * The final resume due date is Friday, **Week 5, through the end of the mod survey.
 * Portfolios can be submitted during the inning, as long as they're submitted by **EOD Friday of Week 5.
 
-
+## Deliverables for Mod 3 that are optional 
 
 ###  Creating Your Terminal Portfolio: An Overview 
 
