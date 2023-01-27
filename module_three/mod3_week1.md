@@ -9,26 +9,22 @@ Review and update resume to meet ATS compatibility. Get to know Turing's job boa
 
 ### Learning Goals
 
-*  Learn about applicant tracking systems (ATS) and their importance in resume writing and job searching. 
-*  Develop a complete resume using optimization.
+*  Learn about optimizing your resume for Applicant Tracking Systems with Jobscan.
+*  Discover key optimization tips and insights for your LinkedIn profile
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
-
-### Optimizing Your Resume for Applicant Tracking Systems
-
+## Week One Lesson-Optimizing Your Resume for Applicant Tracking Systems
 Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (ATS) to process your resume. The ATS will scan your resume, score your qualifications based on the job description, and rank your application accordingly. These systems may miss candidates like you. Jobscan helps to increase your chances of getting pass the ATS screening. 
 
-94% of recruiters use LinkedIn to search for candidates.
-Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
+94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
 
 Watch these two-minute videos to learn more about the ATS and Jobscan.
 * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
 
-Optimize your LinkedIn profile for candidate searches 
+Optimize your LinkedIn profile for candidate searches.
 * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
 
-Next, 
-
+Next
 Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
   
 This checklist includes the following sections: 
