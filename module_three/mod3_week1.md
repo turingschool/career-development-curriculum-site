@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume Review and Terminal Portfolio Creation 
+title:
 ---
 
 ### Overview
@@ -14,13 +14,17 @@ Review and update resume to meet ATS compatibility. Get to know Turing's job boa
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
 
-### Resume Review 
+### Optimizing Your Resume for Applicant Tracking Systems
 
-In mod 3, it is important to ensure that your resume and other career materials, such as LinkedIn, are ATS-friendly. Doing so will increase your chances of being found in recruiter searches and getting past applicant tracking systems. 
+Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (ATS) to process your resume. The ATS will scan your resume, score your qualifications based on the job description, and rank your application accordingly. These systems may miss candidates like you. Jobscan helps to increase your chances of getting pass the ATS screening. 
 
-To help you develop a strong resume and LinkedIn profile,  watch these two-minute videos about Jobscan and the ATS. 
+94% of recruiters use LinkedIn to search for candidates.
+Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
 
+Watch these two-minute videos to learn more about the ATS and Jobscan.
 * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
+
+Optimize your LinkedIn profile for candidate searches 
 * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
 
 Next, 
