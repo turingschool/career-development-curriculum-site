@@ -56,15 +56,17 @@ This checklist includes the following sections:
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
 *  The development of your Terminal Portfolio is optional for Mod 3.
-*   
 * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before  submitting them for review.
 
 ### Getting Started with Terminal
  * First, review the following video on how to set up your Terminal Portfolio: 
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
+ * Review directions and tips for creating sections of your portfolio next [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
 
-Next,In Mod 3, creating your portfolio is optional. If you're interested in setting up your portfolio after reviewing the video, here's [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
+### The following criteria must be met before you submit your terminal portfolio:
+ * Have a completed resume and optimized LinkedIn profile
+ * Your GitHub 
+ * About section 
+ * Minimum of two projects with screenshots
 
-
-
- Check out PD office hours or contact the Career team for questions and support!
+For questions or support, please contact the Mod 3 Career Specialists.
