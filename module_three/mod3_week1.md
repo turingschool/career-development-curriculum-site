@@ -14,7 +14,7 @@ Review and update resume to meet ATS compatibility. Get to know Turing's job boa
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
 
-## Resume Review 
+### Resume Review 
 
 In mod 3, it is important to ensure that your resume and other career materials, such as LinkedIn, are ATS-friendly. Doing so will increase your chances of being found in recruiter searches and getting past applicant tracking systems. 
 
@@ -33,7 +33,7 @@ This checklist includes the following sections:
 * ATS-Friendly Resume Example
 
 
-##  Section 2: How to Build a Great Terminal Portfolio
+###  Section 2: How to Build a Great Terminal Portfolio
 
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
@@ -47,13 +47,13 @@ Turing provides a space for professional portfolios on [our website](https://ter
 
 Next,In Mod 3, creating your portfolio is optional. If you're interested in setting up your portfolio after reviewing the video, here's [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
 
-## Check for Understanding
+### Check for Understanding
 
 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
 3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
 
-## Due Dates & Reminders 
+### Due Dates & Reminders 
 * Please complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) by **EOD Friday of Week 1.**
 * Prepare a complete resume by **Friday,Week 4.
 * The final resume due date is Friday, **Week 5, through the end of the mod survey.
