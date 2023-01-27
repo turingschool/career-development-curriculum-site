@@ -33,7 +33,7 @@ This checklist includes the following sections:
 * ATS-Friendly Resume Example
 
 
-###  Section 2: How to Build a Great Terminal Portfolio
+###  How to Build a Great Terminal Portfolio
 
 Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
 
