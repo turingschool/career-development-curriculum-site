@@ -37,20 +37,6 @@ This checklist includes the following sections:
 * ATS-Friendly Resume Example
 
 
-###  How to Build a Great Terminal Portfolio
-
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
-
-* Creating your unique portfolio is the perfect opportunity to showcase skills and stand out!
-* Developing your Terminal Portfolio optional for Mod 3. However, the sooner you get it published, the sooner employers can find your information on our  site, so we provide you with information to set up this module.   
-* Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before  submitting them for review.
-
-### Getting Started with Terminal
- * First, review the following video on how to set up your Terminal Portfolio: 
- * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
-
-Next,In Mod 3, creating your portfolio is optional. If you're interested in setting up your portfolio after reviewing the video, here's [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
-
 ### Check for Understanding
 
 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week
@@ -62,5 +48,23 @@ Next,In Mod 3, creating your portfolio is optional. If you're interested in sett
 * Prepare a complete resume by **Friday,Week 4.
 * The final resume due date is Friday, **Week 5, through the end of the mod survey.
 * Portfolios can be submitted during the inning, as long as they're submitted by **EOD Friday of Week 5.
+
+
+
+###  Creating Your Terminal Portfolio: An Overview 
+
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from.  
+
+*  The development of your Terminal Portfolio is optional for Mod 3.
+*   
+* Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. Please review the submission requirements before  submitting them for review.
+
+### Getting Started with Terminal
+ * First, review the following video on how to set up your Terminal Portfolio: 
+ * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
+
+Next,In Mod 3, creating your portfolio is optional. If you're interested in setting up your portfolio after reviewing the video, here's [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
+
+
 
  Check out PD office hours or contact the Career team for questions and support!
