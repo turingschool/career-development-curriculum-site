@@ -18,11 +18,14 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
 
 94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
 
-### Next Steps
+### Part 1: Applicant Tracking Systems and Optimization 
 * Watch the following short videos (2 min).
   * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
   * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
-  * Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
+  
+ Part 2: 
+ 
+ * Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
   
 This checklist includes the following sections: 
  * Front and Backend Technical Skills 
