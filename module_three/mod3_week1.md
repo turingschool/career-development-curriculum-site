@@ -22,17 +22,16 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
 * Watch the following short videos (2 min).
   * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
   * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
-Next
-* Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
+  * Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
   
 This checklist includes the following sections: 
-* Front and Backend Technical Skills 
-* Action Verbs for Technical Work
-* ATS-Friendly Resume Example
+ * Front and Backend Technical Skills 
+ * Action Verbs for Technical Work
+ * ATS-Friendly Resume Example
 
 
 ### Check for Understanding
-1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week
+1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week 2.
 2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
 3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
 
