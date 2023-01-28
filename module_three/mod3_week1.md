@@ -13,7 +13,7 @@ Review and update resume to meet ATS compatibility. Get to know Turing's job boa
 *  Discover key optimization tips and insights for your LinkedIn profile
 *  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
 
-## Week One Lesson-Optimizing Your Resume for Applicant Tracking Systems
+### Week One Lesson-Optimizing Your Resume for Applicant Tracking Systems
 Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (ATS) to process your resume. The ATS will scan your resume, score your qualifications based on the job description, and rank your application accordingly. These systems may miss candidates like you. Jobscan helps to increase your chances of getting pass the ATS screening. 
 
 94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
