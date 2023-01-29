@@ -4,27 +4,31 @@ title:
 ---
 
 ### Overview
-
-Review and update resume to meet ATS compatibility. Get to know Turing's job board and how your terminal portfolio will help you stand out. The creation of a terminal portfolio is optional in Mod 3.   
+This week's lesson focuses on optimizing your resume for Applicant Tracking Systems and optimizing your LinkedIn profile for your target industries and roles. In this order, complete the following activities:
+* Watch the video tutorials 
+* Complete the exit ticket 
+* Create a free account with jobscan 
+* Refine your resume with the resume resources 
 
 ### Learning Goals
 
 *  Learn about optimizing your resume for Applicant Tracking Systems with Jobscan.
-*  Discover key optimization tips and insights for your LinkedIn profile
-*  Craft a Terminal portfolio that showcases your technical skills, accomplishments, and personal brand.
+*  Discover key optimization tips and insights for your LinkedIn profile.
+*  Discover the key components of crafting your terminal portfolio, which is optional in Mod 3.  
 
 ### Week One Lesson-Optimizing Your Resume for Applicant Tracking Systems
 Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (ATS) to process your resume. The ATS will scan your resume, score your qualifications based on the job description, and rank your application accordingly. These systems may miss candidates like you. Jobscan helps to increase your chances of getting pass the ATS screening. 
 
 94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
 
-### Part 1: Applicant Tracking Systems and Optimization 
-* Watch the following short videos (2 min).
-  * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
-  * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
+## Part 1: Applicant Tracking Systems and Optimization 
+ * Watch the following short videos (2 min).
+ * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
+ * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
   
- Part 2: 
- 
+ ## Part 2: Check for Understanding
+ 1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week 2.
+ 2. You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
  * Check out the following [checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. 
   
 This checklist includes the following sections: 
@@ -33,10 +37,8 @@ This checklist includes the following sections:
  * ATS-Friendly Resume Example
 
 
-### Check for Understanding
-1. Now that you've completed the lesson, please submit this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) **EOD Friday of Week 2.
-2. Use the following [Resume Checklist](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help guide a complete version of your technical resume.
-3. Use [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
+### 
+1.
 
 ### Due Dates & Reminders 
 * Please complete the [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) by **EOD Friday of Week 1.**
