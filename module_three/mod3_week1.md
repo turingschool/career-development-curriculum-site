@@ -29,13 +29,15 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
  * Check out this [video on setting up your Terminal portfolio](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)  
  
 ## Part 2: Take Action 
- 1.  You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
- 2. Using the [Careerflow](https://www.careerflow.ai/)LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.       
-     * Career is an interactive profile scoring tool. Your score increases as you improve your profile. A score of 80 or higher is considered excellent!   
- 3. Check out the following [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit) to help develop your ATS-friendly resume and make the necessary changes. In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
+ 1. You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
+ 2. Using the following LinkedIn profile scoring tools, update your profile. 
+      * [Careerflow](https://www.careerflow.ai/). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!   
+      * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.   3. Check out the following resume resources to help update your resume
+     * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
+     * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources).
 
 ### Check for Understanding
-1.Use this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) to test yourself and answer questions related to the materials covered in the lesson.
+1. Use this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) to test yourself and answer questions related to the materials covered in the lesson.
 
 ### Due Dates & Reminders 
 * The Week 1 lesson exit ticket [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) is due on Friday of **Week 2**.
