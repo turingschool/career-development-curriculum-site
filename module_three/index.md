@@ -37,7 +37,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * During week 5, homeroom groups will use the cover letter and job description.
    * Your cover letter draft should be finalized by **EOD Tuesday of Week 5**  
    
-4. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the end of mod self-evaluation survey.
+4. **Updated drafts of resume, coverletter and LinkedIn** are due **Friday of Week 5** through the end of mod self-evaluation survey.
 
 5. **Terminal Portfolio**  
    * Setting up your Terminal Portfolio **is optional for Mod 3**. 
