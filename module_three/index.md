@@ -13,7 +13,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Ryan Frank (he/him)
 
 ### Lessons & Exit Tickets
-Each lesson concludes with an exit ticket that quizzes key points. 
 * Week 1: [Career Materials](/module_three/mod3_week1). 
           [Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)
 * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
@@ -24,7 +23,7 @@ Each lesson concludes with an exit ticket that quizzes key points.
 ### Deliverables & Due Dates
 By the end of Mod 3, you should have completed the following:
 
-1. **Exit Tickets** for each of the async lessons. These should be completed by EOD Friday of the respective week.
+1. **Exit Tickets** for each of the async lessons. Exit tickets can be submitted within a week of the lesson and are no longer due by the end of the week.
    * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    
@@ -46,7 +45,7 @@ By the end of Mod 3, you should have completed the following:
    
 5. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
 
-6.  **Terminal Portfolio**  
+6. **Terminal Portfolio**  
    * Setting up your Terminal Portfolio **is optional for Mod 3**. 
    * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
  
@@ -56,5 +55,9 @@ Every Wednesday afternoon, you'll meet with other students to discuss and collab
 * [Mod 3 Homeroom Group Information](/student_discussion_groups/mod3_homeroom_discussion_prompts)
 * [Mix It Up Information](/mixed_groups)
 
-### Repeating the Module
-Updated Coming Soon!
+### The following are general guidelines for repeating a module
+* Attend the Intro to PD session for information and updates.
+* Participate in House and Mix It Up, groups.
+* Complete a new self-evaluation survey based on current PD activities and reflections.
+* Participation in PD sessions is optional if you have already attended them.
+* You are encouraged to participate in Job shadow.
