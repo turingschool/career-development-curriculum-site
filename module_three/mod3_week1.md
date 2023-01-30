@@ -52,7 +52,7 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
 ### Due Dates & Reminders 
 * The Week 1 lesson exit ticket [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) is due on Friday of **Week 2**.
 * Based on your LinkedIn scores, you should update your LinkedIn profile by the end of **Week 3**. 
-* Have a complete resume by Friday,**Week 4.
+* Have a complete resume by Friday of **Week 4**.
 * The final resume draft is due Friday, through the end of the mod survey **Week 5**.
 * Portfolios can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
