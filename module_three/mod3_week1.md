@@ -4,12 +4,13 @@ title:
 ---
 
 ### Overview
-This week's lesson focuses on optimizing your resume for Applicant Tracking Systems and optimizing your LinkedIn profile for your target industries and roles. In this order, complete the following activities:
+This week's lesson focuses on optimizing your resume for Applicant Tracking Systems and optimizing your LinkedIn profile for your target industries and roles. Here are the steps to complete:
 
 * Watch the video tutorials 
 * Complete the exit ticket 
-* Create a free account with jobscan 
-* Refine your resume with the resume resources 
+* Create a free Jobscan account 
+* Use the LinkedIn profile scoring tools, update your profile. 
+* Update your resume with the resume resources 
 
 ### Learning Goals
 
