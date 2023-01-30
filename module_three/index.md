@@ -16,10 +16,10 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
  
 * Week 1: [Career Materials](/module_three/mod3_week1). 
 * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
-  *[Job Shadow Prep](/module_three/job_shadow_overview)* 
+         *[Job Shadow Prep](/module_three/job_shadow_overview)* 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**   
 
-###  Timeline for Deliverables
+### Timeline for Deliverables
 
 1. **Optimized LinkedIn for Job Search**
    * Fill out your profile thoroughly
