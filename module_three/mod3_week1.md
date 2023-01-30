@@ -56,7 +56,8 @@ Turing provides a space for professional portfolios on [our website](https://ter
  * Have a completed resume and optimized LinkedIn profile
  * Your GitHub 
  * About section 
- * Minimum of two projects with screenshotsPortfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. 
+ * Minimum of two projects with screenshots
+ * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. 
 
 ###  Steps to get started:
  * First, review the following video on how to set up your Terminal Portfolio: 
