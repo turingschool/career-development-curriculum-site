@@ -7,7 +7,7 @@ title:
 
 ### PLEASE READ.  WE ARE UPDAITNG THIS LESSON ON 1/30/23. IT WILL BE READY ON 1/31/2023.
 
-This week's lesson focuses on optimizing your resume for Applicant Tracking Systems and optimizing your LinkedIn profile for your target industries and roles. Here are the steps to complete:
+The PD activities for this week focus on optimizing your resume for Applicant Tracking Systems, enhancing your LinkedIn profile, and building a portfolio.  In this order, complete the following activities: Here are the steps to complete:
 
 * Watch the video tutorials 
 * Complete the exit ticket 
