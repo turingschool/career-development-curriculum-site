@@ -32,7 +32,7 @@ By the end of Mod 3, you should have completed the following:
    * Fill out your profile thoroughly
    * Use the best keywords in the headline, summary, experience, education, and skills sections throughout the profile
    * If applicable, replace the student title with a "developer" title
-   * Updating your LinkedIn profile should be completed by **Friday EOD of Week 2**.
+   * Updating your LinkedIn profile should be completed by **Friday EOD of Week 3**.
    
 3. **Updated Resume**
    * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical resume.
@@ -46,8 +46,7 @@ By the end of Mod 3, you should have completed the following:
    
 5. **Final drafts of resume, coverletter and LinkedIn are due **EOD Friday of Week 5** through the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) 
 
- 
-   **Terminal Portfolio**  
+6.  **Terminal Portfolio**  
    * Setting up your Terminal Portfolio **is optional for Mod 3**. 
    * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
  
