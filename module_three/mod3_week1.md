@@ -34,10 +34,16 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
  
 ## Part 2: Take Action 
  1. You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
- 2. Using the following LinkedIn profile scoring tools, update your profile. 
-      * [Careerflow](https://www.careerflow.ai/). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!   
-      * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.   3. Check out the following resume resources to help update your resume
-     * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
+
+2. After watching the video on building your terminal portfolio, take a few minutes to do the following:
+  * Check your email to confirm that you have an invite to set up your terminal profile.  If not, reach out to the Lead Career Specialist. 
+  * Fill out as much of the basic profile information as you can.  You do not need to go any further with your portfolio building for Mod 3.  You can complete other sections as your schedule permits with complete instructions below.   
+
+3. Using the following LinkedIn profile scoring tools, update your profile. 
+      * [Careerflow](https://www.careerflow.ai/). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!  
+      * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.
+4. Check out the following resume resources to help update your resume
+      * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
      * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources).
 
 ### Check for Understanding
@@ -64,8 +70,7 @@ Turing provides a space for professional portfolios on [our website](https://ter
 
 ###  Steps to get started:
  * First, review the following video on how to set up your Terminal Portfolio: 
- * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
- * Review directions and tips for creating sections of your portfolio next [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
+ * Next, review directions and tips for creating sections of your portfolio next [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
 
 
 ### The following are general guidelines for repeating a module
