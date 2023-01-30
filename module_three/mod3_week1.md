@@ -63,4 +63,12 @@ Turing provides a space for professional portfolios on [our website](https://ter
  * [Watch this demo](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)
  * Review directions and tips for creating sections of your portfolio next [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
 
+
+### The following are general guidelines for repeating a module
+   * Attend the Intro to PD session for information and updates.
+   * Participate in House and Mix It Up, groups.
+   * Complete a new self-evaluation survey based on current PD activities and reflections.
+   * Participation in PD sessions is optional if you have already attended them.
+   * You are encouraged to participate in Job shadow. 
+
 For questions or support, please contact the Mod 3 Career Specialists.
