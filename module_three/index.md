@@ -13,9 +13,8 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 * Ryan Frank (he/him)
 
 ### Lessons & Exit Tickets
-Each lesson concludes with an exit ticket that quizzes key points.  Exit tickets need to be completed by EOD on the Friday following the lesson. 
-
-* Week 1: [Resumes & Portfolios](/module_three/mod3_week1). 
+Each lesson concludes with an exit ticket that quizzes key points. 
+* Week 1: [Career Materials](/module_three/mod3_week1). 
           [Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)
 * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
           [Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8).
