@@ -4,6 +4,9 @@ title:
 ---
 
 ### Overview
+
+### PLEASE READ. THIS LESSON IS BEING UPDATED ON 1/30/23. IT WILL BE READY BY 1/31/2023.
+
 This week's lesson focuses on optimizing your resume for Applicant Tracking Systems and optimizing your LinkedIn profile for your target industries and roles. Here are the steps to complete:
 
 * Watch the video tutorials 
