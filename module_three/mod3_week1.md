@@ -26,13 +26,13 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
 
 94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
 
-## Part 1: Applicant Tracking Systems and Optimization 
+### Part 1: Watch and take notes 
  * Watch the following short videos (2 min).
  * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
  * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
  * Check out this [video on setting up your Terminal portfolio](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)  
  
-## Part 2: Take Action 
+### Part 2: Take Action 
  1. You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
 
 2. After watching the video on building your terminal portfolio, take a few minutes to do the following:
@@ -46,7 +46,7 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
       * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
      * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources).
 
-### Check for Understanding
+###  Part 3: Check for Understanding
 1. Use this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) to test yourself and answer questions related to the materials covered in the lesson.
 
 ### Due Dates & Reminders 
