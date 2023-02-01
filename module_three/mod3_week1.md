@@ -37,7 +37,7 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
   * Fill out as much of the basic profile information as you can.  You do not need to go any further with your portfolio building for Mod 3.  You can complete other sections as your schedule permits with complete instructions below.   
 
 3. Using the following LinkedIn profile scoring tools, update your profile. 
-      * [Careerflow](https://www.careerflow.ai/). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!  
+      * [Careerflow](https://chrome.google.com/webstore/detail/careerflow-linkedin-optim/iadokddofjgcgjpjlfhngclhpmaelnli). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!  
       * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.
 4. Check out the following resume resources to help update your resume
       * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
