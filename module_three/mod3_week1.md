@@ -4,9 +4,6 @@ title:
 ---
 
 ### Overview
-
-### PLEASE READ.  WE ARE UPDAITNG THIS LESSON ON 1/30/23. IT WILL BE READY ON 1/31/2023.
-
 The PD activities for this week focus on optimizing your resume for Applicant Tracking Systems, enhancing your LinkedIn profile, and building a portfolio. Here are the steps to complete:
 
 * Watch the video tutorials 
