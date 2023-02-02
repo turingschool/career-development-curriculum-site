@@ -40,8 +40,11 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
       * [Careerflow](https://chrome.google.com/webstore/detail/careerflow-linkedin-optim/iadokddofjgcgjpjlfhngclhpmaelnli). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!  
       * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.
 4. Check out the following resume resources to help update your resume
-      * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit). In this resume guide, you will find sections on Front and Backend Technical Skills, Action Verbs for Technical Work, and an example of an ATS-friendly resume. 
-     * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources).
+      * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit).
+      * The resume guide consists of the followig supporting resources:  
+       * [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)        * [Action Verbs for Technical Work](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
+       * [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit)     
+       * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources)
 
 ###  Part 3: Check for Understanding
 1. Use this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) to test yourself and answer questions related to the materials covered in the lesson.
