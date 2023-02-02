@@ -44,7 +44,8 @@ Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (AT
       
       * The resume guide consists of the followig supporting resources:  
       * [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)         * [Action Verbs for Technical Work](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-      * [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit)     
+      * [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit)  
+        
       * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources)
 
 ###  Part 3: Check for Understanding
