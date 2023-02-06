@@ -15,7 +15,8 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 ### Weekly Breakdown  
  
 * Week 1: [Career Materials](http://careerdev.turing.edu/module_three/mod3_week1).
-* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
+* Week 2: Enhance your resume and LinkedIn profile as the main materials for this module. Once those materials are in the best possible shape, develop  your terminal profile. 
+* * Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
          *[Job Shadow Prep](/module_three/job_shadow_overview)* 
 * Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**   
 
