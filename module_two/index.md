@@ -30,7 +30,7 @@ By the end of Mod 2, you should have completed:
    * **[Week 3 Exit Ticket](https://forms.gle/7jRSUfiCzLngqr278)**
 2. **Resume draft:**
    * Your draft should be formatted for an ATS system, be no more than 1 page, and must include at least 2 software projects that you've completed so far at Turing and a list of technical skills 
-   * **Due date #1: EOD Friday of Week 2** submitted through [this survey](https://airtable.com/shrdiggeJLo7mPOt6) and you will also workshop your draft with your homeroom group in Week 5.
+   * **Due date #1: EOD Friday of Week 2** submitted through [this survey](https://airtable.com/shrdiggeJLo7mPOt6) and you will also workshop your draft with your House in Week 5.
    * **Final due date: EOD Friday of Week 5** through the end of mod survey (below)
 3. **2 Networking activities:**
    * Build a list of 4 warm contacts (people you want to get to know better) and 4 cold contacts (people in the tech industry to reach out to)
@@ -49,8 +49,8 @@ To find your weekly activities and deadlines, please check out each week below:
 
 You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
 
-* Weeks 1, 3, & 5: [Homeroom Groups](/student_discussion_groups/index)
+* Weeks 3 & 5: Houses
 * Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
 
 ## Repeating the Module
-For students repeating Module 2, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_two/m2_pd_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+When a student knows they will be repeating a module, they will work with the instructional team to determine what their areas of focus will be and what Career Dev work will look like for the upcoming inning.

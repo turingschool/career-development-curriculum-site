@@ -12,7 +12,7 @@ The following are covered in the Mod 1 curriculum from our 5 core competencies:
 * **Networking:**
     * Create and describe your goals in networking
     * Understand how you want to grow your network and identify the next steps to take
-    * Build connections in the Turing community through Homeroom groups, Mix It Up, and your mentor relationship
+    * Build connections in the Turing community
 * **Interviewing:**
     * Build self-awareness around your background, strengths, values, and goals in order to describe them to others
 * **Materials:**
@@ -52,8 +52,8 @@ To find your weekly activities and deadlines, please check out each week below:
 
 You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
 
-* Weeks 1, 3, & 5: [Homeroom Groups](/student_discussion_groups/index)
+* Weeks 3, & 5: Houses
 * Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
 
 ## Repeating the Module
-For students repeating Module 1, they are not required to attend workshops again unless they would like to. Instead, they will create specific goals to work on during the module [using this plan](/module_one/m1_PD_repeat_plan). They will continue to meet with their Homeroom and Mix It Up groups on Wednesday afternoons. 
+When a student knows they will be repeating a module, they will work with the instructional team to determine what their areas of focus will be and what Career Dev work will look like for the upcoming inning.
