@@ -46,11 +46,6 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    * **[end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57), due Friday of Week 5**. 
 
-### Weekly Discussion Guidelines & Prompts
-   * In Weeks 3 and 5, Houses will meet Wednesday afternoons to discuss and collaborate on professional development.
-   * Mix It Up groups from across Mods will meet in Weeks 2 and 4 to collaborate and network
-      * [Mix It Up Information](/mixed_groups)
-
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
    * Participate in House and Mix It Up groups.

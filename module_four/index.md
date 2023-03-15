@@ -16,9 +16,6 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 
 ### Professional Development Activities
 * Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
-* During weeks 3 and 5, Student Houses meet to discuss and collaborate on professional development.
-* Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
-* Here you will find [Mix-it-up prompts](https://careerdev.turing.edu/mixed_groups/index) to guide group activities and discussions.
   
 ### Deliverables to Complete 
 * The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform). **Due by Friday of week one.**

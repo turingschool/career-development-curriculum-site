@@ -47,10 +47,5 @@ To find your weekly activities and deadlines, please check out each week below:
 * [Week 4](/module_two/mod2_week4): What's a Dev event
 * [Week 5](/module_two/mod2_week5): Resume Review Workshop
 
-You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
-
-* Weeks 3 & 5: Houses
-* Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
-
 ## Repeating the Module
 When a student knows they will be repeating a module, they will work with the instructional team to determine what their areas of focus will be and what Career Dev work will look like for the upcoming inning.

@@ -50,10 +50,5 @@ To find your weekly activities and deadlines, please check out each week below:
 * [Week 4](/module_one/mod1_week4): Building an Effective LinkedIn Profile
 * [Week 5](/module_one/mod1_week5): Workshop on Storytelling & LinkedIn (in Homeroom Groups)
 
-You will also participate in weekly student discussion groups on Wednesdays to collaborate on your professional development. 
-
-* Weeks 3, & 5: Houses
-* Weeks 2 & 4: [Mix It Up Groups](/mixed_groups)
-
 ## Repeating the Module
 When a student knows they will be repeating a module, they will work with the instructional team to determine what their areas of focus will be and what Career Dev work will look like for the upcoming inning.
