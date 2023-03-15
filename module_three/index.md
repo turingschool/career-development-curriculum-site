@@ -48,7 +48,7 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
 
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
-   * Participate in House and Mix It Up groups.
+   * Participate in House groups.
    * Complete a new self-evaluation survey based on current PD activities and reflections.
    * Participation in PD sessions is optional if you have already attended them.
    * You are encouraged to participate in Job Shadow.
