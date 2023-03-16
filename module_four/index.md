@@ -6,24 +6,16 @@ title: Module 4 Professional Development
 ## Overview
 Module 4 focuses on revisiting key areas of the  Professional Development curriculum to support a successful job search and future career in Tech. The final core competency will be salary negotiation and creating a developer portfolio to share the student's professional brand. Find more specifics here on [Mod 4 Key Learning Goals & Outcomes](/module_four/mod4_learning_goals).
 
-**Career Specialists**
-*  Tracey Monteiro
-*  Ryan Frank
-
 ### Live Events
 * Intro to Mod 4 and [Strategies for Success](https://careerdev.turing.edu/module_four/week1_kickoff). 
 * Salary Negotiation Workshop
 * New Graduate Services Kickoff introduces Job Seeker Support for New Graduates in their First Job Search
-
 
 ### Asynchronous Lesson(s)
 * [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of negotiating, and how to build a strategy. 
 
 ### Professional Development Activities
 * Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
-* During weeks 1, 3, and 5, Student Houses meet to discuss and collaborate on professional development.
-* Mix It Up groups occur in Weeks 2 and 4 as an opportunity for collaboration and connection across the entire student body.
-* Here you will find [Mix-it-up prompts](https://careerdev.turing.edu/mixed_groups/index) to guide group activities and discussions.
   
 ### Deliverables to Complete 
 * The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform). **Due by Friday of week one.**
@@ -42,5 +34,3 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
   * Develop a 30/60/90-day professional development plan using the template and article below.
   * [30/60/90-day guide](https://www.themuse.com/advice/30-60-90-day-plan-instructions-template-example).
   * Use this [template](https://docs.google.com/document/d/1Ak0aP-b8D99cD_uYNaw4Ojo7A8HaJnaTso_U1ooTCfo/edit#) for your submission.
-
-

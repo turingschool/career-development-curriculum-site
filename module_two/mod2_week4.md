@@ -19,19 +19,14 @@ During the breakout discussion, your SLC rep in the group will help monitor the 
 Note: depending on the company, you may be required to sign a Non-Disclosure Agreement prior to meeting with them. 
 
 ### Logistics
-The event runs from 1:00-3:34pm MT on Thursday of Week 4.
-
 * 1:00-1:45pm: A panel of 3 employers will speak to your cohort about their company (culture, hiring practices, what makes them unique) while one of your instructors moderates. You'll join the zoom link that was shared for the whole group.
 * 1:45-1:55pm: Pomodoro Break. Leave the first zoom call and join the zoom link posted in your breakout group channel at 1:55pm. 
 * 1:55-2:25pm: Hear about a day in the life of a developer from your contact
 * 2:25-3:15pm: Watch your contact go through some code or a tech challenge in order to see how they would solve problems in real time
 * 3:15-3:45pm: Discussion of advice and guidance in the tech industry. You can ask more specific questions and make sure to share contact information to follow up.
 
-### Questions?
-Please reach out to Emma or another member of the Career Development team!
 
 ## Due Dates & Reminders
-* **Resume draft** should be ready by Week 5's homeroom group discussion
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
 * **Professional Coaching:** 
    * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
@@ -39,5 +34,4 @@ Please reach out to Emma or another member of the Career Development team!
         * Organization and time management
         * Career transition guidance
         * Using your Pairin data for growth
-   * You can sign up for small group coaching sessions with Emma [here](https://go.oncehub.com/EmmaByers).
    * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). ential.

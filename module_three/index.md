@@ -8,10 +8,6 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
-### Career Specialists
-* Tracey Monteiro (she/her)
-* Ryan Frank (he/him)
-
 ### Weekly Breakdown  
  
 * Week 1: [Career Materials](http://careerdev.turing.edu/module_three/mod3_week1).
@@ -50,16 +46,9 @@ Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/
    * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
    * **[end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57), due Friday of Week 5**. 
 
-### Weekly Discussion Guidelines & Prompts
-   * In Weeks 1, 3, and 5, house groups will meet Wednesday afternoons to discuss and collaborate on professional development.
-      * [Mod 3 Homeroom Group Information](/student_discussion_groups/mod3_homeroom_discussion_prompts) 
-   * Mix It Up groups from across Mods will meet in Weeks 2 and 4 to collaborate and network
-      * [Mix It Up Information](/mixed_groups)
-   * [Homeroom Groups page](/student_discussion_groups/index) to understand what this will look like.
-
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
-   * Participate in House and Mix It Up, groups.
+   * Participate in House groups.
    * Complete a new self-evaluation survey based on current PD activities and reflections.
    * Participation in PD sessions is optional if you have already attended them.
-   * You are encouraged to participate in Job shadow.
+   * You are encouraged to participate in Job Shadow.
