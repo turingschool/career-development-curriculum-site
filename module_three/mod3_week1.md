@@ -41,20 +41,6 @@ LinkedIn Profile Next Steps:
 * Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
 
-### Overview of Creating Your Terminal Portfolio  
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from. Portfolios are a great way to present your skills and previous experience, as well as what makes you a valuable team member. 
-
-### The following criteria must be met before you submit your terminal portfolio:
- * Have a completed resume and optimized LinkedIn profile
- * Your GitHub 
- * About section 
- * Minimum of two projects with screenshots
- * Portfolios can be submitted during the inning, as long as its before **EOD Friday of Week 5**. 
-
-###  Steps to get started:
- * First, review the following video on how to set up your Terminal Portfolio: 
- * Next, review directions and tips for creating sections of your portfolio next [how to get started](https://careerdev.turing.edu/resources/terminal_directions).
-
 
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
