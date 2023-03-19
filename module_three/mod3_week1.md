@@ -4,64 +4,45 @@ title:
 ---
 
 ### Overview
-The PD activities for this week focus on optimizing your resume for Applicant Tracking Systems, enhancing your LinkedIn profile, and building a portfolio. Here are the steps to complete:
+The PD activities for this week focus on enhancing your LinkedIn profile, and building a portfolio. Here are the steps to complete:
 
 * Watch the video tutorials 
-* Complete the exit ticket 
-* Create a free Jobscan account 
 * Use the LinkedIn profile scoring tools, update your profile. 
-* Update your resume with the resume resources 
+* Fill out the basic profile information for your portfolio. 
 
 ### Learning Goals
+*  Learn the importance of having an optimized LinkedIn profile to meet career goals. 
+*  Understand the key components that go into creating a terminal portfolio. 
 
-*  Learn about optimizing your resume for Applicant Tracking Systems with Jobscan.
-*  Discover key optimization tips and insights for your LinkedIn profile.
-*  Discover the key components of crafting your terminal portfolio. Portfolio development is optional in Mod 3, but is required as the last PD deliverable in Mod 4.  
-
-### Week One Lesson-Optimizing Your Resume for Applicant Tracking Systems
-Most companies, including 90% of Fortune 500, use Applicant Tracking Systems (ATS) to process your resume. The ATS will scan your resume, score your qualifications based on the job description, and rank your application accordingly. These systems may miss candidates like you. Jobscan helps to increase your chances of getting pass the ATS screening. 
-
-94% of recruiters use LinkedIn to search for candidates.Jobscan scores your LinkedIn profile based on its curated keywords, completed fields, headlines, summaries, and work experience.
-
-### Part 1: Watch and take notes 
- * Watch the following short videos (2 min).
- * Video Tutorial [Resume Optimization](https://www.jobscan.co/video-jobscan-tutorial)
+### Week One Lesson
+### Part 1: Watch and take notes on the following videos.
  * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
  * Check out this [video on setting up your Terminal portfolio](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)  
  
 ### Part 2: Take Action 
- 1. You can create a jobscan account here if you do not already have one: [JobScan](https://www.jobscan.co/) once you have a completed resume to see how well it's optimized for the roles you might be interested in pursuing.
-
-2. After watching the video on building your terminal portfolio, take a few minutes to do the following:
+Terminal Portfolio Next Steps:
+  * After watching the video on building your terminal portfolio, take a few minutes to do the following:
   * Check your email to confirm that you have an invite to set up your terminal profile.  If not, reach out to the Lead Career Specialist. 
-  * Fill out as much of the basic profile information as you can.  You do not need to go any further with your portfolio building for Mod 3.  You can complete other sections as your schedule permits with complete instructions below.   
+  * Next, read [how to get started ](https://careerdev.turing.edu/resources/terminal_directions) with creating sections of your portfolio.
+  * Then, fill out the basic profile information (about section, contact information, previous industries, etc).  
+  * You do not need to go any further with building your portfolio in Mod 3. You can complete the other sections according to your schedule.  
+    In Mod 3, you do not have to complete your Terminal Portfolio in its entirety. In Mod 4, it is the final deliverable.
 
-3. Using the following LinkedIn profile scoring tools, update your profile. 
-      * [Careerflow](https://chrome.google.com/webstore/detail/careerflow-linkedin-optim/iadokddofjgcgjpjlfhngclhpmaelnli). Career is an interactive profile scoring tool. Your score increases as you improve your profile. A   score of 80 or higher is considered excellent!  
-      * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.
-4. Check out the following resume resources to help update your resume
-      * [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit).
-      
-      * The resume guide consists of the followig supporting resources:  
-      * [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)       * [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-      * [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit)  
-        
-      * [PD Resume Resources](https://careerdev.turing.edu/resources/resume_resources)
-
-###  Part 3: Check for Understanding
-1. Use this [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) to test yourself and answer questions related to the materials covered in the lesson.
+LinkedIn Profile Next Steps:  
+  * Take a look at the following LinkedIn profile tools, and decide which ones you'll use to update your profile. 
+     * [Careerflow](https://chrome.google.com/webstore/detail/careerflow-linkedin-optim/iadokddofjgcgjpjlfhngclhpmaelnli) is an interactive    profile scoring tool. Your score increases as you improve your profile. A score of 80 or higher is considered excellent!  
+    * LinkedIn profile scoring tool and/or [Jobscan LinkedIn Optimization](https://www.jobscan.co/linkedin-optimization), update your LinkedIn profile.
+    * [PD LinkedIn Profile Checklist](https://docs.google.com/document/d/1af7Ndkcgnvq5Xh9OqJVlG5AN7_j-uGicLlICTsWDw5w/edit?usp=sharing)
+   
 
 ### Due Dates & Reminders 
-* The Week 1 lesson exit ticket [exit ticket](https://forms.gle/eZF3XUagA4SS7p7m6) is due on Friday of **Week 1**.
-* Based on your LinkedIn scores, you should update your LinkedIn profile by the end of **Week 3**. 
-* Have a complete resume by Friday of **Week 4**.
-* The final resume draft is due Friday, through the end of the mod survey **Week 5**.
-* Portfolios can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
+* Complete the bio information for your terminal portfolio by the end of **Week three**.
+* Review and update your LinkedIn profile by the end of end of **Week 4**. 
+* Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
-## Deliverables for Mod 3 that are optional 
 
-###  Creating Your Terminal Portfolio: An Overview 
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from. Portfolios are a great way to present your skills and previous experience, as well as what makes you a valuable team member. For Mod 3, developing your Terminal Portfolio is optional.
+### Overview of Creating Your Terminal Portfolio  
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu). Employers come to this part of the site to find candidates and post job opportunities; this is where the job postings in the #job-hunt channel come from. Portfolios are a great way to present your skills and previous experience, as well as what makes you a valuable team member. 
 
 ### The following criteria must be met before you submit your terminal portfolio:
  * Have a completed resume and optimized LinkedIn profile
