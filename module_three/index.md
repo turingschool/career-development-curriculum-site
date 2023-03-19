@@ -4,47 +4,39 @@ title: Module 3 Professional Development
 ---
 
 ### Overview
-Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies.
+Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
 
-Find more specifics here on [Mod 3 Key Learning Goals & Outcomes](/module_three/mod3_learning_goals).
 
-### Weekly Breakdown  
- 
-* Week 1: [Career Materials](http://careerdev.turing.edu/module_three/mod3_week1).
-* Week 2: Enhance your resume and LinkedIn profile as the main materials for this module. Once those materials are in the best possible shape, develop  your terminal profile. 
-* Week 4: [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
-         *[Job Shadow Prep](/module_three/job_shadow_overview)* 
-* Week 5: Work on what is due this week! All deliverables are **due Friday of Week 5**   
+### Async PD Lessons for Mod 3 
+* Week 1: Start crafting your terminal portfolio landing page and optimize your LinkedIn profile. Click here to see the [week one lesson](http://careerdev.turing.edu/module_three/mod3_week1). 
 
-### Timeline for Deliverables
+* Week 4:Review the cover letter lesson for tips on creating a great first impression.
+        [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
+        
+ ### Career Exploration Event
+ Get a glimpse of what it's like to be on a development team, and learn more about the industry. Find out more about the upcoming job  shadow in week 4 here,[Job Shadow Prep](/module_three/job_shadow_overview)* 
 
-1. **Optimized LinkedIn for Job Search**
-   * Fill out your profile thoroughly
-   * Use the best keywords in the headline, summary, experience, education, and skills sections throughout the profile
-   * If applicable, replace the student title with a "developer" title
-   * Updating your LinkedIn profile should be completed by **Friday EOD of Week 3**.
-   
-2. **Updated Resume**
-   * The resume goal in Mod 3 is to have a complete version of your technical resume that is ATS Friendly and meets the requirements of a technical resume.
-   * You will use your completed resume in week 5 via resume review activities
-   * Your updated resume should be finalized by **EOD Friday of Week 4**
-   
-3. **Cover Letter Developed** 
-   * Create a cover letter based on the job description
-   * During week 5, homeroom groups will use the cover letter and job description.
-   * Your cover letter draft should be finalized by **EOD Tuesday of Week 5**  
-   
-4. **Updated drafts of resume, coverletter and LinkedIn** are due **Friday of Week 5** through the end of mod self-evaluation survey.
 
-5. **Terminal Portfolio**  
-   * Setting up your Terminal Portfolio **is optional for Mod 3**. 
-   * Portfolios can be submitted anytime during the inning, as long as its before **EOD Friday of Week 5**
- 
-### Deliverables & Due Dates
-**Exit Tickets** for each of the async lessons. Exit tickets are due by Friday of the respective week.
-   * **[Week 1 Exit Ticket](https://forms.gle/eZF3XUagA4SS7p7m6)**
-   * **[Week 4 Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8)**
-   * **[end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57), due Friday of Week 5**. 
+### Deliverables
+
+By the end of Mod 3, you should have completed:
+
+1. Complete the bio-information of the terminal portfolio by the end of week two.
+2. Review and update LinkedIn profile by the end of week 3.
+3. Prepare an updated resume for peer review in week 5.
+4. Draft a basic cover letter based on a job description and review it during House time in week 5.
+5. Complete the [end of mod self-evaluation survey](ttps://airtable.com/shrBZWvdZfHSeey57) due Friday of Week 5.
+
+Note: Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
+
+### Resources 
+
+1. [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit).
+2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
+3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
+4. [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
+
+
 
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
