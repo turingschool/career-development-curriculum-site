@@ -10,7 +10,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 ### Async PD Lessons for Mod 3 
 * Week 1: Optimize your LinkedIn profile and create a landing page for your terminal portfolio.  Click here to see the [Week one lesson](http://careerdev.turing.edu/module_three/mod3_week1). 
 
-* Week 4:Review the cover letter lesson for tips on creating a great first impression.
+* Week 4: Review the cover letter lesson for tips on creating a great first impression.
         [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
         
  ### Career Exploration Event
