@@ -9,8 +9,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 ### Async PD Lessons for Mod 3 
 * Week 1: Optimize your LinkedIn profile and create a landing page for your terminal portfolio.  Click here to see the [Week one lesson](http://careerdev.turing.edu/module_three/mod3_week1). 
-* [Week 1 exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
-* It is optional to complete the exit ticket. You can use the exit ticket to reinforce the learning from the content and to hold yourself accountable. If you have any questions, please do not hesitate to ask. All questions will be answered by a Career Specialist. 
+* It is optional to complete the [exit ticket][Week 1 exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform). You can use the exit ticket to reinforce the learning from the content and to hold yourself accountable. If you have any questions, please do not hesitate to ask. All questions will be answered by a Career Specialist. 
 
 * Week 4: Review the cover letter lesson for tips on creating a great first impression.
         [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
