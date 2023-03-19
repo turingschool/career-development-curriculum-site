@@ -14,6 +14,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
         [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter).
         
  ### Career Exploration Event
+ 
  Get a glimpse of what it's like to be on a development team, and learn more about the industry. Find out more about the upcoming job  shadow in week 4 here,[Job Shadow Prep](/module_three/job_shadow_overview).
 
 
