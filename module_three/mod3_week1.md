@@ -15,7 +15,7 @@ The PD activities for this week focus on enhancing your LinkedIn profile, and bu
 *  Understand the key components that go into creating a terminal portfolio. 
 
 ### Week One Lesson
-### Part 1: Watch and take notes on the following videos.
+Part 1: Watch and take notes on the following videos.
  * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
  * Check out this [video on setting up your Terminal portfolio](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)  
  
