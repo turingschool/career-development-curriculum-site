@@ -19,7 +19,7 @@ Part 1: Watch and take notes on the following videos.
  * Video Tutorial [LinkedIn Optimization](https://www.jobscan.co/video-linkedin-optimization)
  * Check out this [video on setting up your Terminal portfolio](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view)  
  
-### Part 2: Take Action 
+Part 2: Take Action 
 Terminal Portfolio Next Steps:
   * After watching the video on building your terminal portfolio, take a few minutes to do the following:
   * Check your email to confirm that you have an invite to set up your terminal profile.  If not, reach out to the Lead Career Specialist. 
