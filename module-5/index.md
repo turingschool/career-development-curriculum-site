@@ -15,8 +15,6 @@ The New Graduate Services Events Calendar provides information for upcoming grou
 
 Career development and job search support is included in Turing tuition, but beyond that, we do not fulfill our mission without supporting every graduate to find a fulfilling technical job. This means that we will not only provide you with ongoing customized support but we will also refer you to positions that are aligned with your interests and skills. 
 
-### You'll work with Lex Stewart (@lex on Slack), the Career Specialist overseeing New Graduate Services. 
-
 ## Job Seeker Expectations: What we expect from you
 We are going to provide as much support as you need, but this is a partnership with every job seeker -- you are expected to participate in this mentorship until you secure your first technical job.
 
@@ -49,8 +47,4 @@ Each week, you'll have the opportunity to participate in a variety of group acti
 Refer to these Turing Professional Development Resources on cover letters [here](https://careerdev.turing.edu/resources/cover_letter_resources)
 
 ### Receive an offer? 
-Message Lex (@lex) and Allison Reu Singer (@allison_reu_singer) on Slack to let them know! The Turing Career Dev Team is happy to help you navigate the offer and negotiations process. 
-You can also check out [these resources on negotiations](https://careerdev.turing.edu/resources/negotiations)
-
-## You can schedule one-on-one coaching sessions with the New Graduate Services Career Specialist, Lex Stewart (@lex on Slack), using the link in their Slack bio.
-
+Let the Career Specialist you're working with know! We want to celebrate with you and support you in navigating the offer and negotiation process. You can also check out [these resources on negotiations](https://careerdev.turing.edu/resources/negotiations)
