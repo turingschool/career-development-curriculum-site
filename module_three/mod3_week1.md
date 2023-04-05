@@ -41,7 +41,6 @@ LinkedIn Profile Next Steps:
 * Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
 
-
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
    * Participate in House and Mix It Up, groups.
