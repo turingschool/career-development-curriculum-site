@@ -22,8 +22,8 @@ Get a glimpse of what it's like to be on a development team, and learn more abou
 
 By the end of Mod 3, you should have completed:
 
-1. Complete the bio-information of the terminal portfolio by the **end of week two**.
-2. Review and update LinkedIn profile by the  **end of week 3**.
+1. Complete the bio-information of the terminal portfolio by the **end of week 3**.
+2. Review and update LinkedIn profile by the  **end of week 4**.
 3. Prepare an updated resume for peer review in **week 5**.
 4. Draft a basic cover letter based on a job description and review it during House time in  **week 5**.
 5. Complete the [end of mod self-evaluation survey](ttps://airtable.com/shrBZWvdZfHSeey57) due **Friday of Week 5**.
