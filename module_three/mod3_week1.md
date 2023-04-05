@@ -36,7 +36,7 @@ LinkedIn Profile Next Steps:
    
 
 ### Due Dates & Reminders 
-* Complete the bio information for your terminal portfolio by the end of **Week three**.
+* Complete the bio information for your terminal portfolio by the end of **Week 3**.
 * Review and update your LinkedIn profile by the end of **Week 4**. 
 * Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
