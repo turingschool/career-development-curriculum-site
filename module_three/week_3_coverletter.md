@@ -29,9 +29,8 @@ After you complete this lesson you should be able to:
 * Have a solid understanding of the application process
 * Understand the purpose of a cover letter 
 * Reflect on what needs to be in a cover letter
-* Draft/write a cover letter for a job application 
+* Prepare a cover letter based on a job application 
  
- After you complete this lesson, you'll synthesize your learning with this [Exit Ticket](https://forms.gle/uaftT1VbePHcisGn8).
 
 ### Application Process
 
@@ -129,7 +128,7 @@ If you find yourself with:
 
 ## Check for Understanding
 
-1. ** The Cover Letter lesson [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) is optional to submit.  Please use the ticket as a check to ensure understanding, accountability, and to ask questions. Questions will be answered by a Career specialist.** 
+1. The Cover Letter lesson [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) is optional to submit.  Please use the ticket as a check to ensure understanding, accountability, and to ask questions. Questions will be answered by a Career specialist. 
 
 2. Read through the following cover letters (15 mins):
 
@@ -143,16 +142,11 @@ If you find yourself with:
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Work on a cover letter for a job you are interested in based on a job description, and be prepared to share it with your Homeroom group for feedback.
+3. Work on a cover letter for a job you are interested in based on a job description, and be prepared to share it with peers for feedback.
    * Tailor your cover letter from a job description
    * Use the job description to choose key skills and responsibilities to highlight 
    * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you 
    * Use the recommended [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to format,      structure and create your cover letter.
 
    Here are [additional resources](/resources/cover_letter_resources) for cover letters
-
-## Due Dates & Reminders 
-* Complete the [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) for today's lesson by **EOD Friday of Week 4.**
-* Create a cover letter based on a job description * **Due date #1: Wednesday of Week 5** during homeroom
-* **Final due date: EOD Friday of Week 5** in end of mod survey 
 
