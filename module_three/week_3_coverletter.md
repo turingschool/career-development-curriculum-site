@@ -129,7 +129,7 @@ If you find yourself with:
 
 ## Check for Understanding
 
-1. Complete this [exit ticket](https://forms.gle/uaftT1VbePHcisGn8). **Completion of this exit ticket is required for your professional development this module.** 
+1. ** The Cover Letter lesson [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) is optional to submit.  Please use the ticket as a check to ensure understanding, accountability, and to ask questions. Questions will be answered by a Career specialist.** 
 
 2. Read through the following cover letters (15 mins):
 
