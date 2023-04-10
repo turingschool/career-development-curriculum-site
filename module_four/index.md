@@ -12,16 +12,23 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * New Graduate Services Kickoff introduces Job Seeker Support for New Graduates in their First Job Search
 
 ### Asynchronous Lesson(s)
-* [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of negotiating, and how to build a strategy. 
+* [Salary Negotiation](https://careerdev.turing.edu/module_four/negotiations).The lesson discusses the importance of salary negotiation, the process of     negotiating, and how to build a strategy. 
 
 ### Professional Development Activities
-* Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
+* Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive               constructive feedback in a safe and supportive environment. 
   
 ### Deliverables to Complete 
-* The salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform). **Due by Friday of week one.**
-* Developer Portfolio published on Terminal. Portfolios must include a resume, LinkedIn profile, and GitHub page.Upon completing your portfolio, submit it for review, **due by Friday of Week 4.**
-* PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
-* Request a portfolio review when your portfolio is complete and meets the publication requirements. **Please request a portfolio review by Friday of Week 4.** For Terminal portfolios, here are resources to[set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions) and [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1).
+1.  Salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).         **Due by Friday of week one.**
+  
+2. Request a review of the terminal portfolio by the **end of week 4.** Career specialists will review and provide feedback or publish it.   
+*  Please ensure that the portfolio meets all publication requirements.This includes a complete resume, an optimized LinkedIn profile, Github, and two      projects with screenshots,**due by Friday of Week 4.**
+
+4. Complete the final PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
+
+ 
+### Terminal portfolio resources:
+* [set-up terminal ](https://careerdev.turing.edu/resources/terminal_directions)
+* [develop your portfolio](https://careerdev.turing.edu/module_three/mod3_week1)
 
   
  **Early Graduation Program Requirements**
