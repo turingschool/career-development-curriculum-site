@@ -142,11 +142,13 @@ If you find yourself with:
    * What is effective? What value could they bring to the company? How do you know?
    * What could be changed to make the letter more effective?
 
-3. Work on a cover letter for a job you are interested in based on a job description, and be prepared to share it with peers for feedback.
-   * Tailor your cover letter from a job description
-   * Use the job description to choose key skills and responsibilities to highlight 
-   * Then focus your cover letter on the 2-to 3 of the most important skills that resonate the most with you 
+3. Next, Search online for a job description/role that interests you. 
+   * Draft a cover letter that is tailored to the role.
    * Use the recommended [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to format,      structure and create your cover letter.
+   * Prepare the draft for peer review by Wednesday of Week 5. 
 
-   Here are [additional resources](/resources/cover_letter_resources) for cover letters
+   Here are [additional resources](/resources/cover_letter_resources) for cover letters.
 
+## Due Dates & Reminders 
+  * The exit ticket is optional to submit.  Please use the ticket as a check to ensure understanding, and to ask questions about the content by the end of Week 4.  Questions will be answered by a Career specialist.
+ * Prepare the draft for peer review by Wednesday of Week 5. 
