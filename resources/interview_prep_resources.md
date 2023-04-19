@@ -62,7 +62,6 @@ Below you can find lots of resources to help you prepare for both components.
 ## Behavioral Interview Prep Resources
 
 ### Start Here <a name="behavioral"></a>
-* [Behavioral Interview Formats and Questions to Review](https://yangshun.github.io/tech-interview-handbook/behavioral-questions/)
 * [How to Answer "Why Should I Hire You?"](https://blog.pramp.com/the-interviewers-perspective-how-to-answer-why-should-i-hire-you-ad070987c2cc)
 * [How to Ace Your Behavioral Interview](https://docs.google.com/document/d/1puRi85xZkeTIXSgCsMYdGVi0GXJ1ANUXEvgnnhVH9Cc/edit?usp=sharing)
 
