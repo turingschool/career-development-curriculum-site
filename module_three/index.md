@@ -6,15 +6,23 @@ title: Module 3 Professional Development
 ### Overview
 Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
 
+### Lessons and Resource
+* [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) 
+* [Behavioral interviewing]((https://careerdev.turing.edu/module_three/mod3_week5)
+* Portfolio Development
+* Job shadow with industry professionals
+* Students will continue  optimizing their LinkedIn profiles and resumes according to industry standards. 
 
-### Async PD Lessons for Mod 3 
+### Lessons
+Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverable. 
+
 * Week 1: Optimize your LinkedIn profile and create a landing page for your terminal portfolio.  Click here to see the [Week one lesson](http://careerdev.turing.edu/module_three/mod3_week1). 
 * Completing the [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform) is optional. As a lesson check-in, use the exit ticket to hold yourself accountable for learning.  If you have any questions regarding the content, please ask them on the ticket. A Career Specialist will answer all questions.
 
 * Week 4: Review the [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) for tips on creating a great first impression. 
      
         
- ### Career Exploration Event
+Career Exploration Event
 Get a glimpse of what it's like to be on a development team, and learn more about the industry. Find out more about the upcoming job  shadow in week 4 here,[Job Shadow Prep](/module_three/job_shadow_overview).
 
 
