@@ -6,37 +6,20 @@ title: Module 3 Professional Development
 ### Overview
 Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
 
-### Lessons and Resource
+### Lessons and Events 
+
 * [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) 
 * [Behavioral interviewing]((https://careerdev.turing.edu/module_three/mod3_week5)
-* Portfolio Development
-* Job shadow with industry professionals
-* Students will continue  optimizing their LinkedIn profiles and resumes according to industry standards. 
-
-### Lessons
-Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverable. 
-
-* Week 1: Optimize your LinkedIn profile and create a landing page for your terminal portfolio.  Click here to see the [Week one lesson](http://careerdev.turing.edu/module_three/mod3_week1). 
-* Completing the [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform) is optional. As a lesson check-in, use the exit ticket to hold yourself accountable for learning.  If you have any questions regarding the content, please ask them on the ticket. A Career Specialist will answer all questions.
-
-* Week 4: Review the [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) for tips on creating a great first impression. 
-     
-        
-Career Exploration Event
-Get a glimpse of what it's like to be on a development team, and learn more about the industry. Find out more about the upcoming job  shadow in week 4 here,[Job Shadow Prep](/module_three/job_shadow_overview).
-
+* [Portfolio Development](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view). [Exit ticket](                                            https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
+* [Job Shadow Prep](/module_three/job_shadow_overview)
+* [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
 
 ### Deliverables
 
-By the end of Mod 3, you should have completed:
+* Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverables. 
+* Utilize exit tickets after lessons to check your understanding of the material and ask follow-up questions. 
+* Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due **Friday of Week 5**.
 
-1. Complete the bio-information of the terminal portfolio by the **end of week 3**.
-2. Review and update LinkedIn profile by the  **end of week 4**.
-3. Prepare an updated resume for peer review in **week 5**.
-4. Draft a basic cover letter based on a job description and review it during House time in  **week 5**.
-5. Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due **Friday of Week 5**.
-
-Note: Portfolios that are fully completed can be submitted during the inning, as long as they're submitted by **Friday of Week 5**.
 
 ### Resources 
 
@@ -44,8 +27,7 @@ Note: Portfolios that are fully completed can be submitted during the inning, as
 2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
 3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
 4. [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-
-Browse [PD resources](ttps://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more! 
+5. Browse [PD resources](ttps://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more! 
 
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
