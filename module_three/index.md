@@ -9,7 +9,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 ### Lessons and Activities
 
 * [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) 
-* [Behavioral interviewing and STAR method](https://careerdev.turing.edu/module_three/mod3_week5) and [Thinking Like an Interviewer](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
+* [Behavioral interviewing and STAR method](https://careerdev.turing.edu/module_three/mod3_week5) and [Breaking down an Interview Question](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
 * [Portfolio Development](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view).[Exit ticket](                                            https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
 * [Job Shadow Prep](/module_three/job_shadow_overview)
 * [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
