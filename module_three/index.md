@@ -6,11 +6,11 @@ title: Module 3 Professional Development
 ### Overview
 Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
 
-### Lessons and Events 
+### Lessons and Activities
 
 * [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) 
 * [Behavioral interviewing]((https://careerdev.turing.edu/module_three/mod3_week5)
-* [Portfolio Development](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view). [Exit ticket](                                            https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
+* [Portfolio Development](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view).[Exit ticket](                                            https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
 * [Job Shadow Prep](/module_three/job_shadow_overview)
 * [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
 
