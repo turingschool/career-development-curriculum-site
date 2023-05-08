@@ -27,7 +27,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
 3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
 4. [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-5. Browse [PD resources](ttps://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more! 
+5. Browse [PD resources](https://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more! 
 
 ### The following are general guidelines for repeating a module
    * Attend the Intro to PD session for information and updates.
