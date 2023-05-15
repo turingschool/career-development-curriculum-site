@@ -26,12 +26,10 @@ Check out this video from Jeff - "Your Job Is Not Advertised"
 * Start by searching the person's GitHub!
 * [Email Hunter](https://emailhunter.co/)
 * [Find That Lead](https://findthatlead.com/)
-* [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
 * [Skrapp.io](https://www.skrapp.io/)
 * [Quickmail.io](https://quickmail.io/)
 * [Snov.io](https://snov.io/)
-* [Go Pin Leads](https://www.gopinleads.com/)
 * [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
 * Check the person's GitHub profile or look for their personal website
 
