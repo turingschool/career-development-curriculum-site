@@ -129,12 +129,10 @@ If you're reaching out to a Turing alum or someone else in the Turing community,
 * Start by searching the person's GitHub!
 * [Email Hunter](https://emailhunter.co/)
 * [Find That Lead](https://findthatlead.com/)
-* [Find That Email](https://findthat.email/)
 * [MatterMark](https://mattermark.com/)
 * [Skrapp.io](https://www.skrapp.io/)
 * [Quickmail.io](https://quickmail.io/)
 * [Snov.io](https://snov.io/)
-* [Go Pin Leads](https://www.gopinleads.com/)
 * [RocketReach Browswer Extension](https://rocketreach.co/browser_extension)
 * Check the person's GitHub profile or look for their personal website
 
@@ -146,7 +144,6 @@ Start by thinking about what you want to learn. What are you curious about? What
 * Not sure where to start? Check out these resources:
    * [Culture Queries Generator](https://www.keyvalues.com/culture-queries) -- this site not only allows you to search for companies according to values that you share, but in the culture queries generator, you can see specific questions to ask based on what you value. 
    * [Research Converation Questions](/module_four/research_conversation_questions)
-   * [LOTS of Additional Questions](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
   
 Then, consider who your audience is. For those who are Turing grads and alumni, here are some suggested questions:
 
