@@ -16,8 +16,12 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 ### Deliverables
 
-* Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverables. 
-* Utilize exit tickets after lessons to check your understanding of the material and ask follow-up questions. 
+* Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverable.
+
+* BE Mod 3 lessons and deliverables can be found [here]((https://turingschool.notion.site/Module-3-Professional-Development-fce9c02a87944a7f9b7efbf37d1b812f)
+
+### Requirements
+
 * Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due **Friday of Week 5**.
 
 
