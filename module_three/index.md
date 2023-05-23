@@ -18,7 +18,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 * Career Specialists will provide a timeline reflecting the respective program calendars for each lesson and deliverable.
 
-* BE Mod 3 lessons and deliverables can be found [here]((https://turingschool.notion.site/Module-3-Professional-Development-fce9c02a87944a7f9b7efbf37d1b812f)
+* BE Mod 3 lessons and deliverables can be found [here](https://turingschool.notion.site/Module-3-Professional-Development-fce9c02a87944a7f9b7efbf37d1b812f)
 
 ### Requirements
 
