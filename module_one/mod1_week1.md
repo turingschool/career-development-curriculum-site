@@ -152,6 +152,5 @@ Read the [Pairin Qualities Overview](https://github.com/turingschool/career-deve
 On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
 
 ## Due Dates & Reminders
-* Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by **EOD Friday of Week 1.**
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer).  
+* Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by **EOD Friday of Week 1.** 
  

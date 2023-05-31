@@ -133,4 +133,3 @@ Remember, there are A LOT of resources available online for job search. We recom
 * Complete the [exit ticket](https://forms.gle/b1KJaxd2frPMYyso7) for today's lesson by **EOD Friday of Week 3.**
 * **Update your resume draft** with any feedback you've received so that it's ready for final submission at the end of the module.
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). l.

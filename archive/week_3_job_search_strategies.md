@@ -84,7 +84,7 @@ It's important to recognize that if you want a job by graduation or soon after, 
 Your [next career journal prompt is about organizing your schedule to make time for your job esarch.](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-3)
 
 #### Create a Job Search Tracker: Introducing Huntr
-Huntr is a kanban board-like tracker similar to Trello that allows you to track your job search in a very visual and step-by-step way. You should have received an email invitation for using it. If you didn't, reach out to Allison or another member of the Career Development team.
+Huntr is a kanban board-like tracker similar to Trello that allows you to track your job search in a very visual and step-by-step way. You should have received an email invitation for using it.
 
 Within Huntr, you can create cards for a company you're interested in and then move it through each stage of the application job search. Check out this [user's guide](https://blog.huntr.co/huntr-quickstart-guide/) to get started. It's also a good idea to install the [Chrome extension](https://chrome.google.com/webstore/detail/huntr-job-search-tracker/mihdfbecejheednfigjpdacgeilhlmnf) to seamlessly add job postings from the site you find them right to your Huntr board. 
 

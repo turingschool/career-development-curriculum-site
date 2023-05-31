@@ -28,10 +28,3 @@ Note: depending on the company, you may be required to sign a Non-Disclosure Agr
 
 ## Due Dates & Reminders
 * **Complete 1 networking activity** from [Week 2's lesson](/module_two/mod2_week2)
-* **Professional Coaching:** 
-   * What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-        * Stress management
-        * Organization and time management
-        * Career transition guidance
-        * Using your Pairin data for growth
-   * If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). ential.

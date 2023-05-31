@@ -22,6 +22,6 @@ Make a copy of [this tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4D
 3. On the third tab, track the connections you are making while at Turing. This is where you can log the information from your [Week 2 Networking Activity](/module_one/week_2_networking_activity) and other connections you make as you continue through your Turing experience. As you look into making new connections, please check out the tips and networking groups listed [here](/resources/outreach_networking_resources).
 
 ### When to Complete This Activity
-Tracking your network will be ongoing, but please make sure to start your tracker by the end of Week 5. Please reach out to Allison (@allison_reu_singer on Slack) if you have any questions!
+Tracking your network will be ongoing, but please make sure to start your tracker by the end of Week 5. 
 
 **Standards covered in this activity:** [Networking Levels I, II, or III](/standards_and_rubric/index) as selected by the student

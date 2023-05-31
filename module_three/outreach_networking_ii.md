@@ -6,7 +6,7 @@ title: Outreach & Networking II
 [Slides for the session](https://docs.google.com/presentation/d/1_JmlfZr2emcfndX0rMpW2Jr-upGwQDifN7qNMyQgbNI/edit?usp=sharing)
 
 ### Facilitator Instructions
-There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2, and let Allison know if you have any questions.
+There are facilitator notes throughout this markdown to divide up responsibilities in the session, assuming there are 2 instructors (1 BE and 1 FE) in the session. Please read through this markdown ahead of the session, decide who is going to be Facilitator #1 and who will be Facilitator #2.
 
 ### Session Structure
 

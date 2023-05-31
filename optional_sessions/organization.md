@@ -70,7 +70,6 @@ Find the relevant calendar and click on the plus in the bottom right of the cale
 * Add events as needed to keep track of appointments, deadlines, and to create specific timeboxes to get tasks done
 * Enable notifications so that you can be reminded of pending appointments. Navigate to "My Calendars" on the lefthand side of the screen, click on the dropdown arrow, and click on "Edit Notifications." After you set the timing on notifications that will work best for you, you can also decide how you'd like to receive that notification back on the "General" screen.
 
-Allison will demo using this [demo calendar](https://calendar.google.com/calendar/embed?src=casimircreative.com_fhmv42gac54797pb1cenhgadds%40group.calendar.google.com&ctz=America/Denver)
 
 #### Beyond Calendars
 There are other organizational systems that could be helpful for you to stay on top of deadlines and tasks. We'll highlight a few of them here, but again, the most important thing is to find something that works for you.  

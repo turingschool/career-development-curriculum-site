@@ -193,5 +193,3 @@ This exercise will bring up a lot of things to think about. It's important to ta
 
 * What have you learned about yourself through this process?
 * How will you apply this exercise to your job search? 
-
-Remember that you can schedule a coaching session with Allison or another member of the career development team to talk through your discoveries to help you begin to narrow the scope of your job search. 

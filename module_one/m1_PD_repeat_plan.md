@@ -56,7 +56,7 @@ Here are some examples:
      * Write a blog post about something you're learning that you can share on LinkedIn or Twitter for your networks
 
 #### Template for Defining & Tracking Your Goals
-Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
+Use this template to help you define and track your goals by copying and pasting the questions below into a document.
 
 * Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 

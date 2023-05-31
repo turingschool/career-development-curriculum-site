@@ -61,7 +61,7 @@ Here are some examples:
      * Start on research into companies' [salary ranges](https://www.levels.fyi/) to know what to expect in your job search. 
 
 #### Template for Defining & Tracking Your Goals
-Use this template to help you define and track your goals by copying and pasting the questions below into a document you can share with Allison or your homeroom group. 
+Use this template to help you define and track your goals by copying and pasting the questions below into a document.
 
 * Specific (What do you want to accomplish? Who needs to be included? When do you want to do this? Why is this a goal?): 
 

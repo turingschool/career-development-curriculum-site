@@ -179,13 +179,3 @@ Knowing your leading virtue class and associated strengths isn’t just interest
 * Transcendence:	Lover of Transcendence
 * Wisdom & Knowledge:	Lover of Wisdom
 * Temperance:	Lover of Moderation
-
-### Opportunity for Professional Coaching
-What is professional coaching? Sometimes referred to as "career therapy," coaching provides you with the opportunity for thought partnership on goals that you have for your career. What topics could be covered? Whatever you want! Some popular topics are:
-
-* Stress management
-* Organization and time management
-* Career transition guidance
-* Using your Pairin data for growth
-
-You can reach out to Allison (@allison_reu_singer on Slack) through [this request form](https://forms.gle/1NgEeYNX7p6jYA6G9) if you'd like to get additional reports on your Pairin strengths or to schedule a coaching session this module. All coaching sessions are completely confidential.

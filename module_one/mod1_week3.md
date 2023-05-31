@@ -164,6 +164,4 @@ Gather as much feedback as you can:
 ## Due Dates & Reminders
 
 * Complete the [exit ticket](https://forms.gle/P1jTYeVeE4aDygS88) for today's lesson by **EOD Friday of Week 3.**
-* Reminder to complete your networking action step and be ready to provide information on it in your end of module survey. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
-* Check out upcoming PD office hours and bring your questions!
+* Reminder to complete your networking action step and be ready to provide information on it in your end of module survey. Take time now to set aside time to get it completed.

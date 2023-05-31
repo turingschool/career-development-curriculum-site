@@ -32,6 +32,3 @@ The Job Shadow event happens on the Tuesday of Week 4 from 12:30pm to 4:00pm MT.
 * Collaborate/Pair with your developers on their work
 * Culture conversation with hiring managers or HR
 * Question and answer session if time and resources permit
-
-### Questions?
-Please reach out to Allison (@allison_reu_singer) or Robyn (@robynp) on Slack!

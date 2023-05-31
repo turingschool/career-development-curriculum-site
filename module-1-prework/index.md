@@ -81,5 +81,3 @@ Please prepare responses to these questions to submit in the prework survey:
 
 ## Part IV: Submit Your Career Development Mod 0 Work (15 mins) <a name="submission"></a>
 Please fill out this survey to provide your reflections and activities from Parts I-III as well as a few other questions to help the Career Development Team know how to support you [at the survey link here](https://airtable.com/shrAI3LMVuM3cDwq6). 
-
-If you have any questions about this part of the Mod 0 Project, please reach out to Allison Reu Singer on Slack: @allison_reu_singer

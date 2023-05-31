@@ -176,5 +176,3 @@ For a refresher on any of this information, you can always find it on the Resour
 * Your ATS-ready (read: plain, straightforward information), 1-page resume draft that includes at least 2 software projects and a list of technical skills to submit by **EOD Friday of Week 2.** 
 
 * Create your list of 4 warm contacts and 4 cold contacts and decide on 1 action step that you'll take for networking.
-
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). l.

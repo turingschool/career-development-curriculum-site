@@ -139,6 +139,3 @@ This section is where you showcase your current and prior work:
       * You should also add Turing to the Experience section *if* you do not have previous professional experience
       * You could also consider adding the Career Break feature to your profile to explain that you've left your career to transition to software development.
  
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
- 
-* Check out upcoming PD office hours and bring your questions!

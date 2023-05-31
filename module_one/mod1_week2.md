@@ -176,6 +176,4 @@ You'll meet in your first Mix It Up group this week with students in different c
 
 ## Due Dates & Reminders
 * Complete the [exit ticket](https://forms.gle/wjgRVrCwbPcmG3Ap9) for today's lesson by **EOD Friday of Week 2.**
-* One of your deliverables by the end of the module is to complete your networking action step. Take time now to set aside time to get it completed, and if you have any questions about this, please reach out to Allison on Slack @allison_reu_singer.
-* If you'd like to get additional reports on your Pairin strengths, reach out to Allison on Slack (@allison_reu_singer). 
-* Check out upcoming PD office hours and bring your questions!
+* One of your deliverables by the end of the module is to complete your networking action step. Take time now to set aside time to get it completed.
