@@ -3,6 +3,8 @@ layout: page
 title: Module 1 Professional Development
 ---
 
+> **NOTE:** 2307 Back End Mod 1 students should be referring to the [Back End site](https://backend.turing.edu/module1/) for all Professional Development content.
+
 ## Overview
 Our approach to Mod 1 is to help you understand where to start in your professional development -- no matter where you come from when you start Turing, how can you set yourself up for success in this new career? We start by helping you define your strengths, goals, and professional story for your career transition into software. Mod 1 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
 
