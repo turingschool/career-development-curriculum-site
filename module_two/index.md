@@ -3,6 +3,9 @@ layout: page
 title: Module 2 Professional Development
 ---
 
+> **NOTE:** 2305 Back End Mod 2 students should be referring to the [Back End site](https://backend.turing.edu/module2/) for all Professional Development content.
+
+
 ## Overview
 Our approach to Mod 2 is to build on the competencies covered in Mod 1 so that students can begin to create a job search and branding strategy as well as learn more about what software development looks like so that they can more clearly define their goals. Mod 2 professional development is delivered through a combination of self-paced asynchronous sessions, small group discussion, office hours, and other check-ins. 
 
