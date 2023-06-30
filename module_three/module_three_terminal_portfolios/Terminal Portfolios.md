@@ -17,7 +17,7 @@ Staff members will review your profile and approve it for publishing or request 
 For more info on how to set this up, [watch this demo](](https://drive.google.com/file/d/1NqHrdkr0B5wEvEaH9Z8dJK56TcSJoV_t/view))
 Once published, your profile will be visible on the main alumni directory at terminal.turing.edu as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies.
 
-## Terminal Portfolio: What Should Be Included
+### Terminal Portfolio: What Should Be Included
 What needs to be included in order for your portfolio to be published? Here is what the team is looking for:
 
 Your Developer Title
