@@ -12,7 +12,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 
 ### Curriculum
-* Learning Goals
+* [Learning Goals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_learning_goals.md)
 * Intermission Work
 * Lessons
 * Activities
