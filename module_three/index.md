@@ -6,6 +6,24 @@ title: Module 3 Professional Development
 ### Overview
 Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
 
+### Career Specialists
+* Tracey Monteiro (Backend Program)
+* Lex Stewart (Frontend Program)
+
+
+### Curriculum
+* Learning Goals
+* Intermission Work
+* Lessons
+* Activities
+
+### Resources 
+
+
+
+### Requirements
+* 
+
 ### Lessons and Activities
 
 * [Cover Letters + Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter) 
@@ -38,4 +56,4 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
    * Participate in House groups.
    * Complete a new self-evaluation survey based on current PD activities and reflections.
    * Participation in PD sessions is optional if you have already attended them.
-   * You are encouraged to participate in Job Shadow.
+   * You are encouraged to participate in the Job Shadow.
