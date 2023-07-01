@@ -1,6 +1,6 @@
 ---
 Layout: page
-title: Mod 3 Professional Development
+title: Mod 3 Curriculum 
 ---
 
 ## Module 3 Professional Development
