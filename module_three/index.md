@@ -4,7 +4,8 @@ title: Module 3 Professional Development
 ---
 
 ### Overview
-Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies. Learn more about [Mod 3 Key Learning Goals & Outcomes](https://careerdev.turing.edu/module_three/mod3_learning_goals). 
+Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies.
+
 
 ### Career Specialists
 * Tracey Monteiro (Backend Program)
@@ -15,8 +16,8 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * [Learning Goals](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_learning_goals.md)
 * Intermission Work
 * [Lessons & Activities](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/mod3_curriculum.md)
-### Resources 
 
+### Resources 
 1. [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit)
 2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
 3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
