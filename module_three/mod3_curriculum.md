@@ -10,7 +10,7 @@ Welcome to the MOD 3 lesson page. Here, you will find detailed information on th
 * [Cover Letters & Application Process](https://careerdev.turing.edu/module_three/week_3_coverletter)
 
 ### Terminal Portfolio 
-* [Setting up your Alumni Portfolio](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_three/module_three_terminal_portfolios/Terminal%20Portfolios.md)
+* [Setting up your Alumni Portfolio](/module_three/module_three_terminal_portfolios/Terminal%20Portfolios)
 
 ### Interview Preparation
 * [Behavavral Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
