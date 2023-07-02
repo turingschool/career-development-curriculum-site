@@ -15,7 +15,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 ### Curriculum
 * [Learning Goals](/module_three/mod3_learning_goals)
 * Intermission Work 
-* Curriculum 
+* [Curriculum](/module_three/mod3_curriculum)
   
 ### Resources 
 1. [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit)
