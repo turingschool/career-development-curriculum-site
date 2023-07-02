@@ -13,7 +13,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 
 ### Curriculum
-* [Learning Goals](/module_three/mod3_learning_goals.md)
+* [Learning Goals](/module_three/mod3_learning_goals)
 * Intermission Work
 * [Lessons & Activities]
   
