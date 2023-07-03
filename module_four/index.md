@@ -18,7 +18,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 * Through [Mock Interviews](https://careerdev.turing.edu/module_four/mod4_mock_interviews) students can practice interview skills and receive constructive feedback in a safe and supportive environment. 
   
 ### Deliverables to Complete 
-1. Salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).  **Due by Friday of week 3**
+1. Salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).  **Due by Friday of week 4**
   
 2. Request a review of the terminal portfolio by the **end of week 4.** Career specialists will review and provide feedback or publish it.   
     *Please ensure that the portfolio meets all publication requirements. This includes a complete resume, an optimized LinkedIn profile, Github, and two projects with screenshots,**due by Friday of Week 4.**
