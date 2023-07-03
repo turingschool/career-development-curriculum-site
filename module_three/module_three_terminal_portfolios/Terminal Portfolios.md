@@ -9,7 +9,7 @@ Step One
 
 Step Two
 * Fill out all sections of your profile.
-* Adding projects to your portfolio in Mod 3 is optional. The main objective is to fill out the essential profile information and gradually enhance the portfolio with projects.
+* Adding projects to your portfolio in Mod 3 is optional. The main objective is to fill out the essential profile information and gradually enhance the portfolio with projects in Mod 4. 
 *  Upload your resume only if it is complete, optimized with technical projects, and meets the standard requirements for resumes.
 
 Step Three
