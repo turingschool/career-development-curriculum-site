@@ -19,7 +19,7 @@ Welcome to the MOD 3 lesson page. Here, you will find detailed information on th
 
 
 ### Career Exploration Events
-* [Job Shadow Prep](/module_three/job_shadow_overview)
+* [Job Shadow](/module_three/job_shadow_overview)
 
 ### Weekly breakdown
 * Week 1- Start the Mod off with a digital organization and decluttering of digital files, inboxes, and more! 
