@@ -14,7 +14,7 @@ Welcome to the MOD 3 lesson page. Here, you will find detailed information on ea
 
 
 ### Interview Preparation
-* [Behavavral Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
+* [Behavioral Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
 * [Breaking down an Interview Question](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
 
 
