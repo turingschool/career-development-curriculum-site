@@ -4,17 +4,10 @@ title: Job Shadow Opportunity
 ---
 
 ## Overview
-This opportunity directly builds on the [Mod 2 What's a Dev](/module_two/whats_a_dev) experience to provide more specifics on the culture of tech companies, experience high-functioning team interactions, and gain exposure to the amazing work that companies are doing on a daily basis. Students experience many positive things at Turing; however, there is no substitute for seeing exceptional companies in action.
+This opportunity exposes you to the culture of tech companies, experience high-functioning team interactions, and gain exposure to the amazing work that companies are doing on a daily basis. Students experience many positive things at Turing; however, there is no substitute for seeing exceptional companies in action.
 
 ### How to Prepare
-In week 3, you'll receive a Slack message from Robyn Purvin, our Partnerships Manager, with information on:
-
-* Which company you will shadow
-* Beginning and ending times for students
-* Contact information for the contact who is running the event
-* Any rules or expectations for the company, including signing a Non-Disclosure Agreement if necessary
-
-**FAQ:** Can you choose the company you shadow with? No. We are not able to accommodate individual requests, and hearing from a wide variety of companies will be helpful for your job search no matter your goals. 
+By Week 3, you'll be informed of the company and point of contact you'll be shadowing with, along with details for the live session and any paperwork you need to do beforehand (most companies require an NDA).
 
 Before the event, take time to research the company and decide on some questions you'd like answered. A good template for this is AEIOU:
 
@@ -25,7 +18,7 @@ Before the event, take time to research the company and decide on some questions
 * Users: what questions do you have about how the company interacts with their users?
 
 ### Logistics
-The Job Shadow event happens on the Tuesday of Week 4 from 12:30pm to 4:00pm MT. Typical shadowing activities include:
+The Job Shadow event happens on the Tuesday of Week 4 from 1-3pm MT. Typical shadowing activities include:
 
 * Sit-in/Observe team meetings
 * Sit-in/Observe developers planning and coding
