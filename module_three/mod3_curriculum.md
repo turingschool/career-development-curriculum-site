@@ -23,7 +23,7 @@ Welcome to the MOD 3 lesson page. Here, you will find detailed information on ea
 
 ### Weekly breakdown
 * Week 1- Start the Mod with a digital organization and decluttering of digital files, inboxes, and more! 
-* Week 2- [Behavavral Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
+* Week 2- [Behavioral Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
 * Week 3- Cover Letter Lesson (Live).An overview of the course content will be provided before the live session.
 * Week 4- [Setting up your Alumni Portfolio](/module_three/module_three_terminal_portfolios/Terminal%20Portfolios) and  [Breaking down an Interview Question](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
 * Week 5- Complete PD Deliverables. 
