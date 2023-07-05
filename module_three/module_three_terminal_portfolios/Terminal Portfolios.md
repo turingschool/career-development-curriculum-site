@@ -1,4 +1,6 @@
 
+# Setting up your terminal portfolio - Welcome to Terminal!
+
 Turing provides a space for professional portfolios on our website. Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. The terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
 
 Step One
