@@ -6,7 +6,7 @@ title: Module 1 Week 1
 ## Overview
 This week has two activities:
 
-* **Kickoff to Mod 1** provides the overview of professional development at Turing, meet your Career Development team, and understand what you'll work on this module. The session takes place live on Zoom, but you can view [this video](https://youtu.be/kLFy93A5i6I) for an overview of PD throughout the program. 
+* **Kickoff to Mod 1** provides the overview of professional development at Turing and understand what you'll work on this module. The session takes place live on Zoom, but you can view [this video](https://youtu.be/kLFy93A5i6I) for an overview of PD throughout the program. 
 * **Developer Identity: Understanding Your Strengths** lesson:  
    * [Lesson Plan](#lesson)
    * [Check for Understanding Action Items](#cfu)
@@ -15,18 +15,14 @@ This week has two activities:
 By the end of this lesson, you should have accomplished these learning goals:
 
 * Understand what a strength is and what it can look like in practice
-* Identify your own top strengths both in reflection and by using your Pairin results
+* Identify your own top strengths
 * Identify challenges with using your strengths
 * Plan for how to discuss strengths and working preferences
 * Analyze opportunities for professional growth
 
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). 
 
-### Prior to the Lesson
-* Log back into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com) to access your Pairin results
-* Download and save your results as a PDF to have your results more handy
-
-Allow yourself about 20-30 mins to complete the following:
+Please allow yourself about 20-30 mins to complete the following:
 
 ## Week 1 Lesson - Developer Identity: Understanding Your Strengths 
 ### Lesson Plan (10-15 mins) <a name="lesson"></a>
@@ -94,7 +90,7 @@ You heard from our executive director, Jeff Casimir, at the State of Turing talk
 * Combining these 3 things leads us to the **strength** known as **Inspirational Leadership,** which is defined as the ability to uplift, enliven, fill, and empower people with a compelling vision. As the founder of several programs, Jeff has cultivated and used this strength to not only further his vision but get others involved in executing it as well.
 
 #### Example #2
-Let's look at another strength. A common strength that comes up for students in the Pairin assessment is **Persistence,** which is defined as the drive to firmly continue in a course of action, despite difficulties, opposition, or warning; stubborn determination. Pairin loves to nickname its strengths with fun names, and its reports refer to this one as "Tugboat." What does it look like in practice to be a tugboat?
+Let's look at another strength. A common strength that students have is **Persistence,** which is defined as the drive to firmly continue in a course of action, despite difficulties, opposition, or warning; stubborn determination. What does this look like in practice?
 
 * A **skill** that would contribute to this is *detail-oriented planning.* If you're someone who uses a planner, likes to write to-do lists, and approaches projects from a backwards planning stance, this might describe you!
 
@@ -120,36 +116,10 @@ Breaking down strengths in this way can be easier when we already know what the 
     * What do others want you to teach them?
     * What do you receive compliments for?
 
-### Section 3: Using the Pairin Survey
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbwffqVNxo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-If you're having trouble identifying your strengths, your Pairin survey results might be able to help you. Pairin is a tool that gives you insight into 102 **coachable** and **changeable** professional skills ranging from citizenship to empathy to self awareness. The results from your survey will help you to identify some of your strengths and potential areas for growth.
-
-Your results show you top 4 qualities:
-
-1. Top Thinking Style
-      * What this means: your top thinking style describes *how* you think -- how you generally process information and organize tasks.
-2. Most Intense Driver
-      * What this means: your most intense driver describes your biggest motivator. This will generally fall into 1 of 3 categories: love, work, and growth
-3. Highest EQ Competency
-      * What this means: what you prioritize most as you approach recognizing, understanding, and managing your own emotions or influencing the emotions of others
-4. Leading Virtue Class
-      * What this means: what you value most in your own life and attitude towards society at large
-
-Read the [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) for additional information on each type of quality. 
-
 ## Check for Understanding (10-15 mins) 
 1. Complete this [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6). **Completion of this exit ticket is required for your professional development this module.** 
 
-2. Read through your Pairin Top 4 results <a name="cfu"></a>
-    * Note: you submitted this PDF as part of your Mod 1 prework, but you can find it again by logging into [Pairin](https://auth.pairin.com/auth/signin?continue=https://app.pairin.com)
-    * Use this [Pairin Overview handout](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) to learn more about the specific qualities.
-
-3. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). *This is for your own learning, and you do not need to turn this in.*
-
-## Continued Application
-On Wednesday, you'll have your first [Homeroom Group](/student_discussion_groups/mod1_homeroom_discussion_prompts) discussion. Please be prepared to discuss your reflections from the lesson today. 
+2. Complete this [reflection sheet](https://docs.google.com/document/d/1lzBCsssa_V1Sx4gT8WllaUgoCjWqLcAUWiQoELdgcy4/edit?usp=sharing). *This is for your own learning, and you do not need to turn this in.*
 
 ## Due Dates & Reminders
 * Complete the [exit ticket](https://forms.gle/G4XqcvLoZCQUXhvX6) for today's lesson by **EOD Friday of Week 1.** 
