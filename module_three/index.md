@@ -17,19 +17,11 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * Intermission Work 
 * [Lessons and Activities](/module_three/mod3_curriculum)
   
-### Resources 
-1. [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit)
-2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
-3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
-4. [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
-5. Browse [PD resources](https://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more
-6. [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
-
 ### Deliverables and Exit Tickets
 * Behavioral Interview Prep. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfGkAVbuZOixgNOipJCBl-sNFF_yDafMJW8733h_xDfI7EVbw/viewform)
 * Terminal Bio due by the EOD of week 4. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
 * Cover letter draft due by the end of week 5 (captured via end of Mod eval). [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfPkAkTdqtehtWydhdTP8RwEm7t-huLwQs8U201r92rDuRsfw/viewform)
-* Updated Resume captured via end of Mod eval.
+* Updated resume in ATS format with the latest projects, new technical skills, and other optimizations related to your target audience (captured via end of Mod eval). 
 * Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
 ### Weekly Breakdown
@@ -46,5 +38,13 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
  * Complete a new self-evaluation survey based on current PD activities and reflections.
  * Participation in PD sessions is optional if you have already attended them.
  * You are encouraged to participate in the Job Shadow.
+
+### Resources 
+1. [Resume Guide](https://docs.google.com/document/d/1ll53JV8Jt5eveSjdvklUUNQfuYCzHV15TcoOzzk1iDY/edit)
+2. [Front and Backend Technical Skills](https://docs.google.com/document/d/1Q-ZSAlXadWmYK48UyO7W3O9zHFQxhnLAWh7wKVdV48o/edit#heading=h.qtpn4l7md817)   
+3. [PD Approved ATS-friendly resume example](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit) 
+4. [185 Action Verbs ](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome) 
+5. Browse [PD resources](https://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more
+6. [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
 
 If you have any questions about the information provided on this page,  please reach out to the Career Development team!
