@@ -32,8 +32,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
 ### Weekly Breakdown
-* Week 1: [PD Intro](https://docs.google.com/presentation/d/1cJfjG-RvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and Digital Organization.
-*   Use this[ Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405) or another central hub to organize your PD resources and content. 
+* Week 1: [PD Intro](https://docs.google.com/presentation/d/1cJfjG-RvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and Digital Organization. Use this[ Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405) or another central hub to organize your PD resources and content. 
 * Week 2: [Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
 * Week 3: Cover Letters (new cover letter slide deck will be provided during the session). 
 * Week 4: [Terminal bio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios)
