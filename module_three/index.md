@@ -25,9 +25,10 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 5. Browse [PD resources](https://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more
 6. [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
 
-### Deliverables 
-* Terminal Bio due by the EOD of week 4. 
-* Cover letter draft due by the end of week 5 (captured via end of Mod eval).
+### Deliverables and Exit Tickets
+* Behavioral Interview Prep. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfGkAVbuZOixgNOipJCBl-sNFF_yDafMJW8733h_xDfI7EVbw/viewform)
+* Terminal Bio due by the EOD of week 4. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform)
+* Cover letter draft due by the end of week 5 (captured via end of Mod eval). [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfPkAkTdqtehtWydhdTP8RwEm7t-huLwQs8U201r92rDuRsfw/viewform)
 * Updated Resume captured via end of Mod eval.
 * Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
