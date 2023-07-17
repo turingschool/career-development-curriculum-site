@@ -20,8 +20,7 @@ Module 4 focuses on revisiting key areas of the  Professional Development curric
 ### Deliverables to Complete 
 1. Salary negotiation lesson and [exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSdchKq_CTcnTMHp1QcWRmXCoIgHEs6F5zvaWWkAE2ZiLAMJSg/viewform).  **Due by Friday of week 4**
   
-2. Request a review of the terminal portfolio by the **end of week 4.** Career specialists will review and provide feedback or publish it.   
-    *Please ensure that the portfolio meets all publication requirements. This includes a complete resume, an optimized LinkedIn profile, Github, and two projects with screenshots,**due by Friday of Week 4.**
+2. Request a review of the terminal portfolio by the **end of week 4.** Career specialists will review and provide feedback or publish it. *Please ensure that the portfolio meets all publication requirements. This includes a complete resume, an optimized LinkedIn profile, Github, and two projects with screenshots,**due by Friday of Week 4.**
 
 3. Complete the final PD [self-evaluation survey](https://airtable.com/shrsS9pDedt4Jvnkd). **Must be submitted by the EOD Friday of Week 5.**
 
