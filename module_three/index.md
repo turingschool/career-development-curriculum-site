@@ -31,7 +31,6 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * Updated Resume captured via end of Mod eval.
 * Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
-
 ### Weekly Breakdown
 * Week 1: [PD Intro]( [and](https://docs.google.com/presentation/d/1cJfjG-RvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) Digital Organization.
 *   Use this[ Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405)or another central hub to organize your PD resources and content. 
@@ -41,7 +40,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * Week 5: Review career materials and prepare to submit end of Mod eval to capture PD and job sear efforts for the inning. 
 * Week 6: Submit end-of-mod self-evaluation survey. A survey will be provided. 
 
-* ### The following are general guidelines for repeating a module
+### The following are general guidelines for repeating a module
  * Attend the Intro to PD session for information and updates.
  * Participate in House groups.
  * Complete a new self-evaluation survey based on current PD activities and reflections.
