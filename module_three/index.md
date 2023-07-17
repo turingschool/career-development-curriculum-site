@@ -25,10 +25,23 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 5. Browse [PD resources](https://careerdev.turing.edu/resources/) for networking, interviewing, career materials, job search, and much more
 6. [LinkedIn optimization with Jobscan](https://www.jobscan.co/video-linkedin-optimization)
 
-### Requirements
-* Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due **Friday of Week 5**.
+### Deliverables 
+* Terminal Bio due by the EOD of week 4. 
+* Cover letter draft due by the end of week 5 (captured via end of Mod eval).
+* Updated Resume captured via end of Mod eval.
+* Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
-### The following are general guidelines for repeating a module
+
+### Weekly Breakdown
+* Week 1: [PD Intro]( [and](https://docs.google.com/presentation/d/1cJfjG-RvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) Digital Organization.
+*   Use this[ Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405)or another central hub to organize your PD resources and content. 
+* Week 2: [Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5)
+* Week 3: Cover Letters (new cover letter slide deck will be provided during the session). 
+* Week 4: [Terminal bio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios)
+* Week 5: Review career materials and prepare to submit end of Mod eval to capture PD and job sear efforts for the inning. 
+* Week 6: Submit end-of-mod self-evaluation survey. A survey will be provided. 
+
+* ### The following are general guidelines for repeating a module
  * Attend the Intro to PD session for information and updates.
  * Participate in House groups.
  * Complete a new self-evaluation survey based on current PD activities and reflections.
