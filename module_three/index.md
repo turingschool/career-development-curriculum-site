@@ -18,11 +18,20 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
   
 
 ### Weekly Breakdown| Deliverables and Exit Tickets
-* Week 1: [PD Intro](https://docs.google.com/presentation/d/1cJfjG-RvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and Digital Organization. Use this[Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405) or another central hub to organize your PD resources and content. 
-* Week 2: [Interview Prep](https://careerdev.turing.edu/module_three/mod3_week5). [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfGkAVbuZOixgNOipJCBl-sNFF_yDafMJW8733h_xDfI7EVbw/viewform)
-* Week 3: Cover Letters (cover letter slide deck will be provided during the session). Cover letter draft due by the end of week 5 (captured via end of Mod eval). [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfPkAkTdqtehtWydhdTP8RwEm7t-huLwQs8U201r92rDuRsfw/viewform)
-* Week 4: [Terminal bio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios) due by the end of week 4. [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform). In Mod 3 you only need to build the bio section of your portfolio. These updates are visible to career staff. Therefore you do not need to submit it for review until it is fully complete.
-* Week 5: Updated resume in ATS format with the latest projects, new technical skills, and other optimizations related to your target audience (captured via end of Mod eval).
+* Week 1:[PD Intro](https://docs.google.com/presentation/d/1cJfjGRvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and [Terminal Portfolio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios). Please note that in Mod 3 you only need to build the bio section of your portfolio. These updates are visible to career staff. Therefore you do not need to submit it for review until it is fully complete.
+  
+* A key resource that you could consider using is this [Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405) to organize your PD resources and content.
+  
+* Week 2: [Behavioral Interview Prep Lesson](https://careerdev.turing.edu/module_three/mod3_week5) and [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfGkAVbuZOixgNOipJCBl-sNFF_yDafMJW8733h_xDfI7EVbw/viewform).
+  
+* Week 3: Cover Letter Lesson (a cover letter slide deck will be provided during the session) and [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfPkAkTdqtehtWydhdTP8RwEm7t-huLwQs8U201r92rDuRsfw/viewform).
+* Cover letter draft due by Monday of week 6. 
+    
+* Week 4:[Breaking down an Interview Question Lesson](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
+and [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform).
+
+* Week 5: Submit your updated resume with Mod 3 projects by Monday of week 6. 
+  
 * Week 6: Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
 
 ### The following are general guidelines for repeating a module
