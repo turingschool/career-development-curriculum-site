@@ -18,7 +18,7 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
   
 
 ### Weekly Breakdown| Deliverables and Exit Tickets
-* Week 1:[PD Intro](https://docs.google.com/presentation/d/1cJfjGRvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and [Terminal Portfolio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios).
+* Week 1:[PD Intro](https://docs.google.com/presentation/d/1cJfjGRvJnh_buk1rqn88swdLUEglMp03RGPuLPizww/edit#slide=id.g222d3cd8936_0_161) and setting up your [Terminal Portfolio](https://careerdev.turing.edu/module_three/module_three_terminal_portfolios/Terminal%20Portfolios).
   * Please note that in Mod 3 you only need to build the bio section of your portfolio. These updates are visible to career staff. Therefore you do not need to submit it for review until it is fully complete.
   
   * A key resource that you could consider using is this [Notion dashboard](https://perpetual-seeker-acf.notion.site/M3-PD-Dashboard-6e1be2ecf5c648e5ba11372795e3e405) to organize your PD resources and content.
@@ -31,9 +31,12 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 * Week 4:[Breaking down an Interview Question Lesson](https://frontend.turing.edu/lessons/module-3/interpreting-interviews.html)
 and [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe76hN7AWta1X4Xch-xdhUbdhm3l-peKQTwqgp4L5EJy5E8og/viewform).
 
-* Week 5: Submit your updated resume with Mod 3 projects by Monday of week 6. 
-  
-* Week 6: Complete the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) due by Monday of Week 6.
+* Week 5: Work on PD Deliverables that are due by Monday of Week 6. Be prepared to submit an updated resume with Mod 3 projects for the final self-eval.    
+
+* Week 6: Submit the [end of mod self-evaluation survey](https://airtable.com/shrBZWvdZfHSeey57) by Monday of Week 6.
+
+### Career Exploration Events
+* [Job Shadow](https://careerdev.turing.edu/module_three/job_shadow_overview)
 
 ### The following are general guidelines for repeating a module
  * Attend the Intro to PD session for information and updates.
