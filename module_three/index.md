@@ -14,7 +14,6 @@ Our approach to Mod 3 is to build on the competencies covered in the previous mo
 
 ### Curriculum
 * [Learning Goals](/module_three/mod3_learning_goals)
-* [Lessons and Activities](/module_three/mod3_curriculum)
   
 
 ### Weekly Breakdown| Deliverables and Exit Tickets
