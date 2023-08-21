@@ -11,13 +11,11 @@ This lesson will provide an overview of the purpose of cover letters during the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szbMDbKWIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 * Introduction 
 * Review of the Application Process 
 * Purpose of the Cover Letter 
 * Parts of the Cover Letter 
 * Tips/tricks and things to avoid 
-
 
 ### Learning Goals
  
