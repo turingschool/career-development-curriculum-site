@@ -5,15 +5,14 @@ title: Cover Letters
 
 ## Overview
 
-This lesson is a review of the application process and a starting point with cover letters.
+This lesson will provide an overview of the application process, guiding you through steps from searching for job opportunities to submitting your application. Additionally, we'll delve into the essential components of writing effective cover letters. 
 
-Please complete the lesson plan as well as all check for understanding action items
+This is a self-paced lesson that will help you build a cover letter and 
 
 ### Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szbMDbKWIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Please allow yourself 30-40 minutes to complete this lesson plan.
 
 * Introduction 
 * Review of the Application Process 
@@ -98,7 +97,7 @@ Now, create a connection between you and the company:
 
 ##### Middle paragraph: Why you? Why this company? 
 
-* Connect your accomplishments, skills and knowledge to the position and company
+* Connect your accomplishments, skills, and knowledge to the position and company
 * Demonstrate the soft skills the role requires by using examples from your experience
 * Tie the company to your experiences
 
@@ -107,7 +106,7 @@ Now, create a connection between you and the company:
 
 * Summarize what you would bring to the position and suggest next steps by requesting a meeting or a call (be specific) 
 * Thank them for reading your materials
-* Ask for the interview
+* Ask for an interview
 
 ### Do's and Don'ts on Cover Letters
 
@@ -123,32 +122,15 @@ There is no one-size-fits-all way to write a cover letter; there are multiple wa
 If you find yourself with:
 
 * Very long/wordy cover letters, try reading it out loud to find extraneous details. Cut those to make easily skimmable, shorter paragraphs
-* A cover letter that is all about you, try reframing sentences about you by starting the sentence talking about the company and seguing into how you can provide value to them based on your experiences and skills
+* A cover letter that is all about you, try reframing sentences about you by starting the sentence talking about the company and segue into how you can provide value to them based on your experiences and skills
 * Grammar and spelling errors, try [Grammarly](https://www.grammarly.com/) or the [Hemingway App](http://www.hemingwayapp.com/). Reading cover letters aloud or having a peer proofread will also help you catch a lot of those mistakes.
 
-## Check for Understanding
+## Cover Letter Next Steps & Resources
+Deliverable for Cover Letter Lesson: 
+1. Look for a job description that interests you.
+2. Create a cover letter based on a job description. 
+3. Format, structure, and create your cover letter using the [Cover letter guide and template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit)
+4.  Have the cover letter ready by Monday of Week 5.
 
-1. The Cover Letter lesson [exit ticket](https://forms.gle/uaftT1VbePHcisGn8) is optional to submit.  Please use the ticket as a check to ensure understanding, accountability, and to ask questions. Questions will be answered by a Career specialist. 
-
-2. Read through the following cover letters (15 mins):
-
-   * [April Dagonese](/files/April%20Cover%20Letter.pdf)
-   * [Abdulla Qudrat](/files/Abdulla_Blinker%20Cover%20Letter.pdf)
-   * [Vinton Te'o](/files/Vinton%20Cover%20Letter.pdf)
-
-   Make note:
-
-   * What do you notice about these cover letters?
-   * What is effective? What value could they bring to the company? How do you know?
-   * What could be changed to make the letter more effective?
-
-3. Next, Search online for a job description/role that interests you. 
-   * Draft a cover letter that is tailored to the role.
-   * Use the recommended [Guided Cover letter template](https://docs.google.com/document/d/1ctPSIEcZ5nrnfD4y0HlTUH9tdYRscbIjXhMQLjMPzPA/edit) to format,      structure and create your cover letter.
-   * Prepare the draft for peer review by Wednesday of Week 5. 
-
-   Here are [additional resources](/resources/cover_letter_resources) for cover letters.
-
-## Due Dates & Reminders 
-  * The exit ticket is optional to submit.  Please use the ticket as a check to ensure understanding, and to ask questions about the content by the end of Week 4.  Questions will be answered by a Career specialist.
- * Prepare the draft for peer review by Wednesday of Week 5. 
+## Resources:
+* Here are [additional resources](/resources/cover_letter_resources) for cover letters.
