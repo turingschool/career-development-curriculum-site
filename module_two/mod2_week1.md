@@ -6,7 +6,7 @@ subheading: Creating a Technically Focused Resume
 ### Learning Goals
 
 * Understand how to tell your professional story through your resume
-* Build a working draft of your resume that is both technically focused ATS Friendly 
+* Build a working draft of your resume that is both technically focused and friendly 
  
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/rSWwn2QFQL3ZsDhr7). 
 
@@ -23,7 +23,7 @@ This PD lesson will focus on creating a technically focused resume that represen
    * Allow yourself about 30 mins (each video is between one and three minutes) to complete the video portion of the     following lesson.
    * We recommend scheduling time on your calendar and using dedicated PD work time to complete the entire lesson.
 
-## Intro to Creating a Techically Focused Resume
+## Intro to Creating a Technically Focused Resume
 As a new software developer, what kind of story do you want your resume to tell about you?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V0N-0d6Wa0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,12 +36,12 @@ As a new software developer, what kind of story do you want your resume to tell 
 5. Work Experience
 6. Education and Training
 
-#### Section 1: Contact Information,Title and Headline
+#### Section 1: Contact Information, Title and Headline
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/88iJpfTwaHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Your desired job title is one of the most essential keywords applicant tracking system's when screening resumes.
+Your desired job title is one of the most essential keywords in applicant tracking systems when screening resumes.
 
 #### Section 2: Resume Summary (optional)
 The Summary section is optional; however, it can be strategically used as a career changer to connect the dots for an employer to explain career change and the value you will bring to the Company and role.
@@ -61,7 +61,7 @@ If you’re considering a summary statement:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bl-NyiQHbHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-A good rule of thumb is only include the technical skills you’re comfortable talking about in an interview.
+A good rule of thumb is to only include the technical skills you’re comfortable talking about in an interview.
 
 #### Section 4: Technical Projects
 Since you are a software developer now, your software projects are essential -- arguably, the **most** vital -- part of your new resume.
@@ -69,7 +69,7 @@ Since you are a software developer now, your software projects are essential -- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A7Vx9oEJEEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Projects overviews should also include accomplishments, outcomes and results:
+Project overviews should also include accomplishments, outcomes, and results:
 * What was your role in the project? 
 * What specific goals did you meet?  
 * What was the result/impact of your project/work? 
@@ -78,7 +78,7 @@ Projects overviews should also include accomplishments, outcomes and results:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1vvjDhWMuPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Think of your bullets points as Storytelling -Short, accomplishment stories.
+* Think of your bullet points as Storytelling -Short, accomplishment stories.
 * Quantify impact with a #, % or $ amount whenever possible. I did X and the result was Y; state the result or outcome. 
 
 #### Section 6: Education and Training
@@ -87,7 +87,7 @@ Creating an “Education and Training” section will help showcase your develop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8aid-yTpp_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#### Section 7: Complying with the Applicant Tracking System (ATS)
+#### Section 7: The Applicant Tracking System (ATS)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAGlqV3ZMv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -101,10 +101,10 @@ Creating an “Education and Training” section will help showcase your develop
     * Will you use a resume summary? 
     * What relevant work experience will be used?
     * Which prior education and training will be added?
-    * Which industry specifc skills are most important right now to add?
+    * Which industry-specific skills are most important right now to add?
   
 * Next, choose a resume template: 
-    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates).These               templates will download as Word docs. You can either cut and paste it or upload it to google doc.
+    * Pick an ATS-friendly template with [Job Scan Template](https://www.jobscan.co/resume-templates). These               templates will download as Word docs. You can either cut and paste it or upload it to Google Docs.
     * We recommend that you review this [ATS Friendly Template](https://docs.google.com/document/d/1ylVW3d_uHjAwSGkK4WJlbJuU_22BPSK75dn2rRDnm-g/edit?usp=sharing)
     
 * Then, develop a rough draft of your resume:
