@@ -5,7 +5,7 @@ title: Cover Letters
 
 ## Overview
 
-This lesson will provide an overview of the application process, guiding you through steps from searching for job opportunities to submitting your application. Additionally, we'll delve into the essential components of writing effective cover letters. 
+This lesson will provide an overview of the purpose of cover letters during the application process. Additionally, we'll delve into the essential components of writing effective cover letters. 
 
 This is a self-paced lesson that will help you build a cover letter and 
 
@@ -25,7 +25,6 @@ This is a self-paced lesson that will help you build a cover letter and
  
 After you complete this lesson you should be able to:
 
-* Have a solid understanding of the application process
 * Understand the purpose of a cover letter 
 * Reflect on what needs to be in a cover letter
 * Prepare a cover letter based on a job application 
