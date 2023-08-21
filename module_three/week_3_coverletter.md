@@ -8,7 +8,6 @@ title: Cover Letters
 This lesson will provide an overview of the purpose of cover letters during the application process. Additionally, we'll delve into the essential components of writing effective cover letters. 
 
 ### Introduction
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szbMDbKWIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Introduction 
