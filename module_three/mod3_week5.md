@@ -12,7 +12,7 @@ subheading: Putting It All Together
 After you complete this lesson, you'll synthesize your learning in this [Exit Ticket](https://forms.gle/1WHVG6iiHX6bkfS97).
 
 ### Overview
-Review how you've been spending your time. Where are you right now in regards to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
+Review how you've been spending your time. Where are you right now in regard to the deliverables for this mod? What habits are effective for you? What changes should you make in how you spend your time? 
 
 #### Starting off Strong: Tell me about Yourself
 This request for information is typically at the very beginning of an interview. It's an opportunity to provide the interviewer with insights into your qualifications and fit for the role.
@@ -20,7 +20,7 @@ This request for information is typically at the very beginning of an interview.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TL2YnGS9AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Preparation Strategies
-There are many ways to prepare for interviews. The key for all interviews is **knowing who you are and how to talk about yourself.** Today, we'll go through 4 particular tips to help with this process:
+There are many ways to prepare for interviews. The key to all interviews is **knowing who you are and how to talk about yourself.** Today, we'll go through 4 particular tips to help with this process:
 
 1. Answer the whole question
 2. Tell stories
