@@ -14,7 +14,7 @@ The New Graduate Services Events Calendar provides information for upcoming grou
 ## Resources
 
 ### Mock Interviews
-You can grab time with an alum to prepare for FE/BE technical and behavioral interviews and live coding challenges. You can grab a slot here: https://go.oncehub.com/turingmockinterviews
+You can grab time with an alum to prepare for FE/BE technical and behavioral interviews and live coding challenges. You can grab a slot via OnceHub [here](https://go.oncehub.com/turingmockinterviews).
 
 ### Event Recordings
 As events occur, we will record and post them to our [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Y67f0xPzdOmktyQlnqVEIRpbTx_apNm). Have an idea for an event? Let a Turing staff member know!
