@@ -9,7 +9,7 @@ Graduating from Turing is a huge accomplishment! However, your Turing journey is
 ## Calendar
 The New Graduate Services Events Calendar provides information for upcoming group check-ins, guest speakers, and any additional events for job seekers. 
 
-**Reading the Calendar**
+**Reading the Calendar**  
 Events that are lead by Turing Staff or a Guest Speaker will be noted with 🎥.  You can expect these sessions to be guided.
 
 Events that are noted with 📆 are times that meant to be used for student collaboration in the New Grad Services Study Hall.  The zoom information for that room is pinned to the #employment-round-one slack channel!
