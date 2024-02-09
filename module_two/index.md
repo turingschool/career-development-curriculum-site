@@ -3,7 +3,11 @@ layout: page
 title: Module 2 Professional Development
 ---
 
-> **NOTE:** 2305 Back End Mod 2 students should be referring to the [Back End site](https://backend.turing.edu/module2/) for all Professional Development content.
+<section class='notice' markdown='1'>
+
+**NOTE FOR BE:** 2305 Back End Mod 2 students should be referring to the [Back End site](https://backend.turing.edu/module2/) for all Professional Development content.
+
+</section>
 
 
 ## Overview

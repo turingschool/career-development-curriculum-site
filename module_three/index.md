@@ -2,8 +2,13 @@
 layout: page
 title: Module 3 Professional Development
 ---
-> **NOTE:** Back End Mod 3 students should be referring to the [Back End site]((https://backend.turing.edu/module3/)/) for all
+
+<section class='notice' markdown='1'>
+
+**NOTE FOR BE:** Back End Mod 3 students should be referring to the [Back End site](https://backend.turing.edu/module3/) for all
 Professional Development content.
+
+</section>
 
 ### Overview
 Our approach to Mod 3 is to build on the competencies covered in the previous modules so that students can refine their resumes and interview skills, build portfolios, write effective cover letters, and execute their job search strategies.
