@@ -30,6 +30,11 @@ Refer to these Turing Professional Development Resources on cover letters [here]
 ### Receive an offer? 
 The Turing Career Specialists and Instructors are happy to help you navigate the offer and negotiations process - reach out to whoever you feel comfortable to. You can also check out [these resources on negotiations](https://careerdev.turing.edu/resources/negotiations)
 
+## Signed an offer?
+Please submit the two surveys below - we want to celebrate your accomplishment, and continue improving our processes!
+* [Employment Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrPoZOiVZuRH9wJf)
+* [Career Development Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrCZs7Nbj043sbYE)
+
 ### Event Recordings
 As events occur, we will record and post them to our [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Y67f0xPzdOmktyQlnqVEIRpbTx_apNm). Have an idea for an event? Let a Turing staff member know!
 
