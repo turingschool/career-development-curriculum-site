@@ -4,10 +4,10 @@ title: Terminal Portfolio Directions
 ---
 
 ## Overview
-Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu/profiles). Employers come to this part of our site to find candidates, and we also share these with employers who come to us asking for candidates. Terminal also functions as a job board -- this is where the job postings in #job-hunt come from!
+Turing provides a space for professional portfolios on [our website](https://terminal.turing.edu/profiles). These portfolios can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.
 
 ### How to Set It Up
-You will receive an email invitation from the Career Dev team at the beginning of Mod 3. 
+You will receive an email invitation from the Career Dev team inviting you to create a Terminal profile. If you have not received this invite, you can request an invite by reaching out to Megan McMahon - @megan on slack. 
 
 To set up your profile: 
 * Log into Terminal at [https://terminal.turing.edu/developers/sign_in](https://terminal.turing.edu/developers/sign_in)
@@ -18,7 +18,8 @@ To set up your profile:
 
 ### When your profile is complete:
 * Make sure you've met the [requirements for publication](https://careerdev.turing.edu/resources/terminal_directions).
-* Click “Request Review” * A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
+* Click “Request Review”  
+* A Career Specialist will review your profile and approve for publishing or request additional changes to be completed before it can be published.
 
 Once published, your profile will be visible on the main alumni directory at [terminal.turing.edu/profiles](https://terminal.turing.edu/profiles) as long as you are participating in job search support until you get your first job. While you are actively job searching, the Career Dev team will use your portfolio in referrals to companies. 
 
