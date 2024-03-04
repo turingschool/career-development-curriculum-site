@@ -33,10 +33,7 @@ The Turing Career Specialists and Instructors are happy to help you navigate the
 ## Signed an offer?
 Please submit the two surveys below - we want to celebrate your accomplishment, and continue improving our processes!
 * [Employment Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrPoZOiVZuRH9wJf)
-* [Career Development Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrCZs7Nbj043sbYE)
-
-### Event Recordings
-As events occur, we will record and post them to our [YouTube Playlist](https://www.youtube.com/playlist?list=PL1Y67f0xPzdOmktyQlnqVEIRpbTx_apNm). Have an idea for an event? Let a Turing staff member know!
+* [Career Development Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrCZs7Nbj043sbYE)  
 
 ### Sending out a bunch of applications but not hearing anything back? 
 [Check out these Applicant Tracking System Tips!](https://www.jobscan.co/applicant-tracking-systems) and get insights on your resume by scanning it through [Jobscan.co](jobscan.co)
