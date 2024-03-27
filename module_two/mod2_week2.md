@@ -27,7 +27,7 @@ Once you are able to identify what energizes you, lean into it! Find ways to cap
 ### Example #1: Networking through social media
 
 If you feel energized by engaging in social networking over Twitter or LinkedIn, here are some tips to maximize the impact of the interactions:
-* Build a robust profile to allow others to get to know you. Note: you’ll learn more about this next week, but here are some [resources for personal branding](https://careerdev.turing.edu/resources/branding_resources).
+* Build a robust profile to allow others to get to know you. Note: here are some [resources for personal branding](https://careerdev.turing.edu/resources/branding_resources).
 * Seek out people who share your interests. Interested in artificial intelligence? Block chain? Diversity, equity, and inclusion in tech? Find your people. Check out hashtags, influential people or companies in your field, and other current conversation threads to join in.
 * Don’t leave one-off comments or “likes.” Take time to engage in conversation, listen to others, share helpful resources – just like you would in any conversation.
 
@@ -283,7 +283,7 @@ As the above Muse article shares, "Always send a thank you note. Always. Your in
 ## Coffee Chat Deliverable
 We have gathered a list of Mentors that are excited to be your first coffee-chat opportunity.  Your instructor will DM you with your assigned mentor for outreach.  We would like you to practice these as warm-outreach opportunities, so don't ask for a coffee chat with - "my instructor gave me your name, and I'm supposed to have a coffee chat with you".  Use the strategies we outlined in this lesson!
 
-✅ Send the following in a message to your instructors.
+✅ Send the following in a message to @megan.
 
 1. The initial message you sent to your interviewee.
 1. Your answers to the following questions:
