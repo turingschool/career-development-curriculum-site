@@ -36,7 +36,7 @@ Please submit the two surveys below - we want to celebrate your accomplishment, 
 * [Career Development Survey](https://airtable.com/apppt3xpmBOn5AwVY/shrCZs7Nbj043sbYE)  
 
 ### Sending out a bunch of applications but not hearing anything back? 
-[Check out these Applicant Tracking System Tips!](https://www.jobscan.co/applicant-tracking-systems) and get insights on your resume by scanning it through [Jobscan.co](jobscan.co)
+[Check out these Applicant Tracking System Tips!](https://www.jobscan.co/applicant-tracking-systems) and get insights on your resume by scanning it through [Jobscan.co](https://www.jobscan.co)
 
 ### Terminal
 Turing provides a space for professional portfolios on our website. These portfolios can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.  See the [Terminal Directions Page](../resources/terminal_directions) for more information!
