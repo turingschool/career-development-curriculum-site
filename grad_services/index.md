@@ -38,9 +38,6 @@ Please submit the two surveys below - we want to celebrate your accomplishment, 
 ### Sending out a bunch of applications but not hearing anything back? 
 [Check out these Applicant Tracking System Tips!](https://www.jobscan.co/applicant-tracking-systems) and get insights on your resume by scanning it through [Jobscan.co](jobscan.co)
 
-### Handshake
-To assist you with your job search, Turing has a membership with [Handshake](https://joinhandshake.com/) that you can access. Handshake is a popular employer job board for employers who are specifically looking to recruit for early talent positions. Invitations to join Handshake will be sent to your email (as entered into Populi) at the end of Mod4. If you have questions, please reach out to employment@turing.edu.
-
 ### Terminal
 Turing provides a space for professional portfolios on our website. These portfolios can be used during your job hunt - you can send out links to your profile, and Turing staff may share your profile to employers who come to us asking for candidates.  See the [Terminal Directions Page](../resources/terminal_directions) for more information!
 
