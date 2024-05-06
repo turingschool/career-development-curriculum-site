@@ -21,7 +21,7 @@ So, to participate in this project space we will expect you to follow these guid
   * Github Readme with GOOD project documentation
 * You will schedule 3 checkins with your Project Manager throughout the inning
   * If you are working on a solo project, you may schedule time with your accountabilibuddy.
-  * For 2403, your project manager is Megan McMahon, and you can book time on her calender [HERE](https://go.oncehub.com/MeganMcMahon)
+  * For 2405, your project manager is Megan McMahon, and you can book time on her calender [HERE](https://go.oncehub.com/MeganMcMahon)
 * You will submit a video presentation of your project for the whole group to celebrate! We will organize this in the #2403-new-grad-project slack channel.
 
 #### Expectations
