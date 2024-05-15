@@ -281,15 +281,25 @@ When you have about 5 minutes left before your meeting is scheduled to end, casu
 As the above Muse article shares, "Always send a thank you note. Always. Your interviewee should never wonder how much you appreciated the time she took to share her hard-earned knowledge with you. Remember, you never know what doors she could open for you one day." The more personalized your message the better. It's best to include some detail from your coffee chat that you found particularly impactful.
 
 ## Coffee Chat Deliverable
-We have gathered a list of Mentors that are excited to be your first coffee-chat opportunity.  Your instructor will DM you with your assigned mentor for outreach.  We would like you to practice these as warm-outreach opportunities, so don't ask for a coffee chat with - "my instructor gave me your name, and I'm supposed to have a coffee chat with you".  Use the strategies we outlined in this lesson!
+Over the next 3.5 weeks, you all will be reaching out to someone to schedule a coffee chat!  We will follow the schedule below, and I'll be starting a slack channel specifically for us to discuss these chats!
 
-✅ Send the following in a message to @megan.
-
-1. The initial message you sent to your interviewee.
-1. Your answers to the following questions:
+1. By **EOD Monday Week3**:
+  * Determine _who_ you will reach out to.  A good place to start is the mentors in your house channel! (if you need help remembering your house, just let an instructor know!)
+  * Draft your initial outreach message to that person - DON'T SEND IT YET.
+  * ✅ Post a message in the Slack channel with who you are reaching out to, AND your initial outreach message draft.  An instructor will provide feedback and give you the go-ahead to make the initial outreach.
+2. By **EOD Monday Week4**:
+  * Have a coffee chat scheduled!
+  * ✅ Post in your slack channel thread the date/time of your chat.
+  * ✅ Post in your slack channel a list of questions that you have prepared for your chat.
+3. By **EOD Tuesday Week6**
+  * After your coffee chat, reflect on the following questions:
     * What question that you asked led to the most valuable response? What was the question and what did your interviewee say?
     * What do you want to do similarly in your next coffee chat?
     * What do you want to do differently in your next coffee chat?
-1. The thank you email you sent to your interviewee.
+  * ✅ Post your reflections in your slack channel thread.
+  * ✅ Post in your slack channel the **thank you note** that you sent as a followup to your coffee chat.
 
-It will be helpful in this deliverable if you keep note of this communication as you go - the [Networking Tracker](https://docs.google.com/spreadsheets/d/1C-JY4qBv4Dxc7A1DLvkiJ8IDJJvGR_uMHKztXL16nk8/edit#gid=0) would be great for this 😉
+If you need help with any of these steps, reach out in the slack channel!  Instructors will be happy to help with:
+* finding someone to reach out to
+* crafting an initial message
+* coming up with questions for the chat
