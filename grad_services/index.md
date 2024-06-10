@@ -21,6 +21,8 @@ Events that are noted with 📆 are times that meant to be used for student coll
 ### Want to Connect?
 Schedule some career coaching time with [Tracey Monteiro](https://go.oncehub.com/TraceyMonteiro1)!
 
+Keep an eye out for Jeff's small group Job Coaching in #employment-round-one.  These small groups are _fantastic_ accelerators to your job hunt!
+
 ### Mock Interviews
 You can grab time with an alum to prepare for FE/BE technical and behavioral interviews and live coding challenges. You can grab a slot via OnceHub [here](https://go.oncehub.com/turingmockinterviews).
 
@@ -44,6 +46,6 @@ Turing provides a space for professional portfolios on our website. These portfo
 ### Other Resources
 Check out a ton of helpful resources on our [Resources page](https://careerdev.turing.edu/resources/)!
 
-## Have other questions?  Reach out to Megan McMahon - @megan on slack!
+## Have other questions?  Reach out in #employment-round-one!
 
 
